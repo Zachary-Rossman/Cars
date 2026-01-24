@@ -6,22 +6,17 @@ const { Car } = require('../models');
 // router.get('/', withAuth, async (req, res) => {
 router.get('/', async (req, res) => {
   try {
-    const carData = await Car.findAll({
-    //   attributes: { exclude: ['password'] },
-    //   order: [['name', 'ASC']],
-    });
-
-    const cars = carData.map((car) => car.get({ plain: true }));
+    // const carData = await Car.findAll();
+    // const cars = carData.map(car => car.get({ plain: true }));
 
     res.render('homepage', {
-      cars,
-      // Pass the logged in flag to the template
-    //   logged_in: req.session.logged_in,
+      // cars
     });
   } catch (err) {
     res.status(500).json(err);
   }
 });
+
 
 // router.get('/login', (req, res) => {
 //   // If a session exists, redirect the request to the homepage
