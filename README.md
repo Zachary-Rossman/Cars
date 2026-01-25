@@ -29,7 +29,7 @@ License
 📖 Overview
 
 This project is a JavaScript-based application built using the MVC (Model-View-Controller) pattern.
-It allows users to interact with a database of cars, including creating, viewing, and deleting car records. Car records will include year of production, make, country of origin for brand, model, body style, trim levels, engine options, power specification of each engine option, transmission options, available colors, wheelbase, country of production, domestic markets(markets the car was sold in originally), and driver seat position availability(whether the vehicle was produced in left-hand drive, and/or right-hand drive). 
+It allows users to interact with a database of cars, including creating, viewing, and deleting car records. Car records will include year of production, make, country of origin for brand, model, body style, trim levels, engine options, power specification of each engine option, transmission options, drivetrain options, available colors, wheelbase, country of production, domestic markets(markets the car was sold in originally), and driver seat position availability(whether the vehicle was produced in left-hand drive, and/or right-hand drive). 
 
 The goal of this project is to maintain clean separation of concerns, scalable architecture, and readable code. 
 
