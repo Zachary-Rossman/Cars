@@ -3717,5 +3717,2981 @@
       "doors": 2
     }
   ]
+  },
+  {
+  "model_name": "AMG GT 43 4-door Coupe",
+  "manufacturer": "Mercedes Benz",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "Sedan",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "AMG GT 43 Coupe",
+  "manufacturer": "Mercedes Benz",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "Coupe",
+      "doors": 2
+    }
+  ]
+  },
+  {
+  "model_name": "AMG GT 53 4-door Coupe",
+  "manufacturer": "Mercedes Benz",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "Sedan",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "AMG GT 55 Coupe",
+  "manufacturer": "Mercedes Benz",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "Coupe",
+      "doors": 2
+    }
+  ]
+  },
+  {
+  "model_name": "AMG GT 63 Coupe",
+  "manufacturer": "Mercedes Benz",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "Coupe",
+      "doors": 2
+    }
+  ]
+  },
+  {
+  "model_name": "AMG GT 63 4-door Coupe",
+  "manufacturer": "Mercedes Benz",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "Sedan",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "AMG GT 63 S E Performance AMG 4-door Coupe",
+  "manufacturer": "Mercedes Benz",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "Sedan",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "AMG GT 63 S E Performance AMG Coupe",
+  "manufacturer": "Mercedes Benz",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "Coupe",
+      "doors": 2
+    }
+  ]
+  },
+  {
+  "model_name": "AMG GT 63 Pro 4MATIC+",
+  "manufacturer": "Mercedes Benz",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "Coupe",
+      "doors": 2
+    }
+  ]
+  },
+  {
+  "model_name": "AMG ONE",
+  "manufacturer": "Mercedes Benz",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "Coupe",
+      "doors": 2
+    }
+  ]
+  },
+  {
+  "model_name": "C 300",
+  "manufacturer": "Mercedes Benz",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "Sedan",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "C 300 4MATIC",
+  "manufacturer": "Mercedes Benz",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "Sedan",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "C 43 AMG",
+  "manufacturer": "Mercedes Benz",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "Sedan",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "C 63 S E Performance AMG",
+  "manufacturer": "Mercedes Benz",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "Sedan",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "CLA 250 Coupe",
+  "manufacturer": "Mercedes Benz",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "Sedan",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "CLA 250 4MATIC Coupe",
+  "manufacturer": "Mercedes Benz",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "Sedan",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "CLA 250+ with EQ Technology",
+  "manufacturer": "Mercedes Benz",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "Sedan",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "CLA 35 AMG Coupe",
+  "manufacturer": "Mercedes Benz",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "Sedan",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "CLA 350 4MATIC with EQ Technology",
+  "manufacturer": "Mercedes Benz",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "Sedan",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "CLA 45 S AMG Coupe",
+  "manufacturer": "Mercedes Benz",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "Sedan",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "CLE 300 4MATIC",
+  "manufacturer": "Mercedes Benz",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "Coupe",
+      "doors": 2
+    }
+  ]
+  },
+  {
+  "model_name": "CLE 300 4MATIC Cabriolet",
+  "manufacturer": "Mercedes Benz",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "Convertible",
+      "doors": 2
+    }
+  ]
+  },
+  {
+  "model_name": "CLE 450 4MATIC",
+  "manufacturer": "Mercedes Benz",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "Coupe",
+      "doors": 2
+    }
+  ]
+  },
+  {
+  "model_name": "CLE 450 4MATIC Cabriolet",
+  "manufacturer": "Mercedes Benz",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "Convertible",
+      "doors": 2
+    }
+  ]
+  },
+  {
+  "model_name": "CLE 53 AMG",
+  "manufacturer": "Mercedes Benz",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "Coupe",
+      "doors": 2
+    }
+  ]
+  },
+  {
+  "model_name": "CLE 53 AMG Cabriolet",
+  "manufacturer": "Mercedes Benz",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "Convertible",
+      "doors": 2
+    }
+  ]
+  },
+  {
+  "model_name": "E 350",
+  "manufacturer": "Mercedes Benz",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "Sedan",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "E 350 4MATIC",
+  "manufacturer": "Mercedes Benz",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "Sedan",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "E 450 4MATIC",
+  "manufacturer": "Mercedes Benz",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "Sedan",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "E 450 4MATIC All-Terrain",
+  "manufacturer": "Mercedes Benz",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "Wagon",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "E 53 Hybrid AMG",
+  "manufacturer": "Mercedes Benz",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "Sedan",
+      "doors": 4
+    },
+    {
+      "style": "Wagon",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "EQB 250+",
+  "manufacturer": "Mercedes Benz",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "SUV",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "EQB 300 4MATIC",
+  "manufacturer": "Mercedes Benz",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "SUV",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "EQB 350 4MATIC",
+  "manufacturer": "Mercedes Benz",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "SUV",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "EQE 320+",
+  "manufacturer": "Mercedes Benz",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "Sedan",
+      "doors": 4
+    },
+    {
+      "style": "SUV",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "EQE 320 4MATIC",
+  "manufacturer": "Mercedes Benz",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "Sedan",
+      "doors": 4
+    },
+    {
+      "style": "SUV",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "EQE AMG",
+  "manufacturer": "Mercedes Benz",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "Sedan",
+      "doors": 4
+    },
+    {
+      "style": "SUV",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "EQS 400 4MATIC",
+  "manufacturer": "Mercedes Benz",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "SUV",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "EQS 450+",
+  "manufacturer": "Mercedes Benz",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "Sedan",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "EQS 450 4MATIC",
+  "manufacturer": "Mercedes Benz",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "Sedan",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "EQS 550 4MATIC",
+  "manufacturer": "Mercedes Benz",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "SUV",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "EQS 580 4MATIC",
+  "manufacturer": "Mercedes Benz",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "Sedan",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "G 550",
+  "manufacturer": "Mercedes Benz",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "SUV",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "G 580 with EQ Technology",
+  "manufacturer": "Mercedes Benz",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "SUV",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "G 63 AMG",
+  "manufacturer": "Mercedes Benz",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "SUV",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "GLA 250",
+  "manufacturer": "Mercedes Benz",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "SUV",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "GLA 250 4MATIC",
+  "manufacturer": "Mercedes Benz",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "SUV",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "GLA 35 AMG",
+  "manufacturer": "Mercedes Benz",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "SUV",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "GLB 250",
+  "manufacturer": "Mercedes Benz",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "SUV",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "GLB 250 4MATIC",
+  "manufacturer": "Mercedes Benz",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "SUV",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "GLB 35 AMG",
+  "manufacturer": "Mercedes Benz",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "SUV",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "GLC 300",
+  "manufacturer": "Mercedes Benz",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "SUV",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "GLC 300 4MATIC",
+  "manufacturer": "Mercedes Benz",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "SUV",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "GLC 300 4MATIC Coupe",
+  "manufacturer": "Mercedes Benz",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "SUV",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "GLC 350e 4MATIC",
+  "manufacturer": "Mercedes Benz",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "SUV",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "GLC 43 AMG",
+  "manufacturer": "Mercedes Benz",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "SUV",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "GLC 43 AMG Coupe",
+  "manufacturer": "Mercedes Benz",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "SUV",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "GLC 63 S AMG",
+  "manufacturer": "Mercedes Benz",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "SUV",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "GLC 63 S AMG Coupe",
+  "manufacturer": "Mercedes Benz",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "SUV",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "GLE 350",
+  "manufacturer": "Mercedes Benz",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "SUV",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "GLE 350 4MATIC",
+  "manufacturer": "Mercedes Benz",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "SUV",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "GLE 450 4MATIC",
+  "manufacturer": "Mercedes Benz",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "SUV",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "GLE 450 4MATIC Coupe",
+  "manufacturer": "Mercedes Benz",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "SUV",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "GLE 450e 4MATIC",
+  "manufacturer": "Mercedes Benz",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "SUV",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "GLE 580 4MATIC",
+  "manufacturer": "Mercedes Benz",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "SUV",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "GLE 53 4MATIC+ AMG",
+  "manufacturer": "Mercedes Benz",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "SUV",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "GLE 53 AMG Coupe",
+  "manufacturer": "Mercedes Benz",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "SUV",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "GLE 63 S 4MATIC AMG",
+  "manufacturer": "Mercedes Benz",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "SUV",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "GLE 63 S AMG Coupe",
+  "manufacturer": "Mercedes Benz",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "SUV",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "GLS 450 4MATIC",
+  "manufacturer": "Mercedes Benz",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "SUV",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "GLS 580 4MATIC",
+  "manufacturer": "Mercedes Benz",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "SUV",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "GLS 63 AMG",
+  "manufacturer": "Mercedes Benz",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "SUV",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "Maybach EQS 680",
+  "manufacturer": "Mercedes Benz",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "SUV",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "Maybach GLS 600",
+  "manufacturer": "Mercedes Benz",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "SUV",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "Maybach S 580 4MATIC",
+  "manufacturer": "Mercedes Benz",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "Sedan",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "Maybach S 680 4MATIC",
+  "manufacturer": "Mercedes Benz",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "Sedan",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "S 500 4MATIC",
+  "manufacturer": "Mercedes Benz",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "Sedan",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "S 580 4MATIC",
+  "manufacturer": "Mercedes Benz",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "Sedan",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "S 580e 4MATIC",
+  "manufacturer": "Mercedes Benz",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "Sedan",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "S 63 S E Performance AMG",
+  "manufacturer": "Mercedes Benz",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "Sedan",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "SL 43 AMG",
+  "manufacturer": "Mercedes Benz",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "Convertible",
+      "doors": 2
+    }
+  ]
+  },
+  {
+  "model_name": "SL 55 AMG",
+  "manufacturer": "Mercedes Benz",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "Convertible",
+      "doors": 2
+    }
+  ]
+  },
+  {
+  "model_name": "SL 63 AMG",
+  "manufacturer": "Mercedes Benz",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "Convertible",
+      "doors": 2
+    }
+  ]
+  },
+  {
+  "model_name": "SL 63 S E Performance AMG",
+  "manufacturer": "Mercedes Benz",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "Convertible",
+      "doors": 2
+    }
+  ]
+  },
+  {
+  "model_name": "Cooper",
+  "manufacturer": "Mini",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "Hatchback",
+      "doors": 3
+    },
+    {
+      "style": "Hatchback",
+      "doors": 5
+    },
+    {
+      "style": "Convertible",
+      "doors": 2
+    }
+  ]
+  },
+  {
+  "model_name": "Countryman",
+  "manufacturer": "Mini",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "SUV",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "Countryman SE",
+  "manufacturer": "Mini",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "SUV",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "Eclipse Cross",
+  "manufacturer": "Mitsubishi",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "SUV",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "Outlander",
+  "manufacturer": "Mitsubishi",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "SUV",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "Outlander Sport",
+  "manufacturer": "Mitsubishi",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "SUV",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "Outlander PHEV",
+  "manufacturer": "Mitsubishi",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "SUV",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "Outlander Trail Edition",
+  "manufacturer": "Mitsubishi",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "SUV",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "Altima",
+  "manufacturer": "Nissan",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "Sedan",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "Armada",
+  "manufacturer": "Nissan",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "SUV",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "Frontier",
+  "manufacturer": "Nissan",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "Pickup",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "Kicks",
+  "manufacturer": "Nissan",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "SUV",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "Kicks Play",
+  "manufacturer": "Nissan",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "SUV",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "LEAF",
+  "manufacturer": "Nissan",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "SUV",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "Murano",
+  "manufacturer": "Nissan",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "SUV",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "Pathfinder",
+  "manufacturer": "Nissan",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "SUV",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "Rogue",
+  "manufacturer": "Nissan",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "SUV",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "Sentra",
+  "manufacturer": "Nissan",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "Sedan",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "Versa",
+  "manufacturer": "Nissan",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "Sedan",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "Z",
+  "manufacturer": "Nissan",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "Coupe",
+      "doors": 2
+    }
+  ]
+  },
+  {
+  "model_name": "Huayra Codalunga Speedster",
+  "manufacturer": "Pagani",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "Roadster",
+      "doors": 2
+    }
+  ]
+  },
+  {
+  "model_name": "Huayra R Evo Roadster",
+  "manufacturer": "Pagani",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "Roadster",
+      "doors": 2
+    }
+  ]
+  },
+  {
+  "model_name": "Utopia Roadster",
+  "manufacturer": "Pagani",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "Convertible",
+      "doors": 2
+    }
+  ]
+  },
+  {
+  "model_name": "Zonda Unico",
+  "manufacturer": "Pagani",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "Roadster",
+      "doors": 2
+    }
+  ]
+  },
+  {
+  "model_name": "2",
+  "manufacturer": "Polestar",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "Sedan",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "3",
+  "manufacturer": "Polestar",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "SUV",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "4",
+  "manufacturer": "Polestar",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "SUV",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "718 Boxster",
+  "manufacturer": "Porsche",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "Convertible",
+      "doors": 2
+    }
+  ]
+  },
+  {
+  "model_name": "718 Boxster GTS 4.0",
+  "manufacturer": "Porsche",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "Convertible",
+      "doors": 2
+    }
+  ]
+  },
+  {
+  "model_name": "718 Boxster S",
+  "manufacturer": "Porsche",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "Convertible",
+      "doors": 2
+    }
+  ]
+  },
+  {
+  "model_name": "718 Boxster Style Edition",
+  "manufacturer": "Porsche",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "Convertible",
+      "doors": 2
+    }
+  ]
+  },
+  {
+  "model_name": "718 Cayman",
+  "manufacturer": "Porsche",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "Coupe",
+      "doors": 2
+    }
+  ]
+  },
+  {
+  "model_name": "718 Cayman GT4 RS",
+  "manufacturer": "Porsche",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "Coupe",
+      "doors": 2
+    }
+  ]
+  },
+  {
+  "model_name": "718 Cayman GTS 4.0",
+  "manufacturer": "Porsche",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "Coupe",
+      "doors": 2
+    }
+  ]
+  },
+  {
+  "model_name": "718 Cayman S",
+  "manufacturer": "Porsche",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "Coupe",
+      "doors": 2
+    }
+  ]
+  },
+  {
+  "model_name": "718 Cayman Style Edition",
+  "manufacturer": "Porsche",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "Coupe",
+      "doors": 2
+    }
+  ]
+  },
+  {
+  "model_name": "718 Spyder RS",
+  "manufacturer": "Porsche",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "Roadster",
+      "doors": 2
+    }
+  ]
+  },
+  {
+  "model_name": "911 Carrera",
+  "manufacturer": "Porsche",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "Coupe",
+      "doors": 2
+    }
+  ]
+  },
+  {
+    "model_name": "911 Carrera 4 GTS",
+    "manufacturer": "Porsche",
+    "years": [2026],
+    "body_styles": [
+      {
+        "style": "Coupe",
+        "doors": 2
+      }
+    ]
+  },
+  {
+    "model_name": "911 Carrera 4 GTS Cabriolet",
+    "manufacturer": "Porsche",
+    "years": [2026],
+    "body_styles": [
+      {
+        "style": "Convertible",
+        "doors": 2
+      }
+    ]
+  },
+  {
+  "model_name": "911 Carrera 4S",
+  "manufacturer": "Porsche",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "Coupe",
+      "doors": 2
+    }
+  ]
+  },
+  {
+  "model_name": "911 Carrera 4S Cabriolet",
+  "manufacturer": "Porsche",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "Convertible",
+      "doors": 2
+    }
+  ]
+  },
+  {
+  "model_name": "911 Carrera Cabriolet",
+  "manufacturer": "Porsche",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "Convertible",
+      "doors": 2
+    }
+  ]
+  },
+  {
+  "model_name": "911 Carrera GTS",
+  "manufacturer": "Porsche",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "Coupe",
+      "doors": 2
+    }
+  ]
+  },
+  {
+  "model_name": "911 Carrera GTS Cabriolet",
+  "manufacturer": "Porsche",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "Convertible",
+      "doors": 2
+    }
+  ]
+  },
+  {
+  "model_name": "911 Carrera S",
+  "manufacturer": "Porsche",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "Coupe",
+      "doors": 2
+    }
+  ]
+  },
+  {
+  "model_name": "911 Carrera S Cabriolet",
+  "manufacturer": "Porsche",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "Convertible",
+      "doors": 2
+    }
+  ]
+  },
+  {
+  "model_name": "911 Carrera T",
+  "manufacturer": "Porsche",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "Coupe",
+      "doors": 2
+    }
+  ]
+  },
+  {
+  "model_name": "911 Carrera T Cabriolet",
+  "manufacturer": "Porsche",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "Convertible",
+      "doors": 2
+    }
+  ]
+  },
+  {
+  "model_name": "911 GT3",
+  "manufacturer": "Porsche",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "Coupe",
+      "doors": 2
+    }
+  ]
+  },
+  {
+  "model_name": "911 GT3 90 f.A. Porsche",
+  "manufacturer": "Porsche",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "Coupe",
+      "doors": 2
+    }
+  ]
+  },
+  {
+  "model_name": "911 GT3 RS",
+  "manufacturer": "Porsche",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "Coupe",
+      "doors": 2
+    }
+  ]
+  },
+  {
+  "model_name": "911 Spirit 70",
+  "manufacturer": "Porsche",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "Convertible",
+      "doors": 2
+    },
+    {
+      "style": "Coupe",
+      "doors": 2
+    }
+  ]
+  },
+  {
+  "model_name": "911 Targa 4S",
+  "manufacturer": "Porsche",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "Convertible",
+      "doors": 2
+    }
+  ]
+  },
+  {
+  "model_name": "911 Targa 4 GTS",
+  "manufacturer": "Porsche",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "Convertible",
+      "doors": 2
+    }
+  ]
+  },
+  {
+  "model_name": "911 Turbo S",
+  "manufacturer": "Porsche",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "Coupe",
+      "doors": 2
+    }
+  ]
+  },
+  {
+  "model_name": "911 Turbo S Cabriolet",
+  "manufacturer": "Porsche",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "Convertible",
+      "doors": 2
+    }
+  ]
+  },
+  {
+  "model_name": "Cayenne",
+  "manufacturer": "Porsche",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "SUV",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "Cayenne Coupe",
+  "manufacturer": "Porsche",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "SUV",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "Cayenne E-Hybrid",
+  "manufacturer": "Porsche",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "SUV",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "Cayenne E-Hybrid Coupe",
+  "manufacturer": "Porsche",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "SUV",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "Cayenne Electric",
+  "manufacturer": "Porsche",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "SUV",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "Cayenne GTS",
+  "manufacturer": "Porsche",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "SUV",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "Cayenne GTS Coupe",
+  "manufacturer": "Porsche",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "SUV",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "Cayenne S",
+  "manufacturer": "Porsche",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "SUV",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "Cayenne S Coupe",
+  "manufacturer": "Porsche",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "SUV",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "Cayenne S E-Hybrid",
+  "manufacturer": "Porsche",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "SUV",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "Cayenne S E-Hybrid Coupe",
+  "manufacturer": "Porsche",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "SUV",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "Cayenne Turbo E-Hybrid",
+  "manufacturer": "Porsche",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "SUV",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "Cayenne Turbo E-Hybrid Coupe",
+  "manufacturer": "Porsche",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "SUV",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "Cayenne Turbo Electric",
+  "manufacturer": "Porsche",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "SUV",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "Cayenne Turbo GT",
+  "manufacturer": "Porsche",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "SUV",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "Macan",
+  "manufacturer": "Porsche",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "SUV",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "Macan 4 Electric",
+  "manufacturer": "Porsche",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "SUV",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "Macan 4S Electric",
+  "manufacturer": "Porsche",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "SUV",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "Macan Electric",
+  "manufacturer": "Porsche",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "SUV",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "Macan GTS",
+  "manufacturer": "Porsche",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "SUV",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "Macan GTS Electric",
+  "manufacturer": "Porsche",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "SUV",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "Macan S",
+  "manufacturer": "Porsche",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "SUV",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "Macan T",
+  "manufacturer": "Porsche",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "SUV",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "Macan Turbo Electric",
+  "manufacturer": "Porsche",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "SUV",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "Panamera",
+  "manufacturer": "Porsche",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "Sedan",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "Panamera 4",
+  "manufacturer": "Porsche",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "Sedan",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "Panamera 4 E-Hybrid",
+  "manufacturer": "Porsche",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "Sedan",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "Panamera 4S E-Hybrid",
+  "manufacturer": "Porsche",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "Sedan",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "Panamera GTS",
+  "manufacturer": "Porsche",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "Sedan",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "Panamera Turbo E-Hybrid",
+  "manufacturer": "Porsche",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "Sedan",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "Panamera Turbo S E-Hybrid",
+  "manufacturer": "Porsche",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "Sedan",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "Taycan",
+  "manufacturer": "Porsche",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "Sedan",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "Taycan 4",
+  "manufacturer": "Porsche",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "Sedan",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "Taycan 4 Cross Turismo",
+  "manufacturer": "Porsche",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "Wagon",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "Taycan 4 Black Edition",
+  "manufacturer": "Porsche",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "Sedan",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "Taycan 4S",
+  "manufacturer": "Porsche",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "Sedan",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "Taycan 4S Black Edition",
+  "manufacturer": "Porsche",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "Sedan",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "Taycan 4S Cross Turismo",
+  "manufacturer": "Porsche",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "Wagon",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "Taycan Black Edition",
+  "manufacturer": "Porsche",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "Sedan",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "Taycan GTS",
+  "manufacturer": "Porsche",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "Sedan",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "Taycan GTS Sport Turismo",
+  "manufacturer": "Porsche",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "Wagon",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "Taycan Turbo",
+  "manufacturer": "Porsche",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "Sedan",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "Taycan Turbo Cross Turismo",
+  "manufacturer": "Porsche",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "Wagon",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "Taycan Turbo GT",
+  "manufacturer": "Porsche",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "Sedan",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "Taycan Turbo S",
+  "manufacturer": "Porsche",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "Sedan",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "Taycan Turbo S Cross Turismo",
+  "manufacturer": "Porsche",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "Wagon",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "1500",
+  "manufacturer": "RAM",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "Pickup",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "1500 REV",
+  "manufacturer": "RAM",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "Pickup",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "1500 RHO",
+  "manufacturer": "RAM",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "Pickup",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "2500",
+  "manufacturer": "RAM",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "Pickup",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "3500",
+  "manufacturer": "RAM",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "Pickup",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "Promaster",
+  "manufacturer": "RAM",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "Van",
+      "doors": 3
+    }
+  ]
+  },
+  {
+  "model_name": "Promaster EV",
+  "manufacturer": "RAM",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "Van",
+      "doors": 3
+    }
+  ]
+  },
+  {
+  "model_name": "Delivery",
+  "manufacturer": "Rivian",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "Van",
+      "doors": 3
+    }
+  ]
+  },
+  {
+  "model_name": "R1S",
+  "manufacturer": "Rivian",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "SUV",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "R1T",
+  "manufacturer": "Rivian",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "Pickup",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "R2",
+  "manufacturer": "Rivian",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "SUV",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "R3",
+  "manufacturer": "Rivian",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "SUV",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "Cullinan Series II",
+  "manufacturer": "Rolls-Royce",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "SUV",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "Ghost Series II",
+  "manufacturer": "Rolls-Royce",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "Sedan",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "Phantom",
+  "manufacturer": "Rolls-Royce",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "Sedan",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "Spectre",
+  "manufacturer": "Rolls-Royce",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "Coupe",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "Ascent",
+  "manufacturer": "Subaru",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "SUV",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "BRZ",
+  "manufacturer": "Subaru",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "Coupe",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "Crosstrek",
+  "manufacturer": "Subaru",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "SUV",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "Forester",
+  "manufacturer": "Subaru",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "SUV",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "Legacy",
+  "manufacturer": "Subaru",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "Sedan",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "Impreza",
+  "manufacturer": "Subaru",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "Sedan",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "Outback",
+  "manufacturer": "Subaru",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "SUV",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "Solterra",
+  "manufacturer": "Subaru",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "SUV",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "WRX",
+  "manufacturer": "Subaru",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "Sedan",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "Cybertruck",
+  "manufacturer": "Tesla",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "Pickup",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "Model 3",
+  "manufacturer": "Tesla",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "Sedan",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "Model S",
+  "manufacturer": "Tesla",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "Sedan",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "Model X",
+  "manufacturer": "Tesla",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "Sedan",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "Model Y",
+  "manufacturer": "Tesla",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "Sedan",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "4Runner",
+  "manufacturer": "Toyota",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "SUV",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "4Runner i-FORCE MAX",
+  "manufacturer": "Toyota",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "SUV",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "bZ",
+  "manufacturer": "Toyota",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "SUV",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "Camry",
+  "manufacturer": "Toyota",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "Sedan",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "Corolla",
+  "manufacturer": "Toyota",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "Sedan",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "Corolla Cross",
+  "manufacturer": "Toyota",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "SUV",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "Corolla Cross Hybrid",
+  "manufacturer": "Toyota",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "SUV",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "Corolla Hatchback",
+  "manufacturer": "Toyota",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "Hatchback",
+      "doors": 5
+    }
+  ]
+  },
+  {
+  "model_name": "Corolla Hybrid",
+  "manufacturer": "Toyota",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "Sedan",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "Crown",
+  "manufacturer": "Toyota",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "Sedan",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "Crown Signia",
+  "manufacturer": "Toyota",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "SUV",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "GR Corolla",
+  "manufacturer": "Toyota",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "Hatchback",
+      "doors": 5
+    }
+  ]
+  },
+  {
+  "model_name": "GR Supra",
+  "manufacturer": "Toyota",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "Coupe",
+      "doors": 2
+    }
+  ]
+  },
+  {
+  "model_name": "GR86",
+  "manufacturer": "Toyota",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "Coupe",
+      "doors": 2
+    }
+  ]
+  },
+  {
+  "model_name": "Grand Highlander",
+  "manufacturer": "Toyota",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "SUV",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "Grand Highlander Hybrid",
+  "manufacturer": "Toyota",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "SUV",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "Highlander",
+  "manufacturer": "Toyota",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "SUV",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "Land Cruiser",
+  "manufacturer": "Toyota",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "SUV",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "Mirai",
+  "manufacturer": "Toyota",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "Sedan",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "Prius",
+  "manufacturer": "Toyota",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "Hatchback",
+      "doors": 5
+    }
+  ]
+  },
+  {
+  "model_name": "Prius Plug-in Hybrid",
+  "manufacturer": "Toyota",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "Hatchback",
+      "doors": 5
+    }
+  ]
+  },
+  {
+  "model_name": "RAV4",
+  "manufacturer": "Toyota",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "SUV",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "RAV4 Hybrid",
+  "manufacturer": "Toyota",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "SUV",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "RAV4 Plug-in Hybrid",
+  "manufacturer": "Toyota",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "SUV",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "Sequoia",
+  "manufacturer": "Toyota",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "SUV",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "Sienna",
+  "manufacturer": "Toyota",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "Minivan",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "Tacoma",
+  "manufacturer": "Toyota",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "Pickup",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "Tacoma i-FORCE MAX",
+  "manufacturer": "Toyota",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "Pickup",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "Tundra",
+  "manufacturer": "Toyota",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "Pickup",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "Tundra i-FORCE MAX",
+  "manufacturer": "Toyota",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "Pickup",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "VF8",
+  "manufacturer": "VinFast",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "SUV",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "VF9",
+  "manufacturer": "VinFast",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "SUV",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "Atlas",
+  "manufacturer": "Volkswagen",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "SUV",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "Atlas Cross Sport",
+  "manufacturer": "Volkswagen",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "SUV",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "Golf GTI",
+  "manufacturer": "Volkswagen",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "SUV",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "Golf R",
+  "manufacturer": "Volkswagen",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "SUV",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "ID.4",
+  "manufacturer": "Volkswagen",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "SUV",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "ID.Buzz",
+  "manufacturer": "Volkswagen",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "SUV",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "Jetta",
+  "manufacturer": "Volkswagen",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "Sedan",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "Jetta GLI",
+  "manufacturer": "Volkswagen",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "Sedan",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "Taos",
+  "manufacturer": "Volkswagen",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "SUV",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "Tiguan",
+  "manufacturer": "Volkswagen",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "SUV",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "EXC90 fully electric",
+  "manufacturer": "Volvo",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "SUV",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "V60 Cross Country",
+  "manufacturer": "Volvo",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "Wagon",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "XC30 fully electric",
+  "manufacturer": "Volvo",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "SUV",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "XC40",
+  "manufacturer": "Volvo",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "SUV",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "XC40 fully electric",
+  "manufacturer": "Volvo",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "SUV",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "XC60",
+  "manufacturer": "Volvo",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "SUV",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "XC60 plug-in hybrid",
+  "manufacturer": "Volvo",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "SUV",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "XC90",
+  "manufacturer": "Volvo",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "SUV",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "XC90 plug-in hybrid",
+  "manufacturer": "Volvo",
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "SUV",
+      "doors": 4
+    }
+  ]
   }
 ]
