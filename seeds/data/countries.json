@@ -1,0 +1,47 @@
+[
+  {
+    "code": "US",
+    "name": "United States",
+    "region": "North America"
+  },
+  {
+    "code": "JP",
+    "name": "Japan",
+    "region": "Asia"
+  },
+  {
+    "code": "DE",
+    "name": "Germany",
+    "region": "Europe"
+  },
+  {
+    "code": "IT",
+    "name": "Italy",
+    "region": "Europe"
+  },
+  {
+    "code": "GB",
+    "name": "United Kingdom",
+    "region": "Europe"
+  },
+  {
+    "code": "KR",
+    "name": "South Korea",
+    "region": "Asia"
+  },
+  {
+    "code": "FR",
+    "name": "France",
+    "region": "Europe"
+  },
+  {
+    "code": "SE",
+    "name": "Sweden",
+    "region": "Europe"
+  },
+  {
+    "code": "VN",
+    "name": "Vietnam",
+    "region": "Asia"
+  }
+]
