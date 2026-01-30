@@ -1,7 +1,7 @@
 [
   {
   "model_name": "ADX",
-  "manufacturer": "Acura",
+  "manufacturer_id": 1,
   "years": [2026],
   "body_styles": [
     {
@@ -12,7 +12,7 @@
   },
   {
   "model_name": "Integra",
-  "manufacturer": "Acura",
+  "manufacturer_id": 1,
   "years": [2026],
   "body_styles": [
     {
@@ -23,7 +23,7 @@
   },
   {
   "model_name": "MDX",
-  "manufacturer": "Acura",
+  "manufacturer_id": 1,
   "years": [2026],
   "body_styles": [
     {
@@ -34,7 +34,7 @@
   },
   {
   "model_name": "RDX",
-  "manufacturer": "Acura",
+  "manufacturer_id": 1,
   "years": [2026],
   "body_styles": [
     {
@@ -45,7 +45,7 @@
   },
   {
   "model_name": "TLX",
-  "manufacturer": "Acura",
+  "manufacturer_id": 1,
   "years": [2026],
   "body_styles": [
     {
@@ -56,7 +56,7 @@
   },
   {
   "model_name": "Tonale",
-  "manufacturer": "Alfa Romeo",
+  "manufacturer_id": 2,
   "years": [2026],
   "body_styles": [
     {
@@ -67,7 +67,7 @@
   },
   {
   "model_name": "Giulia",
-  "manufacturer": "Alfa Romeo",
+  "manufacturer_id": 2,
   "years": [2026],
   "body_styles": [
     {
@@ -78,7 +78,7 @@
   },
   {
   "model_name": "Stelvio",
-  "manufacturer": "Alfa Romeo",
+  "manufacturer_id": 2,
   "years": [2026],
   "body_styles": [
     {
@@ -89,7 +89,7 @@
   },
   {
   "model_name": "DB12",
-  "manufacturer": "Aston Martin",
+  "manufacturer_id": 3,
   "years": [2026],
   "body_styles": [
     {
@@ -100,7 +100,7 @@
   },
   {
   "model_name": "Vantage",
-  "manufacturer": "Aston Martin",
+  "manufacturer_id": 3,
   "years": [2026],
   "body_styles": [
     {
@@ -111,7 +111,7 @@
   },
   {
   "model_name": "Vanquish",
-  "manufacturer": "Aston Martin",
+  "manufacturer_id": 3,
   "years": [2026],
   "body_styles": [
     {
@@ -122,7 +122,7 @@
   },
   {
   "model_name": "DBX",
-  "manufacturer": "Aston Martin",
+  "manufacturer_id": 3,
   "years": [2026],
   "body_styles": [
     {
@@ -133,7 +133,7 @@
   },
   {
   "model_name": "Valhalla",
-  "manufacturer": "Aston Martin",
+  "manufacturer_id": 3,
   "years": [2026],
   "body_styles": [
     {
@@ -144,7 +144,7 @@
   },
   {
   "model_name": "Valkyrie",
-  "manufacturer": "Aston Martin",
+  "manufacturer_id": 3,
   "years": [2026],
   "body_styles": [
     {
@@ -155,7 +155,7 @@
   },
   {
   "model_name": "Valour",
-  "manufacturer": "Aston Martin",
+  "manufacturer_id": 3,
   "years": [2026],
   "body_styles": [
     {
@@ -166,7 +166,7 @@
   },
   {
   "model_name": "Valiant",
-  "manufacturer": "Aston Martin",
+  "manufacturer_id": 3,
   "years": [2026],
   "body_styles": [
     {
@@ -177,7 +177,7 @@
   },
   {
   "model_name": "A3",
-  "manufacturer": "Audi",
+  "manufacturer_id": 4,
   "years": [2026],
   "body_styles": [
     {
@@ -188,7 +188,7 @@
   },
   {
   "model_name": "A5",
-  "manufacturer": "Audi",
+  "manufacturer_id": 4,
   "years": [2026],
   "body_styles": [
     {
@@ -199,7 +199,7 @@
   },
   {
   "model_name": "A6",
-  "manufacturer": "Audi",
+  "manufacturer_id": 4,
   "years": [2026],
   "body_styles": [
     {
@@ -210,7 +210,7 @@
   },
   {
   "model_name": "A6 allroad quattro",
-  "manufacturer": "Audi",
+  "manufacturer_id": 4,
   "years": [2026],
   "body_styles": [
     {
@@ -221,7 +221,7 @@
   },
   {
   "model_name": "A6 Sportback e-tron",
-  "manufacturer": "Audi",
+  "manufacturer_id": 4,
   "years": [2026],
   "body_styles": [
     {
@@ -232,7 +232,7 @@
   },
   {
   "model_name": "A8",
-  "manufacturer": "Audi",
+  "manufacturer_id": 4,
   "years": [2026],
   "body_styles": [
     {
@@ -243,7 +243,7 @@
   },
   {
   "model_name": "Q3",
-  "manufacturer": "Audi",
+  "manufacturer_id": 4,
   "years": [2026],
   "body_styles": [
     {
@@ -254,7 +254,7 @@
   },
   {
   "model_name": "Q4 e-tron",
-  "manufacturer": "Audi",
+  "manufacturer_id": 4,
   "years": [2026],
   "body_styles": [
     {
@@ -265,7 +265,7 @@
   },
   {
   "model_name": "Q4 Sportback e-tron",
-  "manufacturer": "Audi",
+  "manufacturer_id": 4,
   "years": [2026],
   "body_styles": [
     {
@@ -276,7 +276,7 @@
   },
   {
   "model_name": "Q5",
-  "manufacturer": "Audi",
+  "manufacturer_id": 4,
   "years": [2026],
   "body_styles": [
     {
@@ -287,7 +287,7 @@
   },
   {
   "model_name": "Q5 Sportback",
-  "manufacturer": "Audi",
+  "manufacturer_id": 4,
   "years": [2026],
   "body_styles": [
     {
@@ -298,7 +298,7 @@
   },
   {
   "model_name": "Q6 e-tron",
-  "manufacturer": "Audi",
+  "manufacturer_id": 4,
   "years": [2026],
   "body_styles": [
     {
@@ -309,7 +309,7 @@
   },
   {
   "model_name": "Q6 Sportback e-tron",
-  "manufacturer": "Audi",
+  "manufacturer_id": 4,
   "years": [2026],
   "body_styles": [
     {
@@ -320,7 +320,7 @@
   },
   {
   "model_name": "Q7",
-  "manufacturer": "Audi",
+  "manufacturer_id": 4,
   "years": [2026],
   "body_styles": [
     {
@@ -331,7 +331,7 @@
   },
   {
   "model_name": "Q8",
-  "manufacturer": "Audi",
+  "manufacturer_id": 4,
   "years": [2026],
   "body_styles": [
     {
@@ -342,7 +342,7 @@
   },
   {
   "model_name": "RS 3",
-  "manufacturer": "Audi",
+  "manufacturer_id": 4,
   "years": [2026],
   "body_styles": [
     {
@@ -353,7 +353,7 @@
   },
   {
   "model_name": "RS 6 Avant",
-  "manufacturer": "Audi",
+  "manufacturer_id": 4,
   "years": [2026],
   "body_styles": [
     {
@@ -364,7 +364,7 @@
   },
   {
   "model_name": "RS 7",
-  "manufacturer": "Audi",
+  "manufacturer_id": 4,
   "years": [2026],
   "body_styles": [
     {
@@ -375,7 +375,7 @@
   },
   {
   "model_name": "RS e-tron",
-  "manufacturer": "Audi",
+  "manufacturer_id": 4,
   "years": [2026],
   "body_styles": [
     {
@@ -386,7 +386,7 @@
   },
   {
   "model_name": "RS Q8",
-  "manufacturer": "Audi",
+  "manufacturer_id": 4,
   "years": [2026],
   "body_styles": [
     {
@@ -397,7 +397,7 @@
   },
   {
   "model_name": "S3",
-  "manufacturer": "Audi",
+  "manufacturer_id": 4,
   "years": [2026],
   "body_styles": [
     {
@@ -408,7 +408,7 @@
   },
   {
   "model_name": "S5",
-  "manufacturer": "Audi",
+  "manufacturer_id": 4,
   "years": [2026],
   "body_styles": [
     {
@@ -419,7 +419,7 @@
   },
   {
   "model_name": "S6 Sportback e-tron",
-  "manufacturer": "Audi",
+  "manufacturer_id": 4,
   "years": [2026],
   "body_styles": [
     {
@@ -430,7 +430,7 @@
   },
   {
   "model_name": "S8",
-  "manufacturer": "Audi",
+  "manufacturer_id": 4,
   "years": [2026],
   "body_styles": [
     {
@@ -441,7 +441,7 @@
   },
   {
   "model_name": "S e-tron",
-  "manufacturer": "Audi",
+  "manufacturer_id": 4,
   "years": [2026],
   "body_styles": [
     {
@@ -452,7 +452,7 @@
   },
   {
   "model_name": "SQ5",
-  "manufacturer": "Audi",
+  "manufacturer_id": 4,
   "years": [2026],
   "body_styles": [
     {
@@ -463,7 +463,7 @@
   },
   {
   "model_name": "SQ5 Sportback",
-  "manufacturer": "Audi",
+  "manufacturer_id": 4,
   "years": [2026],
   "body_styles": [
     {
@@ -474,7 +474,7 @@
   },
   {
   "model_name": "SQ6 e-tron",
-  "manufacturer": "Audi",
+  "manufacturer_id": 4,
   "years": [2026],
   "body_styles": [
     {
@@ -485,7 +485,7 @@
   },
   {
   "model_name": "SQ6 Sportback e-tron",
-  "manufacturer": "Audi",
+  "manufacturer_id": 4,
   "years": [2026],
   "body_styles": [
     {
@@ -496,7 +496,7 @@
   },
   {
   "model_name": "SQ7",
-  "manufacturer": "Audi",
+  "manufacturer_id": 4,
   "years": [2026],
   "body_styles": [
     {
@@ -507,7 +507,7 @@
   },
   {
   "model_name": "SQ8",
-  "manufacturer": "Audi",
+  "manufacturer_id": 4,
   "years": [2026],
   "body_styles": [
     {
@@ -518,7 +518,7 @@
   },
   {
   "model_name": "Bentayga",
-  "manufacturer": "Bentley",
+  "manufacturer_id": 5,
   "years": [2026],
   "body_styles": [
     {
@@ -529,7 +529,7 @@
   },
   {
   "model_name": "Continental GT",
-  "manufacturer": "Bentley",
+  "manufacturer_id": 5,
   "years": [2026],
   "body_styles": [
     {
@@ -540,7 +540,7 @@
   },
   {
   "model_name": "Continental GTC",
-  "manufacturer": "Bentley",
+  "manufacturer_id": 5,
   "years": [2026],
   "body_styles": [
     {
@@ -551,7 +551,7 @@
   },
   {
   "model_name": "Flying Spur",
-  "manufacturer": "Bentley",
+  "manufacturer_id": 5,
   "years": [2026],
   "body_styles": [
     {
@@ -562,7 +562,7 @@
   },
   {
   "model_name": "Supersports",
-  "manufacturer": "Bentley",
+  "manufacturer_id": 5,
   "years": [2026],
   "body_styles": [
     {
@@ -573,7 +573,7 @@
   },
   {
   "model_name": "Tourbillon",
-  "manufacturer": "Bugatti",
+  "manufacturer_id": 6,
   "years": [2026],
   "body_styles": [
     {
@@ -584,7 +584,7 @@
   },
   {
   "model_name": "W16 Mistral",
-  "manufacturer": "Bugatti",
+  "manufacturer_id": 6,
   "years": [2026],
   "body_styles": [
     {
@@ -595,7 +595,7 @@
   },
   {
   "model_name": "Bolide",
-  "manufacturer": "Bugatti",
+  "manufacturer_id": 6,
   "years": [2026],
   "body_styles": [
     {
@@ -606,7 +606,7 @@
   },
   {
   "model_name": "228",
-  "manufacturer": "BMW",
+  "manufacturer_id": 7,
   "years": [2026],
   "body_styles": [
     {
@@ -617,7 +617,7 @@
   },
   {
   "model_name": "228 xDrive Gran Coupe",
-  "manufacturer": "BMW",
+  "manufacturer_id": 7,
   "years": [2026],
   "body_styles": [
     {
@@ -628,7 +628,7 @@
   },
   {
   "model_name": "230i",
-  "manufacturer": "BMW",
+  "manufacturer_id": 7,
   "years": [2026],
   "body_styles": [
     {
@@ -639,7 +639,7 @@
   },
   {
   "model_name": "230i xDrive",
-  "manufacturer": "BMW",
+  "manufacturer_id": 7,
   "years": [2026],
   "body_styles": [
     {
@@ -650,7 +650,7 @@
   },
   {
   "model_name": "330i",
-  "manufacturer": "BMW",
+  "manufacturer_id": 7,
   "years": [2026],
   "body_styles": [
     {
@@ -661,7 +661,7 @@
   },
   {
   "model_name": "330i xDrive",
-  "manufacturer": "BMW",
+  "manufacturer_id": 7,
   "years": [2026],
   "body_styles": [
     {
@@ -672,7 +672,7 @@
   },
   {
   "model_name": "430i",
-  "manufacturer": "BMW",
+  "manufacturer_id": 7,
   "years": [2026],
   "body_styles": [
     {
@@ -687,7 +687,7 @@
   },
   {
   "model_name": "430i Gran Coupe",
-  "manufacturer": "BMW",
+  "manufacturer_id": 7,
   "years": [2026],
   "body_styles": [
     {
@@ -698,7 +698,7 @@
   },
   {
   "model_name": "430i xDrive",
-  "manufacturer": "BMW",
+  "manufacturer_id": 7,
   "years": [2026],
   "body_styles": [
     {
@@ -713,7 +713,7 @@
   },
   {
   "model_name": "430i xDrive Gran Coupe",
-  "manufacturer": "BMW",
+  "manufacturer_id": 7,
   "years": [2026],
   "body_styles": [
     {
@@ -724,7 +724,7 @@
   },
   {
   "model_name": "530i",
-  "manufacturer": "BMW",
+  "manufacturer_id": 7,
   "years": [2026],
   "body_styles": [
     {
@@ -735,7 +735,7 @@
   },
   {
   "model_name": "530i xDrive",
-  "manufacturer": "BMW",
+  "manufacturer_id": 7,
   "years": [2026],
   "body_styles": [
     {
@@ -746,7 +746,7 @@
   },
   {
   "model_name": "540i xDrive",
-  "manufacturer": "BMW",
+  "manufacturer_id": 7,
   "years": [2026],
   "body_styles": [
     {
@@ -757,7 +757,7 @@
   },
   {
   "model_name": "550e",
-  "manufacturer": "BMW",
+  "manufacturer_id": 7,
   "years": [2026],
   "body_styles": [
     {
@@ -768,7 +768,7 @@
   },
   {
   "model_name": "740i",
-  "manufacturer": "BMW",
+  "manufacturer_id": 7,
   "years": [2026],
   "body_styles": [
     {
@@ -779,7 +779,7 @@
   },
   {
   "model_name": "740i xDrive",
-  "manufacturer": "BMW",
+  "manufacturer_id": 7,
   "years": [2026],
   "body_styles": [
     {
@@ -790,7 +790,7 @@
   },
   {
   "model_name": "750e xDrive",
-  "manufacturer": "BMW",
+  "manufacturer_id": 7,
   "years": [2026],
   "body_styles": [
     {
@@ -801,7 +801,7 @@
   },
   {
   "model_name": "760i xDrive",
-  "manufacturer": "BMW",
+  "manufacturer_id": 7,
   "years": [2026],
   "body_styles": [
     {
@@ -812,7 +812,7 @@
   },
   {
   "model_name": "840i",
-  "manufacturer": "BMW",
+  "manufacturer_id": 7,
   "years": [2026],
   "body_styles": [
     {
@@ -827,7 +827,7 @@
   },
   {
   "model_name": "840i Gran Coupe",
-  "manufacturer": "BMW",
+  "manufacturer_id": 7,
   "years": [2026],
   "body_styles": [
     {
@@ -838,7 +838,7 @@
   },
   {
   "model_name": "840i xDrive",
-  "manufacturer": "BMW",
+  "manufacturer_id": 7,
   "years": [2026],
   "body_styles": [
     {
@@ -853,7 +853,7 @@
   },
   {
   "model_name": "840i xDrive Gran Coupe",
-  "manufacturer": "BMW",
+  "manufacturer_id": 7,
   "years": [2026],
   "body_styles": [
     {
@@ -864,7 +864,7 @@
   },
   {
   "model_name": "i4",
-  "manufacturer": "BMW",
+  "manufacturer_id": 7,
   "years": [2026],
   "body_styles": [
     {
@@ -875,7 +875,7 @@
   },
   {
   "model_name": "i5",
-  "manufacturer": "BMW",
+  "manufacturer_id": 7,
   "years": [2026],
   "body_styles": [
     {
@@ -886,7 +886,7 @@
   },
   {
   "model_name": "i7",
-  "manufacturer": "BMW",
+  "manufacturer_id": 7,
   "years": [2026],
   "body_styles": [
     {
@@ -897,7 +897,7 @@
   },
   {
   "model_name": "iX",
-  "manufacturer": "BMW",
+  "manufacturer_id": 7,
   "years": [2026],
   "body_styles": [
     {
@@ -908,7 +908,7 @@
   },
   {
   "model_name": "M2",
-  "manufacturer": "BMW",
+  "manufacturer_id": 7,
   "years": [2026],
   "body_styles": [
     {
@@ -919,7 +919,7 @@
   },
   {
   "model_name": "M3",
-  "manufacturer": "BMW",
+  "manufacturer_id": 7,
   "years": [2026],
   "body_styles": [
     {
@@ -930,7 +930,7 @@
   },
   {
   "model_name": "M3 Competition",
-  "manufacturer": "BMW",
+  "manufacturer_id": 7,
   "years": [2026],
   "body_styles": [
     {
@@ -941,7 +941,7 @@
   },
   {
   "model_name": "M3 Competition xDrive",
-  "manufacturer": "BMW",
+  "manufacturer_id": 7,
   "years": [2026],
   "body_styles": [
     {
@@ -952,7 +952,7 @@
   },
   {
   "model_name": "M4",
-  "manufacturer": "BMW",
+  "manufacturer_id": 7,
   "years": [2026],
   "body_styles": [
     {
@@ -963,7 +963,7 @@
   },
   {
   "model_name": "M4 Competition",
-  "manufacturer": "BMW",
+  "manufacturer_id": 7,
   "years": [2026],
   "body_styles": [
     {
@@ -974,7 +974,7 @@
   },
   {
   "model_name": "M4 Competition xDrive",
-  "manufacturer": "BMW",
+  "manufacturer_id": 7,
   "years": [2026],
   "body_styles": [
     {
@@ -989,7 +989,7 @@
   },
   {
   "model_name": "M5",
-  "manufacturer": "BMW",
+  "manufacturer_id": 7,
   "years": [2026],
   "body_styles": [
     {
@@ -1000,7 +1000,7 @@
   },
   {
   "model_name": "M8 Competition",
-  "manufacturer": "BMW",
+  "manufacturer_id": 7,
   "years": [2026],
   "body_styles": [
     {
@@ -1011,7 +1011,7 @@
   },
   {
   "model_name": "M8 Competition Gran Coupe",
-  "manufacturer": "BMW",
+  "manufacturer_id": 7,
   "years": [2026],
   "body_styles": [
     {
@@ -1022,7 +1022,7 @@
   },
   {
   "model_name": "M235 xDrive Gran Coupe",
-  "manufacturer": "BMW",
+  "manufacturer_id": 7,
   "years": [2026],
   "body_styles": [
     {
@@ -1033,7 +1033,7 @@
   },
   {
   "model_name": "M240i",
-  "manufacturer": "BMW",
+  "manufacturer_id": 7,
   "years": [2026],
   "body_styles": [
     {
@@ -1044,7 +1044,7 @@
   },
   {
   "model_name": "M240i xDrive",
-  "manufacturer": "BMW",
+  "manufacturer_id": 7,
   "years": [2026],
   "body_styles": [
     {
@@ -1055,7 +1055,7 @@
   },
   {
   "model_name": "M340i",
-  "manufacturer": "BMW",
+  "manufacturer_id": 7,
   "years": [2026],
   "body_styles": [
     {
@@ -1066,7 +1066,7 @@
   },
   {
   "model_name": "M340i xDrive",
-  "manufacturer": "BMW",
+  "manufacturer_id": 7,
   "years": [2026],
   "body_styles": [
     {
@@ -1077,7 +1077,7 @@
   },
   {
   "model_name": "M440i",
-  "manufacturer": "BMW",
+  "manufacturer_id": 7,
   "years": [2026],
   "body_styles": [
     {
@@ -1092,7 +1092,7 @@
   },
   {
   "model_name": "M440i Gran Coupe",
-  "manufacturer": "BMW",
+  "manufacturer_id": 7,
   "years": [2026],
   "body_styles": [
     {
@@ -1103,7 +1103,7 @@
   },
   {
   "model_name": "M440i xDrive",
-  "manufacturer": "BMW",
+  "manufacturer_id": 7,
   "years": [2026],
   "body_styles": [
     {
@@ -1118,7 +1118,7 @@
   },
   {
   "model_name": "M440i xDrive Gran Coupe",
-  "manufacturer": "BMW",
+  "manufacturer_id": 7,
   "years": [2026],
   "body_styles": [
     {
@@ -1129,7 +1129,7 @@
   },
   {
   "model_name": "M850i xDrive",
-  "manufacturer": "BMW",
+  "manufacturer_id": 7,
   "years": [2026],
   "body_styles": [
     {
@@ -1144,7 +1144,7 @@
   },
   {
   "model_name": "M850i xDrive Gran Coupe",
-  "manufacturer": "BMW",
+  "manufacturer_id": 7,
   "years": [2026],
   "body_styles": [
     {
@@ -1155,7 +1155,7 @@
   },
   {
   "model_name": "X1",
-  "manufacturer": "BMW",
+  "manufacturer_id": 7,
   "years": [2026],
   "body_styles": [
     {
@@ -1166,7 +1166,7 @@
   },
   {
   "model_name": "X2",
-  "manufacturer": "BMW",
+  "manufacturer_id": 7,
   "years": [2026],
   "body_styles": [
     {
@@ -1177,7 +1177,7 @@
   },
   {
   "model_name": "X3",
-  "manufacturer": "BMW",
+  "manufacturer_id": 7,
   "years": [2026],
   "body_styles": [
     {
@@ -1188,7 +1188,7 @@
   },
   {
   "model_name": "X5",
-  "manufacturer": "BMW",
+  "manufacturer_id": 7,
   "years": [2026],
   "body_styles": [
     {
@@ -1199,7 +1199,7 @@
   },
   {
   "model_name": "X5 M",
-  "manufacturer": "BMW",
+  "manufacturer_id": 7,
   "years": [2026],
   "body_styles": [
     {
@@ -1210,7 +1210,7 @@
   },
   {
   "model_name": "X6",
-  "manufacturer": "BMW",
+  "manufacturer_id": 7,
   "years": [2026],
   "body_styles": [
     {
@@ -1221,7 +1221,7 @@
   },
   {
   "model_name": "X6 M",
-  "manufacturer": "BMW",
+  "manufacturer_id": 7,
   "years": [2026],
   "body_styles": [
     {
@@ -1232,7 +1232,7 @@
   },
   {
   "model_name": "X7",
-  "manufacturer": "BMW",
+  "manufacturer_id": 7,
   "years": [2026],
   "body_styles": [
     {
@@ -1243,7 +1243,7 @@
   },
   {
   "model_name": "XM",
-  "manufacturer": "BMW",
+  "manufacturer_id": 7,
   "years": [2026],
   "body_styles": [
     {
@@ -1254,7 +1254,7 @@
   },
   {
   "model_name": "Z4",
-  "manufacturer": "BMW",
+  "manufacturer_id": 7,
   "years": [2026],
   "body_styles": [
     {
@@ -1265,7 +1265,7 @@
   },
   {
   "model_name": "Enclave GX",
-  "manufacturer": "Buick",
+  "manufacturer_id": 8,
   "years": [2026],
   "body_styles": [
     {
@@ -1276,7 +1276,7 @@
   },
   {
   "model_name": "Encore GX",
-  "manufacturer": "Buick",
+  "manufacturer_id": 8,
   "years": [2026],
   "body_styles": [
     {
@@ -1287,7 +1287,7 @@
   },
   {
   "model_name": "Envision",
-  "manufacturer": "Buick",
+  "manufacturer_id": 8,
   "years": [2026],
   "body_styles": [
     {
@@ -1298,7 +1298,7 @@
   },
   {
   "model_name": "Envista",
-  "manufacturer": "Buick",
+  "manufacturer_id": 8,
   "years": [2026],
   "body_styles": [
     {
@@ -1309,7 +1309,7 @@
   },
   {
   "model_name": "Celestiq",
-  "manufacturer": "Cadillac",
+  "manufacturer_id": 9,
   "years": [2026],
   "body_styles": [
     {
@@ -1320,7 +1320,7 @@
   },
   {
   "model_name": "CT4",
-  "manufacturer": "Cadillac",
+  "manufacturer_id": 9,
   "years": [2026],
   "body_styles": [
     {
@@ -1331,7 +1331,7 @@
   },
   {
   "model_name": "CT4-V",
-  "manufacturer": "Cadillac",
+  "manufacturer_id": 9,
   "years": [2026],
   "body_styles": [
     {
@@ -1342,7 +1342,7 @@
   },
   {
   "model_name": "CT5",
-  "manufacturer": "Cadillac",
+  "manufacturer_id": 9,
   "years": [2026],
   "body_styles": [
     {
@@ -1353,7 +1353,7 @@
   },
   {
   "model_name": "CT5-V",
-  "manufacturer": "Cadillac",
+  "manufacturer_id": 9,
   "years": [2026],
   "body_styles": [
     {
@@ -1364,7 +1364,7 @@
   },
   {
   "model_name": "Escalade",
-  "manufacturer": "Cadillac",
+  "manufacturer_id": 9,
   "years": [2026],
   "body_styles": [
     {
@@ -1375,7 +1375,7 @@
   },
   {
   "model_name": "Escalade-V",
-  "manufacturer": "Cadillac",
+  "manufacturer_id": 9,
   "years": [2026],
   "body_styles": [
     {
@@ -1386,7 +1386,7 @@
   },
   {
   "model_name": "Escalade ESV",
-  "manufacturer": "Cadillac",
+  "manufacturer_id": 9,
   "years": [2026],
   "body_styles": [
     {
@@ -1397,7 +1397,7 @@
   },
   {
   "model_name": "Escalade-V ESV",
-  "manufacturer": "Cadillac",
+  "manufacturer_id": 9,
   "years": [2026],
   "body_styles": [
     {
@@ -1408,7 +1408,7 @@
   },
   {
   "model_name": "Escalade IQ",
-  "manufacturer": "Cadillac",
+  "manufacturer_id": 9,
   "years": [2026],
   "body_styles": [
     {
@@ -1419,7 +1419,7 @@
   },
   {
   "model_name": "Escalade IQL",
-  "manufacturer": "Cadillac",
+  "manufacturer_id": 9,
   "years": [2026],
   "body_styles": [
     {
@@ -1430,7 +1430,7 @@
   },
   {
   "model_name": "Lyriq",
-  "manufacturer": "Cadillac",
+  "manufacturer_id": 9,
   "years": [2026],
   "body_styles": [
     {
@@ -1441,7 +1441,7 @@
   },
   {
   "model_name": "Lyriq-V",
-  "manufacturer": "Cadillac",
+  "manufacturer_id": 9,
   "years": [2026],
   "body_styles": [
     {
@@ -1452,7 +1452,7 @@
   },
   {
   "model_name": "Optiq",
-  "manufacturer": "Cadillac",
+  "manufacturer_id": 9,
   "years": [2026],
   "body_styles": [
     {
@@ -1463,7 +1463,7 @@
   },
   {
   "model_name": "Optiq-V",
-  "manufacturer": "Cadillac",
+  "manufacturer_id": 9,
   "years": [2026],
   "body_styles": [
     {
@@ -1474,7 +1474,7 @@
   },
   {
   "model_name": "XT5",
-  "manufacturer": "Cadillac",
+  "manufacturer_id": 9,
   "years": [2026],
   "body_styles": [
     {
@@ -1485,7 +1485,7 @@
   },
   {
   "model_name": "XT6",
-  "manufacturer": "Cadillac",
+  "manufacturer_id": 9,
   "years": [2026],
   "body_styles": [
     {
@@ -1496,7 +1496,7 @@
   },
   {
   "model_name": "Blazer",
-  "manufacturer": "Chevrolet",
+  "manufacturer_id": 10,
   "years": [2026],
   "body_styles": [
     {
@@ -1507,7 +1507,7 @@
   },
   {
   "model_name": "Blazer EV",
-  "manufacturer": "Chevrolet",
+  "manufacturer_id": 10,
   "years": [2026],
   "body_styles": [
     {
@@ -1518,7 +1518,7 @@
   },
   {
   "model_name": "Bolt",
-  "manufacturer": "Chevrolet",
+  "manufacturer_id": 10,
   "years": [2026],
   "body_styles": [
     {
@@ -1529,7 +1529,7 @@
   },
   {
   "model_name": "BrightDrop",
-  "manufacturer": "Chevrolet",
+  "manufacturer_id": 10,
   "years": [2026],
   "body_styles": [
     {
@@ -1540,7 +1540,7 @@
   },
   {
   "model_name": "Corvette",
-  "manufacturer": "Chevrolet",
+  "manufacturer_id": 10,
   "years": [2026],
   "body_styles": [
     {
@@ -1551,7 +1551,7 @@
   },
   {
   "model_name": "Colorado",
-  "manufacturer": "Chevrolet",
+  "manufacturer_id": 10,
   "years": [2026],
   "body_styles": [
     {
@@ -1562,7 +1562,7 @@
   },
   {
   "model_name": "Equinox",
-  "manufacturer": "Chevrolet",
+  "manufacturer_id": 10,
   "years": [2026],
   "body_styles": [
     {
@@ -1573,7 +1573,7 @@
   },
   {
   "model_name": "Equinox EV",
-  "manufacturer": "Chevrolet",
+  "manufacturer_id": 10,
   "years": [2026],
   "body_styles": [
     {
@@ -1584,7 +1584,7 @@
   },
   {
   "model_name": "Express",
-  "manufacturer": "Chevrolet",
+  "manufacturer_id": 10,
   "years": [2026],
   "body_styles": [
     {
@@ -1595,7 +1595,7 @@
   },
   {
   "model_name": "Silverado",
-  "manufacturer": "Chevrolet",
+  "manufacturer_id": 10,
   "years": [2026],
   "body_styles": [
     {
@@ -1606,7 +1606,7 @@
   },
   {
   "model_name": "Silverado EV",
-  "manufacturer": "Chevrolet",
+  "manufacturer_id": 10,
   "years": [2026],
   "body_styles": [
     {
@@ -1617,7 +1617,7 @@
   },
   {
   "model_name": "Silverado HD",
-  "manufacturer": "Chevrolet",
+  "manufacturer_id": 10,
   "years": [2026],
   "body_styles": [
     {
@@ -1628,7 +1628,7 @@
   },
   {
   "model_name": "Spark EUV",
-  "manufacturer": "Chevrolet",
+  "manufacturer_id": 10,
   "years": [2026],
   "body_styles": [
     {
@@ -1639,7 +1639,7 @@
   },
   {
   "model_name": "Suburban",
-  "manufacturer": "Chevrolet",
+  "manufacturer_id": 10,
   "years": [2026],
   "body_styles": [
     {
@@ -1650,7 +1650,7 @@
   },
   {
   "model_name": "Tahoe",
-  "manufacturer": "Chevrolet",
+  "manufacturer_id": 10,
   "years": [2026],
   "body_styles": [
     {
@@ -1661,7 +1661,7 @@
   },
   {
   "model_name": "Trailblazer",
-  "manufacturer": "Chevrolet",
+  "manufacturer_id": 10,
   "years": [2026],
   "body_styles": [
     {
@@ -1672,7 +1672,7 @@
   },
   {
   "model_name": "Traverse",
-  "manufacturer": "Chevrolet",
+  "manufacturer_id": 10,
   "years": [2026],
   "body_styles": [
     {
@@ -1683,7 +1683,7 @@
   },
   {
   "model_name": "Trax",
-  "manufacturer": "Chevrolet",
+  "manufacturer_id": 10,
   "years": [2026],
   "body_styles": [
     {
@@ -1693,8 +1693,41 @@
   ]
   },
   {
+  "model_name": "Pacifica",
+  "manufacturer_id": 11,
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "Minivan",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "Pacifica Plug-in Hybrid",
+  "manufacturer_id": 11,
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "Minivan",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "Voyager",
+  "manufacturer_id": 11,
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "Minivan",
+      "doors": 4
+    }
+  ]
+  },
+  {
   "model_name": "Charger",
-  "manufacturer": "Dodge",
+  "manufacturer_id": 12,
   "years": [2026],
   "body_styles": [
     {
@@ -1709,7 +1742,7 @@
   },
   {
   "model_name": "Durango",
-  "manufacturer": "Dodge",
+  "manufacturer_id": 12,
   "years": [2026],
   "body_styles": [
     {
@@ -1720,7 +1753,7 @@
   },
   {
   "model_name": "Hornet",
-  "manufacturer": "Dodge",
+  "manufacturer_id": 12,
   "years": [2026],
   "body_styles": [
     {
@@ -1731,7 +1764,7 @@
   },
   {
   "model_name": "12Cilindri",
-  "manufacturer": "Ferrari",
+  "manufacturer_id": 13,
   "years": [2026],
   "body_styles": [
     {
@@ -1742,7 +1775,7 @@
   },
   {
   "model_name": "12Cilindri Spider",
-  "manufacturer": "Ferrari",
+  "manufacturer_id": 13,
   "years": [2026],
   "body_styles": [
     {
@@ -1753,7 +1786,7 @@
   },
   {
   "model_name": "296 GTB",
-  "manufacturer": "Ferrari",
+  "manufacturer_id": 13,
   "years": [2026],
   "body_styles": [
     {
@@ -1764,7 +1797,7 @@
   },
   {
   "model_name": "296 GTS",
-  "manufacturer": "Ferrari",
+  "manufacturer_id": 13,
   "years": [2026],
   "body_styles": [
     {
@@ -1775,7 +1808,7 @@
   },
   {
   "model_name": "849 Testarossa",
-  "manufacturer": "Ferrari",
+  "manufacturer_id": 13,
   "years": [2026],
   "body_styles": [
     {
@@ -1786,7 +1819,7 @@
   },
   {
   "model_name": "849 Testarossa",
-  "manufacturer": "Ferrari",
+  "manufacturer_id": 13,
   "years": [2026],
   "body_styles": [
     {
@@ -1797,7 +1830,7 @@
   },
   {
   "model_name": "849 Testarossa Spider",
-  "manufacturer": "Ferrari",
+  "manufacturer_id": 13,
   "years": [2026],
   "body_styles": [
     {
@@ -1808,7 +1841,7 @@
   },
   {
   "model_name": "Amalfi",
-  "manufacturer": "Ferrari",
+  "manufacturer_id": 13,
   "years": [2026],
   "body_styles": [
     {
@@ -1819,7 +1852,7 @@
   },
   {
   "model_name": "F80",
-  "manufacturer": "Ferrari",
+  "manufacturer_id": 13,
   "years": [2026],
   "body_styles": [
     {
@@ -1830,7 +1863,7 @@
   },
   {
   "model_name": "Purosangue",
-  "manufacturer": "Ferrari",
+  "manufacturer_id": 13,
   "years": [2026],
   "body_styles": [
     {
@@ -1841,7 +1874,7 @@
   },
   {
   "model_name": "Roma Spider",
-  "manufacturer": "Ferrari",
+  "manufacturer_id": 13,
   "years": [2026],
   "body_styles": [
     {
@@ -1852,7 +1885,7 @@
   },
   {
   "model_name": "500e",
-  "manufacturer": "Fiat",
+  "manufacturer_id": 14,
   "years": [2026],
   "body_styles": [
     {
@@ -1863,7 +1896,7 @@
   },
   {
   "model_name": "Ocean",
-  "manufacturer": "Fisker",
+  "manufacturer_id": 15,
   "years": [2026],
   "body_styles": [
     {
@@ -1874,7 +1907,7 @@
   },
   {
   "model_name": "Bronco",
-  "manufacturer": "Ford",
+  "manufacturer_id": 16,
   "years": [2026],
   "body_styles": [
     {
@@ -1885,7 +1918,7 @@
   },
   {
   "model_name": "Bronco Sport",
-  "manufacturer": "Ford",
+  "manufacturer_id": 16,
   "years": [2026],
   "body_styles": [
     {
@@ -1896,7 +1929,7 @@
   },
   {
   "model_name": "Escape",
-  "manufacturer": "Ford",
+  "manufacturer_id": 16,
   "years": [2026],
   "body_styles": [
     {
@@ -1907,7 +1940,7 @@
   },
   {
   "model_name": "Escape Plugin Hybrid",
-  "manufacturer": "Ford",
+  "manufacturer_id": 16,
   "years": [2026],
   "body_styles": [
     {
@@ -1918,7 +1951,7 @@
   },
   {
   "model_name": "E-Transit",
-  "manufacturer": "Ford",
+  "manufacturer_id": 16,
   "years": [2026],
   "body_styles": [
     {
@@ -1929,7 +1962,7 @@
   },
   {
   "model_name": "Expedition",
-  "manufacturer": "Ford",
+  "manufacturer_id": 16,
   "years": [2026],
   "body_styles": [
     {
@@ -1940,7 +1973,7 @@
   },
   {
   "model_name": "Explorer",
-  "manufacturer": "Ford",
+  "manufacturer_id": 16,
   "years": [2026],
   "body_styles": [
     {
@@ -1951,7 +1984,7 @@
   },
   {
   "model_name": "Explorer ST",
-  "manufacturer": "Ford",
+  "manufacturer_id": 16,
   "years": [2026],
   "body_styles": [
     {
@@ -1962,7 +1995,7 @@
   },
   {
   "model_name": "F-150",
-  "manufacturer": "Ford",
+  "manufacturer_id": 16,
   "years": [2026],
   "body_styles": [
     {
@@ -1973,7 +2006,7 @@
   },
   {
   "model_name": "F-150 Lightning",
-  "manufacturer": "Ford",
+  "manufacturer_id": 16,
   "years": [2026],
   "body_styles": [
     {
@@ -1984,7 +2017,7 @@
   },
   {
   "model_name": "Maverick",
-  "manufacturer": "Ford",
+  "manufacturer_id": 16,
   "years": [2026],
   "body_styles": [
     {
@@ -1995,7 +2028,7 @@
   },
   {
   "model_name": "Mustang",
-  "manufacturer": "Ford",
+  "manufacturer_id": 16,
   "years": [2026],
   "body_styles": [
     {
@@ -2010,7 +2043,7 @@
   },
   {
   "model_name": "Mustang Mach-E",
-  "manufacturer": "Ford",
+  "manufacturer_id": 16,
   "years": [2026],
   "body_styles": [
     {
@@ -2021,7 +2054,7 @@
   },
   {
   "model_name": "Ranger",
-  "manufacturer": "Ford",
+  "manufacturer_id": 16,
   "years": [2026],
   "body_styles": [
     {
@@ -2032,7 +2065,7 @@
   },
   {
   "model_name": "Super Duty",
-  "manufacturer": "Ford",
+  "manufacturer_id": 16,
   "years": [2026],
   "body_styles": [
     {
@@ -2043,7 +2076,7 @@
   },
   {
   "model_name": "Transit",
-  "manufacturer": "Ford",
+  "manufacturer_id": 16,
   "years": [2026],
   "body_styles": [
     {
@@ -2054,7 +2087,7 @@
   },
   {
   "model_name": "G70",
-  "manufacturer": "Genesis",
+  "manufacturer_id": 17,
   "years": [2026],
   "body_styles": [
     {
@@ -2065,7 +2098,7 @@
   },
   {
   "model_name": "G80",
-  "manufacturer": "Genesis",
+  "manufacturer_id": 17,
   "years": [2026],
   "body_styles": [
     {
@@ -2076,7 +2109,7 @@
   },
   {
   "model_name": "G90",
-  "manufacturer": "Genesis",
+  "manufacturer_id": 17,
   "years": [2026],
   "body_styles": [
     {
@@ -2087,7 +2120,7 @@
   },
   {
   "model_name": "GV60",
-  "manufacturer": "Genesis",
+  "manufacturer_id": 17,
   "years": [2026],
   "body_styles": [
     {
@@ -2098,7 +2131,7 @@
   },
   {
   "model_name": "GV70",
-  "manufacturer": "Genesis",
+  "manufacturer_id": 17,
   "years": [2026],
   "body_styles": [
     {
@@ -2109,7 +2142,7 @@
   },
   {
   "model_name": "GV80",
-  "manufacturer": "Genesis",
+  "manufacturer_id": 17,
   "years": [2026],
   "body_styles": [
     {
@@ -2120,7 +2153,7 @@
   },
   {
   "model_name": "GV80 Coupe",
-  "manufacturer": "Genesis",
+  "manufacturer_id": 17,
   "years": [2026],
   "body_styles": [
     {
@@ -2131,7 +2164,7 @@
   },
   {
   "model_name": "Acadia",
-  "manufacturer": "GMC",
+  "manufacturer_id": 18,
   "years": [2026],
   "body_styles": [
     {
@@ -2142,7 +2175,7 @@
   },
   {
   "model_name": "Canyon",
-  "manufacturer": "GMC",
+  "manufacturer_id": 18,
   "years": [2026],
   "body_styles": [
     {
@@ -2153,7 +2186,7 @@
   },
   {
   "model_name": "Hummer EV",
-  "manufacturer": "GMC",
+  "manufacturer_id": 18,
   "years": [2026],
   "body_styles": [
     {
@@ -2164,7 +2197,7 @@
   },
   {
   "model_name": "Savannah",
-  "manufacturer": "GMC",
+  "manufacturer_id": 18,
   "years": [2026],
   "body_styles": [
     {
@@ -2175,7 +2208,7 @@
   },
   {
   "model_name": "Sierra 1500",
-  "manufacturer": "GMC",
+  "manufacturer_id": 18,
   "years": [2026],
   "body_styles": [
     {
@@ -2186,7 +2219,7 @@
   },
   {
   "model_name": "Sierra EV",
-  "manufacturer": "GMC",
+  "manufacturer_id": 18,
   "years": [2026],
   "body_styles": [
     {
@@ -2197,7 +2230,7 @@
   },
   {
   "model_name": "Sierra HD",
-  "manufacturer": "GMC",
+  "manufacturer_id": 18,
   "years": [2026],
   "body_styles": [
     {
@@ -2208,7 +2241,7 @@
   },
   {
   "model_name": "Terrain",
-  "manufacturer": "GMC",
+  "manufacturer_id": 18,
   "years": [2026],
   "body_styles": [
     {
@@ -2219,7 +2252,7 @@
   },
   {
   "model_name": "Yukon",
-  "manufacturer": "GMC",
+  "manufacturer_id": 18,
   "years": [2026],
   "body_styles": [
     {
@@ -2230,7 +2263,7 @@
   },
   {
   "model_name": "Yukon XL",
-  "manufacturer": "GMC",
+  "manufacturer_id": 18,
   "years": [2026],
   "body_styles": [
     {
@@ -2241,7 +2274,7 @@
   },
   {
   "model_name": "Accord",
-  "manufacturer": "Honda",
+  "manufacturer_id": 19,
   "years": [2026],
   "body_styles": [
     {
@@ -2252,7 +2285,7 @@
   },
   {
   "model_name": "Accord Hybrid",
-  "manufacturer": "Honda",
+  "manufacturer_id": 19,
   "years": [2026],
   "body_styles": [
     {
@@ -2263,7 +2296,7 @@
   },
   {
   "model_name": "Civic Hatchback",
-  "manufacturer": "Honda",
+  "manufacturer_id": 19,
   "years": [2026],
   "body_styles": [
     {
@@ -2274,7 +2307,7 @@
   },
   {
   "model_name": "Civic Hatchback Hybrid",
-  "manufacturer": "Honda",
+  "manufacturer_id": 19,
   "years": [2026],
   "body_styles": [
     {
@@ -2285,7 +2318,7 @@
   },
   {
   "model_name": "Civic Type R",
-  "manufacturer": "Honda",
+  "manufacturer_id": 19,
   "years": [2026],
   "body_styles": [
     {
@@ -2296,7 +2329,7 @@
   },
   {
   "model_name": "Civic Sedan",
-  "manufacturer": "Honda",
+  "manufacturer_id": 19,
   "years": [2026],
   "body_styles": [
     {
@@ -2307,7 +2340,7 @@
   },
   {
   "model_name": "Civic Sedan Hybrid",
-  "manufacturer": "Honda",
+  "manufacturer_id": 19,
   "years": [2026],
   "body_styles": [
     {
@@ -2318,7 +2351,7 @@
   },
   {
   "model_name": "Civic SI Sedan",
-  "manufacturer": "Honda",
+  "manufacturer_id": 19,
   "years": [2026],
   "body_styles": [
     {
@@ -2329,7 +2362,7 @@
   },
   {
   "model_name": "CR-V",
-  "manufacturer": "Honda",
+  "manufacturer_id": 19,
   "years": [2026],
   "body_styles": [
     {
@@ -2340,7 +2373,7 @@
   },
   {
   "model_name": "CR-V Hybrid",
-  "manufacturer": "Honda",
+  "manufacturer_id": 19,
   "years": [2026],
   "body_styles": [
     {
@@ -2351,7 +2384,7 @@
   },
   {
   "model_name": "HR-V",
-  "manufacturer": "Honda",
+  "manufacturer_id": 19,
   "years": [2026],
   "body_styles": [
     {
@@ -2362,7 +2395,7 @@
   },
   {
   "model_name": "Passport",
-  "manufacturer": "Honda",
+  "manufacturer_id": 19,
   "years": [2026],
   "body_styles": [
     {
@@ -2373,7 +2406,7 @@
   },
   {
   "model_name": "Pilot",
-  "manufacturer": "Honda",
+  "manufacturer_id": 19,
   "years": [2026],
   "body_styles": [
     {
@@ -2384,7 +2417,7 @@
   },
   {
   "model_name": "Prelude Hybrid",
-  "manufacturer": "Honda",
+  "manufacturer_id": 19,
   "years": [2026],
   "body_styles": [
     {
@@ -2395,7 +2428,7 @@
   },
   {
   "model_name": "Prologue",
-  "manufacturer": "Honda",
+  "manufacturer_id": 19,
   "years": [2026],
   "body_styles": [
     {
@@ -2406,7 +2439,7 @@
   },
   {
   "model_name": "Elantra",
-  "manufacturer": "Hyundai",
+  "manufacturer_id": 20,
   "years": [2026],
   "body_styles": [
     {
@@ -2417,7 +2450,7 @@
   },
   {
   "model_name": "Elantra Hybrid",
-  "manufacturer": "Hyundai",
+  "manufacturer_id": 20,
   "years": [2026],
   "body_styles": [
     {
@@ -2428,7 +2461,7 @@
   },
   {
   "model_name": "Elantra N",
-  "manufacturer": "Hyundai",
+  "manufacturer_id": 20,
   "years": [2026],
   "body_styles": [
     {
@@ -2439,7 +2472,7 @@
   },
   {
   "model_name": "Ioniq 5",
-  "manufacturer": "Hyundai",
+  "manufacturer_id": 20,
   "years": [2026],
   "body_styles": [
     {
@@ -2450,7 +2483,7 @@
   },
   {
   "model_name": "Ioniq 5 N",
-  "manufacturer": "Hyundai",
+  "manufacturer_id": 20,
   "years": [2026],
   "body_styles": [
     {
@@ -2461,7 +2494,7 @@
   },
   {
   "model_name": "Ioniq 6",
-  "manufacturer": "Hyundai",
+  "manufacturer_id": 20,
   "years": [2026],
   "body_styles": [
     {
@@ -2472,7 +2505,7 @@
   },
   {
   "model_name": "Ioniq 9",
-  "manufacturer": "Hyundai",
+  "manufacturer_id": 20,
   "years": [2026],
   "body_styles": [
     {
@@ -2483,7 +2516,7 @@
   },
   {
   "model_name": "Kona",
-  "manufacturer": "Hyundai",
+  "manufacturer_id": 20,
   "years": [2026],
   "body_styles": [
     {
@@ -2494,7 +2527,7 @@
   },
   {
   "model_name": "Kona Electric",
-  "manufacturer": "Hyundai",
+  "manufacturer_id": 20,
   "years": [2026],
   "body_styles": [
     {
@@ -2505,7 +2538,7 @@
   },
   {
   "model_name": "Palisade Hybrid",
-  "manufacturer": "Hyundai",
+  "manufacturer_id": 20,
   "years": [2026],
   "body_styles": [
     {
@@ -2516,7 +2549,7 @@
   },
   {
   "model_name": "Santa Cruz",
-  "manufacturer": "Hyundai",
+  "manufacturer_id": 20,
   "years": [2026],
   "body_styles": [
     {
@@ -2527,7 +2560,7 @@
   },
   {
   "model_name": "Santa Fe",
-  "manufacturer": "Hyundai",
+  "manufacturer_id": 20,
   "years": [2026],
   "body_styles": [
     {
@@ -2538,7 +2571,7 @@
   },
   {
   "model_name": "Santa Fe Hybrid",
-  "manufacturer": "Hyundai",
+  "manufacturer_id": 20,
   "years": [2026],
   "body_styles": [
     {
@@ -2549,7 +2582,7 @@
   },
   {
   "model_name": "Sonata",
-  "manufacturer": "Hyundai",
+  "manufacturer_id": 20,
   "years": [2026],
   "body_styles": [
     {
@@ -2560,7 +2593,7 @@
   },
   {
   "model_name": "Sonata Hybrid",
-  "manufacturer": "Hyundai",
+  "manufacturer_id": 20,
   "years": [2026],
   "body_styles": [
     {
@@ -2571,7 +2604,7 @@
   },
   {
   "model_name": "Tucson",
-  "manufacturer": "Hyundai",
+  "manufacturer_id": 20,
   "years": [2026],
   "body_styles": [
     {
@@ -2582,7 +2615,7 @@
   },
   {
   "model_name": "Tucson Hybrid",
-  "manufacturer": "Hyundai",
+  "manufacturer_id": 20,
   "years": [2026],
   "body_styles": [
     {
@@ -2593,7 +2626,7 @@
   },
   {
   "model_name": "Tucson Plug-in Hybrid",
-  "manufacturer": "Hyundai",
+  "manufacturer_id": 20,
   "years": [2026],
   "body_styles": [
     {
@@ -2604,7 +2637,7 @@
   },
   {
   "model_name": "Venue",
-  "manufacturer": "Hyundai",
+  "manufacturer_id": 20,
   "years": [2026],
   "body_styles": [
     {
@@ -2615,7 +2648,7 @@
   },
   {
   "model_name": "Grenadier",
-  "manufacturer": "INEOS",
+  "manufacturer_id": 21,
   "years": [2026],
   "body_styles": [
     {
@@ -2626,7 +2659,7 @@
   },
   {
   "model_name": "QX50",
-  "manufacturer": "Infiniti",
+  "manufacturer_id": 22,
   "years": [2026],
   "body_styles": [
     {
@@ -2637,7 +2670,7 @@
   },
   {
   "model_name": "QX55",
-  "manufacturer": "Infiniti",
+  "manufacturer_id": 22,
   "years": [2026],
   "body_styles": [
     {
@@ -2648,7 +2681,7 @@
   },
   {
   "model_name": "QX60",
-  "manufacturer": "Infiniti",
+  "manufacturer_id": 22,
   "years": [2026],
   "body_styles": [
     {
@@ -2659,7 +2692,7 @@
   },
   {
   "model_name": "QX80",
-  "manufacturer": "Infiniti",
+  "manufacturer_id": 22,
   "years": [2026],
   "body_styles": [
     {
@@ -2670,7 +2703,7 @@
   },
   {
   "model_name": "E-Pace",
-  "manufacturer": "Jaguar",
+  "manufacturer_id": 23,
   "years": [2026],
   "body_styles": [
     {
@@ -2681,7 +2714,7 @@
   },
   {
   "model_name": "F-Pace",
-  "manufacturer": "Jaguar",
+  "manufacturer_id": 23,
   "years": [2026],
   "body_styles": [
     {
@@ -2692,7 +2725,7 @@
   },
   {
   "model_name": "I-Pace",
-  "manufacturer": "Jaguar",
+  "manufacturer_id": 23,
   "years": [2026],
   "body_styles": [
     {
@@ -2703,7 +2736,7 @@
   },
   {
   "model_name": "F-Type",
-  "manufacturer": "Jaguar",
+  "manufacturer_id": 23,
   "years": [2026],
   "body_styles": [
     {
@@ -2718,7 +2751,7 @@
   },
   {
   "model_name": "XF",
-  "manufacturer": "Jaguar",
+  "manufacturer_id": 23,
   "years": [2026],
   "body_styles": [
     {
@@ -2729,7 +2762,7 @@
   },
   {
   "model_name": "Compass",
-  "manufacturer": "Jeep",
+  "manufacturer_id": 24,
   "years": [2026],
   "body_styles": [
     {
@@ -2740,7 +2773,7 @@
   },
   {
   "model_name": "Cherokee",
-  "manufacturer": "Jeep",
+  "manufacturer_id": 24,
   "years": [2026],
   "body_styles": [
     {
@@ -2751,7 +2784,7 @@
   },
   {
   "model_name": "Gladiator",
-  "manufacturer": "Jeep",
+  "manufacturer_id": 24,
   "years": [2026],
   "body_styles": [
     {
@@ -2762,7 +2795,7 @@
   },
   {
   "model_name": "Grand Cherokee",
-  "manufacturer": "Jeep",
+  "manufacturer_id": 24,
   "years": [2026],
   "body_styles": [
     {
@@ -2773,7 +2806,7 @@
   },
   {
   "model_name": "Grand Wagoneer",
-  "manufacturer": "Jeep",
+  "manufacturer_id": 24,
   "years": [2026],
   "body_styles": [
     {
@@ -2784,7 +2817,7 @@
   },
   {
   "model_name": "Recon",
-  "manufacturer": "Jeep",
+  "manufacturer_id": 24,
   "years": [2026],
   "body_styles": [
     {
@@ -2795,7 +2828,7 @@
   },
   {
   "model_name": "Wagoneer",
-  "manufacturer": "Jeep",
+  "manufacturer_id": 24,
   "years": [2026],
   "body_styles": [
     {
@@ -2806,7 +2839,7 @@
   },
   {
   "model_name": "Wagoneer S",
-  "manufacturer": "Jeep",
+  "manufacturer_id": 24,
   "years": [2026],
   "body_styles": [
     {
@@ -2817,7 +2850,7 @@
   },
   {
   "model_name": "Wrangler",
-  "manufacturer": "Jeep",
+  "manufacturer_id": 24,
   "years": [2026],
   "body_styles": [
     {
@@ -2828,7 +2861,7 @@
   },
   {
   "model_name": "Amaris",
-  "manufacturer": "Karma",
+  "manufacturer_id": 25,
   "years": [2026],
   "body_styles": [
     {
@@ -2839,7 +2872,7 @@
   },
   {
   "model_name": "Gyesera",
-  "manufacturer": "Karma",
+  "manufacturer_id": 25,
   "years": [2026],
   "body_styles": [
     {
@@ -2850,7 +2883,7 @@
   },
   {
   "model_name": "Kaveya",
-  "manufacturer": "Karma",
+  "manufacturer_id": 25,
   "years": [2026],
   "body_styles": [
     {
@@ -2861,7 +2894,7 @@
   },
   {
   "model_name": "Ivara",
-  "manufacturer": "Karma",
+  "manufacturer_id": 25,
   "years": [2026],
   "body_styles": [
     {
@@ -2872,7 +2905,7 @@
   },
   {
   "model_name": "Invictus",
-  "manufacturer": "Karma",
+  "manufacturer_id": 25,
   "years": [2026],
   "body_styles": [
     {
@@ -2883,7 +2916,7 @@
   },
   {
   "model_name": "Kaveya",
-  "manufacturer": "Karma",
+  "manufacturer_id": 25,
   "years": [2026],
   "body_styles": [
     {
@@ -2894,7 +2927,7 @@
   },
   {
   "model_name": "Revero",
-  "manufacturer": "Karma",
+  "manufacturer_id": 25,
   "years": [2026],
   "body_styles": [
     {
@@ -2905,7 +2938,7 @@
   },
   {
   "model_name": "Carnival MPV",
-  "manufacturer": "Kia",
+  "manufacturer_id": 26,
   "years": [2026],
   "body_styles": [
     {
@@ -2916,7 +2949,7 @@
   },
   {
   "model_name": "Carnival MPV Hybrid",
-  "manufacturer": "Kia",
+  "manufacturer_id": 26,
   "years": [2026],
   "body_styles": [
     {
@@ -2927,7 +2960,7 @@
   },
   {
   "model_name": "EV6",
-  "manufacturer": "Kia",
+  "manufacturer_id": 26,
   "years": [2026],
   "body_styles": [
     {
@@ -2938,7 +2971,7 @@
   },
   {
   "model_name": "EV9",
-  "manufacturer": "Kia",
+  "manufacturer_id": 26,
   "years": [2026],
   "body_styles": [
     {
@@ -2949,7 +2982,7 @@
   },
   {
   "model_name": "K4",
-  "manufacturer": "Kia",
+  "manufacturer_id": 26,
   "years": [2026],
   "body_styles": [
     {
@@ -2964,7 +2997,7 @@
   },
   {
   "model_name": "K5",
-  "manufacturer": "Kia",
+  "manufacturer_id": 26,
   "years": [2026],
   "body_styles": [
     {
@@ -2975,7 +3008,7 @@
   },
   {
   "model_name": "Niro",
-  "manufacturer": "Kia",
+  "manufacturer_id": 26,
   "years": [2026],
   "body_styles": [
     {
@@ -2986,7 +3019,7 @@
   },
   {
   "model_name": "Niro EV",
-  "manufacturer": "Kia",
+  "manufacturer_id": 26,
   "years": [2026],
   "body_styles": [
     {
@@ -2997,7 +3030,7 @@
   },
   {
   "model_name": "Seltos",
-  "manufacturer": "Kia",
+  "manufacturer_id": 26,
   "years": [2026],
   "body_styles": [
     {
@@ -3008,7 +3041,7 @@
   },
   {
   "model_name": "Sorento",
-  "manufacturer": "Kia",
+  "manufacturer_id": 26,
   "years": [2026],
   "body_styles": [
     {
@@ -3019,7 +3052,7 @@
   },
   {
   "model_name": "Sorento Plug-in Hybrid",
-  "manufacturer": "Kia",
+  "manufacturer_id": 26,
   "years": [2026],
   "body_styles": [
     {
@@ -3030,7 +3063,7 @@
   },
   {
   "model_name": "Sorento Hybrid",
-  "manufacturer": "Kia",
+  "manufacturer_id": 26,
   "years": [2026],
   "body_styles": [
     {
@@ -3041,7 +3074,7 @@
   },
   {
   "model_name": "Soul",
-  "manufacturer": "Kia",
+  "manufacturer_id": 26,
   "years": [2026],
   "body_styles": [
     {
@@ -3052,7 +3085,7 @@
   },
   {
   "model_name": "Sportage",
-  "manufacturer": "Kia",
+  "manufacturer_id": 26,
   "years": [2026],
   "body_styles": [
     {
@@ -3063,7 +3096,7 @@
   },
   {
   "model_name": "Sportage Hybrid",
-  "manufacturer": "Kia",
+  "manufacturer_id": 26,
   "years": [2026],
   "body_styles": [
     {
@@ -3074,7 +3107,7 @@
   },
   {
   "model_name": "Sportage Plug-in Hybrid",
-  "manufacturer": "Kia",
+  "manufacturer_id": 26,
   "years": [2026],
   "body_styles": [
     {
@@ -3085,7 +3118,7 @@
   },
   {
   "model_name": "Telluride",
-  "manufacturer": "Kia",
+  "manufacturer_id": 26,
   "years": [2026],
   "body_styles": [
     {
@@ -3096,7 +3129,7 @@
   },
   {
   "model_name": "CC850",
-  "manufacturer": "Koenigsegg",
+  "manufacturer_id": 27,
   "years": [2026],
   "body_styles": [
     {
@@ -3107,7 +3140,7 @@
   },
   {
   "model_name": "Gemera",
-  "manufacturer": "Koenigsegg",
+  "manufacturer_id": 27,
   "years": [2026],
   "body_styles": [
     {
@@ -3118,7 +3151,7 @@
   },
   {
   "model_name": "Jesko Absolut",
-  "manufacturer": "Koenigsegg",
+  "manufacturer_id": 27,
   "years": [2026],
   "body_styles": [
     {
@@ -3129,7 +3162,7 @@
   },
   {
   "model_name": "Jesko Attack",
-  "manufacturer": "Koenigsegg",
+  "manufacturer_id": 27,
   "years": [2026],
   "body_styles": [
     {
@@ -3140,7 +3173,7 @@
   },
   {
   "model_name": "Countach LP 800-4",
-  "manufacturer": "Lamborghini",
+  "manufacturer_id": 28,
   "years": [2026],
   "body_styles": [
     {
@@ -3151,7 +3184,7 @@
   },
   {
   "model_name": "Fenomeno",
-  "manufacturer": "Lamborghini",
+  "manufacturer_id": 28,
   "years": [2026],
   "body_styles": [
     {
@@ -3162,7 +3195,7 @@
   },
   {
   "model_name": "Huracan",
-  "manufacturer": "Lamborghini",
+  "manufacturer_id": 28,
   "years": [2026],
   "body_styles": [
     {
@@ -3173,7 +3206,7 @@
   },
   {
   "model_name": "Revuelto",
-  "manufacturer": "Lamborghini",
+  "manufacturer_id": 28,
   "years": [2026],
   "body_styles": [
     {
@@ -3184,7 +3217,7 @@
   },
   {
   "model_name": "Sian FKP 37",
-  "manufacturer": "Lamborghini",
+  "manufacturer_id": 28,
   "years": [2026],
   "body_styles": [
     {
@@ -3195,7 +3228,7 @@
   },
   {
   "model_name": "Sian Roadster",
-  "manufacturer": "Lamborghini",
+  "manufacturer_id": 28,
   "years": [2026],
   "body_styles": [
     {
@@ -3206,7 +3239,7 @@
   },
   {
   "model_name": "Temerario",
-  "manufacturer": "Lamborghini",
+  "manufacturer_id": 28,
   "years": [2026],
   "body_styles": [
     {
@@ -3217,7 +3250,7 @@
   },
   {
   "model_name": "Urus",
-  "manufacturer": "Lamborghini",
+  "manufacturer_id": 28,
   "years": [2026],
   "body_styles": [
     {
@@ -3228,7 +3261,7 @@
   },
   {
   "model_name": "Defender",
-  "manufacturer": "Land Rover",
+  "manufacturer_id": 29,
   "years": [2026],
   "body_styles": [
     {
@@ -3239,7 +3272,7 @@
   },
   {
   "model_name": "Discovery",
-  "manufacturer": "Land Rover",
+  "manufacturer_id": 29,
   "years": [2026],
   "body_styles": [
     {
@@ -3250,7 +3283,7 @@
   },
   {
   "model_name": "Range Rover",
-  "manufacturer": "Land Rover",
+  "manufacturer_id": 29,
   "years": [2026],
   "body_styles": [
     {
@@ -3261,7 +3294,7 @@
   },
   {
   "model_name": "ES",
-  "manufacturer": "Lexus",
+  "manufacturer_id": 30,
   "years": [2026],
   "body_styles": [
     {
@@ -3272,7 +3305,7 @@
   },
   {
   "model_name": "GX",
-  "manufacturer": "Lexus",
+  "manufacturer_id": 30,
   "years": [2026],
   "body_styles": [
     {
@@ -3283,7 +3316,7 @@
   },
   {
   "model_name": "IS",
-  "manufacturer": "Lexus",
+  "manufacturer_id": 30,
   "years": [2026],
   "body_styles": [
     {
@@ -3294,7 +3327,7 @@
   },
   {
   "model_name": "LC",
-  "manufacturer": "Lexus",
+  "manufacturer_id": 30,
   "years": [2026],
   "body_styles": [
     {
@@ -3309,7 +3342,7 @@
   },
   {
   "model_name": "LS",
-  "manufacturer": "Lexus",
+  "manufacturer_id": 30,
   "years": [2026],
   "body_styles": [
     {
@@ -3320,7 +3353,7 @@
   },
   {
   "model_name": "LX",
-  "manufacturer": "Lexus",
+  "manufacturer_id": 30,
   "years": [2026],
   "body_styles": [
     {
@@ -3331,7 +3364,7 @@
   },
   {
   "model_name": "NX",
-  "manufacturer": "Lexus",
+  "manufacturer_id": 30,
   "years": [2026],
   "body_styles": [
     {
@@ -3342,7 +3375,7 @@
   },
   {
   "model_name": "RX",
-  "manufacturer": "Lexus",
+  "manufacturer_id": 30,
   "years": [2026],
   "body_styles": [
     {
@@ -3353,7 +3386,7 @@
   },
   {
   "model_name": "RZ",
-  "manufacturer": "Lexus",
+  "manufacturer_id": 30,
   "years": [2026],
   "body_styles": [
     {
@@ -3364,7 +3397,7 @@
   },
   {
   "model_name": "TX",
-  "manufacturer": "Lexus",
+  "manufacturer_id": 30,
   "years": [2026],
   "body_styles": [
     {
@@ -3375,7 +3408,7 @@
   },
   {
   "model_name": "UX Hybrid",
-  "manufacturer": "Lexus",
+  "manufacturer_id": 30,
   "years": [2026],
   "body_styles": [
     {
@@ -3386,7 +3419,7 @@
   },
   {
   "model_name": "Aviator",
-  "manufacturer": "Lincoln",
+  "manufacturer_id": 31,
   "years": [2026],
   "body_styles": [
     {
@@ -3397,7 +3430,7 @@
   },
   {
   "model_name": "Corsair",
-  "manufacturer": "Lincoln",
+  "manufacturer_id": 31,
   "years": [2026],
   "body_styles": [
     {
@@ -3408,7 +3441,7 @@
   },
   {
   "model_name": "Navigator",
-  "manufacturer": "Lincoln",
+  "manufacturer_id": 31,
   "years": [2026],
   "body_styles": [
     {
@@ -3419,7 +3452,7 @@
   },
   {
   "model_name": "Nautilus",
-  "manufacturer": "Lincoln",
+  "manufacturer_id": 31,
   "years": [2026],
   "body_styles": [
     {
@@ -3430,7 +3463,7 @@
   },
   {
   "model_name": "Eletre",
-  "manufacturer": "Lotus",
+  "manufacturer_id": 32,
   "years": [2026],
   "body_styles": [
     {
@@ -3441,7 +3474,7 @@
   },
   {
   "model_name": "Emira",
-  "manufacturer": "Lotus",
+  "manufacturer_id": 32,
   "years": [2026],
   "body_styles": [
     {
@@ -3452,7 +3485,7 @@
   },
   {
   "model_name": "Air",
-  "manufacturer": "Lucid",
+  "manufacturer_id": 33,
   "years": [2026],
   "body_styles": [
     {
@@ -3463,7 +3496,7 @@
   },
   {
   "model_name": "Gravity",
-  "manufacturer": "Lucid",
+  "manufacturer_id": 33,
   "years": [2026],
   "body_styles": [
     {
@@ -3474,7 +3507,7 @@
   },
   {
   "model_name": "Granturismo",
-  "manufacturer": "Maserati",
+  "manufacturer_id": 34,
   "years": [2026],
   "body_styles": [
     {
@@ -3485,7 +3518,7 @@
   },
   {
   "model_name": "Grancabrio",
-  "manufacturer": "Maserati",
+  "manufacturer_id": 34,
   "years": [2026],
   "body_styles": [
     {
@@ -3496,7 +3529,7 @@
   },
   {
   "model_name": "Greciale",
-  "manufacturer": "Maserati",
+  "manufacturer_id": 34,
   "years": [2026],
   "body_styles": [
     {
@@ -3507,7 +3540,7 @@
   },
   {
   "model_name": "GT2 Stradale",
-  "manufacturer": "Maserati",
+  "manufacturer_id": 34,
   "years": [2026],
   "body_styles": [
     {
@@ -3518,7 +3551,7 @@
   },
   {
   "model_name": "MCPura",
-  "manufacturer": "Maserati",
+  "manufacturer_id": 34,
   "years": [2026],
   "body_styles": [
     {
@@ -3529,7 +3562,7 @@
   },
   {
   "model_name": "3",
-  "manufacturer": "Mazda",
+  "manufacturer_id": 35,
   "years": [2026],
   "body_styles": [
     {
@@ -3544,7 +3577,7 @@
   },
   {
   "model_name": "CX-30",
-  "manufacturer": "Mazda",
+  "manufacturer_id": 35,
   "years": [2026],
   "body_styles": [
     {
@@ -3555,7 +3588,7 @@
   },
   {
   "model_name": "CX-5",
-  "manufacturer": "Mazda",
+  "manufacturer_id": 35,
   "years": [2026],
   "body_styles": [
     {
@@ -3566,7 +3599,7 @@
   },
   {
   "model_name": "CX-50",
-  "manufacturer": "Mazda",
+  "manufacturer_id": 35,
   "years": [2026],
   "body_styles": [
     {
@@ -3577,7 +3610,7 @@
   },
   {
   "model_name": "CX-50 Hybrid",
-  "manufacturer": "Mazda",
+  "manufacturer_id": 35,
   "years": [2026],
   "body_styles": [
     {
@@ -3588,7 +3621,7 @@
   },
   {
   "model_name": "CX-70",
-  "manufacturer": "Mazda",
+  "manufacturer_id": 35,
   "years": [2026],
   "body_styles": [
     {
@@ -3599,7 +3632,7 @@
   },
   {
   "model_name": "CX-70 PHEV",
-  "manufacturer": "Mazda",
+  "manufacturer_id": 35,
   "years": [2026],
   "body_styles": [
     {
@@ -3610,7 +3643,7 @@
   },
   {
   "model_name": "CX-90",
-  "manufacturer": "Mazda",
+  "manufacturer_id": 35,
   "years": [2026],
   "body_styles": [
     {
@@ -3621,7 +3654,7 @@
   },
   {
   "model_name": "CX-90 PHEV",
-  "manufacturer": "Mazda",
+  "manufacturer_id": 35,
   "years": [2026],
   "body_styles": [
     {
@@ -3632,7 +3665,7 @@
   },
   {
   "model_name": "MX-5 Miata",
-  "manufacturer": "Mazda",
+  "manufacturer_id": 35,
   "years": [2026],
   "body_styles": [
     {
@@ -3643,7 +3676,7 @@
   },
   {
   "model_name": "MX-5 Miata RF",
-  "manufacturer": "Mazda",
+  "manufacturer_id": 35,
   "years": [2026],
   "body_styles": [
     {
@@ -3654,7 +3687,7 @@
   },
   {
   "model_name": "750S",
-  "manufacturer": "McLaren",
+  "manufacturer_id": 36,
   "years": [2026],
   "body_styles": [
     {
@@ -3665,7 +3698,7 @@
   },
   {
   "model_name": "7500S Spider",
-  "manufacturer": "McLaren",
+  "manufacturer_id": 36,
   "years": [2026],
   "body_styles": [
     {
@@ -3676,7 +3709,7 @@
   },
   {
   "model_name": "Artura",
-  "manufacturer": "McLaren",
+  "manufacturer_id": 36,
   "years": [2026],
   "body_styles": [
     {
@@ -3687,7 +3720,7 @@
   },
   {
   "model_name": "Artura Spider",
-  "manufacturer": "McLaren",
+  "manufacturer_id": 36,
   "years": [2026],
   "body_styles": [
     {
@@ -3698,7 +3731,7 @@
   },
   {
   "model_name": "GTS",
-  "manufacturer": "McLaren",
+  "manufacturer_id": 36,
   "years": [2026],
   "body_styles": [
     {
@@ -3709,7 +3742,7 @@
   },
   {
   "model_name": "W1",
-  "manufacturer": "McLaren",
+  "manufacturer_id": 36,
   "years": [2026],
   "body_styles": [
     {
@@ -3720,7 +3753,7 @@
   },
   {
   "model_name": "AMG GT 43 4-door Coupe",
-  "manufacturer": "Mercedes Benz",
+  "manufacturer_id": 37,
   "years": [2026],
   "body_styles": [
     {
@@ -3731,7 +3764,7 @@
   },
   {
   "model_name": "AMG GT 43 Coupe",
-  "manufacturer": "Mercedes Benz",
+  "manufacturer_id": 37,
   "years": [2026],
   "body_styles": [
     {
@@ -3742,7 +3775,7 @@
   },
   {
   "model_name": "AMG GT 53 4-door Coupe",
-  "manufacturer": "Mercedes Benz",
+  "manufacturer_id": 37,
   "years": [2026],
   "body_styles": [
     {
@@ -3753,7 +3786,7 @@
   },
   {
   "model_name": "AMG GT 55 Coupe",
-  "manufacturer": "Mercedes Benz",
+  "manufacturer_id": 37,
   "years": [2026],
   "body_styles": [
     {
@@ -3764,7 +3797,7 @@
   },
   {
   "model_name": "AMG GT 63 Coupe",
-  "manufacturer": "Mercedes Benz",
+  "manufacturer_id": 37,
   "years": [2026],
   "body_styles": [
     {
@@ -3775,7 +3808,7 @@
   },
   {
   "model_name": "AMG GT 63 4-door Coupe",
-  "manufacturer": "Mercedes Benz",
+  "manufacturer_id": 37,
   "years": [2026],
   "body_styles": [
     {
@@ -3786,7 +3819,7 @@
   },
   {
   "model_name": "AMG GT 63 S E Performance AMG 4-door Coupe",
-  "manufacturer": "Mercedes Benz",
+  "manufacturer_id": 37,
   "years": [2026],
   "body_styles": [
     {
@@ -3797,7 +3830,7 @@
   },
   {
   "model_name": "AMG GT 63 S E Performance AMG Coupe",
-  "manufacturer": "Mercedes Benz",
+  "manufacturer_id": 37,
   "years": [2026],
   "body_styles": [
     {
@@ -3808,7 +3841,7 @@
   },
   {
   "model_name": "AMG GT 63 Pro 4MATIC+",
-  "manufacturer": "Mercedes Benz",
+  "manufacturer_id": 37,
   "years": [2026],
   "body_styles": [
     {
@@ -3819,7 +3852,7 @@
   },
   {
   "model_name": "AMG ONE",
-  "manufacturer": "Mercedes Benz",
+  "manufacturer_id": 37,
   "years": [2026],
   "body_styles": [
     {
@@ -3830,7 +3863,7 @@
   },
   {
   "model_name": "C 300",
-  "manufacturer": "Mercedes Benz",
+  "manufacturer_id": 37,
   "years": [2026],
   "body_styles": [
     {
@@ -3841,7 +3874,7 @@
   },
   {
   "model_name": "C 300 4MATIC",
-  "manufacturer": "Mercedes Benz",
+  "manufacturer_id": 37,
   "years": [2026],
   "body_styles": [
     {
@@ -3852,7 +3885,7 @@
   },
   {
   "model_name": "C 43 AMG",
-  "manufacturer": "Mercedes Benz",
+  "manufacturer_id": 37,
   "years": [2026],
   "body_styles": [
     {
@@ -3863,7 +3896,7 @@
   },
   {
   "model_name": "C 63 S E Performance AMG",
-  "manufacturer": "Mercedes Benz",
+  "manufacturer_id": 37,
   "years": [2026],
   "body_styles": [
     {
@@ -3874,7 +3907,7 @@
   },
   {
   "model_name": "CLA 250 Coupe",
-  "manufacturer": "Mercedes Benz",
+  "manufacturer_id": 37,
   "years": [2026],
   "body_styles": [
     {
@@ -3885,7 +3918,7 @@
   },
   {
   "model_name": "CLA 250 4MATIC Coupe",
-  "manufacturer": "Mercedes Benz",
+  "manufacturer_id": 37,
   "years": [2026],
   "body_styles": [
     {
@@ -3896,7 +3929,7 @@
   },
   {
   "model_name": "CLA 250+ with EQ Technology",
-  "manufacturer": "Mercedes Benz",
+  "manufacturer_id": 37,
   "years": [2026],
   "body_styles": [
     {
@@ -3907,7 +3940,7 @@
   },
   {
   "model_name": "CLA 35 AMG Coupe",
-  "manufacturer": "Mercedes Benz",
+  "manufacturer_id": 37,
   "years": [2026],
   "body_styles": [
     {
@@ -3918,7 +3951,7 @@
   },
   {
   "model_name": "CLA 350 4MATIC with EQ Technology",
-  "manufacturer": "Mercedes Benz",
+  "manufacturer_id": 37,
   "years": [2026],
   "body_styles": [
     {
@@ -3929,7 +3962,7 @@
   },
   {
   "model_name": "CLA 45 S AMG Coupe",
-  "manufacturer": "Mercedes Benz",
+  "manufacturer_id": 37,
   "years": [2026],
   "body_styles": [
     {
@@ -3940,7 +3973,7 @@
   },
   {
   "model_name": "CLE 300 4MATIC",
-  "manufacturer": "Mercedes Benz",
+  "manufacturer_id": 37,
   "years": [2026],
   "body_styles": [
     {
@@ -3951,7 +3984,7 @@
   },
   {
   "model_name": "CLE 300 4MATIC Cabriolet",
-  "manufacturer": "Mercedes Benz",
+  "manufacturer_id": 37,
   "years": [2026],
   "body_styles": [
     {
@@ -3962,7 +3995,7 @@
   },
   {
   "model_name": "CLE 450 4MATIC",
-  "manufacturer": "Mercedes Benz",
+  "manufacturer_id": 37,
   "years": [2026],
   "body_styles": [
     {
@@ -3973,7 +4006,7 @@
   },
   {
   "model_name": "CLE 450 4MATIC Cabriolet",
-  "manufacturer": "Mercedes Benz",
+  "manufacturer_id": 37,
   "years": [2026],
   "body_styles": [
     {
@@ -3984,7 +4017,7 @@
   },
   {
   "model_name": "CLE 53 AMG",
-  "manufacturer": "Mercedes Benz",
+  "manufacturer_id": 37,
   "years": [2026],
   "body_styles": [
     {
@@ -3995,7 +4028,7 @@
   },
   {
   "model_name": "CLE 53 AMG Cabriolet",
-  "manufacturer": "Mercedes Benz",
+  "manufacturer_id": 37,
   "years": [2026],
   "body_styles": [
     {
@@ -4006,7 +4039,7 @@
   },
   {
   "model_name": "E 350",
-  "manufacturer": "Mercedes Benz",
+  "manufacturer_id": 37,
   "years": [2026],
   "body_styles": [
     {
@@ -4017,7 +4050,7 @@
   },
   {
   "model_name": "E 350 4MATIC",
-  "manufacturer": "Mercedes Benz",
+  "manufacturer_id": 37,
   "years": [2026],
   "body_styles": [
     {
@@ -4028,7 +4061,7 @@
   },
   {
   "model_name": "E 450 4MATIC",
-  "manufacturer": "Mercedes Benz",
+  "manufacturer_id": 37,
   "years": [2026],
   "body_styles": [
     {
@@ -4039,7 +4072,7 @@
   },
   {
   "model_name": "E 450 4MATIC All-Terrain",
-  "manufacturer": "Mercedes Benz",
+  "manufacturer_id": 37,
   "years": [2026],
   "body_styles": [
     {
@@ -4050,7 +4083,7 @@
   },
   {
   "model_name": "E 53 Hybrid AMG",
-  "manufacturer": "Mercedes Benz",
+  "manufacturer_id": 37,
   "years": [2026],
   "body_styles": [
     {
@@ -4065,7 +4098,7 @@
   },
   {
   "model_name": "EQB 250+",
-  "manufacturer": "Mercedes Benz",
+  "manufacturer_id": 37,
   "years": [2026],
   "body_styles": [
     {
@@ -4076,7 +4109,7 @@
   },
   {
   "model_name": "EQB 300 4MATIC",
-  "manufacturer": "Mercedes Benz",
+  "manufacturer_id": 37,
   "years": [2026],
   "body_styles": [
     {
@@ -4087,7 +4120,7 @@
   },
   {
   "model_name": "EQB 350 4MATIC",
-  "manufacturer": "Mercedes Benz",
+  "manufacturer_id": 37,
   "years": [2026],
   "body_styles": [
     {
@@ -4098,7 +4131,7 @@
   },
   {
   "model_name": "EQE 320+",
-  "manufacturer": "Mercedes Benz",
+  "manufacturer_id": 37,
   "years": [2026],
   "body_styles": [
     {
@@ -4113,7 +4146,7 @@
   },
   {
   "model_name": "EQE 320 4MATIC",
-  "manufacturer": "Mercedes Benz",
+  "manufacturer_id": 37,
   "years": [2026],
   "body_styles": [
     {
@@ -4128,7 +4161,7 @@
   },
   {
   "model_name": "EQE AMG",
-  "manufacturer": "Mercedes Benz",
+  "manufacturer_id": 37,
   "years": [2026],
   "body_styles": [
     {
@@ -4143,7 +4176,7 @@
   },
   {
   "model_name": "EQS 400 4MATIC",
-  "manufacturer": "Mercedes Benz",
+  "manufacturer_id": 37,
   "years": [2026],
   "body_styles": [
     {
@@ -4154,7 +4187,7 @@
   },
   {
   "model_name": "EQS 450+",
-  "manufacturer": "Mercedes Benz",
+  "manufacturer_id": 37,
   "years": [2026],
   "body_styles": [
     {
@@ -4165,7 +4198,7 @@
   },
   {
   "model_name": "EQS 450 4MATIC",
-  "manufacturer": "Mercedes Benz",
+  "manufacturer_id": 37,
   "years": [2026],
   "body_styles": [
     {
@@ -4176,7 +4209,7 @@
   },
   {
   "model_name": "EQS 550 4MATIC",
-  "manufacturer": "Mercedes Benz",
+  "manufacturer_id": 37,
   "years": [2026],
   "body_styles": [
     {
@@ -4187,7 +4220,7 @@
   },
   {
   "model_name": "EQS 580 4MATIC",
-  "manufacturer": "Mercedes Benz",
+  "manufacturer_id": 37,
   "years": [2026],
   "body_styles": [
     {
@@ -4198,7 +4231,7 @@
   },
   {
   "model_name": "G 550",
-  "manufacturer": "Mercedes Benz",
+  "manufacturer_id": 37,
   "years": [2026],
   "body_styles": [
     {
@@ -4209,7 +4242,7 @@
   },
   {
   "model_name": "G 580 with EQ Technology",
-  "manufacturer": "Mercedes Benz",
+  "manufacturer_id": 37,
   "years": [2026],
   "body_styles": [
     {
@@ -4220,7 +4253,7 @@
   },
   {
   "model_name": "G 63 AMG",
-  "manufacturer": "Mercedes Benz",
+  "manufacturer_id": 37,
   "years": [2026],
   "body_styles": [
     {
@@ -4231,7 +4264,7 @@
   },
   {
   "model_name": "GLA 250",
-  "manufacturer": "Mercedes Benz",
+  "manufacturer_id": 37,
   "years": [2026],
   "body_styles": [
     {
@@ -4242,7 +4275,7 @@
   },
   {
   "model_name": "GLA 250 4MATIC",
-  "manufacturer": "Mercedes Benz",
+  "manufacturer_id": 37,
   "years": [2026],
   "body_styles": [
     {
@@ -4253,7 +4286,7 @@
   },
   {
   "model_name": "GLA 35 AMG",
-  "manufacturer": "Mercedes Benz",
+  "manufacturer_id": 37,
   "years": [2026],
   "body_styles": [
     {
@@ -4264,7 +4297,7 @@
   },
   {
   "model_name": "GLB 250",
-  "manufacturer": "Mercedes Benz",
+  "manufacturer_id": 37,
   "years": [2026],
   "body_styles": [
     {
@@ -4275,7 +4308,7 @@
   },
   {
   "model_name": "GLB 250 4MATIC",
-  "manufacturer": "Mercedes Benz",
+  "manufacturer_id": 37,
   "years": [2026],
   "body_styles": [
     {
@@ -4286,7 +4319,7 @@
   },
   {
   "model_name": "GLB 35 AMG",
-  "manufacturer": "Mercedes Benz",
+  "manufacturer_id": 37,
   "years": [2026],
   "body_styles": [
     {
@@ -4297,7 +4330,7 @@
   },
   {
   "model_name": "GLC 300",
-  "manufacturer": "Mercedes Benz",
+  "manufacturer_id": 37,
   "years": [2026],
   "body_styles": [
     {
@@ -4308,7 +4341,7 @@
   },
   {
   "model_name": "GLC 300 4MATIC",
-  "manufacturer": "Mercedes Benz",
+  "manufacturer_id": 37,
   "years": [2026],
   "body_styles": [
     {
@@ -4319,7 +4352,7 @@
   },
   {
   "model_name": "GLC 300 4MATIC Coupe",
-  "manufacturer": "Mercedes Benz",
+  "manufacturer_id": 37,
   "years": [2026],
   "body_styles": [
     {
@@ -4330,7 +4363,7 @@
   },
   {
   "model_name": "GLC 350e 4MATIC",
-  "manufacturer": "Mercedes Benz",
+  "manufacturer_id": 37,
   "years": [2026],
   "body_styles": [
     {
@@ -4341,7 +4374,7 @@
   },
   {
   "model_name": "GLC 43 AMG",
-  "manufacturer": "Mercedes Benz",
+  "manufacturer_id": 37,
   "years": [2026],
   "body_styles": [
     {
@@ -4352,7 +4385,7 @@
   },
   {
   "model_name": "GLC 43 AMG Coupe",
-  "manufacturer": "Mercedes Benz",
+  "manufacturer_id": 37,
   "years": [2026],
   "body_styles": [
     {
@@ -4363,7 +4396,7 @@
   },
   {
   "model_name": "GLC 63 S AMG",
-  "manufacturer": "Mercedes Benz",
+  "manufacturer_id": 37,
   "years": [2026],
   "body_styles": [
     {
@@ -4374,7 +4407,7 @@
   },
   {
   "model_name": "GLC 63 S AMG Coupe",
-  "manufacturer": "Mercedes Benz",
+  "manufacturer_id": 37,
   "years": [2026],
   "body_styles": [
     {
@@ -4385,7 +4418,7 @@
   },
   {
   "model_name": "GLE 350",
-  "manufacturer": "Mercedes Benz",
+  "manufacturer_id": 37,
   "years": [2026],
   "body_styles": [
     {
@@ -4396,7 +4429,7 @@
   },
   {
   "model_name": "GLE 350 4MATIC",
-  "manufacturer": "Mercedes Benz",
+  "manufacturer_id": 37,
   "years": [2026],
   "body_styles": [
     {
@@ -4407,7 +4440,7 @@
   },
   {
   "model_name": "GLE 450 4MATIC",
-  "manufacturer": "Mercedes Benz",
+  "manufacturer_id": 37,
   "years": [2026],
   "body_styles": [
     {
@@ -4418,7 +4451,7 @@
   },
   {
   "model_name": "GLE 450 4MATIC Coupe",
-  "manufacturer": "Mercedes Benz",
+  "manufacturer_id": 37,
   "years": [2026],
   "body_styles": [
     {
@@ -4429,7 +4462,7 @@
   },
   {
   "model_name": "GLE 450e 4MATIC",
-  "manufacturer": "Mercedes Benz",
+  "manufacturer_id": 37,
   "years": [2026],
   "body_styles": [
     {
@@ -4440,7 +4473,7 @@
   },
   {
   "model_name": "GLE 580 4MATIC",
-  "manufacturer": "Mercedes Benz",
+  "manufacturer_id": 37,
   "years": [2026],
   "body_styles": [
     {
@@ -4451,7 +4484,7 @@
   },
   {
   "model_name": "GLE 53 4MATIC+ AMG",
-  "manufacturer": "Mercedes Benz",
+  "manufacturer_id": 37,
   "years": [2026],
   "body_styles": [
     {
@@ -4462,7 +4495,7 @@
   },
   {
   "model_name": "GLE 53 AMG Coupe",
-  "manufacturer": "Mercedes Benz",
+  "manufacturer_id": 37,
   "years": [2026],
   "body_styles": [
     {
@@ -4473,7 +4506,7 @@
   },
   {
   "model_name": "GLE 63 S 4MATIC AMG",
-  "manufacturer": "Mercedes Benz",
+  "manufacturer_id": 37,
   "years": [2026],
   "body_styles": [
     {
@@ -4484,7 +4517,7 @@
   },
   {
   "model_name": "GLE 63 S AMG Coupe",
-  "manufacturer": "Mercedes Benz",
+  "manufacturer_id": 37,
   "years": [2026],
   "body_styles": [
     {
@@ -4495,7 +4528,7 @@
   },
   {
   "model_name": "GLS 450 4MATIC",
-  "manufacturer": "Mercedes Benz",
+  "manufacturer_id": 37,
   "years": [2026],
   "body_styles": [
     {
@@ -4506,7 +4539,7 @@
   },
   {
   "model_name": "GLS 580 4MATIC",
-  "manufacturer": "Mercedes Benz",
+  "manufacturer_id": 37,
   "years": [2026],
   "body_styles": [
     {
@@ -4517,7 +4550,7 @@
   },
   {
   "model_name": "GLS 63 AMG",
-  "manufacturer": "Mercedes Benz",
+  "manufacturer_id": 37,
   "years": [2026],
   "body_styles": [
     {
@@ -4528,7 +4561,7 @@
   },
   {
   "model_name": "Maybach EQS 680",
-  "manufacturer": "Mercedes Benz",
+  "manufacturer_id": 37,
   "years": [2026],
   "body_styles": [
     {
@@ -4539,7 +4572,7 @@
   },
   {
   "model_name": "Maybach GLS 600",
-  "manufacturer": "Mercedes Benz",
+  "manufacturer_id": 37,
   "years": [2026],
   "body_styles": [
     {
@@ -4550,7 +4583,7 @@
   },
   {
   "model_name": "Maybach S 580 4MATIC",
-  "manufacturer": "Mercedes Benz",
+  "manufacturer_id": 37,
   "years": [2026],
   "body_styles": [
     {
@@ -4561,7 +4594,7 @@
   },
   {
   "model_name": "Maybach S 680 4MATIC",
-  "manufacturer": "Mercedes Benz",
+  "manufacturer_id": 37,
   "years": [2026],
   "body_styles": [
     {
@@ -4572,7 +4605,7 @@
   },
   {
   "model_name": "S 500 4MATIC",
-  "manufacturer": "Mercedes Benz",
+  "manufacturer_id": 37,
   "years": [2026],
   "body_styles": [
     {
@@ -4583,7 +4616,7 @@
   },
   {
   "model_name": "S 580 4MATIC",
-  "manufacturer": "Mercedes Benz",
+  "manufacturer_id": 37,
   "years": [2026],
   "body_styles": [
     {
@@ -4594,7 +4627,7 @@
   },
   {
   "model_name": "S 580e 4MATIC",
-  "manufacturer": "Mercedes Benz",
+  "manufacturer_id": 37,
   "years": [2026],
   "body_styles": [
     {
@@ -4605,7 +4638,7 @@
   },
   {
   "model_name": "S 63 S E Performance AMG",
-  "manufacturer": "Mercedes Benz",
+  "manufacturer_id": 37,
   "years": [2026],
   "body_styles": [
     {
@@ -4616,7 +4649,7 @@
   },
   {
   "model_name": "SL 43 AMG",
-  "manufacturer": "Mercedes Benz",
+  "manufacturer_id": 37,
   "years": [2026],
   "body_styles": [
     {
@@ -4627,7 +4660,7 @@
   },
   {
   "model_name": "SL 55 AMG",
-  "manufacturer": "Mercedes Benz",
+  "manufacturer_id": 37,
   "years": [2026],
   "body_styles": [
     {
@@ -4638,7 +4671,7 @@
   },
   {
   "model_name": "SL 63 AMG",
-  "manufacturer": "Mercedes Benz",
+  "manufacturer_id": 37,
   "years": [2026],
   "body_styles": [
     {
@@ -4649,7 +4682,7 @@
   },
   {
   "model_name": "SL 63 S E Performance AMG",
-  "manufacturer": "Mercedes Benz",
+  "manufacturer_id": 37,
   "years": [2026],
   "body_styles": [
     {
@@ -4660,7 +4693,7 @@
   },
   {
   "model_name": "Cooper",
-  "manufacturer": "Mini",
+  "manufacturer_id": 38,
   "years": [2026],
   "body_styles": [
     {
@@ -4679,7 +4712,7 @@
   },
   {
   "model_name": "Countryman",
-  "manufacturer": "Mini",
+  "manufacturer_id": 38,
   "years": [2026],
   "body_styles": [
     {
@@ -4690,7 +4723,7 @@
   },
   {
   "model_name": "Countryman SE",
-  "manufacturer": "Mini",
+  "manufacturer_id": 38,
   "years": [2026],
   "body_styles": [
     {
@@ -4701,7 +4734,7 @@
   },
   {
   "model_name": "Eclipse Cross",
-  "manufacturer": "Mitsubishi",
+  "manufacturer_id": 39,
   "years": [2026],
   "body_styles": [
     {
@@ -4712,7 +4745,7 @@
   },
   {
   "model_name": "Outlander",
-  "manufacturer": "Mitsubishi",
+  "manufacturer_id": 39,
   "years": [2026],
   "body_styles": [
     {
@@ -4723,7 +4756,7 @@
   },
   {
   "model_name": "Outlander Sport",
-  "manufacturer": "Mitsubishi",
+  "manufacturer_id": 39,
   "years": [2026],
   "body_styles": [
     {
@@ -4734,7 +4767,7 @@
   },
   {
   "model_name": "Outlander PHEV",
-  "manufacturer": "Mitsubishi",
+  "manufacturer_id": 39,
   "years": [2026],
   "body_styles": [
     {
@@ -4745,7 +4778,7 @@
   },
   {
   "model_name": "Outlander Trail Edition",
-  "manufacturer": "Mitsubishi",
+  "manufacturer_id": 39,
   "years": [2026],
   "body_styles": [
     {
@@ -4756,7 +4789,7 @@
   },
   {
   "model_name": "Altima",
-  "manufacturer": "Nissan",
+  "manufacturer_id": 40,
   "years": [2026],
   "body_styles": [
     {
@@ -4767,7 +4800,7 @@
   },
   {
   "model_name": "Armada",
-  "manufacturer": "Nissan",
+  "manufacturer_id": 40,
   "years": [2026],
   "body_styles": [
     {
@@ -4778,7 +4811,7 @@
   },
   {
   "model_name": "Frontier",
-  "manufacturer": "Nissan",
+  "manufacturer_id": 40,
   "years": [2026],
   "body_styles": [
     {
@@ -4789,7 +4822,7 @@
   },
   {
   "model_name": "Kicks",
-  "manufacturer": "Nissan",
+  "manufacturer_id": 40,
   "years": [2026],
   "body_styles": [
     {
@@ -4800,7 +4833,7 @@
   },
   {
   "model_name": "Kicks Play",
-  "manufacturer": "Nissan",
+  "manufacturer_id": 40,
   "years": [2026],
   "body_styles": [
     {
@@ -4811,7 +4844,7 @@
   },
   {
   "model_name": "LEAF",
-  "manufacturer": "Nissan",
+  "manufacturer_id": 40,
   "years": [2026],
   "body_styles": [
     {
@@ -4822,7 +4855,7 @@
   },
   {
   "model_name": "Murano",
-  "manufacturer": "Nissan",
+  "manufacturer_id": 40,
   "years": [2026],
   "body_styles": [
     {
@@ -4833,7 +4866,7 @@
   },
   {
   "model_name": "Pathfinder",
-  "manufacturer": "Nissan",
+  "manufacturer_id": 40,
   "years": [2026],
   "body_styles": [
     {
@@ -4844,7 +4877,7 @@
   },
   {
   "model_name": "Rogue",
-  "manufacturer": "Nissan",
+  "manufacturer_id": 40,
   "years": [2026],
   "body_styles": [
     {
@@ -4855,7 +4888,7 @@
   },
   {
   "model_name": "Sentra",
-  "manufacturer": "Nissan",
+  "manufacturer_id": 40,
   "years": [2026],
   "body_styles": [
     {
@@ -4866,7 +4899,7 @@
   },
   {
   "model_name": "Versa",
-  "manufacturer": "Nissan",
+  "manufacturer_id": 40,
   "years": [2026],
   "body_styles": [
     {
@@ -4877,7 +4910,7 @@
   },
   {
   "model_name": "Z",
-  "manufacturer": "Nissan",
+  "manufacturer_id": 40,
   "years": [2026],
   "body_styles": [
     {
@@ -4888,7 +4921,7 @@
   },
   {
   "model_name": "Huayra Codalunga Speedster",
-  "manufacturer": "Pagani",
+  "manufacturer_id": 41,
   "years": [2026],
   "body_styles": [
     {
@@ -4899,7 +4932,7 @@
   },
   {
   "model_name": "Huayra R Evo Roadster",
-  "manufacturer": "Pagani",
+  "manufacturer_id": 41,
   "years": [2026],
   "body_styles": [
     {
@@ -4910,7 +4943,7 @@
   },
   {
   "model_name": "Utopia Roadster",
-  "manufacturer": "Pagani",
+  "manufacturer_id": 41,
   "years": [2026],
   "body_styles": [
     {
@@ -4921,7 +4954,7 @@
   },
   {
   "model_name": "Zonda Unico",
-  "manufacturer": "Pagani",
+  "manufacturer_id": 41,
   "years": [2026],
   "body_styles": [
     {
@@ -4932,7 +4965,7 @@
   },
   {
   "model_name": "2",
-  "manufacturer": "Polestar",
+  "manufacturer_id": 42,
   "years": [2026],
   "body_styles": [
     {
@@ -4943,7 +4976,7 @@
   },
   {
   "model_name": "3",
-  "manufacturer": "Polestar",
+  "manufacturer_id": 42,
   "years": [2026],
   "body_styles": [
     {
@@ -4954,7 +4987,7 @@
   },
   {
   "model_name": "4",
-  "manufacturer": "Polestar",
+  "manufacturer_id": 42,
   "years": [2026],
   "body_styles": [
     {
@@ -4965,7 +4998,7 @@
   },
   {
   "model_name": "718 Boxster",
-  "manufacturer": "Porsche",
+  "manufacturer_id": 43,
   "years": [2026],
   "body_styles": [
     {
@@ -4976,7 +5009,7 @@
   },
   {
   "model_name": "718 Boxster GTS 4.0",
-  "manufacturer": "Porsche",
+  "manufacturer_id": 43,
   "years": [2026],
   "body_styles": [
     {
@@ -4987,7 +5020,7 @@
   },
   {
   "model_name": "718 Boxster S",
-  "manufacturer": "Porsche",
+  "manufacturer_id": 43,
   "years": [2026],
   "body_styles": [
     {
@@ -4998,7 +5031,7 @@
   },
   {
   "model_name": "718 Boxster Style Edition",
-  "manufacturer": "Porsche",
+  "manufacturer_id": 43,
   "years": [2026],
   "body_styles": [
     {
@@ -5009,7 +5042,7 @@
   },
   {
   "model_name": "718 Cayman",
-  "manufacturer": "Porsche",
+  "manufacturer_id": 43,
   "years": [2026],
   "body_styles": [
     {
@@ -5020,7 +5053,7 @@
   },
   {
   "model_name": "718 Cayman GT4 RS",
-  "manufacturer": "Porsche",
+  "manufacturer_id": 43,
   "years": [2026],
   "body_styles": [
     {
@@ -5031,7 +5064,7 @@
   },
   {
   "model_name": "718 Cayman GTS 4.0",
-  "manufacturer": "Porsche",
+  "manufacturer_id": 43,
   "years": [2026],
   "body_styles": [
     {
@@ -5042,7 +5075,7 @@
   },
   {
   "model_name": "718 Cayman S",
-  "manufacturer": "Porsche",
+  "manufacturer_id": 43,
   "years": [2026],
   "body_styles": [
     {
@@ -5053,7 +5086,7 @@
   },
   {
   "model_name": "718 Cayman Style Edition",
-  "manufacturer": "Porsche",
+  "manufacturer_id": 43,
   "years": [2026],
   "body_styles": [
     {
@@ -5064,7 +5097,7 @@
   },
   {
   "model_name": "718 Spyder RS",
-  "manufacturer": "Porsche",
+  "manufacturer_id": 43,
   "years": [2026],
   "body_styles": [
     {
@@ -5075,7 +5108,7 @@
   },
   {
   "model_name": "911 Carrera",
-  "manufacturer": "Porsche",
+  "manufacturer_id": 43,
   "years": [2026],
   "body_styles": [
     {
@@ -5085,30 +5118,30 @@
   ]
   },
   {
-    "model_name": "911 Carrera 4 GTS",
-    "manufacturer": "Porsche",
-    "years": [2026],
-    "body_styles": [
-      {
-        "style": "Coupe",
-        "doors": 2
-      }
-    ]
+  "model_name": "911 Carrera 4 GTS",
+  "manufacturer_id": 43,
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "Coupe",
+      "doors": 2
+    }
+  ]
   },
   {
-    "model_name": "911 Carrera 4 GTS Cabriolet",
-    "manufacturer": "Porsche",
-    "years": [2026],
-    "body_styles": [
-      {
-        "style": "Convertible",
-        "doors": 2
-      }
-    ]
+  "model_name": "911 Carrera 4 GTS Cabriolet",
+  "manufacturer_id": 43,
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "Convertible",
+      "doors": 2
+    }
+  ]
   },
   {
   "model_name": "911 Carrera 4S",
-  "manufacturer": "Porsche",
+  "manufacturer_id": 43,
   "years": [2026],
   "body_styles": [
     {
@@ -5119,7 +5152,7 @@
   },
   {
   "model_name": "911 Carrera 4S Cabriolet",
-  "manufacturer": "Porsche",
+  "manufacturer_id": 43,
   "years": [2026],
   "body_styles": [
     {
@@ -5130,7 +5163,7 @@
   },
   {
   "model_name": "911 Carrera Cabriolet",
-  "manufacturer": "Porsche",
+  "manufacturer_id": 43,
   "years": [2026],
   "body_styles": [
     {
@@ -5141,7 +5174,7 @@
   },
   {
   "model_name": "911 Carrera GTS",
-  "manufacturer": "Porsche",
+  "manufacturer_id": 43,
   "years": [2026],
   "body_styles": [
     {
@@ -5152,7 +5185,7 @@
   },
   {
   "model_name": "911 Carrera GTS Cabriolet",
-  "manufacturer": "Porsche",
+  "manufacturer_id": 43,
   "years": [2026],
   "body_styles": [
     {
@@ -5163,7 +5196,7 @@
   },
   {
   "model_name": "911 Carrera S",
-  "manufacturer": "Porsche",
+  "manufacturer_id": 43,
   "years": [2026],
   "body_styles": [
     {
@@ -5174,7 +5207,7 @@
   },
   {
   "model_name": "911 Carrera S Cabriolet",
-  "manufacturer": "Porsche",
+  "manufacturer_id": 43,
   "years": [2026],
   "body_styles": [
     {
@@ -5185,7 +5218,7 @@
   },
   {
   "model_name": "911 Carrera T",
-  "manufacturer": "Porsche",
+  "manufacturer_id": 43,
   "years": [2026],
   "body_styles": [
     {
@@ -5196,7 +5229,7 @@
   },
   {
   "model_name": "911 Carrera T Cabriolet",
-  "manufacturer": "Porsche",
+  "manufacturer_id": 43,
   "years": [2026],
   "body_styles": [
     {
@@ -5207,7 +5240,7 @@
   },
   {
   "model_name": "911 GT3",
-  "manufacturer": "Porsche",
+  "manufacturer_id": 43,
   "years": [2026],
   "body_styles": [
     {
@@ -5218,7 +5251,7 @@
   },
   {
   "model_name": "911 GT3 90 f.A. Porsche",
-  "manufacturer": "Porsche",
+  "manufacturer_id": 43,
   "years": [2026],
   "body_styles": [
     {
@@ -5229,7 +5262,7 @@
   },
   {
   "model_name": "911 GT3 RS",
-  "manufacturer": "Porsche",
+  "manufacturer_id": 43,
   "years": [2026],
   "body_styles": [
     {
@@ -5240,7 +5273,7 @@
   },
   {
   "model_name": "911 Spirit 70",
-  "manufacturer": "Porsche",
+  "manufacturer_id": 43,
   "years": [2026],
   "body_styles": [
     {
@@ -5255,7 +5288,7 @@
   },
   {
   "model_name": "911 Targa 4S",
-  "manufacturer": "Porsche",
+  "manufacturer_id": 43,
   "years": [2026],
   "body_styles": [
     {
@@ -5266,7 +5299,7 @@
   },
   {
   "model_name": "911 Targa 4 GTS",
-  "manufacturer": "Porsche",
+  "manufacturer_id": 43,
   "years": [2026],
   "body_styles": [
     {
@@ -5277,7 +5310,7 @@
   },
   {
   "model_name": "911 Turbo S",
-  "manufacturer": "Porsche",
+  "manufacturer_id": 43,
   "years": [2026],
   "body_styles": [
     {
@@ -5288,7 +5321,7 @@
   },
   {
   "model_name": "911 Turbo S Cabriolet",
-  "manufacturer": "Porsche",
+  "manufacturer_id": 43,
   "years": [2026],
   "body_styles": [
     {
@@ -5299,7 +5332,7 @@
   },
   {
   "model_name": "Cayenne",
-  "manufacturer": "Porsche",
+  "manufacturer_id": 43,
   "years": [2026],
   "body_styles": [
     {
@@ -5310,7 +5343,7 @@
   },
   {
   "model_name": "Cayenne Coupe",
-  "manufacturer": "Porsche",
+  "manufacturer_id": 43,
   "years": [2026],
   "body_styles": [
     {
@@ -5321,7 +5354,7 @@
   },
   {
   "model_name": "Cayenne E-Hybrid",
-  "manufacturer": "Porsche",
+  "manufacturer_id": 43,
   "years": [2026],
   "body_styles": [
     {
@@ -5332,7 +5365,7 @@
   },
   {
   "model_name": "Cayenne E-Hybrid Coupe",
-  "manufacturer": "Porsche",
+  "manufacturer_id": 43,
   "years": [2026],
   "body_styles": [
     {
@@ -5343,7 +5376,7 @@
   },
   {
   "model_name": "Cayenne Electric",
-  "manufacturer": "Porsche",
+  "manufacturer_id": 43,
   "years": [2026],
   "body_styles": [
     {
@@ -5354,7 +5387,7 @@
   },
   {
   "model_name": "Cayenne GTS",
-  "manufacturer": "Porsche",
+  "manufacturer_id": 43,
   "years": [2026],
   "body_styles": [
     {
@@ -5365,7 +5398,7 @@
   },
   {
   "model_name": "Cayenne GTS Coupe",
-  "manufacturer": "Porsche",
+  "manufacturer_id": 43,
   "years": [2026],
   "body_styles": [
     {
@@ -5376,7 +5409,7 @@
   },
   {
   "model_name": "Cayenne S",
-  "manufacturer": "Porsche",
+  "manufacturer_id": 43,
   "years": [2026],
   "body_styles": [
     {
@@ -5387,7 +5420,7 @@
   },
   {
   "model_name": "Cayenne S Coupe",
-  "manufacturer": "Porsche",
+  "manufacturer_id": 43,
   "years": [2026],
   "body_styles": [
     {
@@ -5398,7 +5431,7 @@
   },
   {
   "model_name": "Cayenne S E-Hybrid",
-  "manufacturer": "Porsche",
+  "manufacturer_id": 43,
   "years": [2026],
   "body_styles": [
     {
@@ -5409,7 +5442,7 @@
   },
   {
   "model_name": "Cayenne S E-Hybrid Coupe",
-  "manufacturer": "Porsche",
+  "manufacturer_id": 43,
   "years": [2026],
   "body_styles": [
     {
@@ -5420,7 +5453,7 @@
   },
   {
   "model_name": "Cayenne Turbo E-Hybrid",
-  "manufacturer": "Porsche",
+  "manufacturer_id": 43,
   "years": [2026],
   "body_styles": [
     {
@@ -5431,7 +5464,7 @@
   },
   {
   "model_name": "Cayenne Turbo E-Hybrid Coupe",
-  "manufacturer": "Porsche",
+  "manufacturer_id": 43,
   "years": [2026],
   "body_styles": [
     {
@@ -5442,7 +5475,7 @@
   },
   {
   "model_name": "Cayenne Turbo Electric",
-  "manufacturer": "Porsche",
+  "manufacturer_id": 43,
   "years": [2026],
   "body_styles": [
     {
@@ -5453,7 +5486,7 @@
   },
   {
   "model_name": "Cayenne Turbo GT",
-  "manufacturer": "Porsche",
+  "manufacturer_id": 43,
   "years": [2026],
   "body_styles": [
     {
@@ -5464,7 +5497,7 @@
   },
   {
   "model_name": "Macan",
-  "manufacturer": "Porsche",
+  "manufacturer_id": 43,
   "years": [2026],
   "body_styles": [
     {
@@ -5475,7 +5508,7 @@
   },
   {
   "model_name": "Macan 4 Electric",
-  "manufacturer": "Porsche",
+  "manufacturer_id": 43,
   "years": [2026],
   "body_styles": [
     {
@@ -5486,7 +5519,7 @@
   },
   {
   "model_name": "Macan 4S Electric",
-  "manufacturer": "Porsche",
+  "manufacturer_id": 43,
   "years": [2026],
   "body_styles": [
     {
@@ -5497,7 +5530,7 @@
   },
   {
   "model_name": "Macan Electric",
-  "manufacturer": "Porsche",
+  "manufacturer_id": 43,
   "years": [2026],
   "body_styles": [
     {
@@ -5508,7 +5541,7 @@
   },
   {
   "model_name": "Macan GTS",
-  "manufacturer": "Porsche",
+  "manufacturer_id": 43,
   "years": [2026],
   "body_styles": [
     {
@@ -5519,7 +5552,7 @@
   },
   {
   "model_name": "Macan GTS Electric",
-  "manufacturer": "Porsche",
+  "manufacturer_id": 43,
   "years": [2026],
   "body_styles": [
     {
@@ -5530,7 +5563,7 @@
   },
   {
   "model_name": "Macan S",
-  "manufacturer": "Porsche",
+  "manufacturer_id": 43,
   "years": [2026],
   "body_styles": [
     {
@@ -5541,7 +5574,7 @@
   },
   {
   "model_name": "Macan T",
-  "manufacturer": "Porsche",
+  "manufacturer_id": 43,
   "years": [2026],
   "body_styles": [
     {
@@ -5552,7 +5585,7 @@
   },
   {
   "model_name": "Macan Turbo Electric",
-  "manufacturer": "Porsche",
+  "manufacturer_id": 43,
   "years": [2026],
   "body_styles": [
     {
@@ -5563,7 +5596,7 @@
   },
   {
   "model_name": "Panamera",
-  "manufacturer": "Porsche",
+  "manufacturer_id": 43,
   "years": [2026],
   "body_styles": [
     {
@@ -5574,7 +5607,7 @@
   },
   {
   "model_name": "Panamera 4",
-  "manufacturer": "Porsche",
+  "manufacturer_id": 43,
   "years": [2026],
   "body_styles": [
     {
@@ -5585,7 +5618,7 @@
   },
   {
   "model_name": "Panamera 4 E-Hybrid",
-  "manufacturer": "Porsche",
+  "manufacturer_id": 43,
   "years": [2026],
   "body_styles": [
     {
@@ -5596,7 +5629,7 @@
   },
   {
   "model_name": "Panamera 4S E-Hybrid",
-  "manufacturer": "Porsche",
+  "manufacturer_id": 43,
   "years": [2026],
   "body_styles": [
     {
@@ -5607,7 +5640,7 @@
   },
   {
   "model_name": "Panamera GTS",
-  "manufacturer": "Porsche",
+  "manufacturer_id": 43,
   "years": [2026],
   "body_styles": [
     {
@@ -5618,7 +5651,7 @@
   },
   {
   "model_name": "Panamera Turbo E-Hybrid",
-  "manufacturer": "Porsche",
+  "manufacturer_id": 43,
   "years": [2026],
   "body_styles": [
     {
@@ -5629,7 +5662,7 @@
   },
   {
   "model_name": "Panamera Turbo S E-Hybrid",
-  "manufacturer": "Porsche",
+  "manufacturer_id": 43,
   "years": [2026],
   "body_styles": [
     {
@@ -5640,7 +5673,7 @@
   },
   {
   "model_name": "Taycan",
-  "manufacturer": "Porsche",
+  "manufacturer_id": 43,
   "years": [2026],
   "body_styles": [
     {
@@ -5651,7 +5684,7 @@
   },
   {
   "model_name": "Taycan 4",
-  "manufacturer": "Porsche",
+  "manufacturer_id": 43,
   "years": [2026],
   "body_styles": [
     {
@@ -5662,7 +5695,7 @@
   },
   {
   "model_name": "Taycan 4 Cross Turismo",
-  "manufacturer": "Porsche",
+  "manufacturer_id": 43,
   "years": [2026],
   "body_styles": [
     {
@@ -5673,7 +5706,7 @@
   },
   {
   "model_name": "Taycan 4 Black Edition",
-  "manufacturer": "Porsche",
+  "manufacturer_id": 43,
   "years": [2026],
   "body_styles": [
     {
@@ -5684,7 +5717,7 @@
   },
   {
   "model_name": "Taycan 4S",
-  "manufacturer": "Porsche",
+  "manufacturer_id": 43,
   "years": [2026],
   "body_styles": [
     {
@@ -5695,7 +5728,7 @@
   },
   {
   "model_name": "Taycan 4S Black Edition",
-  "manufacturer": "Porsche",
+  "manufacturer_id": 43,
   "years": [2026],
   "body_styles": [
     {
@@ -5706,7 +5739,7 @@
   },
   {
   "model_name": "Taycan 4S Cross Turismo",
-  "manufacturer": "Porsche",
+  "manufacturer_id": 43,
   "years": [2026],
   "body_styles": [
     {
@@ -5717,7 +5750,7 @@
   },
   {
   "model_name": "Taycan Black Edition",
-  "manufacturer": "Porsche",
+  "manufacturer_id": 43,
   "years": [2026],
   "body_styles": [
     {
@@ -5728,7 +5761,7 @@
   },
   {
   "model_name": "Taycan GTS",
-  "manufacturer": "Porsche",
+  "manufacturer_id": 43,
   "years": [2026],
   "body_styles": [
     {
@@ -5739,7 +5772,7 @@
   },
   {
   "model_name": "Taycan GTS Sport Turismo",
-  "manufacturer": "Porsche",
+  "manufacturer_id": 43,
   "years": [2026],
   "body_styles": [
     {
@@ -5750,7 +5783,7 @@
   },
   {
   "model_name": "Taycan Turbo",
-  "manufacturer": "Porsche",
+  "manufacturer_id": 43,
   "years": [2026],
   "body_styles": [
     {
@@ -5761,7 +5794,7 @@
   },
   {
   "model_name": "Taycan Turbo Cross Turismo",
-  "manufacturer": "Porsche",
+  "manufacturer_id": 43,
   "years": [2026],
   "body_styles": [
     {
@@ -5772,7 +5805,7 @@
   },
   {
   "model_name": "Taycan Turbo GT",
-  "manufacturer": "Porsche",
+  "manufacturer_id": 43,
   "years": [2026],
   "body_styles": [
     {
@@ -5783,7 +5816,7 @@
   },
   {
   "model_name": "Taycan Turbo S",
-  "manufacturer": "Porsche",
+  "manufacturer_id": 43,
   "years": [2026],
   "body_styles": [
     {
@@ -5794,7 +5827,7 @@
   },
   {
   "model_name": "Taycan Turbo S Cross Turismo",
-  "manufacturer": "Porsche",
+  "manufacturer_id": 43,
   "years": [2026],
   "body_styles": [
     {
@@ -5805,7 +5838,7 @@
   },
   {
   "model_name": "1500",
-  "manufacturer": "RAM",
+  "manufacturer_id": 44,
   "years": [2026],
   "body_styles": [
     {
@@ -5816,7 +5849,7 @@
   },
   {
   "model_name": "1500 REV",
-  "manufacturer": "RAM",
+  "manufacturer_id": 44,
   "years": [2026],
   "body_styles": [
     {
@@ -5827,7 +5860,7 @@
   },
   {
   "model_name": "1500 RHO",
-  "manufacturer": "RAM",
+  "manufacturer_id": 44,
   "years": [2026],
   "body_styles": [
     {
@@ -5838,7 +5871,7 @@
   },
   {
   "model_name": "2500",
-  "manufacturer": "RAM",
+  "manufacturer_id": 44,
   "years": [2026],
   "body_styles": [
     {
@@ -5849,7 +5882,7 @@
   },
   {
   "model_name": "3500",
-  "manufacturer": "RAM",
+  "manufacturer_id": 44,
   "years": [2026],
   "body_styles": [
     {
@@ -5860,7 +5893,7 @@
   },
   {
   "model_name": "Promaster",
-  "manufacturer": "RAM",
+  "manufacturer_id": 44,
   "years": [2026],
   "body_styles": [
     {
@@ -5871,7 +5904,7 @@
   },
   {
   "model_name": "Promaster EV",
-  "manufacturer": "RAM",
+  "manufacturer_id": 44,
   "years": [2026],
   "body_styles": [
     {
@@ -5882,7 +5915,7 @@
   },
   {
   "model_name": "Delivery",
-  "manufacturer": "Rivian",
+  "manufacturer_id": 45,
   "years": [2026],
   "body_styles": [
     {
@@ -5893,7 +5926,7 @@
   },
   {
   "model_name": "R1S",
-  "manufacturer": "Rivian",
+  "manufacturer_id": 45,
   "years": [2026],
   "body_styles": [
     {
@@ -5904,7 +5937,7 @@
   },
   {
   "model_name": "R1T",
-  "manufacturer": "Rivian",
+  "manufacturer_id": 45,
   "years": [2026],
   "body_styles": [
     {
@@ -5915,7 +5948,7 @@
   },
   {
   "model_name": "R2",
-  "manufacturer": "Rivian",
+  "manufacturer_id": 45,
   "years": [2026],
   "body_styles": [
     {
@@ -5926,7 +5959,7 @@
   },
   {
   "model_name": "R3",
-  "manufacturer": "Rivian",
+  "manufacturer_id": 45,
   "years": [2026],
   "body_styles": [
     {
@@ -5937,7 +5970,7 @@
   },
   {
   "model_name": "Cullinan Series II",
-  "manufacturer": "Rolls-Royce",
+  "manufacturer_id": 46,
   "years": [2026],
   "body_styles": [
     {
@@ -5948,7 +5981,7 @@
   },
   {
   "model_name": "Ghost Series II",
-  "manufacturer": "Rolls-Royce",
+  "manufacturer_id": 46,
   "years": [2026],
   "body_styles": [
     {
@@ -5959,7 +5992,7 @@
   },
   {
   "model_name": "Phantom",
-  "manufacturer": "Rolls-Royce",
+  "manufacturer_id": 46,
   "years": [2026],
   "body_styles": [
     {
@@ -5970,7 +6003,7 @@
   },
   {
   "model_name": "Spectre",
-  "manufacturer": "Rolls-Royce",
+  "manufacturer_id": 46,
   "years": [2026],
   "body_styles": [
     {
@@ -5981,7 +6014,7 @@
   },
   {
   "model_name": "Ascent",
-  "manufacturer": "Subaru",
+  "manufacturer_id": 47,
   "years": [2026],
   "body_styles": [
     {
@@ -5992,7 +6025,7 @@
   },
   {
   "model_name": "BRZ",
-  "manufacturer": "Subaru",
+  "manufacturer_id": 47,
   "years": [2026],
   "body_styles": [
     {
@@ -6003,7 +6036,7 @@
   },
   {
   "model_name": "Crosstrek",
-  "manufacturer": "Subaru",
+  "manufacturer_id": 47,
   "years": [2026],
   "body_styles": [
     {
@@ -6014,7 +6047,7 @@
   },
   {
   "model_name": "Forester",
-  "manufacturer": "Subaru",
+  "manufacturer_id": 47,
   "years": [2026],
   "body_styles": [
     {
@@ -6025,7 +6058,7 @@
   },
   {
   "model_name": "Legacy",
-  "manufacturer": "Subaru",
+  "manufacturer_id": 47,
   "years": [2026],
   "body_styles": [
     {
@@ -6036,7 +6069,7 @@
   },
   {
   "model_name": "Impreza",
-  "manufacturer": "Subaru",
+  "manufacturer_id": 47,
   "years": [2026],
   "body_styles": [
     {
@@ -6047,7 +6080,7 @@
   },
   {
   "model_name": "Outback",
-  "manufacturer": "Subaru",
+  "manufacturer_id": 47,
   "years": [2026],
   "body_styles": [
     {
@@ -6058,7 +6091,7 @@
   },
   {
   "model_name": "Solterra",
-  "manufacturer": "Subaru",
+  "manufacturer_id": 47,
   "years": [2026],
   "body_styles": [
     {
@@ -6069,7 +6102,7 @@
   },
   {
   "model_name": "WRX",
-  "manufacturer": "Subaru",
+  "manufacturer_id": 47,
   "years": [2026],
   "body_styles": [
     {
@@ -6080,7 +6113,7 @@
   },
   {
   "model_name": "Cybertruck",
-  "manufacturer": "Tesla",
+  "manufacturer_id": 48,
   "years": [2026],
   "body_styles": [
     {
@@ -6091,7 +6124,7 @@
   },
   {
   "model_name": "Model 3",
-  "manufacturer": "Tesla",
+  "manufacturer_id": 48,
   "years": [2026],
   "body_styles": [
     {
@@ -6102,7 +6135,7 @@
   },
   {
   "model_name": "Model S",
-  "manufacturer": "Tesla",
+  "manufacturer_id": 48,
   "years": [2026],
   "body_styles": [
     {
@@ -6113,7 +6146,7 @@
   },
   {
   "model_name": "Model X",
-  "manufacturer": "Tesla",
+  "manufacturer_id": 48,
   "years": [2026],
   "body_styles": [
     {
@@ -6124,7 +6157,7 @@
   },
   {
   "model_name": "Model Y",
-  "manufacturer": "Tesla",
+  "manufacturer_id": 48,
   "years": [2026],
   "body_styles": [
     {
@@ -6135,7 +6168,7 @@
   },
   {
   "model_name": "4Runner",
-  "manufacturer": "Toyota",
+  "manufacturer_id": 49,
   "years": [2026],
   "body_styles": [
     {
@@ -6146,7 +6179,7 @@
   },
   {
   "model_name": "4Runner i-FORCE MAX",
-  "manufacturer": "Toyota",
+  "manufacturer_id": 49,
   "years": [2026],
   "body_styles": [
     {
@@ -6157,7 +6190,7 @@
   },
   {
   "model_name": "bZ",
-  "manufacturer": "Toyota",
+  "manufacturer_id": 49,
   "years": [2026],
   "body_styles": [
     {
@@ -6168,7 +6201,7 @@
   },
   {
   "model_name": "Camry",
-  "manufacturer": "Toyota",
+  "manufacturer_id": 49,
   "years": [2026],
   "body_styles": [
     {
@@ -6179,7 +6212,7 @@
   },
   {
   "model_name": "Corolla",
-  "manufacturer": "Toyota",
+  "manufacturer_id": 49,
   "years": [2026],
   "body_styles": [
     {
@@ -6190,7 +6223,7 @@
   },
   {
   "model_name": "Corolla Cross",
-  "manufacturer": "Toyota",
+  "manufacturer_id": 49,
   "years": [2026],
   "body_styles": [
     {
@@ -6201,7 +6234,7 @@
   },
   {
   "model_name": "Corolla Cross Hybrid",
-  "manufacturer": "Toyota",
+  "manufacturer_id": 49,
   "years": [2026],
   "body_styles": [
     {
@@ -6212,7 +6245,7 @@
   },
   {
   "model_name": "Corolla Hatchback",
-  "manufacturer": "Toyota",
+  "manufacturer_id": 49,
   "years": [2026],
   "body_styles": [
     {
@@ -6223,7 +6256,7 @@
   },
   {
   "model_name": "Corolla Hybrid",
-  "manufacturer": "Toyota",
+  "manufacturer_id": 49,
   "years": [2026],
   "body_styles": [
     {
@@ -6234,7 +6267,7 @@
   },
   {
   "model_name": "Crown",
-  "manufacturer": "Toyota",
+  "manufacturer_id": 49,
   "years": [2026],
   "body_styles": [
     {
@@ -6245,7 +6278,7 @@
   },
   {
   "model_name": "Crown Signia",
-  "manufacturer": "Toyota",
+  "manufacturer_id": 49,
   "years": [2026],
   "body_styles": [
     {
@@ -6256,7 +6289,7 @@
   },
   {
   "model_name": "GR Corolla",
-  "manufacturer": "Toyota",
+  "manufacturer_id": 49,
   "years": [2026],
   "body_styles": [
     {
@@ -6267,7 +6300,7 @@
   },
   {
   "model_name": "GR Supra",
-  "manufacturer": "Toyota",
+  "manufacturer_id": 49,
   "years": [2026],
   "body_styles": [
     {
@@ -6278,7 +6311,7 @@
   },
   {
   "model_name": "GR86",
-  "manufacturer": "Toyota",
+  "manufacturer_id": 49,
   "years": [2026],
   "body_styles": [
     {
@@ -6289,7 +6322,7 @@
   },
   {
   "model_name": "Grand Highlander",
-  "manufacturer": "Toyota",
+  "manufacturer_id": 49,
   "years": [2026],
   "body_styles": [
     {
@@ -6300,7 +6333,7 @@
   },
   {
   "model_name": "Grand Highlander Hybrid",
-  "manufacturer": "Toyota",
+  "manufacturer_id": 49,
   "years": [2026],
   "body_styles": [
     {
@@ -6311,7 +6344,7 @@
   },
   {
   "model_name": "Highlander",
-  "manufacturer": "Toyota",
+  "manufacturer_id": 49,
   "years": [2026],
   "body_styles": [
     {
@@ -6322,7 +6355,7 @@
   },
   {
   "model_name": "Land Cruiser",
-  "manufacturer": "Toyota",
+  "manufacturer_id": 49,
   "years": [2026],
   "body_styles": [
     {
@@ -6333,7 +6366,7 @@
   },
   {
   "model_name": "Mirai",
-  "manufacturer": "Toyota",
+  "manufacturer_id": 49,
   "years": [2026],
   "body_styles": [
     {
@@ -6344,7 +6377,7 @@
   },
   {
   "model_name": "Prius",
-  "manufacturer": "Toyota",
+  "manufacturer_id": 49,
   "years": [2026],
   "body_styles": [
     {
@@ -6355,7 +6388,7 @@
   },
   {
   "model_name": "Prius Plug-in Hybrid",
-  "manufacturer": "Toyota",
+  "manufacturer_id": 49,
   "years": [2026],
   "body_styles": [
     {
@@ -6366,7 +6399,7 @@
   },
   {
   "model_name": "RAV4",
-  "manufacturer": "Toyota",
+  "manufacturer_id": 49,
   "years": [2026],
   "body_styles": [
     {
@@ -6377,7 +6410,7 @@
   },
   {
   "model_name": "RAV4 Hybrid",
-  "manufacturer": "Toyota",
+  "manufacturer_id": 49,
   "years": [2026],
   "body_styles": [
     {
@@ -6388,7 +6421,7 @@
   },
   {
   "model_name": "RAV4 Plug-in Hybrid",
-  "manufacturer": "Toyota",
+  "manufacturer_id": 49,
   "years": [2026],
   "body_styles": [
     {
@@ -6399,7 +6432,7 @@
   },
   {
   "model_name": "Sequoia",
-  "manufacturer": "Toyota",
+  "manufacturer_id": 49,
   "years": [2026],
   "body_styles": [
     {
@@ -6410,7 +6443,7 @@
   },
   {
   "model_name": "Sienna",
-  "manufacturer": "Toyota",
+  "manufacturer_id": 49,
   "years": [2026],
   "body_styles": [
     {
@@ -6421,7 +6454,7 @@
   },
   {
   "model_name": "Tacoma",
-  "manufacturer": "Toyota",
+  "manufacturer_id": 49,
   "years": [2026],
   "body_styles": [
     {
@@ -6432,7 +6465,7 @@
   },
   {
   "model_name": "Tacoma i-FORCE MAX",
-  "manufacturer": "Toyota",
+  "manufacturer_id": 49,
   "years": [2026],
   "body_styles": [
     {
@@ -6443,7 +6476,7 @@
   },
   {
   "model_name": "Tundra",
-  "manufacturer": "Toyota",
+  "manufacturer_id": 49,
   "years": [2026],
   "body_styles": [
     {
@@ -6454,7 +6487,7 @@
   },
   {
   "model_name": "Tundra i-FORCE MAX",
-  "manufacturer": "Toyota",
+  "manufacturer_id": 49,
   "years": [2026],
   "body_styles": [
     {
@@ -6465,7 +6498,7 @@
   },
   {
   "model_name": "VF8",
-  "manufacturer": "VinFast",
+  "manufacturer_id": 50,
   "years": [2026],
   "body_styles": [
     {
@@ -6476,7 +6509,7 @@
   },
   {
   "model_name": "VF9",
-  "manufacturer": "VinFast",
+  "manufacturer_id": 50,
   "years": [2026],
   "body_styles": [
     {
@@ -6487,7 +6520,7 @@
   },
   {
   "model_name": "Atlas",
-  "manufacturer": "Volkswagen",
+  "manufacturer_id": 51,
   "years": [2026],
   "body_styles": [
     {
@@ -6498,7 +6531,7 @@
   },
   {
   "model_name": "Atlas Cross Sport",
-  "manufacturer": "Volkswagen",
+  "manufacturer_id": 51,
   "years": [2026],
   "body_styles": [
     {
@@ -6509,7 +6542,7 @@
   },
   {
   "model_name": "Golf GTI",
-  "manufacturer": "Volkswagen",
+  "manufacturer_id": 51,
   "years": [2026],
   "body_styles": [
     {
@@ -6520,7 +6553,7 @@
   },
   {
   "model_name": "Golf R",
-  "manufacturer": "Volkswagen",
+  "manufacturer_id": 51,
   "years": [2026],
   "body_styles": [
     {
@@ -6531,7 +6564,7 @@
   },
   {
   "model_name": "ID.4",
-  "manufacturer": "Volkswagen",
+  "manufacturer_id": 51,
   "years": [2026],
   "body_styles": [
     {
@@ -6542,7 +6575,7 @@
   },
   {
   "model_name": "ID.Buzz",
-  "manufacturer": "Volkswagen",
+  "manufacturer_id": 51,
   "years": [2026],
   "body_styles": [
     {
@@ -6553,7 +6586,7 @@
   },
   {
   "model_name": "Jetta",
-  "manufacturer": "Volkswagen",
+  "manufacturer_id": 51,
   "years": [2026],
   "body_styles": [
     {
@@ -6564,7 +6597,7 @@
   },
   {
   "model_name": "Jetta GLI",
-  "manufacturer": "Volkswagen",
+  "manufacturer_id": 51,
   "years": [2026],
   "body_styles": [
     {
@@ -6575,7 +6608,7 @@
   },
   {
   "model_name": "Taos",
-  "manufacturer": "Volkswagen",
+  "manufacturer_id": 51,
   "years": [2026],
   "body_styles": [
     {
@@ -6586,7 +6619,7 @@
   },
   {
   "model_name": "Tiguan",
-  "manufacturer": "Volkswagen",
+  "manufacturer_id": 51,
   "years": [2026],
   "body_styles": [
     {
@@ -6597,7 +6630,7 @@
   },
   {
   "model_name": "EXC90 fully electric",
-  "manufacturer": "Volvo",
+  "manufacturer_id": 52,
   "years": [2026],
   "body_styles": [
     {
@@ -6608,7 +6641,7 @@
   },
   {
   "model_name": "V60 Cross Country",
-  "manufacturer": "Volvo",
+  "manufacturer_id": 52,
   "years": [2026],
   "body_styles": [
     {
@@ -6619,7 +6652,7 @@
   },
   {
   "model_name": "XC30 fully electric",
-  "manufacturer": "Volvo",
+  "manufacturer_id": 52,
   "years": [2026],
   "body_styles": [
     {
@@ -6630,7 +6663,7 @@
   },
   {
   "model_name": "XC40",
-  "manufacturer": "Volvo",
+  "manufacturer_id": 52,
   "years": [2026],
   "body_styles": [
     {
@@ -6641,7 +6674,7 @@
   },
   {
   "model_name": "XC40 fully electric",
-  "manufacturer": "Volvo",
+  "manufacturer_id": 52,
   "years": [2026],
   "body_styles": [
     {
@@ -6652,7 +6685,7 @@
   },
   {
   "model_name": "XC60",
-  "manufacturer": "Volvo",
+  "manufacturer_id": 52,
   "years": [2026],
   "body_styles": [
     {
@@ -6663,7 +6696,7 @@
   },
   {
   "model_name": "XC60 plug-in hybrid",
-  "manufacturer": "Volvo",
+  "manufacturer_id": 52,
   "years": [2026],
   "body_styles": [
     {
@@ -6674,7 +6707,7 @@
   },
   {
   "model_name": "XC90",
-  "manufacturer": "Volvo",
+  "manufacturer_id": 52,
   "years": [2026],
   "body_styles": [
     {
@@ -6685,7 +6718,7 @@
   },
   {
   "model_name": "XC90 plug-in hybrid",
-  "manufacturer": "Volvo",
+  "manufacturer_id": 52,
   "years": [2026],
   "body_styles": [
     {
