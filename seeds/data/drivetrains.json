@@ -1,14 +1,18 @@
 [
   {
+    "id": 1,
     "type": "4WD"
   },
   {
+    "id": 2,
     "type": "AWD"
   },
   {
+    "id": 3,
     "type": "FWD"
   },
   {
+    "id": 4,
     "type": "RWD"
   }
 ]

@@ -55,29 +55,29 @@
   ]
   },
   {
+    "model_name": "Giulia",
+    "manufacturer_id": 2,
+    "years": [2026],
+    "body_styles": [
+      {
+        "style": "Sedan",
+        "doors": 4
+      }
+    ]
+  },
+  {
+    "model_name": "Stelvio",
+    "manufacturer_id": 2,
+    "years": [2026],
+    "body_styles": [
+      {
+        "style": "SUV",
+        "doors": 4
+      }
+    ]
+  },
+  {
   "model_name": "Tonale",
-  "manufacturer_id": 2,
-  "years": [2026],
-  "body_styles": [
-    {
-      "style": "SUV",
-      "doors": 4
-    }
-  ]
-  },
-  {
-  "model_name": "Giulia",
-  "manufacturer_id": 2,
-  "years": [2026],
-  "body_styles": [
-    {
-      "style": "Sedan",
-      "doors": 4
-    }
-  ]
-  },
-  {
-  "model_name": "Stelvio",
   "manufacturer_id": 2,
   "years": [2026],
   "body_styles": [
@@ -1463,6 +1463,17 @@
   },
   {
   "model_name": "Optiq-V",
+  "manufacturer_id": 9,
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "SUV",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "Vistiq",
   "manufacturer_id": 9,
   "years": [2026],
   "body_styles": [
