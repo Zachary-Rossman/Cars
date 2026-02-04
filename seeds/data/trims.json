@@ -1,7 +1,369 @@
 [
   {
-    "model": "Supra",
-    "year": 2020,
-    "name": "Premium"
+  "id": "2026-adx-base",
+  "manufacturer_id": 1,
+  "trim_name": "Base",
+  "standard_features": [
+    "Apple CarPlay",
+    "Android Auto",
+    "Adaptive Cruise Control",
+    "Lane Keep Assist",
+    "Automatic Emergency Braking",
+    "LED Headlights",
+    "Keyless Entry"
+  ],
+  "optional_features": [
+    "Leather Seats",
+    "Heated Front Seats",
+    "Wireless Phone Charging"
+  ],
+  "active": true
+  },
+  {
+  "id": "2026-adx-technology",
+  "manufacturer_id": 1,
+  "trim_name": "Technology",
+  "standard_features": [
+    "Apple CarPlay",
+    "Android Auto",
+    "Adaptive Cruise Control",
+    "Lane Keep Assist",
+    "Automatic Emergency Braking",
+    "Leather Seats",
+    "Heated Front Seats",
+    "Premium Audio System",
+    "Navigation System",
+    "Wireless Phone Charging"
+  ],
+  "optional_features": [
+    "Ventilated Front Seats",
+    "Head-Up Display"
+  ],
+  "active": true
+  },
+  {
+  "id": "2026-adx-a-spec",
+  "manufacturer_id": 1,
+  "trim_name": "A-Spec",
+  "standard_features": [
+    "Apple CarPlay",
+    "Android Auto",
+    "Adaptive Cruise Control",
+    "Lane Keep Assist",
+    "Automatic Emergency Braking",
+    "Sport Seats",
+    "Leather Seats",
+    "Heated Front Seats",
+    "Premium Audio System",
+    "Sport Suspension",
+    "Wireless Phone Charging"
+  ],
+  "optional_features": [
+    "Ventilated Front Seats",
+    "Head-Up Display"
+  ],
+  "active": true
+  },
+  {
+  "id": "2026-adx-advance",
+  "manufacturer_id": 1,
+  "trim_name": "Advance",
+  "standard_features": [
+    "Apple CarPlay",
+    "Android Auto",
+    "Adaptive Cruise Control",
+    "Lane Keep Assist",
+    "Automatic Emergency Braking",
+    "Leather Seats",
+    "Heated Front Seats",
+    "Ventilated Front Seats",
+    "Premium Audio System",
+    "Navigation System",
+    "Head-Up Display",
+    "360-Degree Camera",
+    "Wireless Phone Charging"
+  ],
+  "optional_features": [],
+  "active": true
+  },
+  {
+  "id": "2026-integra-base",
+  "manufacturer_id": 1,
+  "trim_name": "Base",
+  "standard_features": [
+    "Apple CarPlay",
+    "Android Auto",
+    "Adaptive Cruise Control",
+    "Lane Keep Assist",
+    "Automatic Emergency Braking",
+    "LED Headlights",
+    "Keyless Entry",
+    "Cloth Seats"
+  ],
+  "optional_features": [
+    "Heated Front Seats",
+    "Wireless Phone Charging"
+  ],
+  "active": true
+  },
+  {
+  "id": "2026-integra-technology",
+  "manufacturer_id": 1,
+  "trim_name": "Technology",
+  "standard_features": [
+    "Apple CarPlay",
+    "Android Auto",
+    "Adaptive Cruise Control",
+    "Lane Keep Assist",
+    "Automatic Emergency Braking",
+    "Heated Front Seats",
+    "Leather Seats",
+    "Premium Audio System",
+    "Navigation System",
+    "Wireless Phone Charging"
+  ],
+  "optional_features": [
+    "Head-Up Display"
+  ],
+  "active": true
+  },
+  {
+  "id": "2026-integra-a-spec",
+  "manufacturer_id": 1,
+  "trim_name": "A-Spec",
+  "standard_features": [
+    "Apple CarPlay",
+    "Android Auto",
+    "Adaptive Cruise Control",
+    "Lane Keep Assist",
+    "Automatic Emergency Braking",
+    "Sport Seats",
+    "Leather Seats",
+    "Heated Front Seats",
+    "Sport Suspension",
+    "Wireless Phone Charging"
+  ],
+  "optional_features": [
+    "Premium Audio System"
+  ],
+  "active": true
+  },
+  {
+  "id": "2026-integra-a-spec-technology",
+  "manufacturer_id": 1,
+  "trim_name": "A-Spec with Technology",
+  "standard_features": [
+    "Apple CarPlay",
+    "Android Auto",
+    "Adaptive Cruise Control",
+    "Lane Keep Assist",
+    "Automatic Emergency Braking",
+    "Sport Seats",
+    "Leather Seats",
+    "Heated Front Seats",
+    "Sport Suspension",
+    "Premium Audio System",
+    "Navigation System",
+    "Head-Up Display",
+    "Wireless Phone Charging"
+  ],
+  "optional_features": [],
+  "active": true
+  },
+  {
+  "id": "2026-integra-type-s",
+  "manufacturer_id": 1,
+  "trim_name": "Type S",
+  "standard_features": [
+    "Apple CarPlay",
+    "Android Auto",
+    "Adaptive Cruise Control",
+    "Lane Keep Assist",
+    "Automatic Emergency Braking",
+    "Sport Seats",
+    "Leather Seats",
+    "Heated Front Seats",
+    "Sport Suspension",
+    "Performance Brakes",
+    "Limited Slip Differential",
+    "Premium Audio System",
+    "Wireless Phone Charging"
+  ],
+  "optional_features": [],
+  "active": true
+  },
+  {
+    "id": "2026-mdx-base",
+    "manufacturer_id": 1,
+    "trim_name": "Base",
+    "standard_features": [
+      "Apple CarPlay",
+      "Android Auto",
+      "Adaptive Cruise Control",
+      "Lane Keep Assist",
+      "Automatic Emergency Braking",
+      "LED Headlights",
+      "Keyless Entry",
+      "Leather Seats"
+    ],
+    "optional_features": [
+      "Heated Front Seats",
+      "Wireless Phone Charging"
+    ],
+    "active": true
+  },
+  {
+    "id": "2026-mdx-technology",
+    "manufacturer_id": 1,
+    "trim_name": "Technology",
+    "standard_features": [
+      "Apple CarPlay",
+      "Android Auto",
+      "Adaptive Cruise Control",
+      "Lane Keep Assist",
+      "Automatic Emergency Braking",
+      "Leather Seats",
+      "Heated Front Seats",
+      "Premium Audio System",
+      "Navigation System",
+      "Wireless Phone Charging"
+    ],
+    "optional_features": [
+      "Ventilated Front Seats",
+      "Head-Up Display"
+    ],
+    "active": true
+  },
+  {
+    "id": "2026-mdx-a-spec",
+    "manufacturer_id": 1,
+    "trim_name": "A-Spec",
+    "standard_features": [
+      "Apple CarPlay",
+      "Android Auto",
+      "Adaptive Cruise Control",
+      "Lane Keep Assist",
+      "Automatic Emergency Braking",
+      "Sport Seats",
+      "Leather Seats",
+      "Heated Front Seats",
+      "Sport Suspension",
+      "Premium Audio System",
+      "Wireless Phone Charging"
+    ],
+    "optional_features": [
+      "Ventilated Front Seats",
+      "Head-Up Display"
+    ],
+    "active": true
+  },
+  {
+    "id": "2026-mdx-advance",
+    "manufacturer_id": 1,
+    "trim_name": "Advance",
+    "standard_features": [
+      "Apple CarPlay",
+      "Android Auto",
+      "Adaptive Cruise Control",
+      "Lane Keep Assist",
+      "Automatic Emergency Braking",
+      "Leather Seats",
+      "Heated Front Seats",
+      "Ventilated Front Seats",
+      "Premium Audio System",
+      "Navigation System",
+      "Head-Up Display",
+      "360-Degree Camera",
+      "Wireless Phone Charging"
+    ],
+    "optional_features": [],
+    "active": true
+  },
+  {
+    "id": "2026-rdx-base",
+    "manufacturer_id": 1,
+    "trim_name": "Base",
+    "standard_features": [
+      "Apple CarPlay",
+      "Android Auto",
+      "Adaptive Cruise Control",
+      "Lane Keep Assist",
+      "Automatic Emergency Braking",
+      "LED Headlights",
+      "Keyless Entry",
+      "Cloth Seats"
+    ],
+    "optional_features": [
+      "Heated Front Seats",
+      "Wireless Phone Charging"
+    ],
+    "active": true
+  },
+  {
+    "id": "2026-rdx-technology",
+    "manufacturer_id": 1,
+    "trim_name": "Technology",
+    "standard_features": [
+      "Apple CarPlay",
+      "Android Auto",
+      "Adaptive Cruise Control",
+      "Lane Keep Assist",
+      "Automatic Emergency Braking",
+      "Leather Seats",
+      "Heated Front Seats",
+      "Premium Audio System",
+      "Navigation System",
+      "Wireless Phone Charging"
+    ],
+    "optional_features": [
+      "Ventilated Front Seats",
+      "Head-Up Display"
+    ],
+    "active": true
+  },
+  {
+    "id": "2026-rdx-a-spec",
+    "manufacturer_id": 1,
+    "trim_name": "A-Spec",
+    "standard_features": [
+      "Apple CarPlay",
+      "Android Auto",
+      "Adaptive Cruise Control",
+      "Lane Keep Assist",
+      "Automatic Emergency Braking",
+      "Sport Seats",
+      "Leather Seats",
+      "Heated Front Seats",
+      "Sport Suspension",
+      "Premium Audio System",
+      "Wireless Phone Charging"
+    ],
+    "optional_features": [
+      "Ventilated Front Seats",
+      "Head-Up Display"
+    ],
+    "active": true
+  },
+  {
+    "id": "2026-rdx-advance",
+    "manufacturer_id": 1,
+    "trim_name": "Advance",
+    "standard_features": [
+      "Apple CarPlay",
+      "Android Auto",
+      "Adaptive Cruise Control",
+      "Lane Keep Assist",
+      "Automatic Emergency Braking",
+      "Leather Seats",
+      "Heated Front Seats",
+      "Ventilated Front Seats",
+      "Premium Audio System",
+      "Navigation System",
+      "Head-Up Display",
+      "360-Degree Camera",
+      "Wireless Phone Charging"
+    ],
+    "optional_features": [],
+    "active": true
   }
 ]
