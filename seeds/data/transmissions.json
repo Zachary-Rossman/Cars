@@ -1,7 +1,27 @@
 [
   {
-    "manufacturer": "Toyota",
+    "id": "uuid-here-later",
     "type": "Automatic",
-    "gears": 8
+    "speeds": 6
+  },
+  {
+    "id": "uuid-here-later",
+    "type": "Automatic",
+    "speeds": 8
+  },
+  {
+    "id": "uuid-here-later",
+    "type": "Manual",
+    "speeds": 6
+  },
+  {
+    "id": "uuid-here-later",
+    "type": "CVT",
+    "speeds": 0
+  },
+  {
+    "id": "uuid-here-later",
+    "type": "Single-Speed",
+    "speeds": 1
   }
 ]
