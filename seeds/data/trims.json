@@ -1,199 +1,6 @@
 [
   {
-  "id": "2026-adx-base",
-  "manufacturer_id": 1,
-  "trim_name": "Base",
-  "standard_features": [
-    "Apple CarPlay",
-    "Android Auto",
-    "Adaptive Cruise Control",
-    "Lane Keep Assist",
-    "Automatic Emergency Braking",
-    "LED Headlights",
-    "Keyless Entry"
-  ],
-  "optional_features": [
-    "Leather Seats",
-    "Heated Front Seats",
-    "Wireless Phone Charging"
-  ],
-  "active": true
-  },
-  {
-  "id": "2026-adx-technology",
-  "manufacturer_id": 1,
-  "trim_name": "Technology",
-  "standard_features": [
-    "Apple CarPlay",
-    "Android Auto",
-    "Adaptive Cruise Control",
-    "Lane Keep Assist",
-    "Automatic Emergency Braking",
-    "Leather Seats",
-    "Heated Front Seats",
-    "Premium Audio System",
-    "Navigation System",
-    "Wireless Phone Charging"
-  ],
-  "optional_features": [
-    "Ventilated Front Seats",
-    "Head-Up Display"
-  ],
-  "active": true
-  },
-  {
-  "id": "2026-adx-a-spec",
-  "manufacturer_id": 1,
-  "trim_name": "A-Spec",
-  "standard_features": [
-    "Apple CarPlay",
-    "Android Auto",
-    "Adaptive Cruise Control",
-    "Lane Keep Assist",
-    "Automatic Emergency Braking",
-    "Sport Seats",
-    "Leather Seats",
-    "Heated Front Seats",
-    "Premium Audio System",
-    "Sport Suspension",
-    "Wireless Phone Charging"
-  ],
-  "optional_features": [
-    "Ventilated Front Seats",
-    "Head-Up Display"
-  ],
-  "active": true
-  },
-  {
-  "id": "2026-adx-advance",
-  "manufacturer_id": 1,
-  "trim_name": "Advance",
-  "standard_features": [
-    "Apple CarPlay",
-    "Android Auto",
-    "Adaptive Cruise Control",
-    "Lane Keep Assist",
-    "Automatic Emergency Braking",
-    "Leather Seats",
-    "Heated Front Seats",
-    "Ventilated Front Seats",
-    "Premium Audio System",
-    "Navigation System",
-    "Head-Up Display",
-    "360-Degree Camera",
-    "Wireless Phone Charging"
-  ],
-  "optional_features": [],
-  "active": true
-  },
-  {
-  "id": "2026-integra-base",
-  "manufacturer_id": 1,
-  "trim_name": "Base",
-  "standard_features": [
-    "Apple CarPlay",
-    "Android Auto",
-    "Adaptive Cruise Control",
-    "Lane Keep Assist",
-    "Automatic Emergency Braking",
-    "LED Headlights",
-    "Keyless Entry",
-    "Cloth Seats"
-  ],
-  "optional_features": [
-    "Heated Front Seats",
-    "Wireless Phone Charging"
-  ],
-  "active": true
-  },
-  {
-  "id": "2026-integra-technology",
-  "manufacturer_id": 1,
-  "trim_name": "Technology",
-  "standard_features": [
-    "Apple CarPlay",
-    "Android Auto",
-    "Adaptive Cruise Control",
-    "Lane Keep Assist",
-    "Automatic Emergency Braking",
-    "Heated Front Seats",
-    "Leather Seats",
-    "Premium Audio System",
-    "Navigation System",
-    "Wireless Phone Charging"
-  ],
-  "optional_features": [
-    "Head-Up Display"
-  ],
-  "active": true
-  },
-  {
-  "id": "2026-integra-a-spec",
-  "manufacturer_id": 1,
-  "trim_name": "A-Spec",
-  "standard_features": [
-    "Apple CarPlay",
-    "Android Auto",
-    "Adaptive Cruise Control",
-    "Lane Keep Assist",
-    "Automatic Emergency Braking",
-    "Sport Seats",
-    "Leather Seats",
-    "Heated Front Seats",
-    "Sport Suspension",
-    "Wireless Phone Charging"
-  ],
-  "optional_features": [
-    "Premium Audio System"
-  ],
-  "active": true
-  },
-  {
-  "id": "2026-integra-a-spec-technology",
-  "manufacturer_id": 1,
-  "trim_name": "A-Spec with Technology",
-  "standard_features": [
-    "Apple CarPlay",
-    "Android Auto",
-    "Adaptive Cruise Control",
-    "Lane Keep Assist",
-    "Automatic Emergency Braking",
-    "Sport Seats",
-    "Leather Seats",
-    "Heated Front Seats",
-    "Sport Suspension",
-    "Premium Audio System",
-    "Navigation System",
-    "Head-Up Display",
-    "Wireless Phone Charging"
-  ],
-  "optional_features": [],
-  "active": true
-  },
-  {
-  "id": "2026-integra-type-s",
-  "manufacturer_id": 1,
-  "trim_name": "Type S",
-  "standard_features": [
-    "Apple CarPlay",
-    "Android Auto",
-    "Adaptive Cruise Control",
-    "Lane Keep Assist",
-    "Automatic Emergency Braking",
-    "Sport Seats",
-    "Leather Seats",
-    "Heated Front Seats",
-    "Sport Suspension",
-    "Performance Brakes",
-    "Limited Slip Differential",
-    "Premium Audio System",
-    "Wireless Phone Charging"
-  ],
-  "optional_features": [],
-  "active": true
-  },
-  {
-    "id": "2026-mdx-base",
+    "id": "2026-adx-base",
     "manufacturer_id": 1,
     "trim_name": "Base",
     "standard_features": [
@@ -203,17 +10,17 @@
       "Lane Keep Assist",
       "Automatic Emergency Braking",
       "LED Headlights",
-      "Keyless Entry",
-      "Leather Seats"
+      "Keyless Entry"
     ],
     "optional_features": [
+      "Leather Seats",
       "Heated Front Seats",
       "Wireless Phone Charging"
     ],
     "active": true
   },
   {
-    "id": "2026-mdx-technology",
+    "id": "2026-adx-technology",
     "manufacturer_id": 1,
     "trim_name": "Technology",
     "standard_features": [
@@ -235,6 +42,200 @@
     "active": true
   },
   {
+    "id": "2026-adx-a-spec",
+    "manufacturer_id": 1,
+    "trim_name": "A-Spec",
+    "standard_features": [
+      "Apple CarPlay",
+      "Android Auto",
+      "Adaptive Cruise Control",
+      "Lane Keep Assist",
+      "Automatic Emergency Braking",
+      "Sport Seats",
+      "Leather Seats",
+      "Heated Front Seats",
+      "Premium Audio System",
+      "Sport Suspension",
+      "Wireless Phone Charging"
+    ],
+    "optional_features": [
+      "Ventilated Front Seats",
+      "Head-Up Display"
+    ],
+    "active": true
+  },
+  {
+    "id": "2026-adx-advance",
+    "manufacturer_id": 1,
+    "trim_name": "Advance",
+    "standard_features": [
+      "Apple CarPlay",
+      "Android Auto",
+      "Adaptive Cruise Control",
+      "Lane Keep Assist",
+      "Automatic Emergency Braking",
+      "Leather Seats",
+      "Heated Front Seats",
+      "Ventilated Front Seats",
+      "Premium Audio System",
+      "Navigation System",
+      "Head-Up Display",
+      "360-Degree Camera",
+      "Wireless Phone Charging"
+    ],
+    "optional_features": [],
+    "active": true
+  },
+  {
+    "id": "2026-integra-base",
+    "manufacturer_id": 1,
+    "trim_name": "Base",
+    "standard_features": [
+      "Apple CarPlay",
+      "Android Auto",
+      "Adaptive Cruise Control",
+      "Lane Keep Assist",
+      "Automatic Emergency Braking",
+      "LED Headlights",
+      "Keyless Entry",
+      "Cloth Seats"
+    ],
+    "optional_features": [
+      "Heated Front Seats",
+      "Wireless Phone Charging"
+    ],
+    "active": true
+  },
+  {
+    "id": "2026-integra-technology",
+    "manufacturer_id": 1,
+    "trim_name": "Technology",
+    "standard_features": [
+      "Apple CarPlay",
+      "Android Auto",
+      "Adaptive Cruise Control",
+      "Lane Keep Assist",
+      "Automatic Emergency Braking",
+      "Leather Seats",
+      "Heated Front Seats",
+      "Premium Audio System",
+      "Navigation System",
+      "Wireless Phone Charging"
+    ],
+    "optional_features": [
+      "Head-Up Display"
+    ],
+    "active": true
+  },
+  {
+    "id": "2026-integra-a-spec",
+    "manufacturer_id": 1,
+    "trim_name": "A-Spec",
+    "standard_features": [
+      "Apple CarPlay",
+      "Android Auto",
+      "Adaptive Cruise Control",
+      "Lane Keep Assist",
+      "Automatic Emergency Braking",
+      "Sport Seats",
+      "Leather Seats",
+      "Heated Front Seats",
+      "Sport Suspension",
+      "Wireless Phone Charging"
+    ],
+    "optional_features": [
+      "Premium Audio System"
+    ],
+    "active": true
+  },
+  {
+    "id": "2026-integra-a-spec-technology",
+    "manufacturer_id": 1,
+    "trim_name": "A-Spec with Technology",
+    "standard_features": [
+      "Apple CarPlay",
+      "Android Auto",
+      "Adaptive Cruise Control",
+      "Lane Keep Assist",
+      "Automatic Emergency Braking",
+      "Sport Seats",
+      "Leather Seats",
+      "Heated Front Seats",
+      "Sport Suspension",
+      "Premium Audio System",
+      "Navigation System",
+      "Head-Up Display",
+      "Wireless Phone Charging"
+    ],
+    "optional_features": [],
+    "active": true
+  },
+  {
+    "id": "2026-integra-type-s",
+    "manufacturer_id": 1,
+    "trim_name": "Type S",
+    "standard_features": [
+      "Apple CarPlay",
+      "Android Auto",
+      "Adaptive Cruise Control",
+      "Lane Keep Assist",
+      "Automatic Emergency Braking",
+      "Sport Seats",
+      "Leather Seats",
+      "Heated Front Seats",
+      "Sport Suspension",
+      "Performance Brakes",
+      "Limited Slip Differential",
+      "Premium Audio System",
+      "Wireless Phone Charging"
+    ],
+    "optional_features": [],
+    "active": true
+  },
+  {
+    "id": "2026-mdx-base",
+    "manufacturer_id": 1,
+    "trim_name": "Base",
+    "standard_features": [
+      "Apple CarPlay",
+      "Android Auto",
+      "Adaptive Cruise Control",
+      "Lane Keep Assist",
+      "Automatic Emergency Braking",
+      "LED Headlights",
+      "Keyless Entry",
+      "Cloth Seats"
+    ],
+    "optional_features": [
+      "Heated Front Seats",
+      "Leather Seats",
+      "Wireless Phone Charging"
+    ],
+    "active": true
+  },
+  {
+    "id": "2026-mdx-technology",
+    "manufacturer_id": 1,
+    "trim_name": "Technology",
+    "standard_features": [
+      "Apple CarPlay",
+      "Android Auto",
+      "Adaptive Cruise Control",
+      "Lane Keep Assist",
+      "Automatic Emergency Braking",
+      "Leather Seats",
+      "Heated Front Seats",
+      "Premium Audio System",
+      "Navigation System",
+      "Wireless Phone Charging"
+    ],
+    "optional_features": [
+      "Head-Up Display",
+      "Ventilated Front Seats"
+    ],
+    "active": true
+  },
+  {
     "id": "2026-mdx-a-spec",
     "manufacturer_id": 1,
     "trim_name": "A-Spec",
@@ -248,12 +249,11 @@
       "Leather Seats",
       "Heated Front Seats",
       "Sport Suspension",
-      "Premium Audio System",
       "Wireless Phone Charging"
     ],
     "optional_features": [
-      "Ventilated Front Seats",
-      "Head-Up Display"
+      "Premium Audio System",
+      "Ventilated Front Seats"
     ],
     "active": true
   },
@@ -295,6 +295,7 @@
     ],
     "optional_features": [
       "Heated Front Seats",
+      "Leather Seats",
       "Wireless Phone Charging"
     ],
     "active": true
@@ -316,8 +317,8 @@
       "Wireless Phone Charging"
     ],
     "optional_features": [
-      "Ventilated Front Seats",
-      "Head-Up Display"
+      "Head-Up Display",
+      "Ventilated Front Seats"
     ],
     "active": true
   },
@@ -335,12 +336,11 @@
       "Leather Seats",
       "Heated Front Seats",
       "Sport Suspension",
-      "Premium Audio System",
       "Wireless Phone Charging"
     ],
     "optional_features": [
-      "Ventilated Front Seats",
-      "Head-Up Display"
+      "Premium Audio System",
+      "Ventilated Front Seats"
     ],
     "active": true
   },
@@ -364,6 +364,2695 @@
       "Wireless Phone Charging"
     ],
     "optional_features": [],
+    "active": true
+  },
+  {
+    "id": "2026-tlx-base",
+    "manufacturer_id": 1,
+    "trim_name": "Base",
+    "standard_features": [
+      "Apple CarPlay",
+      "Android Auto",
+      "Adaptive Cruise Control",
+      "Lane Keep Assist",
+      "Automatic Emergency Braking",
+      "LED Headlights",
+      "Keyless Entry",
+      "Cloth Seats"
+    ],
+    "optional_features": [
+      "Heated Front Seats",
+      "Leather Seats",
+      "Wireless Phone Charging"
+    ],
+    "active": true
+  },
+  {
+    "id": "2026-tlx-technology",
+    "manufacturer_id": 1,
+    "trim_name": "Technology",
+    "standard_features": [
+      "Apple CarPlay",
+      "Android Auto",
+      "Adaptive Cruise Control",
+      "Lane Keep Assist",
+      "Automatic Emergency Braking",
+      "Leather Seats",
+      "Heated Front Seats",
+      "Premium Audio System",
+      "Navigation System",
+      "Wireless Phone Charging"
+    ],
+    "optional_features": [
+      "Head-Up Display",
+      "Ventilated Front Seats"
+    ],
+    "active": true
+  },
+  {
+    "id": "2026-tlx-a-spec",
+    "manufacturer_id": 1,
+    "trim_name": "A-Spec",
+    "standard_features": [
+      "Apple CarPlay",
+      "Android Auto",
+      "Adaptive Cruise Control",
+      "Lane Keep Assist",
+      "Automatic Emergency Braking",
+      "Sport Seats",
+      "Leather Seats",
+      "Heated Front Seats",
+      "Sport Suspension",
+      "Wireless Phone Charging"
+    ],
+    "optional_features": [
+      "Premium Audio System",
+      "Ventilated Front Seats"
+    ],
+    "active": true
+  },
+  {
+    "id": "2026-tlx-type-s",
+    "manufacturer_id": 1,
+    "trim_name": "Type S",
+    "standard_features": [
+      "Apple CarPlay",
+      "Android Auto",
+      "Adaptive Cruise Control",
+      "Lane Keep Assist",
+      "Automatic Emergency Braking",
+      "Sport Seats",
+      "Leather Seats",
+      "Heated Front Seats",
+      "Sport Suspension",
+      "Performance Brakes",
+      "Limited Slip Differential",
+      "Premium Audio System",
+      "Wireless Phone Charging"
+    ],
+    "optional_features": [],
+    "active": true
+  },
+  {
+    "id": "2026-giulia-base",
+    "manufacturer_id": 2,
+    "trim_name": "Base",
+    "standard_features": [
+      "Apple CarPlay",
+      "Android Auto",
+      "Adaptive Cruise Control",
+      "Lane Keep Assist",
+      "Automatic Emergency Braking",
+      "LED Headlights",
+      "Keyless Entry",
+      "Cloth Seats"
+    ],
+    "optional_features": [
+      "Leather Seats",
+      "Heated Front Seats",
+      "Wireless Phone Charging"
+    ],
+    "active": true
+  },
+  {
+    "id": "2026-giulia-ti",
+    "manufacturer_id": 2,
+    "trim_name": "Ti",
+    "standard_features": [
+      "Apple CarPlay",
+      "Android Auto",
+      "Adaptive Cruise Control",
+      "Lane Keep Assist",
+      "Automatic Emergency Braking",
+      "Leather Seats",
+      "Heated Front Seats",
+      "Premium Audio System",
+      "Navigation System",
+      "Wireless Phone Charging"
+    ],
+    "optional_features": [
+      "Ventilated Front Seats",
+      "Driver Assistance Package"
+    ],
+    "active": true
+  },
+  {
+    "id": "2026-giulia-quadrofoglio",
+    "manufacturer_id": 2,
+    "trim_name": "Quadrifoglio",
+    "standard_features": [
+      "Apple CarPlay",
+      "Android Auto",
+      "Adaptive Cruise Control",
+      "Lane Keep Assist",
+      "Automatic Emergency Braking",
+      "Sport Seats",
+      "Leather Seats",
+      "Heated Front Seats",
+      "Performance Brakes",
+      "Sport Suspension",
+      "Limited Slip Differential",
+      "Premium Audio System",
+      "Wireless Phone Charging"
+    ],
+    "optional_features": [
+      "Carbon Fiber Package",
+      "Head-Up Display"
+    ],
+    "active": true
+  },
+  {
+    "id": "2026-giulia",
+    "manufacturer_id": 2,
+    "trim_name": "Giulia",
+    "standard_features": [
+      "Apple CarPlay",
+      "Android Auto",
+      "Adaptive Cruise Control",
+      "Lane Keep Assist",
+      "Automatic Emergency Braking",
+      "LED Headlights",
+      "Leather Seats",
+      "Heated Front Seats",
+      "Navigation System",
+      "Premium Audio System",
+      "Power Adjustable Front Seats",
+      "Rearview Camera",
+      "Keyless Entry"
+    ],
+    "optional_features": [
+      "Veloce Sport Package",
+      "Premium Interior & Sound Package",
+      "Driving Assist Package",
+      "AWD Drivetrain",
+      "RWD Drivetrain"
+    ],
+    "active": true
+  },
+  {
+    "id": "2026-stelvio",
+    "manufacturer_id": 2,
+    "trim_name": "Stelvio",
+    "standard_features": [
+      "Apple CarPlay",
+      "Android Auto",
+      "Adaptive Cruise Control",
+      "Lane Keep Assist",
+      "Automatic Emergency Braking",
+      "LED Headlights",
+      "Keyless Entry"
+    ],
+    "optional_features": [
+      "Premium Sound Package",
+      "Alfa Active Suspension Package",
+      "Driver Assistance Package",
+      "AWD Option"
+    ],
+    "active": true
+  },
+  {
+    "id": "2026-tonale-sprint",
+    "manufacturer_id": 2,
+    "trim_name": "Sprint",
+    "standard_features": [
+      "Apple CarPlay",
+      "Android Auto",
+      "Adaptive Cruise Control",
+      "Lane Keep Assist",
+      "Automatic Emergency Braking",
+      "LED Headlights",
+      "Keyless Entry"
+    ],
+    "optional_features": [
+      "Driver Assistance Package",
+      "Premium Sound Package"
+    ],
+    "active": true
+  },
+  {
+    "id": "2026-tonale-sport-speciale",
+    "manufacturer_id": 2,
+    "trim_name": "Sport Speciale",
+    "standard_features": [
+      "Apple CarPlay",
+      "Android Auto",
+      "Adaptive Cruise Control",
+      "Lane Keep Assist",
+      "Automatic Emergency Braking",
+      "LED Headlights",
+      "Keyless Entry",
+      "Sport Seats",
+      "Premium Audio System"
+    ],
+    "optional_features": [
+      "Luxury Package",
+      "AWD Option"
+    ],
+    "active": true
+  },
+  {
+    "id": "2026-tonale-veloce",
+    "manufacturer_id": 2,
+    "trim_name": "Veloce",
+    "standard_features": [
+      "Apple CarPlay",
+      "Android Auto",
+      "Adaptive Cruise Control",
+      "Lane Keep Assist",
+      "Automatic Emergency Braking",
+      "LED Headlights",
+      "Keyless Entry",
+      "Sport Seats",
+      "Premium Audio System",
+      "Performance Brakes",
+      "AWD"
+    ],
+    "optional_features": [
+      "Luxury Package",
+      "Driver Assistance Package"
+    ],
+    "active": true
+  },
+  {
+    "id": "2026-db12-coupe",
+    "manufacturer_id": 3,
+    "trim_name": "DB12",
+    "standard_features": [
+      "Apple CarPlay",
+      "Android Auto",
+      "Adaptive Cruise Control",
+      "Lane Keep Assist",
+      "Automatic Emergency Braking",
+      "Blind Spot Monitoring",
+      "Leather Seats",
+      "Heated Front Seats",
+      "Ventilated Front Seats",
+      "Power Adjustable Front Seats",
+      "Digital Instrument Cluster",
+      "Premium Audio System",
+      "LED Headlights",
+      "Keyless Entry",
+      "Push Button Start",
+      "Dual-Zone Automatic Climate Control"
+    ],
+    "optional_features": [
+      "Carbon Ceramic Brakes",
+      "Sport Exhaust System",
+      "Carbon Fiber Exterior Package",
+      "Carbon Fiber Interior Package",
+      "Performance Seats",
+      "Premium Audio Upgrade",
+      "Exterior Black Pack",
+      "Bespoke Interior Trim"
+    ],
+    "active": true
+  },
+  {
+    "id": "2026-vantage-coupe",
+    "manufacturer_id": 3,
+    "trim_name": "Vantage",
+    "standard_features": [
+      "Apple CarPlay",
+      "Android Auto",
+      "Adaptive Cruise Control",
+      "Lane Keep Assist",
+      "Automatic Emergency Braking",
+      "Blind Spot Monitoring",
+      "Leather Seats",
+      "Heated Front Seats",
+      "Power Adjustable Front Seats",
+      "Digital Instrument Cluster",
+      "Premium Audio System",
+      "LED Headlights",
+      "Keyless Entry",
+      "Push Button Start",
+      "Dual-Zone Automatic Climate Control",
+      "Sport Suspension",
+      "Limited Slip Differential"
+    ],
+    "optional_features": [
+      "Carbon Ceramic Brakes",
+      "Sport Exhaust System",
+      "Carbon Fiber Exterior Package",
+      "Carbon Fiber Interior Package",
+      "Performance Seats",
+      "Premium Audio Upgrade",
+      "Track-Focused Suspension",
+      "Exterior Black Pack",
+      "Bespoke Interior Trim"
+    ],
+    "active": true
+  },
+  {
+    "id": "2026-vanquish-coupe",
+    "manufacturer_id": 3,
+    "trim_name": "Vanquish",
+    "standard_features": [
+      "Apple CarPlay",
+      "Android Auto",
+      "Adaptive Cruise Control",
+      "Lane Keep Assist",
+      "Automatic Emergency Braking",
+      "Blind Spot Monitoring",
+      "Leather Seats",
+      "Heated Front Seats",
+      "Ventilated Front Seats",
+      "Power Adjustable Front Seats",
+      "Memory Seats",
+      "Digital Instrument Cluster",
+      "Premium Audio System",
+      "Navigation System",
+      "Head-Up Display",
+      "LED Headlights",
+      "Keyless Entry",
+      "Push Button Start",
+      "Dual-Zone Automatic Climate Control",
+      "Sport Suspension",
+      "Limited Slip Differential",
+      "Performance Brakes"
+    ],
+    "optional_features": [
+      "Carbon Ceramic Brakes",
+      "Carbon Fiber Exterior Package",
+      "Carbon Fiber Interior Package",
+      "Lightweight Performance Seats",
+      "Sport Exhaust System",
+      "Track-Focused Suspension",
+      "Premium Audio Upgrade",
+      "Exterior Black Pack",
+      "Bespoke Interior Trim"
+    ],
+    "active": true
+  },
+  {
+    "id": "2026-dbx-base",
+    "manufacturer_id": 3,
+    "trim_name": "DBX",
+    "standard_features": [
+      "Apple CarPlay",
+      "Android Auto",
+      "Adaptive Cruise Control",
+      "Lane Keep Assist",
+      "Automatic Emergency Braking",
+      "Blind Spot Monitoring",
+      "Leather Seats",
+      "Heated Front Seats",
+      "Ventilated Front Seats",
+      "Power Adjustable Front Seats",
+      "Memory Seats",
+      "Digital Instrument Cluster",
+      "Premium Audio System",
+      "Navigation System",
+      "LED Headlights",
+      "Keyless Entry",
+      "Push Button Start",
+      "Dual-Zone Automatic Climate Control",
+      "Air Suspension",
+      "All-Wheel Drive"
+    ],
+    "optional_features": [
+      "Carbon Ceramic Brakes",
+      "Carbon Fiber Exterior Package",
+      "Carbon Fiber Interior Package",
+      "Sport Exhaust System",
+      "Bespoke Interior Trim",
+      "Performance Suspension Calibration"
+    ],
+    "active": true
+  },
+  {
+    "id": "2026-dbx-707",
+    "manufacturer_id": 3,
+    "trim_name": "DBX707",
+    "standard_features": [
+      "Apple CarPlay",
+      "Android Auto",
+      "Adaptive Cruise Control",
+      "Lane Keep Assist",
+      "Automatic Emergency Braking",
+      "Blind Spot Monitoring",
+      "Leather Seats",
+      "Heated Front Seats",
+      "Ventilated Front Seats",
+      "Power Adjustable Front Seats",
+      "Memory Seats",
+      "Digital Instrument Cluster",
+      "Premium Audio System",
+      "Navigation System",
+      "Head-Up Display",
+      "LED Headlights",
+      "Keyless Entry",
+      "Push Button Start",
+      "Dual-Zone Automatic Climate Control",
+      "Sport Air Suspension",
+      "All-Wheel Drive",
+      "Limited Slip Differential",
+      "Performance Brakes"
+    ],
+    "optional_features": [
+      "Carbon Ceramic Brakes",
+      "Carbon Fiber Exterior Package",
+      "Carbon Fiber Interior Package",
+      "Lightweight Performance Seats",
+      "Track-Focused Suspension",
+      "Bespoke Interior Trim"
+    ],
+    "active": true
+  },
+  {
+    "id": "2026-valhalla",
+    "manufacturer_id": 3,
+    "trim_name": "Valhalla",
+    "standard_features": [
+      "Apple CarPlay",
+      "Digital Instrument Cluster",
+      "Adaptive Cruise Control",
+      "Automatic Emergency Braking",
+      "Lane Keep Assist",
+      "Carbon Fiber Monocoque",
+      "Carbon Ceramic Brakes",
+      "Performance Suspension",
+      "Limited Slip Differential",
+      "Active Aerodynamics",
+      "Hybrid Powertrain",
+      "Premium Audio System",
+      "Navigation System",
+      "LED Headlights",
+      "Keyless Entry",
+      "Push Button Start",
+      "Dual-Zone Automatic Climate Control"
+    ],
+    "optional_features": [
+      "Lightweight Track Seats",
+      "Carbon Fiber Interior Package",
+      "Bespoke Interior Trim",
+      "Bespoke Exterior Paint",
+      "Track-Focused Setup"
+    ],
+    "active": true
+  },
+  {
+    "id": "2026-valkyrie",
+    "manufacturer_id": 3,
+    "trim_name": "Valkyrie",
+    "standard_features": [
+      "Digital Instrument Cluster",
+      "Carbon Fiber Monocoque",
+      "Carbon Ceramic Brakes",
+      "Performance Suspension",
+      "Limited Slip Differential",
+      "Active Aerodynamics",
+      "Hybrid Powertrain",
+      "Track-Focused Driving Modes",
+      "LED Headlights",
+      "Push Button Start"
+    ],
+    "optional_features": [
+      "Track-Only Setup",
+      "Lightweight Track Seats",
+      "Carbon Fiber Interior Package",
+      "Bespoke Interior Trim",
+      "Bespoke Exterior Paint",
+      "Telemetry Data System"
+    ],
+    "active": true
+  },
+  {
+    "id": "2026-valour",
+    "manufacturer_id": 3,
+    "trim_name": "Valour",
+    "standard_features": [
+      "Manual Transmission",
+      "Carbon Fiber Body Panels",
+      "Carbon Ceramic Brakes",
+      "Limited Slip Differential",
+      "Performance Suspension",
+      "Mechanical Limited Slip Differential",
+      "Digital Instrument Cluster",
+      "LED Headlights",
+      "Heritage-Inspired Interior",
+      "Push Button Start"
+    ],
+    "optional_features": [
+      "Bespoke Exterior Paint",
+      "Bespoke Interior Leather",
+      "Carbon Fiber Interior Package",
+      "Lightweight Track Seats",
+      "Heritage Stripe Package"
+    ],
+    "active": true
+  },
+  {
+    "id": "2026-valiant",
+    "manufacturer_id": 3,
+    "trim_name": "Valiant",
+    "standard_features": [
+      "Manual Transmission",
+      "Carbon Fiber Body Panels",
+      "Carbon Ceramic Brakes",
+      "Performance Suspension",
+      "Mechanical Limited Slip Differential",
+      "Track-Tuned Chassis",
+      "Digital Instrument Cluster",
+      "LED Headlights",
+      "Lightweight Interior Materials",
+      "Push Button Start"
+    ],
+    "optional_features": [
+      "Bespoke Exterior Paint",
+      "Bespoke Interior Leather",
+      "Carbon Fiber Interior Package",
+      "Lightweight Track Seats",
+      "Heritage Livery Package"
+    ],
+    "active": true
+  },
+  {
+    "id": "2026-a3-premium",
+    "manufacturer_id": 4,
+    "trim_name": "Premium",
+    "standard_features": [
+      "Apple CarPlay",
+      "Android Auto",
+      "Digital Instrument Cluster",
+      "LED Headlights",
+      "Leather Upholstery",
+      "Power Front Seats",
+      "Dual-Zone Automatic Climate Control",
+      "Keyless Entry",
+      "Push Button Start",
+      "Automatic Emergency Braking",
+      "Lane Departure Warning"
+    ],
+    "optional_features": [
+      "S Line Exterior Package",
+      "Heated Front Seats",
+      "Wireless Phone Charging",
+      "Panoramic Sunroof",
+      "Audi Virtual Cockpit Plus"
+    ],
+    "active": true
+  },
+  {
+    "id": "2026-a3-premium-plus",
+    "manufacturer_id": 4,
+    "trim_name": "Premium Plus",
+    "standard_features": [
+      "Apple CarPlay",
+      "Android Auto",
+      "Audi Virtual Cockpit Plus",
+      "LED Headlights",
+      "Leather Upholstery",
+      "Heated Front Seats",
+      "Power Front Seats",
+      "Dual-Zone Automatic Climate Control",
+      "Keyless Entry",
+      "Push Button Start",
+      "Automatic Emergency Braking",
+      "Lane Departure Warning",
+      "Blind Spot Monitoring",
+      "Wireless Phone Charging"
+    ],
+    "optional_features": [
+      "S Line Exterior Package",
+      "Panoramic Sunroof",
+      "Bang & Olufsen Premium Audio",
+      "Adaptive Cruise Control"
+    ],
+    "active": true
+  },
+  {
+    "id": "2026-a3-prestige",
+    "manufacturer_id": 4,
+    "trim_name": "Prestige",
+    "standard_features": [
+      "Apple CarPlay",
+      "Android Auto",
+      "Audi Virtual Cockpit Plus",
+      "Matrix LED Headlights",
+      "Leather Upholstery",
+      "Heated Front Seats",
+      "Power Front Seats",
+      "Dual-Zone Automatic Climate Control",
+      "Keyless Entry",
+      "Push Button Start",
+      "Automatic Emergency Braking",
+      "Lane Departure Warning",
+      "Blind Spot Monitoring",
+      "Adaptive Cruise Control",
+      "Wireless Phone Charging",
+      "Bang & Olufsen Premium Audio",
+      "Navigation System"
+    ],
+    "optional_features": [
+      "S Line Exterior Package",
+      "Panoramic Sunroof",
+      "Head-Up Display"
+    ],
+    "active": true
+  },
+  {
+    "id": "2026-a5-premium",
+    "manufacturer_id": 4,
+    "trim_name": "Premium",
+    "standard_features": [
+      "Apple CarPlay",
+      "Android Auto",
+      "LED Headlights",
+      "Leather Upholstery",
+      "Power Front Seats",
+      "Dual-Zone Automatic Climate Control",
+      "Keyless Entry",
+      "Push Button Start",
+      "Automatic Emergency Braking",
+      "Lane Departure Warning"
+    ],
+    "optional_features": [
+      "S Line Exterior Package",
+      "Heated Front Seats",
+      "Wireless Phone Charging",
+      "Bang & Olufsen Audio System",
+      "Panoramic Sunroof"
+    ],
+    "active": true
+  },
+  {
+    "id": "2026-a5-premium-plus",
+    "manufacturer_id": 4,
+    "trim_name": "Premium Plus",
+    "standard_features": [
+      "Apple CarPlay",
+      "Android Auto",
+      "Audi Virtual Cockpit Plus",
+      "LED Headlights",
+      "Leather Upholstery",
+      "Heated Front Seats",
+      "Power Front Seats",
+      "Dual-Zone Automatic Climate Control",
+      "Keyless Entry",
+      "Push Button Start",
+      "Automatic Emergency Braking",
+      "Lane Departure Warning",
+      "Blind Spot Monitoring",
+      "Wireless Phone Charging"
+    ],
+    "optional_features": [
+      "S Line Exterior Package",
+      "Panoramic Sunroof",
+      "Bang & Olufsen Premium Audio",
+      "Adaptive Cruise Control"
+    ],
+    "active": true
+  },
+  {
+    "id": "2026-a5-prestige",
+    "manufacturer_id": 4,
+    "trim_name": "Prestige",
+    "standard_features": [
+      "Apple CarPlay",
+      "Android Auto",
+      "Audi Virtual Cockpit Plus",
+      "Matrix LED Headlights",
+      "Leather Upholstery",
+      "Heated Front Seats",
+      "Power Front Seats",
+      "Dual-Zone Automatic Climate Control",
+      "Keyless Entry",
+      "Push Button Start",
+      "Automatic Emergency Braking",
+      "Lane Departure Warning",
+      "Blind Spot Monitoring",
+      "Adaptive Cruise Control",
+      "Wireless Phone Charging",
+      "Bang & Olufsen Premium Audio",
+      "Navigation System"
+    ],
+    "optional_features": [
+      "S Line Exterior Package",
+      "Panoramic Sunroof",
+      "Head-Up Display"
+    ],
+    "active": true
+  },
+  {
+    "id": "2026-a6-premium",
+    "manufacturer_id": 4,
+    "trim_name": "Premium",
+    "standard_features": [
+      "Apple CarPlay",
+      "Android Auto",
+      "LED Headlights",
+      "Leather Upholstery",
+      "Power Front Seats",
+      "Dual-Zone Automatic Climate Control",
+      "Keyless Entry",
+      "Push Button Start",
+      "Automatic Emergency Braking",
+      "Lane Departure Warning"
+    ],
+    "optional_features": [
+      "S Line Exterior Package",
+      "Heated Front Seats",
+      "Wireless Phone Charging",
+      "Bang & Olufsen Audio System",
+      "Panoramic Sunroof"
+    ],
+    "active": true
+  },
+  {
+    "id": "2026-a6-premium-plus",
+    "manufacturer_id": 4,
+    "trim_name": "Premium Plus",
+    "standard_features": [
+      "Apple CarPlay",
+      "Android Auto",
+      "Audi Virtual Cockpit Plus",
+      "LED Headlights",
+      "Leather Upholstery",
+      "Heated Front Seats",
+      "Power Front Seats",
+      "Dual-Zone Automatic Climate Control",
+      "Keyless Entry",
+      "Push Button Start",
+      "Automatic Emergency Braking",
+      "Lane Departure Warning",
+      "Blind Spot Monitoring",
+      "Wireless Phone Charging"
+    ],
+    "optional_features": [
+      "S Line Exterior Package",
+      "Panoramic Sunroof",
+      "Bang & Olufsen Premium Audio",
+      "Adaptive Cruise Control"
+    ],
+    "active": true
+  },
+  {
+    "id": "2026-a6-prestige",
+    "manufacturer_id": 4,
+    "trim_name": "Prestige",
+    "standard_features": [
+      "Apple CarPlay",
+      "Android Auto",
+      "Audi Virtual Cockpit Plus",
+      "Matrix LED Headlights",
+      "Leather Upholstery",
+      "Heated Front Seats",
+      "Power Front Seats",
+      "Dual-Zone Automatic Climate Control",
+      "Keyless Entry",
+      "Push Button Start",
+      "Automatic Emergency Braking",
+      "Lane Departure Warning",
+      "Blind Spot Monitoring",
+      "Adaptive Cruise Control",
+      "Wireless Phone Charging",
+      "Bang & Olufsen Premium Audio",
+      "Navigation System"
+    ],
+    "optional_features": [
+      "S Line Exterior Package",
+      "Panoramic Sunroof",
+      "Head-Up Display"
+    ],
+    "active": true
+  },
+  {
+    "id": "2026-a6-allroad-premium",
+    "manufacturer_id": 4,
+    "trim_name": "Premium",
+    "standard_features": [
+      "Apple CarPlay",
+      "Android Auto",
+      "LED Headlights",
+      "Leather Upholstery",
+      "Power Front Seats",
+      "Dual-Zone Automatic Climate Control",
+      "Keyless Entry",
+      "Push Button Start",
+      "Automatic Emergency Braking",
+      "Lane Departure Warning",
+      "All-Wheel Drive",
+      "Raised Suspension"
+    ],
+    "optional_features": [
+      "Heated Front Seats",
+      "Wireless Phone Charging",
+      "Bang & Olufsen Audio System",
+      "Panoramic Sunroof",
+      "S Line Exterior Package"
+    ],
+    "active": true
+  },
+  {
+    "id": "2026-a6-allroad-premium-plus",
+    "manufacturer_id": 4,
+    "trim_name": "Premium Plus",
+    "standard_features": [
+      "Apple CarPlay",
+      "Android Auto",
+      "Audi Virtual Cockpit Plus",
+      "LED Headlights",
+      "Leather Upholstery",
+      "Heated Front Seats",
+      "Power Front Seats",
+      "Dual-Zone Automatic Climate Control",
+      "Keyless Entry",
+      "Push Button Start",
+      "Automatic Emergency Braking",
+      "Lane Departure Warning",
+      "Blind Spot Monitoring",
+      "Wireless Phone Charging",
+      "All-Wheel Drive",
+      "Raised Suspension"
+    ],
+    "optional_features": [
+      "Bang & Olufsen Premium Audio",
+      "Panoramic Sunroof",
+      "S Line Exterior Package",
+      "Adaptive Cruise Control"
+    ],
+    "active": true
+  },
+  {
+    "id": "2026-a6-allroad-prestige",
+    "manufacturer_id": 4,
+    "trim_name": "Prestige",
+    "standard_features": [
+      "Apple CarPlay",
+      "Android Auto",
+      "Audi Virtual Cockpit Plus",
+      "Matrix LED Headlights",
+      "Leather Upholstery",
+      "Heated Front Seats",
+      "Power Front Seats",
+      "Dual-Zone Automatic Climate Control",
+      "Keyless Entry",
+      "Push Button Start",
+      "Automatic Emergency Braking",
+      "Lane Departure Warning",
+      "Blind Spot Monitoring",
+      "Adaptive Cruise Control",
+      "Wireless Phone Charging",
+      "Bang & Olufsen Premium Audio",
+      "Navigation System",
+      "All-Wheel Drive",
+      "Raised Suspension"
+    ],
+    "optional_features": [
+      "S Line Exterior Package",
+      "Panoramic Sunroof",
+      "Head-Up Display"
+    ],
+    "active": true
+  },
+  {
+    "id": "2026-a6-sportback-etron-premium",
+    "manufacturer_id": 4,
+    "trim_name": "Premium",
+    "standard_features": [
+      "Apple CarPlay",
+      "Android Auto",
+      "LED Headlights",
+      "Leather Upholstery",
+      "Power Front Seats",
+      "Dual-Zone Automatic Climate Control",
+      "Keyless Entry",
+      "Push Button Start",
+      "Automatic Emergency Braking",
+      "Lane Departure Warning",
+      "All-Wheel Drive",
+      "Regenerative Braking",
+      "Battery Management System",
+      "Charging Cable"
+    ],
+    "optional_features": [
+      "Heated Front Seats",
+      "Wireless Phone Charging",
+      "Bang & Olufsen Audio System",
+      "Panoramic Sunroof",
+      "S Line Exterior Package"
+    ],
+    "active": true
+  },
+  {
+    "id": "2026-a6-sportback-etron-premium-plus",
+    "manufacturer_id": 4,
+    "trim_name": "Premium Plus",
+    "standard_features": [
+      "Apple CarPlay",
+      "Android Auto",
+      "Audi Virtual Cockpit Plus",
+      "LED Headlights",
+      "Leather Upholstery",
+      "Heated Front Seats",
+      "Power Front Seats",
+      "Dual-Zone Automatic Climate Control",
+      "Keyless Entry",
+      "Push Button Start",
+      "Automatic Emergency Braking",
+      "Lane Departure Warning",
+      "Blind Spot Monitoring",
+      "Wireless Phone Charging",
+      "All-Wheel Drive",
+      "Regenerative Braking",
+      "Battery Management System",
+      "Charging Cable"
+    ],
+    "optional_features": [
+      "Bang & Olufsen Premium Audio",
+      "Panoramic Sunroof",
+      "S Line Exterior Package",
+      "Adaptive Cruise Control"
+    ],
+    "active": true
+  },
+  {
+    "id": "2026-a6-sportback-etron-prestige",
+    "manufacturer_id": 4,
+    "trim_name": "Prestige",
+    "standard_features": [
+      "Apple CarPlay",
+      "Android Auto",
+      "Audi Virtual Cockpit Plus",
+      "Matrix LED Headlights",
+      "Leather Upholstery",
+      "Heated Front Seats",
+      "Power Front Seats",
+      "Dual-Zone Automatic Climate Control",
+      "Keyless Entry",
+      "Push Button Start",
+      "Automatic Emergency Braking",
+      "Lane Departure Warning",
+      "Blind Spot Monitoring",
+      "Adaptive Cruise Control",
+      "Wireless Phone Charging",
+      "Bang & Olufsen Premium Audio",
+      "Navigation System",
+      "All-Wheel Drive",
+      "Regenerative Braking",
+      "Battery Management System",
+      "Charging Cable"
+    ],
+    "optional_features": [
+      "S Line Exterior Package",
+      "Panoramic Sunroof",
+      "Head-Up Display"
+    ],
+    "active": true
+  },
+  {
+    "id": "2026-a8-premium",
+    "manufacturer_id": 4,
+    "trim_name": "Premium",
+    "standard_features": [
+      "Apple CarPlay",
+      "Android Auto",
+      "LED Headlights",
+      "Leather Upholstery",
+      "Power Front Seats",
+      "Dual-Zone Automatic Climate Control",
+      "Keyless Entry",
+      "Push Button Start",
+      "Automatic Emergency Braking",
+      "Lane Departure Warning",
+      "All-Wheel Drive",
+      "Adaptive Suspension",
+      "Rearview Camera"
+    ],
+    "optional_features": [
+      "Heated Front Seats",
+      "Bang & Olufsen Audio System",
+      "Night Vision Assistant",
+      "Panoramic Sunroof",
+      "Rear Seat Entertainment"
+    ],
+    "active": true
+  },
+  {
+    "id": "2026-a8-premium-plus",
+    "manufacturer_id": 4,
+    "trim_name": "Premium Plus",
+    "standard_features": [
+      "Apple CarPlay",
+      "Android Auto",
+      "Audi Virtual Cockpit",
+      "LED Headlights",
+      "Leather Upholstery",
+      "Heated Front Seats",
+      "Power Front Seats",
+      "Dual-Zone Automatic Climate Control",
+      "Keyless Entry",
+      "Push Button Start",
+      "Automatic Emergency Braking",
+      "Lane Departure Warning",
+      "Blind Spot Monitoring",
+      "All-Wheel Drive",
+      "Adaptive Suspension",
+      "Rearview Camera"
+    ],
+    "optional_features": [
+      "Bang & Olufsen Premium Audio",
+      "Night Vision Assistant",
+      "Panoramic Sunroof",
+      "Rear Seat Entertainment",
+      "Massage Seats"
+    ],
+    "active": true
+  },
+  {
+    "id": "2026-a8-prestige",
+    "manufacturer_id": 4,
+    "trim_name": "Prestige",
+    "standard_features": [
+      "Apple CarPlay",
+      "Android Auto",
+      "Audi Virtual Cockpit",
+      "Matrix LED Headlights",
+      "Leather Upholstery",
+      "Heated Front Seats",
+      "Power Front Seats",
+      "Dual-Zone Automatic Climate Control",
+      "Keyless Entry",
+      "Push Button Start",
+      "Automatic Emergency Braking",
+      "Lane Departure Warning",
+      "Blind Spot Monitoring",
+      "Adaptive Cruise Control",
+      "Audi AI Traffic Jam Pilot",
+      "All-Wheel Drive",
+      "Adaptive Suspension",
+      "Rearview Camera",
+      "Navigation System"
+    ],
+    "optional_features": [
+      "Bang & Olufsen Premium Audio",
+      "Night Vision Assistant",
+      "Panoramic Sunroof",
+      "Rear Seat Entertainment",
+      "Massage Seats",
+      "Head-Up Display"
+    ],
+    "active": true
+  },
+  {
+    "id": "2026-q3-premium",
+    "manufacturer_id": 4,
+    "trim_name": "Premium",
+    "standard_features": [
+      "Apple CarPlay",
+      "Android Auto",
+      "LED Headlights",
+      "Cloth/Leatherette Upholstery",
+      "Power Front Seats",
+      "Dual-Zone Automatic Climate Control",
+      "Keyless Entry",
+      "Push Button Start",
+      "Automatic Emergency Braking",
+      "Lane Departure Warning",
+      "Rearview Camera",
+      "All-Wheel Drive"
+    ],
+    "optional_features": [
+      "Heated Front Seats",
+      "Panoramic Sunroof",
+      "Navigation System",
+      "Bang & Olufsen Audio"
+    ],
+    "active": true
+  },
+  {
+    "id": "2026-q3-premium-plus",
+    "manufacturer_id": 4,
+    "trim_name": "Premium Plus",
+    "standard_features": [
+      "Apple CarPlay",
+      "Android Auto",
+      "Audi Virtual Cockpit",
+      "LED Headlights",
+      "Leather Upholstery",
+      "Heated Front Seats",
+      "Power Front Seats",
+      "Dual-Zone Automatic Climate Control",
+      "Keyless Entry",
+      "Push Button Start",
+      "Automatic Emergency Braking",
+      "Lane Departure Warning",
+      "Blind Spot Monitoring",
+      "Rearview Camera",
+      "All-Wheel Drive"
+    ],
+    "optional_features": [
+      "Navigation System",
+      "Panoramic Sunroof",
+      "Bang & Olufsen Audio"
+    ],
+    "active": true
+  },
+  {
+    "id": "2026-q3-s-line",
+    "manufacturer_id": 4,
+    "trim_name": "S line",
+    "standard_features": [
+      "Apple CarPlay",
+      "Android Auto",
+      "Audi Virtual Cockpit",
+      "LED Headlights",
+      "S line Sport Seats",
+      "Leather Upholstery",
+      "Heated Front Seats",
+      "Power Front Seats",
+      "Dual-Zone Automatic Climate Control",
+      "Keyless Entry",
+      "Push Button Start",
+      "Automatic Emergency Braking",
+      "Lane Departure Warning",
+      "Blind Spot Monitoring",
+      "Adaptive Suspension",
+      "Rearview Camera",
+      "All-Wheel Drive"
+    ],
+    "optional_features": [
+      "Navigation System",
+      "Panoramic Sunroof",
+      "Bang & Olufsen Audio",
+      "Head-Up Display"
+    ],
+    "active": true
+  },
+  {
+    "id": "2026-q4-etron",
+    "manufacturer_id": 4,
+    "trim_name": "Premium",
+    "standard_features": [
+      "Apple CarPlay",
+      "Android Auto",
+      "Adaptive Cruise Control",
+      "Lane Keep Assist",
+      "Automatic Emergency Braking",
+      "LED Headlights",
+      "Panoramic Sunroof",
+      "Virtual Cockpit",
+      "Keyless Entry"
+    ],
+    "optional_features": [
+      "Heated Front Seats",
+      "Premium Audio System",
+      "Wireless Phone Charging"
+    ],
+    "active": true
+  },
+  {
+    "id": "2026-q4-etron",
+    "manufacturer_id": 4,
+    "trim_name": "Prestige",
+    "standard_features": [
+      "Apple CarPlay",
+      "Android Auto",
+      "Adaptive Cruise Control",
+      "Lane Keep Assist",
+      "Automatic Emergency Braking",
+      "Leather Seats",
+      "Heated Front Seats",
+      "Premium Audio System",
+      "Virtual Cockpit",
+      "Navigation System",
+      "Panoramic Sunroof",
+      "Wireless Phone Charging"
+    ],
+    "optional_features": [
+      "Head-Up Display",
+      "Driver Assistance Package"
+    ],
+    "active": true
+  },
+  {
+    "id": "2026-q4-sportback-etron",
+    "manufacturer_id": 4,
+    "trim_name": "Premium",
+    "standard_features": [
+      "Apple CarPlay",
+      "Android Auto",
+      "Adaptive Cruise Control",
+      "Lane Keep Assist",
+      "Automatic Emergency Braking",
+      "LED Headlights",
+      "Panoramic Sunroof",
+      "Virtual Cockpit",
+      "Keyless Entry"
+    ],
+    "optional_features": [
+      "Heated Front Seats",
+      "Premium Audio System",
+      "Wireless Phone Charging"
+    ],
+    "active": true
+  },
+  {
+    "id": "2026-q4-sportback-etron",
+    "manufacturer_id": 4,
+    "trim_name": "Prestige",
+    "standard_features": [
+      "Apple CarPlay",
+      "Android Auto",
+      "Adaptive Cruise Control",
+      "Lane Keep Assist",
+      "Automatic Emergency Braking",
+      "Leather Seats",
+      "Heated Front Seats",
+      "Premium Audio System",
+      "Virtual Cockpit",
+      "Navigation System",
+      "Panoramic Sunroof",
+      "Wireless Phone Charging"
+    ],
+    "optional_features": [
+      "Head-Up Display",
+      "Driver Assistance Package"
+    ],
+    "active": true
+  },
+  {
+    "id": "2026-q5-premium",
+    "manufacturer_id": 4,
+    "trim_name": "Premium",
+    "standard_features": [
+      "Apple CarPlay",
+      "Android Auto",
+      "Adaptive Cruise Control",
+      "Lane Keep Assist",
+      "Automatic Emergency Braking",
+      "LED Headlights",
+      "Panoramic Sunroof",
+      "Virtual Cockpit",
+      "Keyless Entry"
+    ],
+    "optional_features": [
+      "Heated Front Seats",
+      "Premium Audio System",
+      "Wireless Phone Charging"
+    ],
+    "active": true
+  },
+  {
+    "id": "2026-q5-premium-plus",
+    "manufacturer_id": 4,
+    "trim_name": "Premium Plus",
+    "standard_features": [
+      "Apple CarPlay",
+      "Android Auto",
+      "Adaptive Cruise Control",
+      "Lane Keep Assist",
+      "Automatic Emergency Braking",
+      "Leather Seats",
+      "Heated Front Seats",
+      "Premium Audio System",
+      "Virtual Cockpit",
+      "Navigation System",
+      "Panoramic Sunroof",
+      "Wireless Phone Charging"
+    ],
+    "optional_features": [
+      "Head-Up Display",
+      "Driver Assistance Package"
+    ],
+    "active": true
+  },
+  {
+    "id": "2026-q5-prestige",
+    "manufacturer_id": 4,
+    "trim_name": "Prestige",
+    "standard_features": [
+      "Apple CarPlay",
+      "Android Auto",
+      "Adaptive Cruise Control",
+      "Lane Keep Assist",
+      "Automatic Emergency Braking",
+      "Leather Seats",
+      "Heated Front Seats",
+      "Ventilated Front Seats",
+      "Premium Audio System",
+      "Navigation System",
+      "Virtual Cockpit",
+      "Panoramic Sunroof",
+      "Wireless Phone Charging"
+    ],
+    "optional_features": [
+      "Head-Up Display",
+      "Driver Assistance Package",
+      "Bang & Olufsen Sound System"
+    ],
+    "active": true
+  },
+  {
+    "id": "2026-q5-sportback-premium",
+    "manufacturer_id": 4,
+    "trim_name": "Premium",
+    "standard_features": [
+      "Apple CarPlay",
+      "Android Auto",
+      "Adaptive Cruise Control",
+      "Lane Keep Assist",
+      "Automatic Emergency Braking",
+      "LED Headlights",
+      "Panoramic Sunroof",
+      "Virtual Cockpit",
+      "Keyless Entry"
+    ],
+    "optional_features": [
+      "Heated Front Seats",
+      "Premium Audio System",
+      "Wireless Phone Charging"
+    ],
+    "active": true
+  },
+  {
+    "id": "2026-q5-sportback-premium-plus",
+    "manufacturer_id": 4,
+    "trim_name": "Premium Plus",
+    "standard_features": [
+      "Apple CarPlay",
+      "Android Auto",
+      "Adaptive Cruise Control",
+      "Lane Keep Assist",
+      "Automatic Emergency Braking",
+      "Leather Seats",
+      "Heated Front Seats",
+      "Premium Audio System",
+      "Virtual Cockpit",
+      "Navigation System",
+      "Panoramic Sunroof",
+      "Wireless Phone Charging"
+    ],
+    "optional_features": [
+      "Head-Up Display",
+      "Driver Assistance Package"
+    ],
+    "active": true
+  },
+  {
+    "id": "2026-q5-sportback-prestige",
+    "manufacturer_id": 4,
+    "trim_name": "Prestige",
+    "standard_features": [
+      "Apple CarPlay",
+      "Android Auto",
+      "Adaptive Cruise Control",
+      "Lane Keep Assist",
+      "Automatic Emergency Braking",
+      "Leather Seats",
+      "Heated Front Seats",
+      "Ventilated Front Seats",
+      "Premium Audio System",
+      "Navigation System",
+      "Virtual Cockpit",
+      "Panoramic Sunroof",
+      "Wireless Phone Charging"
+    ],
+    "optional_features": [
+      "Head-Up Display",
+      "Driver Assistance Package",
+      "Bang & Olufsen Sound System"
+    ],
+    "active": true
+  },
+  {
+    "id": "2026-q6-e-tron-premium",
+    "manufacturer_id": 4,
+    "trim_name": "Premium",
+    "standard_features": [
+      "Apple CarPlay",
+      "Android Auto",
+      "Adaptive Cruise Control",
+      "Lane Keep Assist",
+      "Automatic Emergency Braking",
+      "LED Headlights",
+      "Virtual Cockpit",
+      "Panoramic Sunroof",
+      "Keyless Entry"
+    ],
+    "optional_features": [
+      "Heated Front Seats",
+      "Wireless Phone Charging",
+      "Premium Audio System"
+    ],
+    "active": true
+  },
+  {
+    "id": "2026-q6-e-tron-premium-plus",
+    "manufacturer_id": 4,
+    "trim_name": "Premium Plus",
+    "standard_features": [
+      "Apple CarPlay",
+      "Android Auto",
+      "Adaptive Cruise Control",
+      "Lane Keep Assist",
+      "Automatic Emergency Braking",
+      "Leather Seats",
+      "Heated Front Seats",
+      "Premium Audio System",
+      "Virtual Cockpit",
+      "Navigation System",
+      "Panoramic Sunroof",
+      "Wireless Phone Charging"
+    ],
+    "optional_features": [
+      "Head-Up Display",
+      "Driver Assistance Package"
+    ],
+    "active": true
+  },
+  {
+    "id": "2026-q6-e-tron-prestige",
+    "manufacturer_id": 4,
+    "trim_name": "Prestige",
+    "standard_features": [
+      "Apple CarPlay",
+      "Android Auto",
+      "Adaptive Cruise Control",
+      "Lane Keep Assist",
+      "Automatic Emergency Braking",
+      "Leather Seats",
+      "Heated Front Seats",
+      "Ventilated Front Seats",
+      "Premium Audio System",
+      "Navigation System",
+      "Virtual Cockpit",
+      "Panoramic Sunroof",
+      "Wireless Phone Charging"
+    ],
+    "optional_features": [
+      "Head-Up Display",
+      "Driver Assistance Package",
+      "Bang & Olufsen Sound System"
+    ],
+    "active": true
+  },
+  {
+    "id": "2026-q6-sportback-e-tron-premium",
+    "manufacturer_id": 4,
+    "trim_name": "Premium",
+    "standard_features": [
+      "Apple CarPlay",
+      "Android Auto",
+      "Adaptive Cruise Control",
+      "Lane Keep Assist",
+      "Automatic Emergency Braking",
+      "LED Headlights",
+      "Virtual Cockpit",
+      "Panoramic Sunroof",
+      "Keyless Entry"
+    ],
+    "optional_features": [
+      "Heated Front Seats",
+      "Wireless Phone Charging",
+      "Premium Audio System"
+    ],
+    "active": true
+  },
+  {
+    "id": "2026-q6-sportback-e-tron-premium-plus",
+    "manufacturer_id": 4,
+    "trim_name": "Premium Plus",
+    "standard_features": [
+      "Apple CarPlay",
+      "Android Auto",
+      "Adaptive Cruise Control",
+      "Lane Keep Assist",
+      "Automatic Emergency Braking",
+      "Leather Seats",
+      "Heated Front Seats",
+      "Premium Audio System",
+      "Virtual Cockpit",
+      "Navigation System",
+      "Panoramic Sunroof",
+      "Wireless Phone Charging"
+    ],
+    "optional_features": [
+      "Head-Up Display",
+      "Driver Assistance Package"
+    ],
+    "active": true
+  },
+  {
+    "id": "2026-q6-sportback-e-tron-prestige",
+    "manufacturer_id": 4,
+    "trim_name": "Prestige",
+    "standard_features": [
+      "Apple CarPlay",
+      "Android Auto",
+      "Adaptive Cruise Control",
+      "Lane Keep Assist",
+      "Automatic Emergency Braking",
+      "Leather Seats",
+      "Heated Front Seats",
+      "Ventilated Front Seats",
+      "Premium Audio System",
+      "Navigation System",
+      "Virtual Cockpit",
+      "Panoramic Sunroof",
+      "Wireless Phone Charging"
+    ],
+    "optional_features": [
+      "Head-Up Display",
+      "Driver Assistance Package",
+      "Bang & Olufsen Sound System"
+    ],
+    "active": true
+  },
+  {
+    "id": "2026-q7-premium",
+    "manufacturer_id": 4,
+    "trim_name": "Premium",
+    "standard_features": [
+      "Apple CarPlay",
+      "Android Auto",
+      "Adaptive Cruise Control",
+      "LED Headlights",
+      "Leather Seats",
+      "Panoramic Sunroof",
+      "Three-Zone Climate Control",
+      "Power Liftgate",
+      "Audi Virtual Cockpit"
+    ],
+    "optional_features": [
+      "Heated Front Seats",
+      "Bang & Olufsen Sound System"
+    ],
+    "active": true
+  },
+  {
+    "id": "2026-q7-premium-plus",
+    "manufacturer_id": 4,
+    "trim_name": "Premium Plus",
+    "standard_features": [
+      "Apple CarPlay",
+      "Android Auto",
+      "Adaptive Cruise Control",
+      "LED Headlights",
+      "Leather Seats",
+      "Panoramic Sunroof",
+      "Three-Zone Climate Control",
+      "Power Liftgate",
+      "Audi Virtual Cockpit",
+      "Heated Front Seats",
+      "Bang & Olufsen Sound System",
+      "Navigation System",
+      "Audi Pre Sense Safety Suite"
+    ],
+    "optional_features": [
+      "Ventilated Front Seats",
+      "Head-Up Display"
+    ],
+    "active": true
+  },
+  {
+    "id": "2026-q7-s-line",
+    "manufacturer_id": 4,
+    "trim_name": "S line",
+    "standard_features": [
+      "Apple CarPlay",
+      "Android Auto",
+      "Adaptive Cruise Control",
+      "LED Headlights",
+      "Sport Seats",
+      "S line Exterior Styling",
+      "Panoramic Sunroof",
+      "Three-Zone Climate Control",
+      "Power Liftgate",
+      "Audi Virtual Cockpit",
+      "Navigation System",
+      "Audi Pre Sense Safety Suite"
+    ],
+    "optional_features": [
+      "Bang & Olufsen Sound System",
+      "Ventilated Front Seats",
+      "Head-Up Display"
+    ],
+    "active": true
+  },
+  {
+    "id": "2026-q8-premium",
+    "manufacturer_id": 4,
+    "trim_name": "Premium",
+    "standard_features": [
+      "Apple CarPlay",
+      "Android Auto",
+      "Adaptive Cruise Control",
+      "LED Headlights",
+      "Leather Seats",
+      "Panoramic Sunroof",
+      "Four-Zone Climate Control",
+      "Power Liftgate",
+      "Audi Virtual Cockpit"
+    ],
+    "optional_features": [
+      "Heated Front Seats",
+      "Bang & Olufsen Sound System"
+    ],
+    "active": true
+  },
+  {
+    "id": "2026-q8-premium-plus",
+    "manufacturer_id": 4,
+    "trim_name": "Premium Plus",
+    "standard_features": [
+      "Apple CarPlay",
+      "Android Auto",
+      "Adaptive Cruise Control",
+      "LED Headlights",
+      "Leather Seats",
+      "Panoramic Sunroof",
+      "Four-Zone Climate Control",
+      "Power Liftgate",
+      "Audi Virtual Cockpit",
+      "Heated Front Seats",
+      "Bang & Olufsen Sound System",
+      "Navigation System",
+      "Audi Pre Sense Safety Suite"
+    ],
+    "optional_features": [
+      "Ventilated Front Seats",
+      "Head-Up Display"
+    ],
+    "active": true
+  },
+  {
+    "id": "2026-q8-s-line",
+    "manufacturer_id": 4,
+    "trim_name": "S line",
+    "standard_features": [
+      "Apple CarPlay",
+      "Android Auto",
+      "Adaptive Cruise Control",
+      "LED Headlights",
+      "Sport Seats",
+      "S line Exterior Styling",
+      "Panoramic Sunroof",
+      "Four-Zone Climate Control",
+      "Power Liftgate",
+      "Audi Virtual Cockpit",
+      "Navigation System",
+      "Audi Pre Sense Safety Suite"
+    ],
+    "optional_features": [
+      "Bang & Olufsen Sound System",
+      "Ventilated Front Seats",
+      "Head-Up Display"
+    ],
+    "active": true
+  },
+  {
+    "id": "2026-rs3",
+    "manufacturer_id": 4,
+    "trim_name": "RS 3",
+    "standard_features": [
+      "Apple CarPlay",
+      "Android Auto",
+      "Adaptive Cruise Control",
+      "Audi Virtual Cockpit",
+      "LED Headlights",
+      "Leather/Alcantara Sport Seats",
+      "RS Sport Suspension",
+      "RS Performance Brakes",
+      "Quattro All-Wheel Drive",
+      "Bang & Olufsen Sound System",
+      "Navigation System",
+      "Audi Pre Sense Safety Suite"
+    ],
+    "optional_features": [
+      "Ventilated Front Seats",
+      "Head-Up Display",
+      "Carbon Fiber Interior Package"
+    ],
+    "active": true
+  },
+  {
+    "id": "2026-rs6-avant",
+    "manufacturer_id": 4,
+    "trim_name": "RS 6 Avant",
+    "standard_features": [
+      "Apple CarPlay",
+      "Android Auto",
+      "Adaptive Cruise Control",
+      "Audi Virtual Cockpit",
+      "LED Headlights",
+      "RS Sport Seats with Leather/Alcantara",
+      "RS Sport Suspension",
+      "RS Ceramic Brakes",
+      "Quattro All-Wheel Drive",
+      "Bang & Olufsen Sound System",
+      "Navigation System",
+      "Audi Pre Sense Safety Suite",
+      "Power Tailgate"
+    ],
+    "optional_features": [
+      "Ventilated Front Seats",
+      "Head-Up Display",
+      "Dynamic Steering Package",
+      "Carbon Fiber Interior Package"
+    ],
+    "active": true
+  },
+  {
+    "id": "2026-rs7",
+    "manufacturer_id": 4,
+    "trim_name": "RS 7",
+    "standard_features": [
+      "Apple CarPlay",
+      "Android Auto",
+      "Adaptive Cruise Control",
+      "Audi Virtual Cockpit",
+      "LED Headlights",
+      "RS Sport Seats with Leather/Alcantara",
+      "RS Sport Suspension",
+      "RS Ceramic Brakes",
+      "Quattro All-Wheel Drive",
+      "Bang & Olufsen Sound System",
+      "Navigation System",
+      "Audi Pre Sense Safety Suite",
+      "Power Tailgate"
+    ],
+    "optional_features": [
+      "Ventilated Front Seats",
+      "Head-Up Display",
+      "Dynamic Steering Package",
+      "Carbon Fiber Interior Package"
+    ],
+    "active": true
+  },
+  {
+    "id": "2026-rs-e-tron",
+    "manufacturer_id": 4,
+    "trim_name": "RS e-tron",
+    "standard_features": [
+      "Apple CarPlay",
+      "Android Auto",
+      "Adaptive Cruise Assist",
+      "Audi Virtual Cockpit",
+      "LED Matrix Headlights",
+      "RS Sport Seats with Leather/Alcantara",
+      "Quattro All-Wheel Drive",
+      "Audi Drive Select",
+      "RS Electronic Air Suspension",
+      "Bang & Olufsen 3D Sound System",
+      "Navigation System",
+      "Audi Pre Sense Safety Suite",
+      "Regenerative Braking"
+    ],
+    "optional_features": [
+      "Ventilated Front Seats",
+      "Head-Up Display",
+      "Carbon Fiber Interior Package",
+      "RS Dynamic Package"
+    ],
+    "active": true
+  },
+  {
+    "id": "2026-rs-q8",
+    "manufacturer_id": 4,
+    "trim_name": "RS Q8",
+    "standard_features": [
+      "Apple CarPlay",
+      "Android Auto",
+      "Adaptive Cruise Assist",
+      "Audi Virtual Cockpit",
+      "Matrix LED Headlights",
+      "RS Sport Seats with Leather/Alcantara",
+      "Quattro All-Wheel Drive",
+      "RS Dynamic Suspension",
+      "RS Torque Vectoring",
+      "Bang & Olufsen 3D Sound System",
+      "Navigation System",
+      "Audi Pre Sense Safety Suite",
+      "Head-Up Display",
+      "RS Performance Brakes"
+    ],
+    "optional_features": [
+      "Carbon Fiber Exterior Package",
+      "Ventilated Front Seats",
+      "Panoramic Sunroof",
+      "RS Dynamic Plus Package"
+    ],
+    "active": true
+  },
+  {
+    "id": "2026-s3-premium",
+    "manufacturer_id": 4,
+    "trim_name": "S3 Premium",
+    "standard_features": [
+      "Apple CarPlay",
+      "Android Auto",
+      "Audi Virtual Cockpit",
+      "LED Headlights",
+      "S Sport Seats with Leather/Alcantara",
+      "Quattro All-Wheel Drive",
+      "Adaptive Cruise Control",
+      "Navigation System",
+      "Bang & Olufsen Sound System",
+      "Audi Pre Sense Safety Suite"
+    ],
+    "optional_features": [
+      "Panoramic Sunroof",
+      "Heated Front Seats",
+      "S Sport Package"
+    ],
+    "active": true
+  },
+  {
+    "id": "2026-s3-premium-plus",
+    "manufacturer_id": 4,
+    "trim_name": "S3 Premium Plus",
+    "standard_features": [
+      "Apple CarPlay",
+      "Android Auto",
+      "Audi Virtual Cockpit",
+      "LED Headlights",
+      "S Sport Seats with Leather/Alcantara",
+      "Quattro All-Wheel Drive",
+      "Adaptive Cruise Control",
+      "Navigation System",
+      "Bang & Olufsen Sound System",
+      "Audi Pre Sense Safety Suite",
+      "Audi Drive Select",
+      "Parking System Plus"
+    ],
+    "optional_features": [
+      "Panoramic Sunroof",
+      "Heated Front Seats"
+    ],
+    "active": true
+  },
+  {
+    "id": "2026-s3-technik",
+    "manufacturer_id": 4,
+    "trim_name": "S3 Technik",
+    "standard_features": [
+      "Apple CarPlay",
+      "Android Auto",
+      "Audi Virtual Cockpit",
+      "LED Headlights",
+      "S Sport Seats with Leather/Alcantara",
+      "Quattro All-Wheel Drive",
+      "Adaptive Cruise Control",
+      "Navigation System",
+      "Bang & Olufsen Sound System",
+      "Audi Pre Sense Safety Suite",
+      "Audi Drive Select",
+      "Parking System Plus",
+      "RS Styling Package"
+    ],
+    "optional_features": [
+      "Panoramic Sunroof",
+      "Heated Front Seats"
+    ],
+    "active": true
+  },
+  {
+    "id": "2026-s5-premium",
+    "manufacturer_id": 4,
+    "trim_name": "S5 Premium",
+    "standard_features": [
+      "Apple CarPlay",
+      "Android Auto",
+      "Audi Virtual Cockpit",
+      "LED Headlights",
+      "S Sport Seats with Leather/Alcantara",
+      "Quattro All-Wheel Drive",
+      "Adaptive Cruise Control",
+      "Navigation System",
+      "Bang & Olufsen Sound System",
+      "Audi Pre Sense Safety Suite"
+    ],
+    "optional_features": [
+      "Panoramic Sunroof",
+      "Heated Front Seats",
+      "Driver Assistance Package"
+    ],
+    "active": true
+  },
+  {
+    "id": "2026-s5-premium-plus",
+    "manufacturer_id": 4,
+    "trim_name": "S5 Premium Plus",
+    "standard_features": [
+      "Apple CarPlay",
+      "Android Auto",
+      "Audi Virtual Cockpit",
+      "LED Headlights",
+      "S Sport Seats with Leather/Alcantara",
+      "Quattro All-Wheel Drive",
+      "Adaptive Cruise Control",
+      "Navigation System",
+      "Bang & Olufsen Sound System",
+      "Audi Pre Sense Safety Suite",
+      "Audi Drive Select",
+      "Parking System Plus"
+    ],
+    "optional_features": [
+      "Panoramic Sunroof",
+      "Heated Front Seats"
+    ],
+    "active": true
+  },
+  {
+    "id": "2026-s5-technik",
+    "manufacturer_id": 4,
+    "trim_name": "S5 Technik",
+    "standard_features": [
+      "Apple CarPlay",
+      "Android Auto",
+      "Audi Virtual Cockpit",
+      "LED Headlights",
+      "S Sport Seats with Leather/Alcantara",
+      "Quattro All-Wheel Drive",
+      "Adaptive Cruise Control",
+      "Navigation System",
+      "Bang & Olufsen Sound System",
+      "Audi Pre Sense Safety Suite",
+      "Audi Drive Select",
+      "Parking System Plus",
+      "RS Styling Package"
+    ],
+    "optional_features": [
+      "Panoramic Sunroof",
+      "Heated Front Seats"
+    ],
+    "active": true
+  },
+  {
+    "id": "2026-s6-sportback-e-tron-Prestige",
+    "manufacturer_id": 4,
+    "trim_name": "Prestige",
+    "standard_features": [
+      "Audi Virtual Cockpit",
+      "MMI Touch Response",
+      "Leather Seats",
+      "Adaptive Cruise Control",
+      "Lane Departure Warning",
+      "LED Headlights",
+      "Panoramic Sunroof",
+      "Wireless Apple CarPlay and Android Auto"
+    ],
+    "optional_features": [
+      "Bang & Olufsen Premium Audio",
+      "Head-Up Display"
+    ],
+    "active": true
+  },
+  {
+    "id": "2026-s6-sportback-e-tron-Competition-Plus",
+    "manufacturer_id": 4,
+    "trim_name": "Competition Plus",
+    "standard_features": [
+      "Audi Virtual Cockpit",
+      "MMI Touch Response",
+      "Sport Seats with S embossing",
+      "Adaptive Air Suspension",
+      "Sport Differential",
+      "LED Headlights",
+      "Wireless Apple CarPlay and Android Auto"
+    ],
+    "optional_features": [
+      "Bang & Olufsen Premium Audio",
+      "Head-Up Display",
+      "Carbon Fiber Interior Package"
+    ],
+    "active": true
+  },
+  {
+    "id": "2026-s8-Prestige",
+    "manufacturer_id": 4,
+    "trim_name": "Prestige",
+    "standard_features": [
+      "Audi Virtual Cockpit",
+      "MMI Touch Response",
+      "Adaptive Air Suspension",
+      "Leather Seats",
+      "Bang & Olufsen Premium Audio",
+      "LED Headlights",
+      "Wireless Apple CarPlay and Android Auto",
+      "Adaptive Cruise Control",
+      "Lane Departure Warning",
+      "Night Vision Assistant"
+    ],
+    "optional_features": [
+      "Head-Up Display",
+      "Carbon Fiber Interior Package"
+    ],
+    "active": true
+  },
+  {
+    "id": "2026-s8-Competition",
+    "manufacturer_id": 4,
+    "trim_name": "Competition",
+    "standard_features": [
+      "Audi Virtual Cockpit",
+      "MMI Touch Response",
+      "Sport Seats with S embossing",
+      "Adaptive Air Suspension",
+      "Sport Differential",
+      "Bang & Olufsen Premium Audio",
+      "LED Headlights",
+      "Wireless Apple CarPlay and Android Auto",
+      "Adaptive Cruise Control",
+      "Lane Departure Warning"
+    ],
+    "optional_features": [
+      "Head-Up Display",
+      "Carbon Fiber Interior Package"
+    ],
+    "active": true
+  },
+  {
+    "id": "2026-s-e-tron-Premium",
+    "manufacturer_id": 4,
+    "trim_name": "Premium",
+    "standard_features": [
+      "Audi Virtual Cockpit",
+      "MMI Touch Response",
+      "Leather Seats",
+      "LED Headlights",
+      "Adaptive Cruise Control",
+      "Lane Departure Warning",
+      "Wireless Apple CarPlay and Android Auto",
+      "Electric All-Wheel Drive",
+      "Regenerative Braking"
+    ],
+    "optional_features": [
+      "Bang & Olufsen Premium Audio",
+      "Head-Up Display",
+      "Advanced Driver Assistance Package"
+    ],
+    "active": true
+  },
+  {
+    "id": "2026-s-e-tron-Premium-Plus",
+    "manufacturer_id": 4,
+    "trim_name": "Premium Plus",
+    "standard_features": [
+      "Audi Virtual Cockpit",
+      "MMI Touch Response",
+      "Leather Seats",
+      "LED Headlights",
+      "Bang & Olufsen Premium Audio",
+      "Adaptive Air Suspension",
+      "Adaptive Cruise Control",
+      "Lane Departure Warning",
+      "Wireless Apple CarPlay and Android Auto",
+      "Electric All-Wheel Drive",
+      "Regenerative Braking"
+    ],
+    "optional_features": [
+      "Head-Up Display",
+      "Advanced Driver Assistance Package"
+    ],
+    "active": true
+  },
+  {
+    "id": "2026-s-e-tron-Prestige",
+    "manufacturer_id": 4,
+    "trim_name": "Prestige",
+    "standard_features": [
+      "Audi Virtual Cockpit",
+      "MMI Touch Response",
+      "Leather Seats with Ventilation",
+      "Bang & Olufsen Premium Audio",
+      "LED Headlights",
+      "Adaptive Air Suspension",
+      "Adaptive Cruise Control",
+      "Lane Departure Warning",
+      "Wireless Apple CarPlay and Android Auto",
+      "Electric All-Wheel Drive",
+      "Regenerative Braking",
+      "Night Vision Assistant"
+    ],
+    "optional_features": [
+      "Head-Up Display",
+      "Carbon Fiber Interior Package"
+    ],
+    "active": true
+  },
+  {
+    "id": "2026-sq5-Premium",
+    "manufacturer_id": 4,
+    "trim_name": "Premium",
+    "standard_features": [
+      "Audi Virtual Cockpit",
+      "MMI Touch Response",
+      "Leather Seats",
+      "LED Headlights",
+      "Panoramic Sunroof",
+      "Adaptive Cruise Control",
+      "Lane Departure Warning",
+      "Wireless Apple CarPlay and Android Auto",
+      "Quattro All-Wheel Drive"
+    ],
+    "optional_features": [
+      "Bang & Olufsen Premium Audio",
+      "Head-Up Display",
+      "Driver Assistance Package"
+    ],
+    "active": true
+  },
+  {
+    "id": "2026-sq5-Premium-Plus",
+    "manufacturer_id": 4,
+    "trim_name": "Premium Plus",
+    "standard_features": [
+      "Audi Virtual Cockpit",
+      "MMI Touch Response",
+      "Leather Seats with Ventilation",
+      "LED Headlights",
+      "Bang & Olufsen Premium Audio",
+      "Panoramic Sunroof",
+      "Adaptive Cruise Control",
+      "Lane Departure Warning",
+      "Wireless Apple CarPlay and Android Auto",
+      "Quattro All-Wheel Drive"
+    ],
+    "optional_features": [
+      "Head-Up Display",
+      "Driver Assistance Package"
+    ],
+    "active": true
+  },
+  {
+    "id": "2026-sq5-Prestige",
+    "manufacturer_id": 4,
+    "trim_name": "Prestige",
+    "standard_features": [
+      "Audi Virtual Cockpit",
+      "MMI Touch Response",
+      "Leather Seats with Ventilation and Massage",
+      "Bang & Olufsen Premium Audio",
+      "LED Headlights",
+      "Panoramic Sunroof",
+      "Adaptive Air Suspension",
+      "Adaptive Cruise Control",
+      "Lane Departure Warning",
+      "Wireless Apple CarPlay and Android Auto",
+      "Quattro All-Wheel Drive",
+      "Night Vision Assistant"
+    ],
+    "optional_features": [
+      "Head-Up Display",
+      "Carbon Fiber Interior Package"
+    ],
+    "active": true
+  },
+  {
+    "id": "2026-sq5-sportback-Premium",
+    "manufacturer_id": 4,
+    "trim_name": "Premium",
+    "standard_features": [
+      "Audi Virtual Cockpit",
+      "MMI Touch Response",
+      "Leather Seats",
+      "LED Headlights",
+      "Panoramic Sunroof",
+      "Adaptive Cruise Control",
+      "Lane Departure Warning",
+      "Wireless Apple CarPlay and Android Auto",
+      "Quattro All-Wheel Drive"
+    ],
+    "optional_features": [
+      "Bang & Olufsen Premium Audio",
+      "Head-Up Display",
+      "Driver Assistance Package"
+    ],
+    "active": true
+  },
+  {
+    "id": "2026-sq5-sportback-Premium-Plus",
+    "manufacturer_id": 4,
+    "trim_name": "Premium Plus",
+    "standard_features": [
+      "Audi Virtual Cockpit",
+      "MMI Touch Response",
+      "Leather Seats with Ventilation",
+      "LED Headlights",
+      "Bang & Olufsen Premium Audio",
+      "Panoramic Sunroof",
+      "Adaptive Cruise Control",
+      "Lane Departure Warning",
+      "Wireless Apple CarPlay and Android Auto",
+      "Quattro All-Wheel Drive"
+    ],
+    "optional_features": [
+      "Head-Up Display",
+      "Driver Assistance Package"
+    ],
+    "active": true
+  },
+  {
+    "id": "2026-sq5-sportback-Prestige",
+    "manufacturer_id": 4,
+    "trim_name": "Prestige",
+    "standard_features": [
+      "Audi Virtual Cockpit",
+      "MMI Touch Response",
+      "Leather Seats with Ventilation and Massage",
+      "Bang & Olufsen Premium Audio",
+      "LED Headlights",
+      "Panoramic Sunroof",
+      "Adaptive Air Suspension",
+      "Adaptive Cruise Control",
+      "Lane Departure Warning",
+      "Wireless Apple CarPlay and Android Auto",
+      "Quattro All-Wheel Drive",
+      "Night Vision Assistant"
+    ],
+    "optional_features": [
+      "Head-Up Display",
+      "Carbon Fiber Interior Package"
+    ],
+    "active": true
+  },
+  {
+    "id": "2026-sq6-e-tron-Premium",
+    "manufacturer_id": 4,
+    "trim_name": "Premium",
+    "standard_features": [
+      "Audi Virtual Cockpit",
+      "MMI Touch Response",
+      "Leather Seats",
+      "LED Matrix Headlights",
+      "Panoramic Sunroof",
+      "Adaptive Cruise Assist",
+      "Lane Departure Warning",
+      "Wireless Apple CarPlay and Android Auto",
+      "Quattro All-Wheel Drive",
+      "Dual Motor AWD"
+    ],
+    "optional_features": [
+      "Bang & Olufsen 3D Premium Audio",
+      "Head-Up Display",
+      "Driver Assistance Package"
+    ],
+    "active": true
+  },
+  {
+    "id": "2026-sq6-e-tron-Premium-Plus",
+    "manufacturer_id": 4,
+    "trim_name": "Premium Plus",
+    "standard_features": [
+      "Audi Virtual Cockpit",
+      "MMI Touch Response",
+      "Leather Seats with Ventilation",
+      "LED Matrix Headlights",
+      "Bang & Olufsen 3D Premium Audio",
+      "Panoramic Sunroof",
+      "Adaptive Air Suspension",
+      "Adaptive Cruise Assist",
+      "Lane Departure Warning",
+      "Wireless Apple CarPlay and Android Auto",
+      "Quattro All-Wheel Drive",
+      "Dual Motor AWD"
+    ],
+    "optional_features": [
+      "Head-Up Display",
+      "Carbon Fiber Interior Package"
+    ],
+    "active": true
+  },
+  {
+    "id": "2026-sq6-e-tron-Prestige",
+    "manufacturer_id": 4,
+    "trim_name": "Prestige",
+    "standard_features": [
+      "Audi Virtual Cockpit",
+      "MMI Touch Response",
+      "Leather Seats with Ventilation and Massage",
+      "Bang & Olufsen 3D Premium Audio",
+      "LED Matrix Headlights",
+      "Panoramic Sunroof",
+      "Adaptive Air Suspension",
+      "Adaptive Cruise Assist",
+      "Lane Departure Warning",
+      "Wireless Apple CarPlay and Android Auto",
+      "Quattro All-Wheel Drive",
+      "Dual Motor AWD",
+      "Night Vision Assistant"
+    ],
+    "optional_features": [
+      "Head-Up Display",
+      "Driver Assistance Plus Package"
+    ],
+    "active": true
+  },
+  {
+    "id": "2026-sq6-sportback-e-tron-Premium",
+    "manufacturer_id": 4,
+    "trim_name": "Premium",
+    "standard_features": [
+      "Audi Virtual Cockpit",
+      "MMI Touch Response",
+      "Leather Seats",
+      "LED Matrix Headlights",
+      "Panoramic Sunroof",
+      "Adaptive Cruise Assist",
+      "Lane Departure Warning",
+      "Wireless Apple CarPlay and Android Auto",
+      "Quattro All-Wheel Drive",
+      "Dual Motor AWD"
+    ],
+    "optional_features": [
+      "Bang & Olufsen 3D Premium Audio",
+      "Head-Up Display",
+      "Driver Assistance Package"
+    ],
+    "active": true
+  },
+  {
+    "id": "2026-sq6-sportback-e-tron-Premium-Plus",
+    "manufacturer_id": 4,
+    "trim_name": "Premium Plus",
+    "standard_features": [
+      "Audi Virtual Cockpit",
+      "MMI Touch Response",
+      "Leather Seats with Ventilation",
+      "LED Matrix Headlights",
+      "Bang & Olufsen 3D Premium Audio",
+      "Panoramic Sunroof",
+      "Adaptive Air Suspension",
+      "Adaptive Cruise Assist",
+      "Lane Departure Warning",
+      "Wireless Apple CarPlay and Android Auto",
+      "Quattro All-Wheel Drive",
+      "Dual Motor AWD"
+    ],
+    "optional_features": [
+      "Head-Up Display",
+      "Carbon Fiber Interior Package"
+    ],
+    "active": true
+  },
+  {
+    "id": "2026-sq6-sportback-e-tron-Prestige",
+    "manufacturer_id": 4,
+    "trim_name": "Prestige",
+    "standard_features": [
+      "Audi Virtual Cockpit",
+      "MMI Touch Response",
+      "Leather Seats with Ventilation and Massage",
+      "Bang & Olufsen 3D Premium Audio",
+      "LED Matrix Headlights",
+      "Panoramic Sunroof",
+      "Adaptive Air Suspension",
+      "Adaptive Cruise Assist",
+      "Lane Departure Warning",
+      "Wireless Apple CarPlay and Android Auto",
+      "Quattro All-Wheel Drive",
+      "Dual Motor AWD",
+      "Night Vision Assistant"
+    ],
+    "optional_features": [
+      "Head-Up Display",
+      "Driver Assistance Plus Package"
+    ],
+    "active": true
+  },
+  {
+    "id": "2026-sq7-Premium",
+    "manufacturer_id": 4,
+    "trim_name": "Premium",
+    "standard_features": [
+      "Audi Virtual Cockpit",
+      "MMI Touch Response",
+      "Leather Seats",
+      "LED Matrix Headlights",
+      "Panoramic Sunroof",
+      "Adaptive Cruise Assist",
+      "Lane Departure Warning",
+      "Wireless Apple CarPlay and Android Auto",
+      "Quattro All-Wheel Drive"
+    ],
+    "optional_features": [
+      "Bang & Olufsen 3D Premium Audio",
+      "Head-Up Display",
+      "Driver Assistance Package"
+    ],
+    "active": true
+  },
+  {
+    "id": "2026-sq7-Premium-Plus",
+    "manufacturer_id": 4,
+    "trim_name": "Premium Plus",
+    "standard_features": [
+      "Audi Virtual Cockpit",
+      "MMI Touch Response",
+      "Leather Seats with Ventilation",
+      "LED Matrix Headlights",
+      "Bang & Olufsen 3D Premium Audio",
+      "Panoramic Sunroof",
+      "Adaptive Air Suspension",
+      "Adaptive Cruise Assist",
+      "Lane Departure Warning",
+      "Wireless Apple CarPlay and Android Auto",
+      "Quattro All-Wheel Drive"
+    ],
+    "optional_features": [
+      "Head-Up Display",
+      "Carbon Fiber Interior Package"
+    ],
+    "active": true
+  },
+  {
+    "id": "2026-sq7-Prestige",
+    "manufacturer_id": 4,
+    "trim_name": "Prestige",
+    "standard_features": [
+      "Audi Virtual Cockpit",
+      "MMI Touch Response",
+      "Leather Seats with Ventilation and Massage",
+      "Bang & Olufsen 3D Premium Audio",
+      "LED Matrix Headlights",
+      "Panoramic Sunroof",
+      "Adaptive Air Suspension",
+      "Adaptive Cruise Assist",
+      "Lane Departure Warning",
+      "Wireless Apple CarPlay and Android Auto",
+      "Quattro All-Wheel Drive",
+      "Night Vision Assistant"
+    ],
+    "optional_features": [
+      "Head-Up Display",
+      "Driver Assistance Plus Package"
+    ],
+    "active": true
+  },
+  {
+    "id": "2026-sq8-Premium",
+    "manufacturer_id": 4,
+    "trim_name": "Premium",
+    "standard_features": [
+      "Audi Virtual Cockpit",
+      "MMI Touch Response",
+      "Leather Seats",
+      "LED Matrix Headlights",
+      "Panoramic Sunroof",
+      "Adaptive Cruise Assist",
+      "Lane Departure Warning",
+      "Wireless Apple CarPlay and Android Auto",
+      "Quattro All-Wheel Drive"
+    ],
+    "optional_features": [
+      "Bang & Olufsen 3D Premium Audio",
+      "Head-Up Display",
+      "Driver Assistance Package"
+    ],
+    "active": true
+  },
+  {
+    "id": "2026-sq8-Premium-Plus",
+    "manufacturer_id": 4,
+    "trim_name": "Premium Plus",
+    "standard_features": [
+      "Audi Virtual Cockpit",
+      "MMI Touch Response",
+      "Leather Seats with Ventilation",
+      "LED Matrix Headlights",
+      "Bang & Olufsen 3D Premium Audio",
+      "Panoramic Sunroof",
+      "Adaptive Air Suspension",
+      "Adaptive Cruise Assist",
+      "Lane Departure Warning",
+      "Wireless Apple CarPlay and Android Auto",
+      "Quattro All-Wheel Drive"
+    ],
+    "optional_features": [
+      "Head-Up Display",
+      "Carbon Fiber Interior Package"
+    ],
+    "active": true
+  },
+  {
+    "id": "2026-sq8-Prestige",
+    "manufacturer_id": 4,
+    "trim_name": "Prestige",
+    "standard_features": [
+      "Audi Virtual Cockpit",
+      "MMI Touch Response",
+      "Leather Seats with Ventilation and Massage",
+      "Bang & Olufsen 3D Premium Audio",
+      "LED Matrix Headlights",
+      "Panoramic Sunroof",
+      "Adaptive Air Suspension",
+      "Adaptive Cruise Assist",
+      "Lane Departure Warning",
+      "Wireless Apple CarPlay and Android Auto",
+      "Quattro All-Wheel Drive",
+      "Night Vision Assistant"
+    ],
+    "optional_features": [
+      "Head-Up Display",
+      "Driver Assistance Plus Package"
+    ],
+    "active": true
+  },
+  {
+    "id": "2026-bentayga-Standard",
+    "manufacturer_id": 5,
+    "trim_name": "Standard",
+    "standard_features": [
+      "Leather Interior",
+      "Wood Veneer Interior",
+      "Bentley Rotating Display",
+      "Adaptive Cruise Control",
+      "Matrix LED Headlights",
+      "All-Wheel Drive",
+      "Apple CarPlay and Android Auto",
+      "Panoramic Sunroof",
+      "Air Suspension"
+    ],
+    "optional_features": [
+      "Mulliner Driving Specification",
+      "21-inch or 22-inch Wheels",
+      "Rear Seat Entertainment",
+      "Carbon Fiber Interior Package"
+    ],
+    "active": true
+  },
+  {
+    "id": "2026-bentayga-Speed",
+    "manufacturer_id": 5,
+    "trim_name": "Speed",
+    "standard_features": [
+      "Leather Interior",
+      "Wood Veneer Interior",
+      "Bentley Rotating Display",
+      "Adaptive Cruise Control",
+      "Matrix LED Headlights",
+      "All-Wheel Drive",
+      "Apple CarPlay and Android Auto",
+      "Panoramic Sunroof",
+      "Air Suspension",
+      "6.0L W12 Twin-Turbo Engine",
+      "Sport Suspension",
+      "Dynamic Ride Control"
+    ],
+    "optional_features": [
+      "Mulliner Driving Specification",
+      "Carbon Fiber Interior Package",
+      "Rear Seat Entertainment"
+    ],
+    "active": true
+  },
+  {
+    "id": "2026-continental-gt-Standard",
+    "manufacturer_id": 5,
+    "trim_name": "Standard",
+    "standard_features": [
+      "Leather Interior",
+      "Wood Veneer Interior",
+      "Bentley Rotating Display",
+      "Adaptive Cruise Control",
+      "Matrix LED Headlights",
+      "All-Wheel Drive",
+      "Apple CarPlay and Android Auto",
+      "Air Suspension",
+      "Panoramic Sunroof"
+    ],
+    "optional_features": [
+      "Mulliner Driving Specification",
+      "21-inch Wheels",
+      "Carbon Fiber Interior Package",
+      "Rear Seat Entertainment"
+    ],
+    "active": true
+  },
+  {
+    "id": "2026-continental-gt-Speed",
+    "manufacturer_id": 5,
+    "trim_name": "Speed",
+    "standard_features": [
+      "Leather Interior",
+      "Wood Veneer Interior",
+      "Bentley Rotating Display",
+      "Adaptive Cruise Control",
+      "Matrix LED Headlights",
+      "All-Wheel Drive",
+      "Apple CarPlay and Android Auto",
+      "Air Suspension",
+      "6.0L W12 Twin-Turbo Engine",
+      "Sport Suspension",
+      "Dynamic Ride Control",
+      "Panoramic Sunroof"
+    ],
+    "optional_features": [
+      "Mulliner Driving Specification",
+      "Carbon Fiber Interior Package",
+      "Rear Seat Entertainment"
+    ],
+    "active": true
+  },
+  {
+    "id": "2026-continental-gtc-Standard",
+    "manufacturer_id": 5,
+    "trim_name": "Standard",
+    "standard_features": [
+      "Leather Interior",
+      "Wood Veneer Interior",
+      "Bentley Rotating Display",
+      "Adaptive Cruise Control",
+      "Matrix LED Headlights",
+      "All-Wheel Drive",
+      "Apple CarPlay and Android Auto",
+      "Air Suspension",
+      "Panoramic Soft-Top Convertible Roof"
+    ],
+    "optional_features": [
+      "Mulliner Driving Specification",
+      "21-inch Wheels",
+      "Carbon Fiber Interior Package",
+      "Rear Seat Entertainment"
+    ],
+    "active": true
+  },
+  {
+    "id": "2026-continental-gtc-Speed",
+    "manufacturer_id": 5,
+    "trim_name": "Speed",
+    "standard_features": [
+      "Leather Interior",
+      "Wood Veneer Interior",
+      "Bentley Rotating Display",
+      "Adaptive Cruise Control",
+      "Matrix LED Headlights",
+      "All-Wheel Drive",
+      "Apple CarPlay and Android Auto",
+      "Air Suspension",
+      "6.0L W12 Twin-Turbo Engine",
+      "Sport Suspension",
+      "Dynamic Ride Control",
+      "Panoramic Soft-Top Convertible Roof"
+    ],
+    "optional_features": [
+      "Mulliner Driving Specification",
+      "Carbon Fiber Interior Package",
+      "Rear Seat Entertainment"
+    ],
     "active": true
   }
 ]
