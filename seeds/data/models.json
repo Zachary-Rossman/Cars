@@ -2849,17 +2849,6 @@
   ]
   },
   {
-  "model_name": "Ivara",
-  "manufacturer_id": 25,
-  "years": [2026],
-  "body_styles": [
-    {
-      "style": "SUV",
-      "doors": 4
-    }
-  ]
-  },
-  {
   "model_name": "Invictus",
   "manufacturer_id": 25,
   "years": [2026],
@@ -3030,6 +3019,17 @@
   },
   {
   "model_name": "Soul",
+  "manufacturer_id": 26,
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "SUV",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "Soul EV",
   "manufacturer_id": 26,
   "years": [2026],
   "body_styles": [
