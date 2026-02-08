@@ -4678,17 +4678,6 @@
   ]
   },
   {
-  "model_name": "Countryman SE",
-  "manufacturer_id": 38,
-  "years": [2026],
-  "body_styles": [
-    {
-      "style": "SUV",
-      "doors": 4
-    }
-  ]
-  },
-  {
   "model_name": "Eclipse Cross",
   "manufacturer_id": 39,
   "years": [2026],
@@ -6278,17 +6267,6 @@
   },
   {
   "model_name": "Grand Highlander",
-  "manufacturer_id": 49,
-  "years": [2026],
-  "body_styles": [
-    {
-      "style": "SUV",
-      "doors": 4
-    }
-  ]
-  },
-  {
-  "model_name": "Grand Highlander Hybrid",
   "manufacturer_id": 49,
   "years": [2026],
   "body_styles": [
