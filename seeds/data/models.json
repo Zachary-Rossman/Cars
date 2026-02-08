@@ -929,58 +929,10 @@
   ]
   },
   {
-  "model_name": "M3 Competition",
-  "manufacturer_id": 7,
-  "years": [2026],
-  "body_styles": [
-    {
-      "style": "Sedan",
-      "doors": 4
-    }
-  ]
-  },
-  {
-  "model_name": "M3 Competition xDrive",
-  "manufacturer_id": 7,
-  "years": [2026],
-  "body_styles": [
-    {
-      "style": "Sedan",
-      "doors": 4
-    }
-  ]
-  },
-  {
   "model_name": "M4",
   "manufacturer_id": 7,
   "years": [2026],
   "body_styles": [
-    {
-      "style": "Coupe",
-      "doors": 2
-    }
-  ]
-  },
-  {
-  "model_name": "M4 Competition",
-  "manufacturer_id": 7,
-  "years": [2026],
-  "body_styles": [
-    {
-      "style": "Coupe",
-      "doors": 2
-    }
-  ]
-  },
-  {
-  "model_name": "M4 Competition xDrive",
-  "manufacturer_id": 7,
-  "years": [2026],
-  "body_styles": [
-    {
-      "style": "Convertible",
-      "doors": 2
-    },
     {
       "style": "Coupe",
       "doors": 2
@@ -1495,17 +1447,6 @@
   ]
   },
   {
-  "model_name": "XT6",
-  "manufacturer_id": 9,
-  "years": [2026],
-  "body_styles": [
-    {
-      "style": "SUV",
-      "doors": 4
-    }
-  ]
-  },
-  {
   "model_name": "Blazer",
   "manufacturer_id": 10,
   "years": [2026],
@@ -1554,6 +1495,10 @@
   "manufacturer_id": 10,
   "years": [2026],
   "body_styles": [
+    {
+      "style": "Convertible",
+      "doors": 2
+    },
     {
       "style": "Coupe",
       "doors": 2
@@ -1813,17 +1758,6 @@
   "body_styles": [
     {
       "style": "Convertible",
-      "doors": 2
-    }
-  ]
-  },
-  {
-  "model_name": "849 Testarossa",
-  "manufacturer_id": 13,
-  "years": [2026],
-  "body_styles": [
-    {
-      "style": "Coupe",
       "doors": 2
     }
   ]
@@ -2538,6 +2472,17 @@
   },
   {
   "model_name": "Kona Electric",
+  "manufacturer_id": 20,
+  "years": [2026],
+  "body_styles": [
+    {
+      "style": "SUV",
+      "doors": 4
+    }
+  ]
+  },
+  {
+  "model_name": "Palisade",
   "manufacturer_id": 20,
   "years": [2026],
   "body_styles": [
