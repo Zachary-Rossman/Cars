@@ -1,8 +1,2855 @@
 [
   {
-    "name": "Black"
+    "id": "acura-majestic-black-pearl",
+    "manufacturer_id": 1,
+    "color_name": "Majestic Black Pearl",
+    "finish": "Pearl",
+    "active": true
   },
   {
-    "name": "White"
+    "id": "acura-platinum-white-pearl",
+    "manufacturer_id": 1,
+    "color_name": "Platinum White Pearl",
+    "finish": "Pearl",
+    "active": true
+  },
+  {
+    "id": "acura-solar-silver-metallic",
+    "manufacturer_id": 1,
+    "color_name": "Solar Silver Metallic",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "acura-liquid-carbon-metallic",
+    "manufacturer_id": 1,
+    "color_name": "Liquid Carbon Metallic",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "acura-canyon-river-blue-metallic",
+    "manufacturer_id": 1,
+    "color_name": "Canyon River Blue Metallic",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "acura-performance-red-pearl",
+    "manufacturer_id": 1,
+    "color_name": "Performance Red Pearl",
+    "finish": "Pearl",
+    "active": true
+  },
+  {
+    "id": "acura-apex-blue-pearl",
+    "manufacturer_id": 1,
+    "color_name": "Apex Blue Pearl",
+    "finish": "Pearl",
+    "active": true
+  },
+  {
+    "id": "acura-urban-gray-pearl",
+    "manufacturer_id": 1,
+    "color_name": "Urban Gray Pearl",
+    "finish": "Pearl",
+    "active": true
+  },
+  {
+    "id": "acura-double-apex-blue-pearl",
+    "manufacturer_id": 1,
+    "color_name": "Double Apex Blue Pearl",
+    "finish": "Pearl",
+    "active": true
+  },
+  {
+    "id": "alfa-romeo-milano-white",
+    "manufacturer_id": 2,
+    "color_name": "Milano White",
+    "finish": "Solid",
+    "active": true
+  },
+  {
+    "id": "alfa-romeo-alfa-rosso",
+    "manufacturer_id": 2,
+    "color_name": "Alfa Rosso",
+    "finish": "Solid",
+    "active": true
+  },
+  {
+    "id": "alfa-romeo-misano-blue-metallic",
+    "manufacturer_id": 2,
+    "color_name": "Misano Blue Metallic",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "alfa-romeo-moonlight-grey-metallic",
+    "manufacturer_id": 2,
+    "color_name": "Moonlight Gray Metallic",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "alfa-romeo-vesuvio-gray-metallic",
+    "manufacturer_id": 2,
+    "color_name": "Vesuvio Gray Metallic",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "alfa-romeo-verde-fangio-metallic",
+    "manufacturer_id": 2,
+    "color_name": "Verde Fangio Metallic",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "alfa-romeo-vulcano-black-metallic",
+    "manufacturer_id": 2,
+    "color_name": "Vulcano Black Metallic",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "alfa-romeo-rosso-brera",
+    "manufacturer_id": 2,
+    "color_name": "Rosso Brera",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "alfa-romeo-verde-monza",
+    "manufacturer_id": 2,
+    "color_name": "Verde Monza",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "alfa-romeo-giallo-ochre",
+    "manufacturer_id": 2,
+    "color_name": "Giallo Ochre",
+    "finish": "Solid",
+    "active": true
+  },
+  {
+    "id": "alfa-romeo-alfa-black",
+    "manufacturer_id": 2,
+    "color_name": "Alfa Black",
+    "finish": "Solid",
+    "active": true
+  },
+  {
+    "id": "alfa-romeo-grigio-ascari",
+    "manufacturer_id": 2,
+    "color_name": "Grigio Ascari",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "aston-martin-arden-green",
+    "manufacturer_id": 3,
+    "color_name": "Arden Green",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "aston-martin-casino-royale",
+    "manufacturer_id": 3,
+    "color_name": "Casino Royale",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "aston-martin-elwood-blue",
+    "manufacturer_id": 3,
+    "color_name": "Elwood Blue",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "aston-martin-ghillies-green",
+    "manufacturer_id": 3,
+    "color_name": "Ghillies Green",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "aston-martin-ultramarine-black",
+    "manufacturer_id": 3,
+    "color_name": "Ultramarine Black",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "aston-martin-q-satin-xenon-gray",
+    "manufacturer_id": 3,
+    "color_name": "Q Satin Xenon Gray",
+    "finish": "Satin Metallic",
+    "active": true
+  },
+  {
+    "id": "aston-martin-silver-birch-provenance",
+    "manufacturer_id": 3,
+    "color_name": "Silver Birch Provenance",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "aston-martin-storm-purple",
+    "manufacturer_id": 3,
+    "color_name": "Storm Purple",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "aston-martin-titanium-gray",
+    "manufacturer_id": 3,
+    "color_name": "Titanium Gray",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "aston-martin-tungsten-silver",
+    "manufacturer_id": 3,
+    "color_name": "Tungsten Silver",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "aston-martin-california-sage",
+    "manufacturer_id": 3,
+    "color_name": "California Sage",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "aston-martin-concours-blue",
+    "manufacturer_id": 3,
+    "color_name": "Concours Blue",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "aston-martin-ultra-yellow",
+    "manufacturer_id": 3,
+    "color_name": "Ultra Yellow",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "aston-martin-plasma-blue",
+    "manufacturer_id": 3,
+    "color_name": "Plasma Blue",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "aston-martin-q-satin-aluminite-silver",
+    "manufacturer_id": 3,
+    "color_name": "Q Satin Aluminite Silver",
+    "finish": "Satin Metallic",
+    "active": true
+  },
+  {
+    "id": "aston-martin-q-aura-green",
+    "manufacturer_id": 3,
+    "color_name": "Q Aura Green",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "aston-martin-xenon-gray",
+    "manufacturer_id": 3,
+    "color_name": "Xenon Gray",
+    "finish": "Metallic",
+    "active": true
+  },
+
+  {
+    "id": "aston-martin-q-neutron-white",
+    "manufacturer_id": 3,
+    "color_name": "Q Neutron White",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "aston-martin-q-oberon-black",
+    "manufacturer_id": 3,
+    "color_name": "Q Oberon Black",
+    "finish": "Metallic",
+    "active": true
+  },
+
+  {
+    "id": "aston-martin-black-pearl",
+    "manufacturer_id": 3,
+    "color_name": "Black Pearl",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "aston-martin-caribbean-blue-pearl-2",
+    "manufacturer_id": 3,
+    "color_name": "Caribbean Blue Pearl 2",
+    "finish": "Pearl",
+    "active": true
+  },
+
+  {
+    "id": "aston-martin-ion-blue",
+    "manufacturer_id": 3,
+    "color_name": "Ion Blue",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "aston-martin-helio-yellow",
+    "manufacturer_id": 3,
+    "color_name": "Helios Yellow",
+    "finish": "Metallic",
+    "active": true
+  },
+  
+  {
+    "id": "aston-martin-plasma-blue-valhalla",
+    "manufacturer_id": 3,
+    "color_name": "Plasma Blue",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "aston-martin-buckinghamshire-green",
+    "manufacturer_id": 3,
+    "color_name": "Buckinghamshire Green",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "aston-martin-lime-essence",
+    "manufacturer_id": 3,
+    "color_name": "Lime Essence",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "aston-martin-bronze-flare",
+    "manufacturer_id": 3,
+    "color_name": "Bronze Flare",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "aston-martin-caribbean-blue-pearl",
+    "manufacturer_id": 3,
+    "color_name": "Caribbean Blue Pearl",
+    "finish": "Pearl",
+    "active": true
+  },
+  {
+    "id": "audi-carrara-white",
+    "manufacturer_id": 4,
+    "color_name": "Carrara White",
+    "finish": "Solid",
+    "active": true
+  },
+  {
+    "id": "audi-glacier-white-metallic",
+    "manufacturer_id": 4,
+    "color_name": "Glacier White Metallic",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "audi-mythos-black-metallic",
+    "manufacturer_id": 4,
+    "color_name": "Mythos Black Metallic",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "audi-sakhir-gold-metallic",
+    "manufacturer_id": 4,
+    "color_name": "Sakhir Gold Metallic",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "audi-samurai-gray-metallic",
+    "manufacturer_id": 4,
+    "color_name": "Samurai Gray Metallic",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "audi-satellite-silver-metallic",
+    "manufacturer_id": 4,
+    "color_name": "Satellite Silver Metallic",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "audi-tamarind-brown-metallic",
+    "manufacturer_id": 4,
+    "color_name": "Tamarind Brown Metallic",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "audi-waitomo-blue-metallic",
+    "manufacturer_id": 4,
+    "color_name": "Waitomo Blue Metallic",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "audi-daytona-gray-pearl-effect",
+    "manufacturer_id": 4,
+    "color_name": "Daytona Gray Pearl Effect",
+    "finish": "Pearl",
+    "active": true
+  },
+  {
+    "id": "audi-arkona-white",
+    "manufacturer_id": 4,
+    "color_name": "Arkona White",
+    "finish": "Solid",
+    "active": true
+  },
+  {
+    "id": "audi-ascari-blue-metallic",
+    "manufacturer_id": 4,
+    "color_name": "Ascari Blue Metallic",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "audi-chronos-gray-metallic",
+    "manufacturer_id": 4,
+    "color_name": "Chronos Gray Metallic",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "audi-firmament-blue-metallic",
+    "manufacturer_id": 4,
+    "color_name": "Firmament Blue Metallic",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "audi-florett-silver-metallic",
+    "manufacturer_id": 4,
+    "color_name": "Florett Silver Metallic",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "audi-grenadine-red-metallic",
+    "manufacturer_id": 4,
+    "color_name": "Grenadine Red Metallic",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "audi-midnight-green-metallic",
+    "manufacturer_id": 4,
+    "color_name": "Midnight Green Metallic",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "bentley-anthracite-metallic",
+    "manufacturer_id": 5,
+    "color_name": "Anthracite Metallic",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "bentley-anthracite-satin",
+    "manufacturer_id": 5,
+    "color_name": "Anthracite Satin",
+    "finish": "Satin",
+    "active": true
+  },
+  {
+    "id": "bentley-beluga-solid",
+    "manufacturer_id": 5,
+    "color_name": "Beluga (Solid)",
+    "finish": "Solid",
+    "active": true
+  },
+  {
+    "id": "bentley-black-crystal-metallic",
+    "manufacturer_id": 5,
+    "color_name": "Black Crystal Metallic",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "bentley-black-sapphire-metallic",
+    "manufacturer_id": 5,
+    "color_name": "Black Sapphire Metallic",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "bentley-black-velvet-metallic",
+    "manufacturer_id": 5,
+    "color_name": "Black Velvet Metallic",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "bentley-moroccan-blue-metallic",
+    "manufacturer_id": 5,
+    "color_name": "Moroccan Blue Metallic",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "bentley-neptune-metallic",
+    "manufacturer_id": 5,
+    "color_name": "Neptune Metallic",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "bentley-oxford-blue-solid",
+    "manufacturer_id": 5,
+    "color_name": "Oxford Blue (Solid)",
+    "finish": "Solid",
+    "active": true
+  },
+  {
+    "id": "bentley-sequin-blue-metallic",
+    "manufacturer_id": 5,
+    "color_name": "Sequin Blue Metallic",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "bentley-silver-storm-metallic",
+    "manufacturer_id": 5,
+    "color_name": "Silver Storm Metallic",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "bentley-tungsten-metallic",
+    "manufacturer_id": 5,
+    "color_name": "Tungsten Metallic",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "bentley-rose-gold-metallic",
+    "manufacturer_id": 5,
+    "color_name": "Rose Gold Metallic",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "bentley-brodgar-metallic",
+    "manufacturer_id": 5,
+    "color_name": "Brodgar Metallic",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "bentley-arabica-metallic",
+    "manufacturer_id": 5,
+    "color_name": "Arabica Metallic",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "bentley-camel-metallic",
+    "manufacturer_id": 5,
+    "color_name": "Camel Metallic",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "bentley-candy-red-metallic",
+    "manufacturer_id": 5,
+    "color_name": "Candy Red Metallic",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "bentley-claret-metallic",
+    "manufacturer_id": 5,
+    "color_name": "Claret Metallic",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "bentley-cricket-ball-metallic",
+    "manufacturer_id": 5,
+    "color_name": "Cricket Ball Metallic",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "bentley-dark-cashmere-metallic",
+    "manufacturer_id": 5,
+    "color_name": "Dark Cashmere Metallic",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "bentley-ghost-white-pearlescent",
+    "manufacturer_id": 5,
+    "color_name": "Ghost White Pearlescent",
+    "finish": "Pearlescent",
+    "active": true
+  },
+  {
+    "id": "bentley-glacier-white-solid",
+    "manufacturer_id": 5,
+    "color_name": "Glacier White (Solid)",
+    "finish": "Solid",
+    "active": true
+  },
+  {
+    "id": "bentley-moonbeam-metallic",
+    "manufacturer_id": 5,
+    "color_name": "Moonbeam Metallic",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "bentley-st-james-red-solid",
+    "manufacturer_id": 5,
+    "color_name": "St James Red (Solid)",
+    "finish": "Solid",
+    "active": true
+  },
+  {
+    "id": "bentley-gravity-grey-metallic",
+    "manufacturer_id": 5,
+    "color_name": "Gravity Grey Metallic",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "bentley-midnight-emerald-metallic",
+    "manufacturer_id": 5,
+    "color_name": "Midnight Emerald Metallic",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "bentley-patina-metallic",
+    "manufacturer_id": 5,
+    "color_name": "Patina Metallic",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "bentley-verdant-metallic",
+    "manufacturer_id": 5,
+    "color_name": "Verdant Metallic",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "bentley-veridian-metallic",
+    "manufacturer_id": 5,
+    "color_name": "Veridian Metallic",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "bentley-british-racing-green-satin",
+    "manufacturer_id": 5,
+    "color_name": "British Racing Green Satin",
+    "finish": "Satin",
+    "active": true
+  },
+  {
+    "id": "bugatti-french-racing-blue",
+    "manufacturer_id": 6,
+    "color_name": "French Racing Blue",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "bugatti-california-blue",
+    "manufacturer_id": 6,
+    "color_name": "California Blue",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "bugatti-nocturne",
+    "manufacturer_id": 6,
+    "color_name": "Nocturne",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "bugatti-black",
+    "manufacturer_id": 6,
+    "color_name": "Black",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "bugatti-eb110-lm-blue",
+    "manufacturer_id": 6,
+    "color_name": "EB 110 LM Blue",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "bugatti-steel-blue",
+    "manufacturer_id": 6,
+    "color_name": "Steel Blue",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "bugatti-pearl",
+    "manufacturer_id": 6,
+    "color_name": "Pearl",
+    "finish": "Pearlescent",
+    "active": true
+  },
+  {
+    "id": "bugatti-tangerine",
+    "manufacturer_id": 6,
+    "color_name": "Tangerine",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "bugatti-graphite-metallic",
+    "manufacturer_id": 6,
+    "color_name": "Graphite Metallic",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "bugatti-black-blue-metallic",
+    "manufacturer_id": 6,
+    "color_name": "Black Blue Metallic",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "bugatti-light-blue",
+    "manufacturer_id": 6,
+    "color_name": "Light Blue",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "bugatti-beige-gold-metallic",
+    "manufacturer_id": 6,
+    "color_name": "Beige Gold Metallic",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "bugatti-mocca-brown",
+    "manufacturer_id": 6,
+    "color_name": "Mocca Brown",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "bmw-alpine-white",
+    "manufacturer_id": 7,
+    "color_name": "Alpine White",
+    "finish": "Solid",
+    "active": true
+  },
+  {
+    "id": "bmw-jet-black",
+    "manufacturer_id": 7,
+    "color_name": "Jet Black",
+    "finish": "Solid",
+    "active": true
+  },
+  {
+    "id": "bmw-black-sapphire-metallic",
+    "manufacturer_id": 7,
+    "color_name": "Black Sapphire Metallic",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "bmw-carbon-black-metallic",
+    "manufacturer_id": 7,
+    "color_name": "Carbon Black Metallic",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "bmw-brooklyn-gray-metallic",
+    "manufacturer_id": 7,
+    "color_name": "Brooklyn Gray Metallic",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "bmw-dravit-gray-metallic",
+    "manufacturer_id": 7,
+    "color_name": "Dravit Gray Metallic",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "bmw-frozen-pure-gray-metallic",
+    "manufacturer_id": 7,
+    "color_name": "Frozen Pure Gray Metallic",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "bmw-frozen-portimao-blue-ii-metallic",
+    "manufacturer_id": 7,
+    "color_name": "Frozen Portimao Blue II Metallic",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "bmw-vegas-red-metallic",
+    "manufacturer_id": 7,
+    "color_name": "Vegas Red Metallic",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "bmw-portimao-blue-metallic",
+    "manufacturer_id": 7,
+    "color_name": "Portimao Blue Metallic",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "bmw-cape-york-green-metallic",
+    "manufacturer_id": 7,
+    "color_name": "Cape York Green Metallic",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "bmw-space-silver-metallic",
+    "manufacturer_id": 7,
+    "color_name": "Space Silver Metallic",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "bmw-night-dusk-blue-metallic",
+    "manufacturer_id": 7,
+    "color_name": "Night Dusk Blue Metallic",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "bmw-storm-bay-metallic",
+    "manufacturer_id": 7,
+    "color_name": "Storm Bay Metallic",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "bmw-goodwood-green-pearl-effect",
+    "manufacturer_id": 7,
+    "color_name": "Goodwood Green Pearl Effect",
+    "finish": "Pearl",
+    "active": true
+  },
+  {
+    "id": "bmw-macadamia-metallic",
+    "manufacturer_id": 7,
+    "color_name": "Macadamia Metallic",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "bmw-laguna-seca-blue",
+    "manufacturer_id": 7,
+    "color_name": "Laguna Seca Blue",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "bmw-technoviolet-metallic",
+    "manufacturer_id": 7,
+    "color_name": "Technoviolet Metallic",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "bmw-dakar-yellow-ii",
+    "manufacturer_id": 7,
+    "color_name": "Dakar Yellow II",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "bmw-oxford-green-ii-metallic",
+    "manufacturer_id": 7,
+    "color_name": "Oxford Green II Metallic",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "bmw-imola-red-ii-metallic",
+    "manufacturer_id": 7,
+    "color_name": "Imola Red II Metallic",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "bmw-tanzanite-blue-ii-metallic",
+    "manufacturer_id": 7,
+    "color_name": "Tanzanite Blue II Metallic",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "bmw-deep-sea-green-metallic",
+    "manufacturer_id": 7,
+    "color_name": "Deep Sea Green Metallic",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "bmw-melbourne-red-metallic",
+    "manufacturer_id": 7,
+    "color_name": "Melbourne Red Metallic",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "bmw-santorini-blue-ii-metallic",
+    "manufacturer_id": 7,
+    "color_name": "Santorini Blue II Metallic",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "bmw-daytona-violet-metallic",
+    "manufacturer_id": 7,
+    "color_name": "Daytona Violet Metallic",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "buick-summit-white",
+    "manufacturer_id": 8,
+    "color_name": "Summit White",
+    "finish": "Solid",
+    "active": true
+  },
+  {
+    "id": "buick-ebony-twilight-metallic",
+    "manufacturer_id": 8,
+    "color_name": "Ebony Twilight Metallic",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "buick-moonstone-gray-metallic",
+    "manufacturer_id": 8,
+    "color_name": "Moonstone Gray Metallic",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "buick-ocean-blue-metallic",
+    "manufacturer_id": 8,
+    "color_name": "Ocean Blue Metallic",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "buick-copper-ice-metallic",
+    "manufacturer_id": 8,
+    "color_name": "Copper Ice Metallic",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "buick-aquamarine-blue-metallic",
+    "manufacturer_id": 8,
+    "color_name": "Aquamarine Blue Metallic",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "buick-brilliant-red",
+    "manufacturer_id": 8,
+    "color_name": "Brilliant Red",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "buick-white-frost-tricoat",
+    "manufacturer_id": 8,
+    "color_name": "White Frost Tricoat",
+    "finish": "Tricoat",
+    "active": true
+  },
+  {
+    "id": "buick-cherry-red-tintcoat",
+    "manufacturer_id": 8,
+    "color_name": "Cherry Red Tintcoat",
+    "finish": "Tintcoat",
+    "active": true
+  },
+  {
+    "id": "buick-iridescent-white-tricoat",
+    "manufacturer_id": 8,
+    "color_name": "Iridescent White Tricoat",
+    "finish": "Tricoat",
+    "active": true
+  },
+  {
+    "id": "buick-stone-metallic",
+    "manufacturer_id": 8,
+    "color_name": "Stone Metallic",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "buick-smokey-amethyst-metallic",
+    "manufacturer_id": 8,
+    "color_name": "Smokey Amethyst Metallic",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "buick-quartz-blue-metallic",
+    "manufacturer_id": 8,
+    "color_name": "Quartz Blue Metallic",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "buick-midnight-opal-metallic",
+    "manufacturer_id": 8,
+    "color_name": "Midnight Opal Metallic",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "cadillac-black-raven",
+    "manufacturer_id": 9,
+    "color_name": "Black Raven",
+    "finish": "Solid",
+    "active": true
+  },
+  {
+    "id": "cadillac-summit-white",
+    "manufacturer_id": 9,
+    "color_name": "Summit White",
+    "finish": "Solid",
+    "active": true
+  },
+  {
+    "id": "cadillac-argent-silver-metallic",
+    "manufacturer_id": 9,
+    "color_name": "Argent Silver Metallic",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "cadillac-coastal-blue-metallic",
+    "manufacturer_id": 9,
+    "color_name": "Coastal Blue Metallic",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "cadillac-cyber-yellow-metallic",
+    "manufacturer_id": 9,
+    "color_name": "Cyber Yellow Metallic",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "cadillac-deep-space-metallic",
+    "manufacturer_id": 9,
+    "color_name": "Deep Space Metallic",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "cadillac-midnight-sky-metallic",
+    "manufacturer_id": 9,
+    "color_name": "Midnight Sky Metallic",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "cadillac-typhoon-metallic",
+    "manufacturer_id": 9,
+    "color_name": "Typhoon Metallic",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "cadillac-vibrant-white-tricoat",
+    "manufacturer_id": 9,
+    "color_name": "Vibrant White Tricoat",
+    "finish": "Tricoat",
+    "active": true
+  },
+  {
+    "id": "cadillac-radiant-red-tintcoat",
+    "manufacturer_id": 9,
+    "color_name": "Radiant Red Tintcoat",
+    "finish": "Tintcoat",
+    "active": true
+  },
+  {
+    "id": "cadillac-crystal-white-tricoat",
+    "manufacturer_id": 9,
+    "color_name": "Crystal White Tricoat",
+    "finish": "Tricoat",
+    "active": true
+  },
+  {
+    "id": "cadillac-emerald-lake-metallic",
+    "manufacturer_id": 9,
+    "color_name": "Emerald Lake Metallic",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "cadillac-opulent-blue-metallic",
+    "manufacturer_id": 9,
+    "color_name": "Opulent Blue Metallic",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "cadillac-celestial-metallic",
+    "manufacturer_id": 9,
+    "color_name": "Celestial Metallic",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "cadillac-nimbus-metallic",
+    "manufacturer_id": 9,
+    "color_name": "Nimbus Metallic",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "cadillac-stellar-black-metallic",
+    "manufacturer_id": 9,
+    "color_name": "Stellar Black Metallic",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "cadillac-black-cherry-tintcoat",
+    "manufacturer_id": 9,
+    "color_name": "Black Cherry Tintcoat",
+    "finish": "Tintcoat",
+    "active": true
+  },
+  {
+    "id": "cadillac-luna-metallic",
+    "manufacturer_id": 9,
+    "color_name": "Luna Metallic",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "cadillac-magnus-metal-frost",
+    "manufacturer_id": 9,
+    "color_name": "Magnus Metal Frost",
+    "finish": "Frost Metallic",
+    "active": true
+  },
+  {
+    "id": "cadillac-monarch-orange",
+    "manufacturer_id": 9,
+    "color_name": "Monarch Orange",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "cadillac-sandstone",
+    "manufacturer_id": 9,
+    "color_name": "Sandstone",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "cadillac-galactic-gray-metallic",
+    "manufacturer_id": 9,
+    "color_name": "Galactic Gray Metallic",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "chevrolet-summit-white",
+    "manufacturer_id": 10,
+    "color_name": "Summit White",
+    "finish": "Solid",
+    "active": true
+  },
+  {
+    "id": "chevrolet-black",
+    "manufacturer_id": 10,
+    "color_name": "Black",
+    "finish": "Solid",
+    "active": true
+  },
+  {
+    "id": "chevrolet-mosaic-black-metallic",
+    "manufacturer_id": 10,
+    "color_name": "Mosaic Black Metallic",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "chevrolet-sterling-gray-metallic",
+    "manufacturer_id": 10,
+    "color_name": "Sterling Gray Metallic",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "chevrolet-lakeshore-blue-metallic",
+    "manufacturer_id": 10,
+    "color_name": "Lakeshore Blue Metallic",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "chevrolet-reef-blue-metallic",
+    "manufacturer_id": 10,
+    "color_name": "Reef Blue Metallic",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "chevrolet-cacti-green",
+    "manufacturer_id": 10,
+    "color_name": "Cacti Green",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "chevrolet-white-sands",
+    "manufacturer_id": 10,
+    "color_name": "White Sands",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "chevrolet-polar-white-tricoat",
+    "manufacturer_id": 10,
+    "color_name": "Polar White Tricoat",
+    "finish": "Tricoat",
+    "active": true
+  },
+  {
+    "id": "chevrolet-radiant-red-tintcoat",
+    "manufacturer_id": 10,
+    "color_name": "Radiant Red Tintcoat",
+    "finish": "Tintcoat",
+    "active": true
+  },
+  {
+    "id": "chevrolet-apex-red",
+    "manufacturer_id": 10,
+    "color_name": "Apex Red",
+    "finish": "Solid",
+    "active": true
+  },
+  {
+    "id": "chevrolet-marina-blue-metallic",
+    "manufacturer_id": 10,
+    "color_name": "Marina Blue Metallic",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "chevrolet-sandstone-gray",
+    "manufacturer_id": 10,
+    "color_name": "Sandstone Gray",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "chevrolet-stardust-metallic",
+    "manufacturer_id": 10,
+    "color_name": "Stardust Metallic",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "chevrolet-roswell-green-metallic",
+    "manufacturer_id": 10,
+    "color_name": "Roswell Green Metallic",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "chevrolet-blade-silver-metallic",
+    "manufacturer_id": 10,
+    "color_name": "Blade Silver Metallic",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "chevrolet-hysteria-purple-metallic",
+    "manufacturer_id": 10,
+    "color_name": "Hysteria Purple Metallic",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "chevrolet-riptide-blue-metallic",
+    "manufacturer_id": 10,
+    "color_name": "Riptide Blue Metallic",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "chevrolet-torch-red",
+    "manufacturer_id": 10,
+    "color_name": "Torch Red",
+    "finish": "Solid",
+    "active": true
+  },
+  {
+    "id": "chevrolet-competition-yellow-tintcoat",
+    "manufacturer_id": 10,
+    "color_name": "Competition Yellow Tintcoat",
+    "finish": "Tintcoat",
+    "active": true
+  },
+  {
+    "id": "chevrolet-sebring-orange-tintcoat",
+    "manufacturer_id": 10,
+    "color_name": "Sebring Orange Tintcoat",
+    "finish": "Tintcoat",
+    "active": true
+  },
+  {
+    "id": "chevrolet-red-mist-metallic-tintcoat",
+    "manufacturer_id": 10,
+    "color_name": "Red Mist Metallic Tintcoat",
+    "finish": "Tintcoat",
+    "active": true
+  },
+  {
+    "id": "chevrolet-summit-white-silverado-ev",
+    "manufacturer_id": 10,
+    "color_name": "Summit White",
+    "finish": "Solid",
+    "active": true
+  },
+  {
+    "id": "chevrolet-blue-smoke-metallic",
+    "manufacturer_id": 10,
+    "color_name": "Blue Smoke Metallic",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "chevrolet-habanero-orange",
+    "manufacturer_id": 10,
+    "color_name": "Habanero Orange",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "chevrolet-magnus-gray-matte-metallic",
+    "manufacturer_id": 10,
+    "color_name": "Magnus Gray Matte Metallic",
+    "finish": "Matte Metallic",
+    "active": true
+  },
+  {
+    "id": "chevrolet-slate-gray-metallic",
+    "manufacturer_id": 10,
+    "color_name": "Slate Gray Metallic",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "chrysler-bright-white-clearcoat",
+    "manufacturer_id": 11,
+    "color_name": "Bright White Clearcoat",
+    "finish": "Clearcoat",
+    "active": true
+  },
+  {
+    "id": "chrysler-diamond-black-crystal-pearl",
+    "manufacturer_id": 11,
+    "color_name": "Diamond Black Crystal Pearl",
+    "finish": "Pearl",
+    "active": true
+  },
+  {
+    "id": "chrysler-hydro-blue-pearlcoat",
+    "manufacturer_id": 11,
+    "color_name": "Hydro Blue Pearlcoat",
+    "finish": "Pearl",
+    "active": true
+  },
+  {
+    "id": "chrysler-verde-oliva-olive-green-pearlcoat",
+    "manufacturer_id": 11,
+    "color_name": "Verde Oliva/Olive Green Pearlcoat",
+    "finish": "Pearl",
+    "active": true
+  },
+  {
+    "id": "chrysler-red-hot-pearlcoat",
+    "manufacturer_id": 11,
+    "color_name": "Red Hot Pearlcoat",
+    "finish": "Pearl",
+    "active": true
+  },
+  {
+    "id": "chrysler-silver-mist-clearcoat",
+    "manufacturer_id": 11,
+    "color_name": "Silver Mist Clearcoat",
+    "finish": "Clearcoat",
+    "active": true
+  },
+  {
+    "id": "dodge-b5-blue",
+    "manufacturer_id": 12,
+    "color_name": "B5 Blue",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "dodge-db-black-clearcoat",
+    "manufacturer_id": 12,
+    "color_name": "DB Black Clearcoat",
+    "finish": "Clearcoat",
+    "active": true
+  },
+  {
+    "id": "dodge-destroyer-gray-clearcoat",
+    "manufacturer_id": 12,
+    "color_name": "Destroyer Gray Clearcoat",
+    "finish": "Clearcoat",
+    "active": true
+  },
+  {
+    "id": "dodge-green-machine",
+    "manufacturer_id": 12,
+    "color_name": "Green Machine",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "dodge-night-moves",
+    "manufacturer_id": 12,
+    "color_name": "Night Moves",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "dodge-octane-red-pearlcoat",
+    "manufacturer_id": 12,
+    "color_name": "Octane Red Pearlcoat",
+    "finish": "Pearlcoat",
+    "active": true
+  },
+  {
+    "id": "dodge-red-oxide",
+    "manufacturer_id": 12,
+    "color_name": "Red Oxide",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "dodge-triple-nickel",
+    "manufacturer_id": 12,
+    "color_name": "Triple Nickel",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "dodge-vapor-gray",
+    "manufacturer_id": 12,
+    "color_name": "Vapor Gray",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "dodge-white-knuckle-clearcoat",
+    "manufacturer_id": 12,
+    "color_name": "White Knuckle Clearcoat",
+    "finish": "Clearcoat",
+    "active": true
+  },
+  {
+    "id": "dodge-after-dark",
+    "manufacturer_id": 12,
+    "color_name": "After Dark",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "dodge-bludicrous",
+    "manufacturer_id": 12,
+    "color_name": "Bludicrous",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "dodge-peel-out",
+    "manufacturer_id": 12,
+    "color_name": "Peel Out",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "dodge-redeye",
+    "manufacturer_id": 12,
+    "color_name": "Redeye",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "ferrari-rosso-corsa",
+    "manufacturer_id": 13,
+    "color_name": "Rosso Corsa",
+    "finish": "Solid",
+    "active": true
+  },
+  {
+    "id": "ferrari-rosso-scuderia",
+    "manufacturer_id": 13,
+    "color_name": "Rosso Scuderia",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "ferrari-rosso-fiorano",
+    "manufacturer_id": 13,
+    "color_name": "Rosso Fiorano",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "ferrari-giallo-modena",
+    "manufacturer_id": 13,
+    "color_name": "Giallo Modena",
+    "finish": "Solid",
+    "active": true
+  },
+  {
+    "id": "ferrari-giallo-triplo-strato",
+    "manufacturer_id": 13,
+    "color_name": "Giallo Triplo Strato",
+    "finish": "Tricoat",
+    "active": true
+  },
+  {
+    "id": "ferrari-bianco-avus",
+    "manufacturer_id": 13,
+    "color_name": "Bianco Avus",
+    "finish": "Solid",
+    "active": true
+  },
+  {
+    "id": "ferrari-bianco-italia",
+    "manufacturer_id": 13,
+    "color_name": "Bianco Italia",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "ferrari-argento-nurburgring",
+    "manufacturer_id": 13,
+    "color_name": "Argento Nurburgring",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "ferrari-blu-tour-de-france-metallic",
+    "manufacturer_id": 13,
+    "color_name": "Blu Tour De France Metallic",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "ferrari-blu-pozzi",
+    "manufacturer_id": 13,
+    "color_name": "Blu Pozzi",
+    "finish": "Solid",
+    "active": true
+  },
+  {
+    "id": "ferrari-blu-scozia",
+    "manufacturer_id": 13,
+    "color_name": "Blu Scozia",
+    "finish": "Solid",
+    "active": true
+  },
+  {
+    "id": "ferrari-nero-daytona-metallic",
+    "manufacturer_id": 13,
+    "color_name": "Nero Daytona Metallic",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "ferrari-nero",
+    "manufacturer_id": 13,
+    "color_name": "Nero",
+    "finish": "Solid",
+    "active": true
+  },
+  {
+    "id": "ferrari-grigio-silverstone-metallic",
+    "manufacturer_id": 13,
+    "color_name": "Grigio Silverstone Metallic",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "ferrari-grigio-titanio-metallic",
+    "manufacturer_id": 13,
+    "color_name": "Grigio Titanio Metallic",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "ferrari-verde-british-racing",
+    "manufacturer_id": 13,
+    "color_name": "Verde British Racing",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "ferrari-azzurro-la-plata",
+    "manufacturer_id": 13,
+    "color_name": "Azzurro La Plata",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "ferrari-azzurro-dino",
+    "manufacturer_id": 13,
+    "color_name": "Azzurro Dino",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "ferrari-burgundy-rosso-ducale",
+    "manufacturer_id": 13,
+    "color_name": "Rosso Ducale",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "fiat-500e-red",
+    "manufacturer_id": 14,
+    "color_name": "Red",
+    "finish": "Solid",
+    "active": true
+  },
+  {
+    "id": "fiat-500e-rose-gold",
+    "manufacturer_id": 14,
+    "color_name": "Rose Gold",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "fiat-500e-tuxedo-black",
+    "manufacturer_id": 14,
+    "color_name": "Tuxedo Black",
+    "finish": "Solid",
+    "active": true
+  },
+  {
+    "id": "fiat-500e-marine-layer-mist",
+    "manufacturer_id": 14,
+    "color_name": "Marine Layer Mist",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "fiat-500e-ocean-green",
+    "manufacturer_id": 14,
+    "color_name": "Ocean Green",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "fiat-500e-glacier-white",
+    "manufacturer_id": 14,
+    "color_name": "Glacier White",
+    "finish": "Solid",
+    "active": true
+  },
+  {
+    "id": "fiat-500e-tennis-ball",
+    "manufacturer_id": 14,
+    "color_name": "Tennis Ball (Yellow‑Green)",
+    "finish": "Solid",
+    "active": true
+  },
+  {
+    "id": "fiat-500e-giorgio-armani-dark-green",
+    "manufacturer_id": 14,
+    "color_name": "Dark Green (Giorgio Armani Edition)",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "fiat-500e-giorgio-armani-ceramic-greige",
+    "manufacturer_id": 14,
+    "color_name": "Ceramic Greige (Giorgio Armani Edition)",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "fisker-great-white",
+    "manufacturer_id": 15,
+    "color_name": "Great White",
+    "finish": "Gloss",
+    "active": true
+  },
+  {
+    "id": "fisker-night-drive",
+    "manufacturer_id": 15,
+    "color_name": "Night Drive",
+    "finish": "Gloss",
+    "active": true
+  },
+  {
+    "id": "fisker-blue-planet",
+    "manufacturer_id": 15,
+    "color_name": "Blue Planet",
+    "finish": "Metallic Gloss",
+    "active": true
+  },
+  {
+    "id": "fisker-big-sur-blue",
+    "manufacturer_id": 15,
+    "color_name": "Big Sur Blue",
+    "finish": "Matte",
+    "active": true
+  },
+  {
+    "id": "fisker-red-planet",
+    "manufacturer_id": 15,
+    "color_name": "Red Planet",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "fisker-silver-lining",
+    "manufacturer_id": 15,
+    "color_name": "Silver Lining",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "fisker-horizon-gray",
+    "manufacturer_id": 15,
+    "color_name": "Horizon Gray",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "fisker-solar-orange",
+    "manufacturer_id": 15,
+    "color_name": "Solar Orange",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "fisker-sun-soaked",
+    "manufacturer_id": 15,
+    "color_name": "Sun Soaked",
+    "finish": "Metallic Gloss",
+    "active": true
+  },
+  {
+    "id": "fisker-mariana",
+    "manufacturer_id": 15,
+    "color_name": "Mariana",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "fisker-stealth-green",
+    "manufacturer_id": 15,
+    "color_name": "Stealth Green",
+    "finish": "Metallic Matte",
+    "active": true
+  },
+  {
+    "id": "fisker-marine-layer",
+    "manufacturer_id": 15,
+    "color_name": "Marine Layer",
+    "finish": "Pearl Metallic",
+    "active": true
+  },
+  {
+    "id": "fisker-sea-grass",
+    "manufacturer_id": 15,
+    "color_name": "Sea Grass",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "ford-oxford-white",
+    "manufacturer_id": 16,
+    "color_name": "Oxford White",
+    "finish": "Solid",
+    "active": true
+  },
+  {
+    "id": "ford-shadow-black",
+    "manufacturer_id": 16,
+    "color_name": "Shadow Black",
+    "finish": "Solid",
+    "active": true
+  },
+  {
+    "id": "ford-agate-black-metallic",
+    "manufacturer_id": 16,
+    "color_name": "Agate Black Metallic",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "ford-carbonized-gray-metallic",
+    "manufacturer_id": 16,
+    "color_name": "Carbonized Gray Metallic",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "ford-argonic-blue-metallic",
+    "manufacturer_id": 16,
+    "color_name": "Argon Blue Metallic",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "ford-antimatter-blue-metallic",
+    "manufacturer_id": 16,
+    "color_name": "Antimatter Blue Metallic",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "ford-iconic-silver-metallic",
+    "manufacturer_id": 16,
+    "color_name": "Iconic Silver Metallic",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "ford-marsh-gray-metallic",
+    "manufacturer_id": 16,
+    "color_name": "Marsh Gray Metallic",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "ford-avalanche",
+    "manufacturer_id": 16,
+    "color_name": "Avalanche",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "ford-ruby-red-metallic-tinted-clearcoat",
+    "manufacturer_id": 16,
+    "color_name": "Ruby Red Metallic Tinted Clearcoat",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "ford-star-white-metallic-tri-coat",
+    "manufacturer_id": 16,
+    "color_name": "Star White Metallic Tri‑Coat",
+    "finish": "Tri‑Coat",
+    "active": true
+  },
+  {
+    "id": "ford-race-red",
+    "manufacturer_id": 16,
+    "color_name": "Race Red",
+    "finish": "Solid",
+    "active": true
+  },
+  {
+    "id": "ford-adriatic-blue-metallic",
+    "manufacturer_id": 16,
+    "color_name": "Adriatic Blue Metallic",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "ford-orange-fury-metallic-tri-coat",
+    "manufacturer_id": 16,
+    "color_name": "Orange Fury Metallic Tri‑Coat",
+    "finish": "Tri‑Coat",
+    "active": true
+  },
+  {
+    "id": "ford-molten-magenta-metallic-tinted-clearcoat",
+    "manufacturer_id": 16,
+    "color_name": "Molten Magenta Metallic Tinted Clearcoat",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "ford-vapor-blue-metallic",
+    "manufacturer_id": 16,
+    "color_name": "Vapor Blue Metallic",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "ford-space-white-metallic",
+    "manufacturer_id": 16,
+    "color_name": "Space White Metallic",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "ford-rapid-red-metallic-tinted-clearcoat",
+    "manufacturer_id": 16,
+    "color_name": "Rapid Red Metallic Tinted Clearcoat",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "ford-velocity-blue-metallic",
+    "manufacturer_id": 16,
+    "color_name": "Velocity Blue Metallic",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "ford-shelter-green-metallic",
+    "manufacturer_id": 16,
+    "color_name": "Shelter Green Metallic",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "ford-wimbledon-white",
+    "manufacturer_id": 16,
+    "color_name": "Wimbledon White",
+    "finish": "Solid",
+    "active": true
+  },
+  {
+    "id": "genesis-alta-white",
+    "manufacturer_id": 17,
+    "color_name": "Alta White",
+    "finish": "Solid",
+    "active": true
+  },
+  {
+    "id": "genesis-uyuni-white",
+    "manufacturer_id": 17,
+    "color_name": "Uyuni White",
+    "finish": "Pearl",
+    "active": true
+  },
+  {
+    "id": "genesis-vik-black",
+    "manufacturer_id": 17,
+    "color_name": "Vik Black",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "genesis-savile-silver",
+    "manufacturer_id": 17,
+    "color_name": "Savile Silver",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "genesis-makalu-gray",
+    "manufacturer_id": 17,
+    "color_name": "Makalu Gray",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "genesis-capri-blue",
+    "manufacturer_id": 17,
+    "color_name": "Capri Blue",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "genesis-cavendish-red",
+    "manufacturer_id": 17,
+    "color_name": "Cavendish Red",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "genesis-vatna-gray",
+    "manufacturer_id": 17,
+    "color_name": "Vatna Gray",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "genesis-ceres-blue",
+    "manufacturer_id": 17,
+    "color_name": "Ceres Blue",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "genesis-bering-blue",
+    "manufacturer_id": 17,
+    "color_name": "Bering Blue",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "genesis-mauna-red",
+    "manufacturer_id": 17,
+    "color_name": "Mauna Red",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "genesis-makalu-gray-matte",
+    "manufacturer_id": 17,
+    "color_name": "Makalu Gray Matte",
+    "finish": "Matte",
+    "active": true
+  },
+  {
+    "id": "genesis-storr-green",
+    "manufacturer_id": 17,
+    "color_name": "Storr Green",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "genesis-storr-green-matte",
+    "manufacturer_id": 17,
+    "color_name": "Storr Green Matte",
+    "finish": "Matte",
+    "active": true
+  },
+  {
+    "id": "gmc-downpour-metallic",
+    "manufacturer_id": 18,
+    "color_name": "Downpour Metallic",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "gmc-onyx-black",
+    "manufacturer_id": 18,
+    "color_name": "Onyx Black",
+    "finish": "Solid",
+    "active": true
+  },
+  {
+    "id": "gmc-sterling-metallic",
+    "manufacturer_id": 18,
+    "color_name": "Sterling Metallic",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "gmc-summit-white",
+    "manufacturer_id": 18,
+    "color_name": "Summit White",
+    "finish": "Solid",
+    "active": true
+  },
+  {
+    "id": "gmc-titanium-rush-metallic",
+    "manufacturer_id": 18,
+    "color_name": "Titanium Rush Metallic",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "gmc-volcanic-red-tintcoat",
+    "manufacturer_id": 18,
+    "color_name": "Volcanic Red Tintcoat",
+    "finish": "Tintcoat",
+    "active": true
+  },
+  {
+    "id": "gmc-glacier-white-tricoat",
+    "manufacturer_id": 18,
+    "color_name": "Glacier White Tricoat",
+    "finish": "Tricoat",
+    "active": true
+  },
+  {
+    "id": "gmc-midnight-pine",
+    "manufacturer_id": 18,
+    "color_name": "Midnight Pine",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "gmc-ebony-twilight-metallic",
+    "manufacturer_id": 18,
+    "color_name": "Ebony Twilight Metallic",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "gmc-red-quartz-tintcoat",
+    "manufacturer_id": 18,
+    "color_name": "Red Quartz Tintcoat",
+    "finish": "Tintcoat",
+    "active": true
+  },
+  {
+    "id": "gmc-smoky-quartz-metallic",
+    "manufacturer_id": 18,
+    "color_name": "Smoky Quartz Metallic",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "gmc-rapids-metallic",
+    "manufacturer_id": 18,
+    "color_name": "Rapids Metallic",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "gmc-riverstone-metallic",
+    "manufacturer_id": 18,
+    "color_name": "Riverstone Metallic",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "gmc-cardinal-red",
+    "manufacturer_id": 18,
+    "color_name": "Cardinal Red",
+    "finish": "Solid",
+    "active": true
+  },
+  {
+    "id": "gmc-coastal-dune",
+    "manufacturer_id": 18,
+    "color_name": "Coastal Dune",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "gmc-silver-ice-metallic",
+    "manufacturer_id": 18,
+    "color_name": "Silver Ice Metallic",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "gmc-wheatland-yellow",
+    "manufacturer_id": 18,
+    "color_name": "Wheatland Yellow",
+    "finish": "Solid",
+    "active": true
+  },
+  {
+    "id": "gmc-woodland-green",
+    "manufacturer_id": 18,
+    "color_name": "Woodland Green",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "honda-crystal-black-pearl",
+    "manufacturer_id": 19,
+    "color_name": "Crystal Black Pearl",
+    "finish": "Pearl",
+    "active": true
+  },
+  {
+    "id": "honda-ash-green-metallic",
+    "manufacturer_id": 19,
+    "color_name": "Ash Green Metallic",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "honda-canyon-river-blue-metallic",
+    "manufacturer_id": 19,
+    "color_name": "Canyon River Blue Metallic",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "honda-urban-gray-pearl",
+    "manufacturer_id": 19,
+    "color_name": "Urban Gray Pearl",
+    "finish": "Pearl",
+    "active": true
+  },
+  {
+    "id": "honda-solar-silver-metallic",
+    "manufacturer_id": 19,
+    "color_name": "Solar Silver Metallic",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "honda-radiant-red-metallic",
+    "manufacturer_id": 19,
+    "color_name": "Radiant Red Metallic",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "honda-meteorite-gray-metallic",
+    "manufacturer_id": 19,
+    "color_name": "Meteorite Gray Metallic",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "honda-platinum-white-pearl",
+    "manufacturer_id": 19,
+    "color_name": "Platinum White Pearl",
+    "finish": "Pearl",
+    "active": true
+  },
+  {
+    "id": "honda-boost-blue-pearl",
+    "manufacturer_id": 19,
+    "color_name": "Boost Blue Pearl",
+    "finish": "Pearl",
+    "active": true
+  },
+  {
+    "id": "honda-milano-red",
+    "manufacturer_id": 19,
+    "color_name": "Milano Red",
+    "finish": "Solid",
+    "active": true
+  },
+  {
+    "id": "honda-modern-steel-metallic",
+    "manufacturer_id": 19,
+    "color_name": "Modern Steel Metallic",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "honda-nordic-forest-pearl",
+    "manufacturer_id": 19,
+    "color_name": "Nordic Forest Pearl",
+    "finish": "Pearl",
+    "active": true
+  },
+  {
+    "id": "honda-mercury-silver-metallic",
+    "manufacturer_id": 19,
+    "color_name": "Mercury Silver Metallic",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "honda-north-shore-pearl",
+    "manufacturer_id": 19,
+    "color_name": "North Shore Pearl",
+    "finish": "Pearl",
+    "active": true
+  },
+  {
+    "id": "honda-pacific-blue-metallic",
+    "manufacturer_id": 19,
+    "color_name": "Pacific Blue Metallic",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "honda-rallye-red",
+    "manufacturer_id": 19,
+    "color_name": "Rallye Red",
+    "finish": "Solid",
+    "active": true
+  },
+  {
+    "id": "honda-sand-dune-pearl",
+    "manufacturer_id": 19,
+    "color_name": "Sand Dune Pearl",
+    "finish": "Pearl",
+    "active": true
+  },
+  {
+    "id": "honda-sonic-gray-pearl",
+    "manufacturer_id": 19,
+    "color_name": "Sonic Gray Pearl",
+    "finish": "Pearl",
+    "active": true
+  },
+  {
+    "id": "honda-canyon-river-blue-metallic-accord",
+    "manufacturer_id": 19,
+    "color_name": "Canyon River Blue Metallic",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "honda-crystal-black-pearl-accord",
+    "manufacturer_id": 19,
+    "color_name": "Crystal Black Pearl",
+    "finish": "Pearl",
+    "active": true
+  },
+  {
+    "id": "honda-meteorite-gray-metallic-accord",
+    "manufacturer_id": 19,
+    "color_name": "Meteorite Gray Metallic",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "honda-solar-silver-metallic-accord",
+    "manufacturer_id": 19,
+    "color_name": "Solar Silver Metallic",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "honda-urban-gray-pearl-accord",
+    "manufacturer_id": 19,
+    "color_name": "Urban Gray Pearl",
+    "finish": "Pearl",
+    "active": true
+  },
+  {
+    "id": "honda-platinum-white-pearl-accord",
+    "manufacturer_id": 19,
+    "color_name": "Platinum White Pearl",
+    "finish": "Pearl",
+    "active": true
+  },
+  {
+    "id": "honda-radiant-red-metallic-accord",
+    "manufacturer_id": 19,
+    "color_name": "Radiant Red Metallic",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "honda-crystal-black-pearl-odyssey",
+    "manufacturer_id": 19,
+    "color_name": "Crystal Black Pearl",
+    "finish": "Pearl",
+    "active": true
+  },
+  {
+    "id": "honda-modern-steel-metallic-odyssey",
+    "manufacturer_id": 19,
+    "color_name": "Modern Steel Metallic",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "honda-radiant-red-metallic-ii-odyssey",
+    "manufacturer_id": 19,
+    "color_name": "Radiant Red Metallic II",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "honda-smoke-blue-pearl",
+    "manufacturer_id": 19,
+    "color_name": "Smoke Blue Pearl",
+    "finish": "Pearl",
+    "active": true
+  },
+  {
+    "id": "honda-sonic-gray-pearl-odyssey",
+    "manufacturer_id": 19,
+    "color_name": "Sonic Gray Pearl",
+    "finish": "Pearl",
+    "active": true
+  },
+  {
+    "id": "hyundai-phantom-black-pearl",
+    "manufacturer_id": 20,
+    "color_name": "Phantom Black Pearl",
+    "finish": "Pearl",
+    "active": true
+  },
+  {
+    "id": "hyundai-cream-white-pearl",
+    "manufacturer_id": 20,
+    "color_name": "Cream White Pearl",
+    "finish": "Pearl",
+    "active": true
+  },
+  {
+    "id": "hyundai-stellar-silver-metallic",
+    "manufacturer_id": 20,
+    "color_name": "Stellar Silver Metallic",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "hyundai-shimmering-silver-metallic",
+    "manufacturer_id": 20,
+    "color_name": "Shimmering Silver Metallic",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "hyundai-magnetite-gray-metallic",
+    "manufacturer_id": 20,
+    "color_name": "Magnetite Gray Metallic",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "hyundai-cyber-metallic",
+    "manufacturer_id": 20,
+    "color_name": "Cyber Metallic",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "hyundai-amethyst-gray-metallic",
+    "manufacturer_id": 20,
+    "color_name": "Amethyst Gray Metallic",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "hyundai-ivy-green-metallic",
+    "manufacturer_id": 20,
+    "color_name": "Ivy Green Metallic",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "hyundai-aurora-red-pearl",
+    "manufacturer_id": 20,
+    "color_name": "Aurora Red Pearl",
+    "finish": "Pearl",
+    "active": true
+  },
+  {
+    "id": "hyundai-sensei-blue-metallic",
+    "manufacturer_id": 20,
+    "color_name": "Sensei Blue Metallic",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "hyundai-horizon-blue-metallic",
+    "manufacturer_id": 20,
+    "color_name": "Horizon Blue Metallic",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "hyundai-phoenix-red-pearl",
+    "manufacturer_id": 20,
+    "color_name": "Phoenix Red Pearl",
+    "finish": "Pearl",
+    "active": true
+  },
+  {
+    "id": "hyundai-cosmic-gray-metallic",
+    "manufacturer_id": 20,
+    "color_name": "Cosmic Gray Metallic",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "hyundai-iced-teal-pearl",
+    "manufacturer_id": 20,
+    "color_name": "Iced Teal Pearl",
+    "finish": "Pearl",
+    "active": true
+  },
+  {
+    "id": "hyundai-lake-silver-metallic",
+    "manufacturer_id": 20,
+    "color_name": "Lake Silver Metallic",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "hyundai-victory-yellow",
+    "manufacturer_id": 20,
+    "color_name": "Victory Yellow",
+    "finish": "Solid",
+    "active": true
+  },
+  {
+    "id": "hyundai-twilight-blue-pearl",
+    "manufacturer_id": 20,
+    "color_name": "Twilight Blue Pearl",
+    "finish": "Pearl",
+    "active": true
+  },
+  {
+    "id": "hyundai-volcanic-red-metallic",
+    "manufacturer_id": 20,
+    "color_name": "Volcanic Red Metallic",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "hyundai-glacier-white-tricoat",
+    "manufacturer_id": 20,
+    "color_name": "Glacier White Tricoat",
+    "finish": "Tricoat",
+    "active": true
+  },
+  {
+    "id": "ineos-arctic-white",
+    "manufacturer_id": 21,
+    "color_name": "Arctic White",
+    "finish": "Solid",
+    "active": true
+  },
+  {
+    "id": "ineos-storm-grey-metallic",
+    "manufacturer_id": 21,
+    "color_name": "Storm Grey Metallic",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "ineos-midnight-black-metallic",
+    "manufacturer_id": 21,
+    "color_name": "Midnight Black Metallic",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "ineos-sand-beige",
+    "manufacturer_id": 21,
+    "color_name": "Sand Beige",
+    "finish": "Solid",
+    "active": true
+  },
+  {
+    "id": "ineos-olive-green-metallic",
+    "manufacturer_id": 21,
+    "color_name": "Olive Green Metallic",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "ineos-bay-blue-metallic",
+    "manufacturer_id": 21,
+    "color_name": "Bay Blue Metallic",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "infiniti-absolute-white",
+    "manufacturer_id": 22,
+    "color_name": "Absolute White",
+    "finish": "Solid",
+    "active": true
+  },
+  {
+    "id": "infiniti-calcite-white-pearl",
+    "manufacturer_id": 22,
+    "color_name": "Calcite White Pearl",
+    "finish": "Pearl",
+    "active": true
+  },
+  {
+    "id": "infiniti-midnight-black",
+    "manufacturer_id": 22,
+    "color_name": "Midnight Black",
+    "finish": "Solid",
+    "active": true
+  },
+  {
+    "id": "infiniti-graphite-shadow",
+    "manufacturer_id": 22,
+    "color_name": "Graphite Shadow",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "infiniti-liquid-platinum",
+    "manufacturer_id": 22,
+    "color_name": "Liquid Platinum",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "infiniti-emerald-garnet",
+    "manufacturer_id": 22,
+    "color_name": "Emerald Garnet",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "infiniti-crescent-blue",
+    "manufacturer_id": 22,
+    "color_name": "Crescent Blue",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "infiniti-radiant-red",
+    "manufacturer_id": 22,
+    "color_name": "Radiant Red",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "infiniti-moonlight-white-pearl",
+    "manufacturer_id": 22,
+    "color_name": "Moonlight White Pearl",
+    "finish": "Pearl",
+    "active": true
+  },
+  {
+    "id": "infiniti-amarat-silver",
+    "manufacturer_id": 22,
+    "color_name": "Amarat Silver",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "infiniti-mosaic-black",
+    "manufacturer_id": 22,
+    "color_name": "Mosaic Black",
+    "finish": "Solid",
+    "active": true
+  },
+  {
+    "id": "infiniti-fujitsu-red-pearl",
+    "manufacturer_id": 22,
+    "color_name": "Fujitsu Red Pearl",
+    "finish": "Pearl",
+    "active": true
+  },
+  {
+    "id": "infiniti-denim-blue",
+    "manufacturer_id": 22,
+    "color_name": "Denim Blue",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "jaguar-fuji-white",
+    "manufacturer_id": 23,
+    "color_name": "Fuji White",
+    "finish": "Solid",
+    "active": true
+  },
+  {
+    "id": "jaguar-indus-silver-metallic",
+    "manufacturer_id": 23,
+    "color_name": "Indus Silver Metallic",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "jaguar-caldera-red-metallic",
+    "manufacturer_id": 23,
+    "color_name": "Caldera Red Metallic",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "jaguar-portofino-blue-metallic",
+    "manufacturer_id": 23,
+    "color_name": "Portofino Blue Metallic",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "jaguar-santarosa-gold-metallic",
+    "manufacturer_id": 23,
+    "color_name": "Santarosa Gold Metallic",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "jaguar-ultimate-black",
+    "manufacturer_id": 23,
+    "color_name": "Ultimate Black",
+    "finish": "Solid",
+    "active": true
+  },
+  {
+    "id": "jaguar-ceramic-grey-metallic",
+    "manufacturer_id": 23,
+    "color_name": "Ceramic Grey Metallic",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "jaguar-aurora-green-metallic",
+    "manufacturer_id": 23,
+    "color_name": "Aurora Green Metallic",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "jaguar-loire-blue-metallic",
+    "manufacturer_id": 23,
+    "color_name": "Loire Blue Metallic",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "jaguar-sicilian-yellow",
+    "manufacturer_id": 23,
+    "color_name": "Sicilian Yellow",
+    "finish": "Solid",
+    "active": true
+  },
+  {
+    "id": "jaguar-cerise-red-metallic",
+    "manufacturer_id": 23,
+    "color_name": "Cerise Red Metallic",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "jaguar-carpathian-grey-metallic",
+    "manufacturer_id": 23,
+    "color_name": "Carpathian Grey Metallic",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "jeep-altitude-black",
+    "manufacturer_id": 24,
+    "color_name": "Altitude Black",
+    "finish": "Solid",
+    "active": true
+  },
+  {
+    "id": "jeep-ivory-tricoat",
+    "manufacturer_id": 24,
+    "color_name": "Ivory Tricoat",
+    "finish": "Tricoat",
+    "active": true
+  },
+  {
+    "id": "jeep-granite-crystal-metallic",
+    "manufacturer_id": 24,
+    "color_name": "Granite Crystal Metallic",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "jeep-ocean-blue-metallic",
+    "manufacturer_id": 24,
+    "color_name": "Ocean Blue Metallic",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "jeep-saber-metallic",
+    "manufacturer_id": 24,
+    "color_name": "Saber Metallic",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "jeep-punk-metallic",
+    "manufacturer_id": 24,
+    "color_name": "Punk Metallic",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "jeep-red-rock-iii-metallic",
+    "manufacturer_id": 24,
+    "color_name": "Red Rock III Metallic",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "jeep-sting-grey-metallic",
+    "manufacturer_id": 24,
+    "color_name": "Sting Grey Metallic",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "jeep-mojave-sand-metallic",
+    "manufacturer_id": 24,
+    "color_name": "Mojave Sand Metallic",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "jeep-frost-white",
+    "manufacturer_id": 24,
+    "color_name": "Frost White",
+    "finish": "Solid",
+    "active": true
+  },
+  {
+    "id": "jeep-black-clearcoat",
+    "manufacturer_id": 24,
+    "color_name": "Black Clearcoat",
+    "finish": "Solid",
+    "active": true
+  },
+  {
+    "id": "jeep-velvet-red-pearl",
+    "manufacturer_id": 24,
+    "color_name": "Velvet Red Pearl",
+    "finish": "Pearl",
+    "active": true
+  },
+  {
+    "id": "jeep-granite-metallic-pearl",
+    "manufacturer_id": 24,
+    "color_name": "Granite Metallic Pearl",
+    "finish": "Pearl",
+    "active": true
+  },
+  {
+    "id": "jeep-pacific-blue-pearl",
+    "manufacturer_id": 24,
+    "color_name": "Pacific Blue Pearl",
+    "finish": "Pearl",
+    "active": true
+  },
+  {
+    "id": "jeep-silver-zinc-metallic",
+    "manufacturer_id": 24,
+    "color_name": "Silver Zinc Metallic",
+    "finish": "Metallic",
+    "active": true
+  },
+  {
+    "id": "jeep-frostbite-metallic",
+    "manufacturer_id": 24,
+    "color_name": "Frostbite Metallic",
+    "finish": "Metallic",
+    "active": true
   }
 ]
