@@ -1,8 +1,7 @@
 [
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 1,
-    "engine_code": "L15CA",
+    "code": "L15CA",
+    "manufacturer_code": 1,
     "engine_type": "ICE",
     "fuel_type": "gas",
     "displacement_liters": 1.5,
@@ -16,9 +15,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 1,
-    "engine_code": "K20C",
+    "code": "K20C",
+    "manufacturer_code": 1,
     "engine_type": "ICE",
     "fuel_type": "gas",
     "displacement_liters": 2.0,
@@ -32,9 +30,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 1,
-    "engine_code": "J30AC",
+    "code": "J30AC",
+    "manufacturer_code": 1,
     "engine_type": "ICE",
     "fuel_type": "gas",
     "displacement_liters": 3.0,
@@ -48,9 +45,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 1,
-    "engine_code": "J35Y",
+    "code": "J35Y",
+    "manufacturer_code": 1,
     "engine_type": "ICE",
     "fuel_type": "gas",
     "displacement_liters": 3.5,
@@ -64,9 +60,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 1,
-    "engine_code": "ZDX-ULTIUM-RWD",
+    "code": "ZDX-ULTIUM-RWD",
+    "manufacturer_code": 1,
     "engine_type": "EV",
     "fuel_type": null,
     "displacement_liters": null,
@@ -80,9 +75,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 1,
-    "engine_code": "ZDX-ULTIUM-AWD",
+    "code": "ZDX-ULTIUM-AWD",
+    "manufacturer_code": 1,
     "engine_type": "EV",
     "fuel_type": null,
     "displacement_liters": null,
@@ -96,9 +90,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 2,
-    "engine_code": "G1.5T",
+    "code": "G1.5T",
+    "manufacturer_code": 2,
     "engine_type": "ICE",
     "fuel_type": "gas",
     "displacement_liters": 1.5,
@@ -112,9 +105,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 2,
-    "engine_code": "G2.0T",
+    "code": "G2.0T",
+    "manufacturer_code": 2,
     "engine_type": "ICE",
     "fuel_type": "gas",
     "displacement_liters": 2.0,
@@ -128,9 +120,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 2,
-    "engine_code": "V6-2.9T",
+    "code": "V6-2.9T",
+    "manufacturer_code": 2,
     "engine_type": "ICE",
     "fuel_type": "gas",
     "displacement_liters": 2.9,
@@ -144,9 +135,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 2,
-    "engine_code": "Tonale-Hybrid",
+    "code": "Tonale-Hybrid",
+    "manufacturer_code": 2,
     "engine_type": "Hybrid",
     "fuel_type": "gas",
     "displacement_liters": 1.3,
@@ -160,9 +150,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 3,
-    "engine_code": "M177-4.0T",
+    "code": "M177-4.0T",
+    "manufacturer_code": 3,
     "engine_type": "ICE",
     "fuel_type": "gas",
     "displacement_liters": 4.0,
@@ -176,9 +165,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 3,
-    "engine_code": "M177-4.0T-Vantage",
+    "code": "M177-4.0T-Vantage",
+    "manufacturer_code": 3,
     "engine_type": "ICE",
     "fuel_type": "gas",
     "displacement_liters": 4.0,
@@ -192,9 +180,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 3,
-    "engine_code": "AM29-5.2V12",
+    "code": "AM29-5.2V12",
+    "manufacturer_code": 3,
     "engine_type": "ICE",
     "fuel_type": "gas",
     "displacement_liters": 5.2,
@@ -208,9 +195,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 3,
-    "engine_code": "AMG-6.0V12",
+    "code": "AMG-6.0V12",
+    "manufacturer_code": 3,
     "engine_type": "ICE",
     "fuel_type": "gas",
     "displacement_liters": 6.0,
@@ -224,9 +210,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 3,
-    "engine_code": "AM-RB 001",
+    "code": "AM-RB 001",
+    "manufacturer_code": 3,
     "engine_type": "Hybrid",
     "fuel_type": "gas",
     "displacement_liters": 4.0,
@@ -240,9 +225,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 3,
-    "engine_code": "Valkyrie-Hybrid",
+    "code": "Valkyrie-Hybrid",
+    "manufacturer_code": 3,
     "engine_type": "Hybrid",
     "fuel_type": "gas",
     "displacement_liters": 6.5,
@@ -256,9 +240,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 4,
-    "engine_code": "2.0TFSI",
+    "code": "2.0TFSI",
+    "manufacturer_code": 4,
     "engine_type": "ICE",
     "fuel_type": "gas",
     "displacement_liters": 2.0,
@@ -272,9 +255,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 4,
-    "engine_code": "3.0TFSI",
+    "code": "3.0TFSI",
+    "manufacturer_code": 4,
     "engine_type": "ICE",
     "fuel_type": "gas",
     "displacement_liters": 3.0,
@@ -288,9 +270,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 4,
-    "engine_code": "4.0TFSI",
+    "code": "4.0TFSI",
+    "manufacturer_code": 4,
     "engine_type": "ICE",
     "fuel_type": "gas",
     "displacement_liters": 4.0,
@@ -304,9 +285,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 4,
-    "engine_code": "2.0TFSI-e",
+    "code": "2.0TFSI-e",
+    "manufacturer_code": 4,
     "engine_type": "Hybrid",
     "fuel_type": "gas",
     "displacement_liters": 2.0,
@@ -320,9 +300,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 4,
-    "engine_code": "e-tron 50",
+    "code": "e-tron 50",
+    "manufacturer_code": 4,
     "engine_type": "EV",
     "fuel_type": null,
     "displacement_liters": null,
@@ -336,9 +315,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 4,
-    "engine_code": "e-tron 55",
+    "code": "e-tron 55",
+    "manufacturer_code": 4,
     "engine_type": "EV",
     "fuel_type": null,
     "displacement_liters": null,
@@ -352,9 +330,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 4,
-    "engine_code": "RS e-tron GT",
+    "code": "RS e-tron GT",
+    "manufacturer_code": 4,
     "engine_type": "EV",
     "fuel_type": null,
     "displacement_liters": null,
@@ -368,9 +345,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 5,
-    "engine_code": "W12 TSI",
+    "code": "W12 TSI",
+    "manufacturer_code": 5,
     "engine_type": "ICE",
     "fuel_type": "gas",
     "displacement_liters": 6.0,
@@ -384,9 +360,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 5,
-    "engine_code": "V8 TSI",
+    "code": "V8 TSI",
+    "manufacturer_code": 5,
     "engine_type": "ICE",
     "fuel_type": "gas",
     "displacement_liters": 4.0,
@@ -400,9 +375,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 5,
-    "engine_code": "Bentayga Hybrid",
+    "code": "Bentayga Hybrid",
+    "manufacturer_code": 5,
     "engine_type": "Hybrid",
     "fuel_type": "gas",
     "displacement_liters": 3.0,
@@ -416,9 +390,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 5,
-    "engine_code": "Bentley EXP 100 GT EV",
+    "code": "Bentley EXP 100 GT EV",
+    "manufacturer_code": 5,
     "engine_type": "EV",
     "fuel_type": null,
     "displacement_liters": null,
@@ -432,9 +405,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 6,
-    "engine_code": "W16 8.0L",
+    "code": "W16 8.0L",
+    "manufacturer_code": 6,
     "engine_type": "ICE",
     "fuel_type": "gas",
     "displacement_liters": 8.0,
@@ -448,9 +420,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 6,
-    "engine_code": "Bolide W16 8.0L",
+    "code": "Bolide W16 8.0L",
+    "manufacturer_code": 6,
     "engine_type": "ICE",
     "fuel_type": "gas",
     "displacement_liters": 8.0,
@@ -464,9 +435,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 7,
-    "engine_code": "B48B20M0",
+    "code": "B48B20M0",
+    "manufacturer_code": 7,
     "engine_type": "ICE",
     "fuel_type": "gas",
     "displacement_liters": 2.0,
@@ -480,9 +450,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 7,
-    "engine_code": "B58B30M0",
+    "code": "B58B30M0",
+    "manufacturer_code": 7,
     "engine_type": "ICE",
     "fuel_type": "gas",
     "displacement_liters": 3.0,
@@ -496,9 +465,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 7,
-    "engine_code": "S58B30M0",
+    "code": "S58B30M0",
+    "manufacturer_code": 7,
     "engine_type": "ICE",
     "fuel_type": "gas",
     "displacement_liters": 3.0,
@@ -512,9 +480,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 7,
-    "engine_code": "S63B44T0",
+    "code": "S63B44T0",
+    "manufacturer_code": 7,
     "engine_type": "ICE",
     "fuel_type": "gas",
     "displacement_liters": 4.4,
@@ -528,9 +495,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 7,
-    "engine_code": "PHEV-530e",
+    "code": "PHEV-530e",
+    "manufacturer_code": 7,
     "engine_type": "Hybrid",
     "fuel_type": "gas",
     "displacement_liters": 2.0,
@@ -544,9 +510,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 7,
-    "engine_code": "PHEV-550e",
+    "code": "PHEV-550e",
+    "manufacturer_code": 7,
     "engine_type": "Hybrid",
     "fuel_type": "gas",
     "displacement_liters": 3.0,
@@ -560,9 +525,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 7,
-    "engine_code": "PHEV-745e",
+    "code": "PHEV-745e",
+    "manufacturer_code": 7,
     "engine_type": "Hybrid",
     "fuel_type": "gas",
     "displacement_liters": 3.0,
@@ -576,9 +540,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 7,
-    "engine_code": "i4-eDrive40",
+    "code": "i4-eDrive40",
+    "manufacturer_code": 7,
     "engine_type": "EV",
     "fuel_type": null,
     "displacement_liters": null,
@@ -592,9 +555,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 7,
-    "engine_code": "i4 M50",
+    "code": "i4 M50",
+    "manufacturer_code": 7,
     "engine_type": "EV",
     "fuel_type": null,
     "displacement_liters": null,
@@ -608,9 +570,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 7,
-    "engine_code": "i5 eDrive50",
+    "code": "i5 eDrive50",
+    "manufacturer_code": 7,
     "engine_type": "EV",
     "fuel_type": null,
     "displacement_liters": null,
@@ -624,9 +585,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 7,
-    "engine_code": "i7 xDrive60",
+    "code": "i7 xDrive60",
+    "manufacturer_code": 7,
     "engine_type": "EV",
     "fuel_type": null,
     "displacement_liters": null,
@@ -640,9 +600,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 7,
-    "engine_code": "iX xDrive50",
+    "code": "iX xDrive50",
+    "manufacturer_code": 7,
     "engine_type": "EV",
     "fuel_type": null,
     "displacement_liters": null,
@@ -656,9 +615,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 8,
-    "engine_code": "B4B25T",
+    "code": "B4B25T",
+    "manufacturer_code": 8,
     "engine_type": "ICE",
     "fuel_type": "gas",
     "displacement_liters": 2.5,
@@ -672,9 +630,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 8,
-    "engine_code": "L3T-1.2T",
+    "code": "L3T-1.2T",
+    "manufacturer_code": 8,
     "engine_type": "ICE",
     "fuel_type": "gas",
     "displacement_liters": 1.2,
@@ -688,9 +645,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 8,
-    "engine_code": "L3T-1.3T",
+    "code": "L3T-1.3T",
+    "manufacturer_code": 8,
     "engine_type": "ICE",
     "fuel_type": "gas",
     "displacement_liters": 1.3,
@@ -704,9 +660,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 8,
-    "engine_code": "L4B20T",
+    "code": "L4B20T",
+    "manufacturer_code": 8,
     "engine_type": "ICE",
     "fuel_type": "gas",
     "displacement_liters": 2.0,
@@ -720,9 +675,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 9,
-    "engine_code": "LXT-2.0T",
+    "code": "LXT-2.0T",
+    "manufacturer_code": 9,
     "engine_type": "ICE",
     "fuel_type": "gas",
     "displacement_liters": 2.0,
@@ -736,9 +690,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 9,
-    "engine_code": "LGY-3.0TT V6",
+    "code": "LGY-3.0TT V6",
+    "manufacturer_code": 9,
     "engine_type": "ICE",
     "fuel_type": "gas",
     "displacement_liters": 3.0,
@@ -752,9 +705,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 9,
-    "engine_code": "LT4-6.2SC V8",
+    "code": "LT4-6.2SC V8",
+    "manufacturer_code": 9,
     "engine_type": "ICE",
     "fuel_type": "gas",
     "displacement_liters": 6.2,
@@ -768,9 +720,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 9,
-    "engine_code": "EV-Lyriq-RWD",
+    "code": "EV-Lyriq-RWD",
+    "manufacturer_code": 9,
     "engine_type": "EV",
     "fuel_type": null,
     "displacement_liters": null,
@@ -784,9 +735,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 9,
-    "engine_code": "EV-Lyriq-AWD",
+    "code": "EV-Lyriq-AWD",
+    "manufacturer_code": 9,
     "engine_type": "EV",
     "fuel_type": null,
     "displacement_liters": null,
@@ -800,9 +750,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 9,
-    "engine_code": "EV-Lyriq-V",
+    "code": "EV-Lyriq-V",
+    "manufacturer_code": 9,
     "engine_type": "EV",
     "fuel_type": null,
     "displacement_liters": null,
@@ -816,9 +765,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 9,
-    "engine_code": "EV-Optiq-RWD",
+    "code": "EV-Optiq-RWD",
+    "manufacturer_code": 9,
     "engine_type": "EV",
     "fuel_type": null,
     "displacement_liters": null,
@@ -832,9 +780,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 9,
-    "engine_code": "EV-Optiq-AWD",
+    "code": "EV-Optiq-AWD",
+    "manufacturer_code": 9,
     "engine_type": "EV",
     "fuel_type": null,
     "displacement_liters": null,
@@ -848,9 +795,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 9,
-    "engine_code": "EV-Optiq-V",
+    "code": "EV-Optiq-V",
+    "manufacturer_code": 9,
     "engine_type": "EV",
     "fuel_type": null,
     "displacement_liters": null,
@@ -864,9 +810,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 9,
-    "engine_code": "EV-Vistiq",
+    "code": "EV-Vistiq",
+    "manufacturer_code": 9,
     "engine_type": "EV",
     "fuel_type": null,
     "displacement_liters": null,
@@ -880,9 +825,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 9,
-    "engine_code": "EV-EscaladeIQ-Base",
+    "code": "EV-EscaladeIQ-Base",
+    "manufacturer_code": 9,
     "engine_type": "EV",
     "fuel_type": null,
     "displacement_liters": null,
@@ -896,9 +840,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 10,
-    "engine_code": "LWN-2.0T",
+    "code": "LWN-2.0T",
+    "manufacturer_code": 10,
     "engine_type": "ICE",
     "fuel_type": "gas",
     "displacement_liters": 2.0,
@@ -912,9 +855,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 10,
-    "engine_code": "LGX-3.6L-V6",
+    "code": "LGX-3.6L-V6",
+    "manufacturer_code": 10,
     "engine_type": "ICE",
     "fuel_type": "gas",
     "displacement_liters": 3.6,
@@ -928,9 +870,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 10,
-    "engine_code": "ECOTEC-1.5T",
+    "code": "ECOTEC-1.5T",
+    "manufacturer_code": 10,
     "engine_type": "ICE",
     "fuel_type": "gas",
     "displacement_liters": 1.5,
@@ -944,9 +885,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 10,
-    "engine_code": "ECOTEC-1.2T",
+    "code": "ECOTEC-1.2T",
+    "manufacturer_code": 10,
     "engine_type": "ICE",
     "fuel_type": "gas",
     "displacement_liters": 1.2,
@@ -960,9 +900,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 10,
-    "engine_code": "ECOTEC-1.3T",
+    "code": "ECOTEC-1.3T",
+    "manufacturer_code": 10,
     "engine_type": "ICE",
     "fuel_type": "gas",
     "displacement_liters": 1.3,
@@ -976,9 +915,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 10,
-    "engine_code": "TurboMax-2.7L",
+    "code": "TurboMax-2.7L",
+    "manufacturer_code": 10,
     "engine_type": "ICE",
     "fuel_type": "gas",
     "displacement_liters": 2.7,
@@ -992,9 +930,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 10,
-    "engine_code": "EcoTec3-5.3L-V8",
+    "code": "EcoTec3-5.3L-V8",
+    "manufacturer_code": 10,
     "engine_type": "ICE",
     "fuel_type": "gas",
     "displacement_liters": 5.3,
@@ -1008,9 +945,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 10,
-    "engine_code": "EcoTec3-6.2L-V8",
+    "code": "EcoTec3-6.2L-V8",
+    "manufacturer_code": 10,
     "engine_type": "ICE",
     "fuel_type": "gas",
     "displacement_liters": 6.2,
@@ -1024,9 +960,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 10,
-    "engine_code": "Duramax-3.0L-Diesel",
+    "code": "Duramax-3.0L-Diesel",
+    "manufacturer_code": 10,
     "engine_type": "ICE",
     "fuel_type": "diesel",
     "displacement_liters": 3.0,
@@ -1040,9 +975,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 10,
-    "engine_code": "LT2-V8",
+    "code": "LT2-V8",
+    "manufacturer_code": 10,
     "engine_type": "ICE",
     "fuel_type": "gas",
     "displacement_liters": 6.2,
@@ -1056,9 +990,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 10,
-    "engine_code": "LT6-V8",
+    "code": "LT6-V8",
+    "manufacturer_code": 10,
     "engine_type": "ICE",
     "fuel_type": "gas",
     "displacement_liters": 5.5,
@@ -1072,9 +1005,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 10,
-    "engine_code": "LT7-V8",
+    "code": "LT7-V8",
+    "manufacturer_code": 10,
     "engine_type": "ICE",
     "fuel_type": "gas",
     "displacement_liters": 5.5,
@@ -1088,9 +1020,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 10,
-    "engine_code": "Ultium-Blazer-EV",
+    "code": "Ultium-Blazer-EV",
+    "manufacturer_code": 10,
     "engine_type": "EV",
     "fuel_type": null,
     "displacement_liters": null,
@@ -1104,9 +1035,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 10,
-    "engine_code": "Ultium-Equinox-EV",
+    "code": "Ultium-Equinox-EV",
+    "manufacturer_code": 10,
     "engine_type": "EV",
     "fuel_type":  null,
     "displacement_liters": null,
@@ -1120,9 +1050,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 10,
-    "engine_code": "Ultium-Silverado-EV",
+    "code": "Ultium-Silverado-EV",
+    "manufacturer_code": 10,
     "engine_type": "EV",
     "fuel_type": null,
     "displacement_liters": null,
@@ -1136,9 +1065,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 10,
-    "engine_code": "Bolt-EUV-Ultium",
+    "code": "Bolt-EUV-Ultium",
+    "manufacturer_code": 10,
     "engine_type": "EV",
     "fuel_type": null,
     "displacement_liters": null,
@@ -1152,9 +1080,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 10,
-    "engine_code": "BrightDrop-EV",
+    "code": "BrightDrop-EV",
+    "manufacturer_code": 10,
     "engine_type": "EV",
     "fuel_type": null,
     "displacement_liters": null,
@@ -1168,9 +1095,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 11,
-    "engine_code": "Pentastar-3.6L-V6",
+    "code": "Pentastar-3.6L-V6",
+    "manufacturer_code": 11,
     "engine_type": "ICE",
     "fuel_type": "gas",
     "displacement_liters": 3.6,
@@ -1184,9 +1110,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 11,
-    "engine_code": "Pentastar-3.6L-PHEV",
+    "code": "Pentastar-3.6L-PHEV",
+    "manufacturer_code": 11,
     "engine_type": "Hybrid",
     "fuel_type": "gas",
     "displacement_liters": 3.6,
@@ -1200,9 +1125,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 12,
-    "engine_code": "Hurricane_3.0_SO",
+    "code": "Hurricane_3.0_SO",
+    "manufacturer_code": 12,
     "engine_type": "ICE",
     "fuel_type": "gas",
     "displacement_liters": 3.0,
@@ -1216,9 +1140,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 12,
-    "engine_code": "Hurricane_3.0_HO",
+    "code": "Hurricane_3.0_HO",
+    "manufacturer_code": 12,
     "engine_type": "ICE",
     "fuel_type": "gas",
     "displacement_liters": 3.0,
@@ -1232,9 +1155,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 12,
-    "engine_code": "V8_5.7_HEMI",
+    "code": "V8_5.7_HEMI",
+    "manufacturer_code": 12,
     "engine_type": "ICE",
     "fuel_type": "gas",
     "displacement_liters": 5.7,
@@ -1248,9 +1170,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 12,
-    "engine_code": "V8_6.4_HEMI",
+    "code": "V8_6.4_HEMI",
+    "manufacturer_code": 12,
     "engine_type": "ICE",
     "fuel_type": "gas",
     "displacement_liters": 6.4,
@@ -1264,9 +1185,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 12,
-    "engine_code": "V8_6.2_HEMI_HELLCAT",
+    "code": "V8_6.2_HEMI_HELLCAT",
+    "manufacturer_code": 12,
     "engine_type": "ICE",
     "fuel_type": "gas",
     "displacement_liters": 6.2,
@@ -1280,9 +1200,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 12,
-    "engine_code": "Hornet_2.0_Turbo",
+    "code": "Hornet_2.0_Turbo",
+    "manufacturer_code": 12,
     "engine_type": "ICE",
     "fuel_type": "gas",
     "displacement_liters": 2.0,
@@ -1296,9 +1215,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 12,
-    "engine_code": "Hornet_PHEV_1.3_Turbo",
+    "code": "Hornet_PHEV_1.3_Turbo",
+    "manufacturer_code": 12,
     "engine_type": "Hybrid",
     "fuel_type": "gas",
     "displacement_liters": 1.3,
@@ -1312,9 +1230,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 12,
-    "engine_code": "ChargerDaytonaEV-DualMotor-670",
+    "code": "ChargerDaytonaEV-DualMotor-670",
+    "manufacturer_code": 12,
     "engine_type": "EV",
     "fuel_type": null,
     "displacement_liters": null,
@@ -1328,9 +1245,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 12,
-    "engine_code": "ChargerDaytonaEV-DualMotor-496",
+    "code": "ChargerDaytonaEV-DualMotor-496",
+    "manufacturer_code": 12,
     "engine_type": "EV",
     "fuel_type": null,
     "displacement_liters": null,
@@ -1344,9 +1260,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 13,
-    "engine_code": "F140 V12",
+    "code": "F140 V12",
+    "manufacturer_code": 13,
     "engine_type": "ICE",
     "fuel_type": "gas",
     "displacement_liters": 6.5,
@@ -1360,9 +1275,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 13,
-    "engine_code": "F160 V12 Turbo",
+    "code": "F160 V12 Turbo",
+    "manufacturer_code": 13,
     "engine_type": "ICE",
     "fuel_type": "gas",
     "displacement_liters": 6.3,
@@ -1376,9 +1290,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 13,
-    "engine_code": "F154 V8 Hybrid",
+    "code": "F154 V8 Hybrid",
+    "manufacturer_code": 13,
     "engine_type": "Hybrid",
     "fuel_type": "gas",
     "displacement_liters": 3.0,
@@ -1392,9 +1305,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 13,
-    "engine_code": "F154 V6 Turbo",
+    "code": "F154 V6 Turbo",
+    "manufacturer_code": 13,
     "engine_type": "ICE",
     "fuel_type": "gas",
     "displacement_liters": 3.0,
@@ -1408,9 +1320,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 13,
-    "engine_code": "Purosangue V12 Turbo",
+    "code": "Purosangue V12 Turbo",
+    "manufacturer_code": 13,
     "engine_type": "ICE",
     "fuel_type": "gas",
     "displacement_liters": 6.5,
@@ -1424,9 +1335,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 14,
-    "engine_code": "500e Motor",
+    "code": "500e Motor",
+    "manufacturer_code": 14,
     "engine_type": "EV",
     "fuel_type": null,
     "displacement_liters": null,
@@ -1440,9 +1350,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 15,
-    "engine_code": "Ocean Electric Motor",
+    "code": "Ocean Electric Motor",
+    "manufacturer_code": 15,
     "engine_type": "EV",
     "fuel_type": null,
     "displacement_liters": null,
@@ -1456,9 +1365,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 16,
-    "engine_code": "EcoBoost 2.3L I4",
+    "code": "EcoBoost 2.3L I4",
+    "manufacturer_code": 16,
     "engine_type": "ICE",
     "fuel_type": "gas",
     "displacement_liters": 2.3,
@@ -1472,9 +1380,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 16,
-    "engine_code": "EcoBoost 2.7L V6",
+    "code": "EcoBoost 2.7L V6",
+    "manufacturer_code": 16,
     "engine_type": "ICE",
     "fuel_type": "gas",
     "displacement_liters": 2.7,
@@ -1488,9 +1395,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 16,
-    "engine_code": "V8 5.0L",
+    "code": "V8 5.0L",
+    "manufacturer_code": 16,
     "engine_type": "ICE",
     "fuel_type": "gas",
     "displacement_liters": 5.0,
@@ -1504,9 +1410,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 16,
-    "engine_code": "V6 3.5L EcoBoost",
+    "code": "V6 3.5L EcoBoost",
+    "manufacturer_code": 16,
     "engine_type": "ICE",
     "fuel_type": "gas",
     "displacement_liters": 3.5,
@@ -1520,9 +1425,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 16,
-    "engine_code": "PowerBoost 3.5L V6 Hybrid",
+    "code": "PowerBoost 3.5L V6 Hybrid",
+    "manufacturer_code": 16,
     "engine_type": "Hybrid",
     "fuel_type": "gas",
     "displacement_liters": 3.5,
@@ -1536,9 +1440,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 16,
-    "engine_code": "Lightning Dual Motor",
+    "code": "Lightning Dual Motor",
+    "manufacturer_code": 16,
     "engine_type": "EV",
     "fuel_type": null,
     "displacement_liters": null,
@@ -1552,9 +1455,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 16,
-    "engine_code": "Mustang Mach-E Dual Motor",
+    "code": "Mustang Mach-E Dual Motor",
+    "manufacturer_code": 16,
     "engine_type": "EV",
     "fuel_type": null,
     "displacement_liters": null,
@@ -1568,9 +1470,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 16,
-    "engine_code": "E-Transit Electric Motor",
+    "code": "E-Transit Electric Motor",
+    "manufacturer_code": 16,
     "engine_type": "EV",
     "fuel_type": null,
     "displacement_liters": null,
@@ -1584,9 +1485,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 17,
-    "engine_code": "2.5T I4",
+    "code": "2.5T I4",
+    "manufacturer_code": 17,
     "engine_type": "ICE",
     "fuel_type": "gas",
     "displacement_liters": 2.5,
@@ -1600,9 +1500,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 17,
-    "engine_code": "3.5T V6",
+    "code": "3.5T V6",
+    "manufacturer_code": 17,
     "engine_type": "ICE",
     "fuel_type": "gas",
     "displacement_liters": 3.5,
@@ -1616,9 +1515,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 17,
-    "engine_code": "3.3T V6",
+    "code": "3.3T V6",
+    "manufacturer_code": 17,
     "engine_type": "ICE",
     "fuel_type": "gas",
     "displacement_liters": 3.3,
@@ -1632,9 +1530,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 17,
-    "engine_code": "2.5T PHEV",
+    "code": "2.5T PHEV",
+    "manufacturer_code": 17,
     "engine_type": "Hybrid",
     "fuel_type": "gas",
     "displacement_liters": 2.5,
@@ -1648,9 +1545,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 17,
-    "engine_code": "GV60 Dual Motor",
+    "code": "GV60 Dual Motor",
+    "manufacturer_code": 17,
     "engine_type": "EV",
     "fuel_type": null,
     "displacement_liters": null,
@@ -1664,9 +1560,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 17,
-    "engine_code": "GV70 Dual Motor",
+    "code": "GV70 Dual Motor",
+    "manufacturer_code": 17,
     "engine_type": "EV",
     "fuel_type": null,
     "displacement_liters": null,
@@ -1680,9 +1575,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 17,
-    "engine_code": "GV80 Dual Motor",
+    "code": "GV80 Dual Motor",
+    "manufacturer_code": 17,
     "engine_type": "EV",
     "fuel_type": null,
     "displacement_liters": null,
@@ -1696,9 +1590,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 18,
-    "engine_code": "2.0T I4",
+    "code": "2.0T I4",
+    "manufacturer_code": 18,
     "engine_type": "ICE",
     "fuel_type": "gas",
     "displacement_liters": 2.0,
@@ -1712,9 +1605,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 18,
-    "engine_code": "3.6L V6",
+    "code": "3.6L V6",
+    "manufacturer_code": 18,
     "engine_type": "ICE",
     "fuel_type": "gas",
     "displacement_liters": 3.6,
@@ -1728,9 +1620,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 18,
-    "engine_code": "5.3L V8",
+    "code": "5.3L V8",
+    "manufacturer_code": 18,
     "engine_type": "ICE",
     "fuel_type": "gas",
     "displacement_liters": 5.3,
@@ -1744,9 +1635,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 18,
-    "engine_code": "6.2L V8",
+    "code": "6.2L V8",
+    "manufacturer_code": 18,
     "engine_type": "ICE",
     "fuel_type": "gas",
     "displacement_liters": 6.2,
@@ -1760,9 +1650,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 18,
-    "engine_code": "Hummer EV Dual Motor",
+    "code": "Hummer EV Dual Motor",
+    "manufacturer_code": 18,
     "engine_type": "EV",
     "fuel_type": null,
     "displacement_liters": null,
@@ -1776,9 +1665,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 18,
-    "engine_code": "Sierra EV Dual Motor",
+    "code": "Sierra EV Dual Motor",
+    "manufacturer_code": 18,
     "engine_type": "EV",
     "fuel_type": null,
     "displacement_liters": null,
@@ -1792,9 +1680,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 18,
-    "engine_code": "Terrain 2.0T I4",
+    "code": "Terrain 2.0T I4",
+    "manufacturer_code": 18,
     "engine_type": "ICE",
     "fuel_type": "gas",
     "displacement_liters": 2.0,
@@ -1808,9 +1695,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 18,
-    "engine_code": "Yukon 5.3L V8",
+    "code": "Yukon 5.3L V8",
+    "manufacturer_code": 18,
     "engine_type": "ICE",
     "fuel_type": "gas",
     "displacement_liters": 5.3,
@@ -1824,9 +1710,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 18,
-    "engine_code": "Yukon XL 6.2L V8",
+    "code": "Yukon XL 6.2L V8",
+    "manufacturer_code": 18,
     "engine_type": "ICE",
     "fuel_type": "gas",
     "displacement_liters": 6.2,
@@ -1840,9 +1725,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 19,
-    "engine_code": "1.5T I4",
+    "code": "1.5T I4",
+    "manufacturer_code": 19,
     "engine_type": "ICE",
     "fuel_type": "gas",
     "displacement_liters": 1.5,
@@ -1856,9 +1740,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 19,
-    "engine_code": "2.0T I4",
+    "code": "2.0T I4",
+    "manufacturer_code": 19,
     "engine_type": "ICE",
     "fuel_type": "gas",
     "displacement_liters": 2.0,
@@ -1872,9 +1755,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 19,
-    "engine_code": "2.0L I4",
+    "code": "2.0L I4",
+    "manufacturer_code": 19,
     "engine_type": "Hybrid",
     "fuel_type": "gas",
     "displacement_liters": 2.0,
@@ -1888,9 +1770,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 19,
-    "engine_code": "2.0L I4 CR-V Hybrid",
+    "code": "2.0L I4 CR-V Hybrid",
+    "manufacturer_code": 19,
     "engine_type": "Hybrid",
     "fuel_type": "gas",
     "displacement_liters": 2.0,
@@ -1904,9 +1785,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 19,
-    "engine_code": "1.5L I4 HR-V",
+    "code": "1.5L I4 HR-V",
+    "manufacturer_code": 19,
     "engine_type": "ICE",
     "fuel_type": "gas",
     "displacement_liters": 1.5,
@@ -1920,9 +1800,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 19,
-    "engine_code": "3.5L V6 Pilot/Passport",
+    "code": "3.5L V6 Pilot/Passport",
+    "manufacturer_code": 19,
     "engine_type": "ICE",
     "fuel_type": "gas",
     "displacement_liters": 3.5,
@@ -1936,9 +1815,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 19,
-    "engine_code": "Prelude Hybrid 2.0L I4",
+    "code": "Prelude Hybrid 2.0L I4",
+    "manufacturer_code": 19,
     "engine_type": "Hybrid",
     "fuel_type": "gas",
     "displacement_liters": 2.0,
@@ -1952,9 +1830,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 19,
-    "engine_code": "Prologue EV Dual Motor",
+    "code": "Prologue EV Dual Motor",
+    "manufacturer_code": 19,
     "engine_type": "EV",
     "fuel_type": null,
     "displacement_liters": null,
@@ -1968,9 +1845,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 20,
-    "engine_code": "2.0L I4",
+    "code": "2.0L I4",
+    "manufacturer_code": 20,
     "engine_type": "ICE",
     "fuel_type": "gas",
     "displacement_liters": 2.0,
@@ -1984,9 +1860,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 20,
-    "engine_code": "1.6T I4",
+    "code": "1.6T I4",
+    "manufacturer_code": 20,
     "engine_type": "ICE",
     "fuel_type": "gas",
     "displacement_liters": 1.6,
@@ -2000,9 +1875,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 20,
-    "engine_code": "2.5T I4 N",
+    "code": "2.5T I4 N",
+    "manufacturer_code": 20,
     "engine_type": "ICE",
     "fuel_type": "gas",
     "displacement_liters": 2.5,
@@ -2016,9 +1890,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 20,
-    "engine_code": "1.6L I4 Hybrid",
+    "code": "1.6L I4 Hybrid",
+    "manufacturer_code": 20,
     "engine_type": "Hybrid",
     "fuel_type": "gas",
     "displacement_liters": 1.6,
@@ -2032,9 +1905,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 20,
-    "engine_code": "2.5L I4 Hybrid",
+    "code": "2.5L I4 Hybrid",
+    "manufacturer_code": 20,
     "engine_type": "Hybrid",
     "fuel_type": "gas",
     "displacement_liters": 2.5,
@@ -2048,9 +1920,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 20,
-    "engine_code": "2.0L I4 PHEV Tucson",
+    "code": "2.0L I4 PHEV Tucson",
+    "manufacturer_code": 20,
     "engine_type": "Hybrid",
     "fuel_type": "gas",
     "displacement_liters": 2.0,
@@ -2064,9 +1935,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 20,
-    "engine_code": "EV Single Motor",
+    "code": "EV Single Motor",
+    "manufacturer_code": 20,
     "engine_type": "EV",
     "fuel_type": null,
     "displacement_liters": null,
@@ -2080,9 +1950,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 20,
-    "engine_code": "EV Dual Motor",
+    "code": "EV Dual Motor",
+    "manufacturer_code": 20,
     "engine_type": "EV",
     "fuel_type": null,
     "displacement_liters": null,
@@ -2096,9 +1965,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 21,
-    "engine_code": "3.0L I6 Turbo Diesel",
+    "code": "3.0L I6 Turbo Diesel",
+    "manufacturer_code": 21,
     "engine_type": "ICE",
     "fuel_type": "diesel",
     "displacement_liters": 3.0,
@@ -2112,9 +1980,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 21,
-    "engine_code": "4.0L I6 Turbo Gasoline",
+    "code": "4.0L I6 Turbo Gasoline",
+    "manufacturer_code": 21,
     "engine_type": "ICE",
     "fuel_type": "gas",
     "displacement_liters": 4.0,
@@ -2128,9 +1995,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 22,
-    "engine_code": "VC-Turbo 2.0L I4",
+    "code": "VC-Turbo 2.0L I4",
+    "manufacturer_code": 22,
     "engine_type": "ICE",
     "fuel_type": "gas",
     "displacement_liters": 2.0,
@@ -2144,9 +2010,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 22,
-    "engine_code": "3.5L V6 Twin-Turbo",
+    "code": "3.5L V6 Twin-Turbo",
+    "manufacturer_code": 22,
     "engine_type": "ICE",
     "fuel_type": "gas",
     "displacement_liters": 3.5,
@@ -2160,9 +2025,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 22,
-    "engine_code": "5.6L V8",
+    "code": "5.6L V8",
+    "manufacturer_code": 22,
     "engine_type": "ICE",
     "fuel_type": "gas",
     "displacement_liters": 5.6,
@@ -2176,9 +2040,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 23,
-    "engine_code": "2.0L I4 Turbo",
+    "code": "2.0L I4 Turbo",
+    "manufacturer_code": 23,
     "engine_type": "ICE",
     "fuel_type": "gas",
     "displacement_liters": 2.0,
@@ -2192,9 +2055,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 23,
-    "engine_code": "3.0L I6 MHEV",
+    "code": "3.0L I6 MHEV",
+    "manufacturer_code": 23,
     "engine_type": "Hybrid",
     "fuel_type": "gas",
     "displacement_liters": 3.0,
@@ -2208,9 +2070,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 23,
-    "engine_code": "5.0L V8 Supercharged",
+    "code": "5.0L V8 Supercharged",
+    "manufacturer_code": 23,
     "engine_type": "ICE",
     "fuel_type": "gas",
     "displacement_liters": 5.0,
@@ -2224,9 +2085,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 23,
-    "engine_code": "EV Single Motor",
+    "code": "EV Single Motor",
+    "manufacturer_code": 23,
     "engine_type": "EV",
     "fuel_type": null,
     "displacement_liters": null,
@@ -2240,9 +2100,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 23,
-    "engine_code": "EV Dual Motor",
+    "code": "EV Dual Motor",
+    "manufacturer_code": 23,
     "engine_type": "EV",
     "fuel_type": null,
     "displacement_liters": null,
@@ -2256,9 +2115,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 24,
-    "engine_code": "2.0L I4 Turbo",
+    "code": "2.0L I4 Turbo",
+    "manufacturer_code": 24,
     "engine_type": "ICE",
     "fuel_type": "gas",
     "displacement_liters": 2.0,
@@ -2272,9 +2130,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 24,
-    "engine_code": "2.0L I4 Turbo PHEV",
+    "code": "2.0L I4 Turbo PHEV",
+    "manufacturer_code": 24,
     "engine_type": "Hybrid",
     "fuel_type": "gas",
     "displacement_liters": 2.0,
@@ -2288,9 +2145,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 24,
-    "engine_code": "3.6L V6",
+    "code": "3.6L V6",
+    "manufacturer_code": 24,
     "engine_type": "ICE",
     "fuel_type": "gas",
     "displacement_liters": 3.6,
@@ -2304,9 +2160,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 24,
-    "engine_code": "5.7L V8",
+    "code": "5.7L V8",
+    "manufacturer_code": 24,
     "engine_type": "ICE",
     "fuel_type": "gas",
     "displacement_liters": 5.7,
@@ -2320,9 +2175,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 24,
-    "engine_code": "3.0L I6 Turbo Diesel",
+    "code": "3.0L I6 Turbo Diesel",
+    "manufacturer_code": 24,
     "engine_type": "ICE",
     "fuel_type": "diesel",
     "displacement_liters": 3.0,
@@ -2336,9 +2190,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 24,
-    "engine_code": "Wrangler 4xe EV Hybrid",
+    "code": "Wrangler 4xe EV Hybrid",
+    "manufacturer_code": 24,
     "engine_type": "Hybrid",
     "fuel_type": "gas",
     "displacement_liters": 2.0,
@@ -2352,9 +2205,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 24,
-    "engine_code": "Recon EV",
+    "code": "Recon EV",
+    "manufacturer_code": 24,
     "engine_type": "EV",
     "fuel_type": null,
     "displacement_liters": null,
@@ -2368,9 +2220,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 25,
-    "engine_code": "Amaris EV",
+    "code": "Amaris EV",
+    "manufacturer_code": 25,
     "engine_type": "EV",
     "fuel_type": null,
     "displacement_liters": null,
@@ -2384,9 +2235,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 25,
-    "engine_code": "Gyesera EV",
+    "code": "Gyesera EV",
+    "manufacturer_code": 25,
     "engine_type": "EV",
     "fuel_type": null,
     "displacement_liters": null,
@@ -2400,9 +2250,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 25,
-    "engine_code": "Kaveya EV Coupe",
+    "code": "Kaveya EV Coupe",
+    "manufacturer_code": 25,
     "engine_type": "EV",
     "fuel_type": null,
     "displacement_liters": null,
@@ -2416,9 +2265,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 25,
-    "engine_code": "Ivara EV SUV",
+    "code": "Ivara EV SUV",
+    "manufacturer_code": 25,
     "engine_type": "EV",
     "fuel_type": null,
     "displacement_liters": null,
@@ -2432,9 +2280,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 25,
-    "engine_code": "Invictus EV",
+    "code": "Invictus EV",
+    "manufacturer_code": 25,
     "engine_type": "EV",
     "fuel_type": null,
     "displacement_liters": null,
@@ -2448,9 +2295,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 25,
-    "engine_code": "Revero GT PHEV",
+    "code": "Revero GT PHEV",
+    "manufacturer_code": 25,
     "engine_type": "Hybrid",
     "fuel_type": "gas",
     "displacement_liters": 2.0,
@@ -2464,9 +2310,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 26,
-    "engine_code": "KIA-2.5L-GDI",
+    "code": "KIA-2.5L-GDI",
+    "manufacturer_code": 26,
     "engine_type": "ICE",
     "fuel_type": "gas",
     "displacement_liters": 2.5,
@@ -2480,9 +2325,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 26,
-    "engine_code": "KIA-2.5T-GDI",
+    "code": "KIA-2.5T-GDI",
+    "manufacturer_code": 26,
     "engine_type": "ICE",
     "fuel_type": "gas",
     "displacement_liters": 2.5,
@@ -2496,9 +2340,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 26,
-    "engine_code": "KIA-3.8L-V6-GDI",
+    "code": "KIA-3.8L-V6-GDI",
+    "manufacturer_code": 26,
     "engine_type": "ICE",
     "fuel_type": "gas",
     "displacement_liters": 3.8,
@@ -2512,9 +2355,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 26,
-    "engine_code": "KIA-1.6T-HYBRID",
+    "code": "KIA-1.6T-HYBRID",
+    "manufacturer_code": 26,
     "engine_type": "Hybrid",
     "fuel_type": "gas",
     "displacement_liters": 1.6,
@@ -2528,9 +2370,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 26,
-    "engine_code": "KIA-1.6T-PHEV",
+    "code": "KIA-1.6T-PHEV",
+    "manufacturer_code": 26,
     "engine_type": "Hybrid",
     "fuel_type": "gas",
     "displacement_liters": 1.6,
@@ -2544,9 +2385,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 26,
-    "engine_code": "KIA-EV6-RWD",
+    "code": "KIA-EV6-RWD",
+    "manufacturer_code": 26,
     "engine_type": "EV",
     "fuel_type": null,
     "displacement_liters": null,
@@ -2560,9 +2400,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 26,
-    "engine_code": "KIA-EV6-AWD",
+    "code": "KIA-EV6-AWD",
+    "manufacturer_code": 26,
     "engine_type": "EV",
     "fuel_type": null,
     "displacement_liters": null,
@@ -2576,9 +2415,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 26,
-    "engine_code": "KIA-EV9-AWD",
+    "code": "KIA-EV9-AWD",
+    "manufacturer_code": 26,
     "engine_type": "EV",
     "fuel_type": null,
     "displacement_liters": null,
@@ -2592,9 +2430,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 26,
-    "engine_code": "KIA-NIRO-EV",
+    "code": "KIA-NIRO-EV",
+    "manufacturer_code": 26,
     "engine_type": "EV",
     "fuel_type": null,
     "displacement_liters": null,
@@ -2608,9 +2445,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 27,
-    "engine_code": "KG-5.0L-TT-V8",
+    "code": "KG-5.0L-TT-V8",
+    "manufacturer_code": 27,
     "engine_type": "ICE",
     "fuel_type": "gas",
     "displacement_liters": 5.0,
@@ -2624,9 +2460,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 27,
-    "engine_code": "KG-5.0L-TT-V8-E85",
+    "code": "KG-5.0L-TT-V8-E85",
+    "manufacturer_code": 27,
     "engine_type": "ICE",
     "fuel_type": "e85",
     "displacement_liters": 5.0,
@@ -2640,9 +2475,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 27,
-    "engine_code": "KG-2.0L-TFG-HYBRID",
+    "code": "KG-2.0L-TFG-HYBRID",
+    "manufacturer_code": 27,
     "engine_type": "Hybrid",
     "fuel_type": "gas",
     "displacement_liters": 2.0,
@@ -2656,9 +2490,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 28,
-    "engine_code": "LMB-6.5L-V12-NA",
+    "code": "LMB-6.5L-V12-NA",
+    "manufacturer_code": 28,
     "engine_type": "ICE",
     "fuel_type": "gas",
     "displacement_liters": 6.5,
@@ -2672,9 +2505,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 28,
-    "engine_code": "LMB-6.5L-V12-HYBRID",
+    "code": "LMB-6.5L-V12-HYBRID",
+    "manufacturer_code": 28,
     "engine_type": "Hybrid",
     "fuel_type": "gas",
     "displacement_liters": 6.5,
@@ -2688,9 +2520,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 28,
-    "engine_code": "LMB-6.5L-V12-PHEV",
+    "code": "LMB-6.5L-V12-PHEV",
+    "manufacturer_code": 28,
     "engine_type": "Hybrid",
     "fuel_type": "gas",
     "displacement_liters": 6.5,
@@ -2704,9 +2535,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 28,
-    "engine_code": "LMB-5.2L-V10-NA",
+    "code": "LMB-5.2L-V10-NA",
+    "manufacturer_code": 28,
     "engine_type": "ICE",
     "fuel_type": "gas",
     "displacement_liters": 5.2,
@@ -2720,9 +2550,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 28,
-    "engine_code": "LMB-4.0L-TT-V8",
+    "code": "LMB-4.0L-TT-V8",
+    "manufacturer_code": 28,
     "engine_type": "ICE",
     "fuel_type": "gas",
     "displacement_liters": 4.0,
@@ -2736,9 +2565,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 28,
-    "engine_code": "LMB-4.0L-TT-V8-HYBRID",
+    "code": "LMB-4.0L-TT-V8-HYBRID",
+    "manufacturer_code": 28,
     "engine_type": "Hybrid",
     "fuel_type": "gas",
     "displacement_liters": 4.0,
@@ -2752,9 +2580,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 29,
-    "engine_code": "LR-2.0L-TURBO-I4",
+    "code": "LR-2.0L-TURBO-I4",
+    "manufacturer_code": 29,
     "engine_type": "ICE",
     "fuel_type": "gas",
     "displacement_liters": 2.0,
@@ -2768,9 +2595,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 29,
-    "engine_code": "LR-3.0L-TURBO-I6-MHEV",
+    "code": "LR-3.0L-TURBO-I6-MHEV",
+    "manufacturer_code": 29,
     "engine_type": "Hybrid",
     "fuel_type": "gas",
     "displacement_liters": 3.0,
@@ -2784,9 +2610,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 29,
-    "engine_code": "LR-5.0L-SC-V8",
+    "code": "LR-5.0L-SC-V8",
+    "manufacturer_code": 29,
     "engine_type": "ICE",
     "fuel_type": "gas",
     "displacement_liters": 5.0,
@@ -2800,9 +2625,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 29,
-    "engine_code": "LR-3.0L-PHEV-I6",
+    "code": "LR-3.0L-PHEV-I6",
+    "manufacturer_code": 29,
     "engine_type": "Hybrid",
     "fuel_type": "gas",
     "displacement_liters": 3.0,
@@ -2816,9 +2640,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 30,
-    "engine_code": "LEX-2.5L-I4",
+    "code": "LEX-2.5L-I4",
+    "manufacturer_code": 30,
     "engine_type": "ICE",
     "fuel_type": "gas",
     "displacement_liters": 2.5,
@@ -2832,9 +2655,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 30,
-    "engine_code": "LEX-2.5L-HYBRID-I4",
+    "code": "LEX-2.5L-HYBRID-I4",
+    "manufacturer_code": 30,
     "engine_type": "Hybrid",
     "fuel_type": "gas",
     "displacement_liters": 2.5,
@@ -2848,9 +2670,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 30,
-    "engine_code": "LEX-2.4L-TURBO-I4",
+    "code": "LEX-2.4L-TURBO-I4",
+    "manufacturer_code": 30,
     "engine_type": "ICE",
     "fuel_type": "gas",
     "displacement_liters": 2.4,
@@ -2864,9 +2685,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 30,
-    "engine_code": "LEX-2.4L-TURBO-HYBRID-MAX",
+    "code": "LEX-2.4L-TURBO-HYBRID-MAX",
+    "manufacturer_code": 30,
     "engine_type": "Hybrid",
     "fuel_type": "gas",
     "displacement_liters": 2.4,
@@ -2880,9 +2700,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 30,
-    "engine_code": "LEX-3.5L-V6",
+    "code": "LEX-3.5L-V6",
+    "manufacturer_code": 30,
     "engine_type": "ICE",
     "fuel_type": "gas",
     "displacement_liters": 3.5,
@@ -2896,9 +2715,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 30,
-    "engine_code": "LEX-3.5L-HYBRID-V6",
+    "code": "LEX-3.5L-HYBRID-V6",
+    "manufacturer_code": 30,
     "engine_type": "Hybrid",
     "fuel_type": "gas",
     "displacement_liters": 3.5,
@@ -2912,9 +2730,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 30,
-    "engine_code": "LEX-3.4L-TT-V6",
+    "code": "LEX-3.4L-TT-V6",
+    "manufacturer_code": 30,
     "engine_type": "ICE",
     "fuel_type": "gas",
     "displacement_liters": 3.4,
@@ -2928,9 +2745,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 30,
-    "engine_code": "LEX-3.4L-TT-HYBRID-V6",
+    "code": "LEX-3.4L-TT-HYBRID-V6",
+    "manufacturer_code": 30,
     "engine_type": "Hybrid",
     "fuel_type": "gas",
     "displacement_liters": 3.4,
@@ -2944,9 +2760,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 30,
-    "engine_code": "LEX-RZ-EV-DUAL",
+    "code": "LEX-RZ-EV-DUAL",
+    "manufacturer_code": 30,
     "engine_type": "EV",
     "fuel_type": null,
     "displacement_liters": null,
@@ -2960,9 +2775,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 31,
-    "engine_code": "LIN-2.0L-TURBO-I4",
+    "code": "LIN-2.0L-TURBO-I4",
+    "manufacturer_code": 31,
     "engine_type": "ICE",
     "fuel_type": "gas",
     "displacement_liters": 2.0,
@@ -2976,9 +2790,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 31,
-    "engine_code": "LIN-2.0L-HYBRID-I4",
+    "code": "LIN-2.0L-HYBRID-I4",
+    "manufacturer_code": 31,
     "engine_type": "Hybrid",
     "fuel_type": "gas",
     "displacement_liters": 2.0,
@@ -2992,9 +2805,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 31,
-    "engine_code": "LIN-2.3L-TURBO-I4",
+    "code": "LIN-2.3L-TURBO-I4",
+    "manufacturer_code": 31,
     "engine_type": "ICE",
     "fuel_type": "gas",
     "displacement_liters": 2.3,
@@ -3008,9 +2820,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 31,
-    "engine_code": "LIN-3.0L-TT-V6",
+    "code": "LIN-3.0L-TT-V6",
+    "manufacturer_code": 31,
     "engine_type": "ICE",
     "fuel_type": "gas",
     "displacement_liters": 3.0,
@@ -3024,9 +2835,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 31,
-    "engine_code": "LIN-3.0L-TT-HYBRID-V6",
+    "code": "LIN-3.0L-TT-HYBRID-V6",
+    "manufacturer_code": 31,
     "engine_type": "Hybrid",
     "fuel_type": "gas",
     "displacement_liters": 3.0,
@@ -3040,9 +2850,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 31,
-    "engine_code": "LIN-3.5L-TT-V6",
+    "code": "LIN-3.5L-TT-V6",
+    "manufacturer_code": 31,
     "engine_type": "ICE",
     "fuel_type": "gas",
     "displacement_liters": 3.5,
@@ -3056,9 +2865,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 32,
-    "engine_code": "LOTUS-DUAL-MOTOR-EV",
+    "code": "LOTUS-DUAL-MOTOR-EV",
+    "manufacturer_code": 32,
     "engine_type": "EV",
     "fuel_type": null,
     "displacement_liters": null,
@@ -3072,9 +2880,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 32,
-    "engine_code": "LOTUS-TRI-MOTOR-EV",
+    "code": "LOTUS-TRI-MOTOR-EV",
+    "manufacturer_code": 32,
     "engine_type": "EV",
     "fuel_type": null,
     "displacement_liters": null,
@@ -3088,9 +2895,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 32,
-    "engine_code": "LOTUS-2.0L-TURBO-I4-AMG",
+    "code": "LOTUS-2.0L-TURBO-I4-AMG",
+    "manufacturer_code": 32,
     "engine_type": "ICE",
     "fuel_type": "gas",
     "displacement_liters": 2.0,
@@ -3104,9 +2910,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 32,
-    "engine_code": "LOTUS-3.5L-SC-V6",
+    "code": "LOTUS-3.5L-SC-V6",
+    "manufacturer_code": 32,
     "engine_type": "ICE",
     "fuel_type": "gas",
     "displacement_liters": 3.5,
@@ -3120,9 +2925,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 33,
-    "engine_code": "LUCID-SINGLE-MOTOR-EV",
+    "code": "LUCID-SINGLE-MOTOR-EV",
+    "manufacturer_code": 33,
     "engine_type": "EV",
     "fuel_type": null,
     "displacement_liters": null,
@@ -3136,9 +2940,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 33,
-    "engine_code": "LUCID-DUAL-MOTOR-EV",
+    "code": "LUCID-DUAL-MOTOR-EV",
+    "manufacturer_code": 33,
     "engine_type": "EV",
     "fuel_type": null,
     "displacement_liters": null,
@@ -3152,9 +2955,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 33,
-    "engine_code": "LUCID-PERFORMANCE-DUAL-MOTOR-EV",
+    "code": "LUCID-PERFORMANCE-DUAL-MOTOR-EV",
+    "manufacturer_code": 33,
     "engine_type": "EV",
     "fuel_type": null,
     "displacement_liters": null,
@@ -3168,9 +2970,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 33,
-    "engine_code": "LUCID-GRAVITY-DUAL-MOTOR-EV",
+    "code": "LUCID-GRAVITY-DUAL-MOTOR-EV",
+    "manufacturer_code": 33,
     "engine_type": "EV",
     "fuel_type": null,
     "displacement_liters": null,
@@ -3184,9 +2985,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 34,
-    "engine_code": "MASERATI-2.0T-I4-MHEV",
+    "code": "MASERATI-2.0T-I4-MHEV",
+    "manufacturer_code": 34,
     "engine_type": "ICE",
     "fuel_type": "gas",
     "displacement_liters": 2.0,
@@ -3200,9 +3000,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 34,
-    "engine_code": "MASERATI-3.0T-V6-NETTUNO",
+    "code": "MASERATI-3.0T-V6-NETTUNO",
+    "manufacturer_code": 34,
     "engine_type": "ICE",
     "fuel_type": "gas",
     "displacement_liters": 3.0,
@@ -3216,9 +3015,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 34,
-    "engine_code": "MASERATI-3.0T-V6-NETTUNO-HIGH-OUTPUT",
+    "code": "MASERATI-3.0T-V6-NETTUNO-HIGH-OUTPUT",
+    "manufacturer_code": 34,
     "engine_type": "ICE",
     "fuel_type": "gas",
     "displacement_liters": 3.0,
@@ -3232,9 +3030,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 34,
-    "engine_code": "MASERATI-3.0T-V6-NETTUNO-GT2",
+    "code": "MASERATI-3.0T-V6-NETTUNO-GT2",
+    "manufacturer_code": 34,
     "engine_type": "ICE",
     "fuel_type": "gas",
     "displacement_liters": 3.0,
@@ -3248,9 +3045,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 34,
-    "engine_code": "MASERATI-FOLGORE-DUAL-MOTOR-EV",
+    "code": "MASERATI-FOLGORE-DUAL-MOTOR-EV",
+    "manufacturer_code": 34,
     "engine_type": "EV",
     "fuel_type": "electric",
     "displacement_liters": null,
@@ -3264,9 +3060,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 35,
-    "engine_code": "MAZDA-2.5-I4-NA",
+    "code": "MAZDA-2.5-I4-NA",
+    "manufacturer_code": 35,
     "engine_type": "ICE",
     "fuel_type": "gasoline",
     "displacement_liters": 2.5,
@@ -3280,9 +3075,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 35,
-    "engine_code": "MAZDA-2.5T-I4",
+    "code": "MAZDA-2.5T-I4",
+    "manufacturer_code": 35,
     "engine_type": "ICE",
     "fuel_type": "gas",
     "displacement_liters": 2.5,
@@ -3296,9 +3090,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 35,
-    "engine_code": "MAZDA-2.0-I4-MIATA",
+    "code": "MAZDA-2.0-I4-MIATA",
+    "manufacturer_code": 35,
     "engine_type": "ICE",
     "fuel_type": "gasoline",
     "displacement_liters": 2.0,
@@ -3312,9 +3105,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 35,
-    "engine_code": "MAZDA-3.3T-I6",
+    "code": "MAZDA-3.3T-I6",
+    "manufacturer_code": 35,
     "engine_type": "ICE",
     "fuel_type": "gas",
     "displacement_liters": 3.3,
@@ -3328,9 +3120,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 35,
-    "engine_code": "MAZDA-2.5-I4-PHEV",
+    "code": "MAZDA-2.5-I4-PHEV",
+    "manufacturer_code": 35,
     "engine_type": "ICE",
     "fuel_type": "hybrid",
     "displacement_liters": 2.5,
@@ -3344,9 +3135,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 35,
-    "engine_code": "MAZDA-2.5-I4-HYBRID",
+    "code": "MAZDA-2.5-I4-HYBRID",
+    "manufacturer_code": 35,
     "engine_type": "ICE",
     "fuel_type": "hybrid",
     "displacement_liters": 2.5,
@@ -3360,9 +3150,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 36,
-    "engine_code": "MCL-4.0T-V8",
+    "code": "MCL-4.0T-V8",
+    "manufacturer_code": 36,
     "engine_type": "ICE",
     "fuel_type": "gas",
     "displacement_liters": 4.0,
@@ -3376,9 +3165,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 36,
-    "engine_code": "MCL-3.8T-V8",
+    "code": "MCL-3.8T-V8",
+    "manufacturer_code": 36,
     "engine_type": "ICE",
     "fuel_type": "gas",
     "displacement_liters": 3.8,
@@ -3392,9 +3180,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 36,
-    "engine_code": "MCL-3.8T-V6-Hybrid",
+    "code": "MCL-3.8T-V6-Hybrid",
+    "manufacturer_code": 36,
     "engine_type": "Hybrid",
     "fuel_type": "gas",
     "displacement_liters": 3.8,
@@ -3408,9 +3195,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 37,
-    "engine_code": "M264-2.0T-I4",
+    "code": "M264-2.0T-I4",
+    "manufacturer_code": 37,
     "engine_type": "Hybrid",
     "fuel_type": "gas",
     "displacement_liters": 2.0,
@@ -3424,9 +3210,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 37,
-    "engine_code": "M260-2.0T-I4",
+    "code": "M260-2.0T-I4",
+    "manufacturer_code": 37,
     "engine_type": "ICE",
     "fuel_type": "gas",
     "displacement_liters": 2.0,
@@ -3440,9 +3225,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 37,
-    "engine_code": "EQS-450-EV",
+    "code": "EQS-450-EV",
+    "manufacturer_code": 37,
     "engine_type": "EV",
     "fuel_type": null,
     "displacement_liters": null,
@@ -3456,9 +3240,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 37,
-    "engine_code": "EQE-320-EV",
+    "code": "EQE-320-EV",
+    "manufacturer_code": 37,
     "engine_type": "EV",
     "fuel_type": null,
     "displacement_liters": null,
@@ -3472,9 +3255,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 37,
-    "engine_code": "E53-MILD-Hybrid",
+    "code": "E53-MILD-Hybrid",
+    "manufacturer_code": 37,
     "engine_type": "Hybrid",
     "fuel_type": "gas",
     "displacement_liters": 3.0,
@@ -3488,9 +3270,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 37,
-    "engine_code": "M177-4.0T-V8",
+    "code": "M177-4.0T-V8",
+    "manufacturer_code": 37,
     "engine_type": "ICE",
     "fuel_type": "gas",
     "displacement_liters": 4.0,
@@ -3504,9 +3285,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 37,
-    "engine_code": "M177-4.0T-V8-AMG",
+    "code": "M177-4.0T-V8-AMG",
+    "manufacturer_code": 37,
     "engine_type": "ICE",
     "fuel_type": "gas",
     "displacement_liters": 4.0,
@@ -3520,9 +3300,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 37,
-    "engine_code": "AMG-ONE-V6-Hybrid",
+    "code": "AMG-ONE-V6-Hybrid",
+    "manufacturer_code": 37,
     "engine_type": "ICE",
     "fuel_type": "hybrid",
     "displacement_liters": 1.6,
@@ -3537,8 +3316,8 @@
   },
   {
     "id": "uuid-sl-63-amg",
-    "manufacturer_id": 37,
-    "engine_code": "M177-4.0T-V8-AMG",
+    "code": "M177-4.0T-V8-AMG",
+    "manufacturer_code": 37,
     "engine_type": "ICE",
     "fuel_type": "gas",
     "displacement_liters": 4.0,
@@ -3552,9 +3331,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 38,
-    "engine_code": "MINI-1.5T-I3",
+    "code": "MINI-1.5T-I3",
+    "manufacturer_code": 38,
     "engine_type": "ICE",
     "fuel_type": "gas",
     "displacement_liters": 1.5,
@@ -3568,9 +3346,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 38,
-    "engine_code": "MINI-2.0T-I4",
+    "code": "MINI-2.0T-I4",
+    "manufacturer_code": 38,
     "engine_type": "ICE",
     "fuel_type": "gas",
     "displacement_liters": 2.0,
@@ -3584,9 +3361,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 38,
-    "engine_code": "MINI-2.0T-I4-PHEV",
+    "code": "MINI-2.0T-I4-PHEV",
+    "manufacturer_code": 38,
     "engine_type": "Hybrid",
     "fuel_type": "hybrid",
     "displacement_liters": 2.0,
@@ -3600,9 +3376,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 38,
-    "engine_code": "MINI-EV-DUAL-MOTOR",
+    "code": "MINI-EV-DUAL-MOTOR",
+    "manufacturer_code": 38,
     "engine_type": "EV",
     "fuel_type": null,
     "displacement_liters": null,
@@ -3616,9 +3391,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 39,
-    "engine_code": "MITS-1.5T-I4",
+    "code": "MITS-1.5T-I4",
+    "manufacturer_code": 39,
     "engine_type": "ICE",
     "fuel_type": "gas",
     "displacement_liters": 1.5,
@@ -3632,9 +3406,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 39,
-    "engine_code": "MITS-2.4-I4",
+    "code": "MITS-2.4-I4",
+    "manufacturer_code": 39,
     "engine_type": "ICE",
     "fuel_type": "gas",
     "displacement_liters": 2.4,
@@ -3648,9 +3421,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 39,
-    "engine_code": "MITS-2.4-I4-PHEV",
+    "code": "MITS-2.4-I4-PHEV",
+    "manufacturer_code": 39,
     "engine_type": "Hybrid",
     "fuel_type": "hybrid",
     "displacement_liters": 2.4,
@@ -3664,9 +3436,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 40,
-    "engine_code": "NISS-2.0L-I4",
+    "code": "NISS-2.0L-I4",
+    "manufacturer_code": 40,
     "engine_type": "ICE",
     "fuel_type": "gas",
     "displacement_liters": 2.0,
@@ -3680,9 +3451,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 40,
-    "engine_code": "NISS-2.5L-I4",
+    "code": "NISS-2.5L-I4",
+    "manufacturer_code": 40,
     "engine_type": "ICE",
     "fuel_type": "gas",
     "displacement_liters": 2.5,
@@ -3696,9 +3466,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 40,
-    "engine_code": "NISS-3.5L-V6",
+    "code": "NISS-3.5L-V6",
+    "manufacturer_code": 40,
     "engine_type": "ICE",
     "fuel_type": "gas",
     "displacement_liters": 3.5,
@@ -3712,9 +3481,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 40,
-    "engine_code": "NISS-2.0L-I4-HYBRID",
+    "code": "NISS-2.0L-I4-HYBRID",
+    "manufacturer_code": 40,
     "engine_type": "Hybrid",
     "fuel_type": "hybrid",
     "displacement_liters": 2.0,
@@ -3728,9 +3496,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 40,
-    "engine_code": "NISS-LEAF-EV",
+    "code": "NISS-LEAF-EV",
+    "manufacturer_code": 40,
     "engine_type": "EV",
     "fuel_type": null,
     "displacement_liters": null,
@@ -3744,9 +3511,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 40,
-    "engine_code": "NISS-Z-3.7L-V6",
+    "code": "NISS-Z-3.7L-V6",
+    "manufacturer_code": 40,
     "engine_type": "ICE",
     "fuel_type": "gas",
     "displacement_liters": 3.7,
@@ -3760,9 +3526,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 41,
-    "engine_code": "PAGANI-AMG-V12",
+    "code": "PAGANI-AMG-V12",
+    "manufacturer_code": 41,
     "engine_type": "ICE",
     "fuel_type": "gas",
     "displacement_liters": 6.0,
@@ -3776,9 +3541,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 41,
-    "engine_code": "PAGANI-AMG-HYBRID-V12",
+    "code": "PAGANI-AMG-HYBRID-V12",
+    "manufacturer_code": 41,
     "engine_type": "Hybrid",
     "fuel_type": "gas",
     "displacement_liters": 6.0,
@@ -3792,9 +3556,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 42,
-    "engine_code": "POL-2-SINGLE-MOTOR-EV",
+    "code": "POL-2-SINGLE-MOTOR-EV",
+    "manufacturer_code": 42,
     "engine_type": "EV",
     "fuel_type": null,
     "displacement_liters": null,
@@ -3808,9 +3571,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 42,
-    "engine_code": "POL-2-DUAL-MOTOR-EV",
+    "code": "POL-2-DUAL-MOTOR-EV",
+    "manufacturer_code": 42,
     "engine_type": "EV",
     "fuel_type": null,
     "displacement_liters": null,
@@ -3824,9 +3586,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 42,
-    "engine_code": "POL-3-DUAL-MOTOR-EV",
+    "code": "POL-3-DUAL-MOTOR-EV",
+    "manufacturer_code": 42,
     "engine_type": "EV",
     "fuel_type": null,
     "displacement_liters": null,
@@ -3840,9 +3601,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 42,
-    "engine_code": "POL-4-DUAL-MOTOR-EV",
+    "code": "POL-4-DUAL-MOTOR-EV",
+    "manufacturer_code": 42,
     "engine_type": "EV",
     "fuel_type": null,
     "displacement_liters": null,
@@ -3856,9 +3616,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 43,
-    "engine_code": "POR-4-CYL-2.0T",
+    "code": "POR-4-CYL-2.0T",
+    "manufacturer_code": 43,
     "engine_type": "ICE",
     "fuel_type": "gas",
     "displacement_liters": 2.0,
@@ -3872,9 +3631,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 43,
-    "engine_code": "POR-6-CYL-2.5T",
+    "code": "POR-6-CYL-2.5T",
+    "manufacturer_code": 43,
     "engine_type": "ICE",
     "fuel_type": "gas",
     "displacement_liters": 2.5,
@@ -3888,9 +3646,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 43,
-    "engine_code": "POR-6-CYL-4.0NA",
+    "code": "POR-6-CYL-4.0NA",
+    "manufacturer_code": 43,
     "engine_type": "ICE",
     "fuel_type": "gas",
     "displacement_liters": 4.0,
@@ -3904,9 +3661,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 43,
-    "engine_code": "POR-6-CYL-3.0TT",
+    "code": "POR-6-CYL-3.0TT",
+    "manufacturer_code": 43,
     "engine_type": "ICE",
     "fuel_type": "gas",
     "displacement_liters": 3.0,
@@ -3920,9 +3676,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 43,
-    "engine_code": "POR-6-CYL-3.8TT",
+    "code": "POR-6-CYL-3.8TT",
+    "manufacturer_code": 43,
     "engine_type": "ICE",
     "fuel_type": "gas",
     "displacement_liters": 3.8,
@@ -3936,9 +3691,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 43,
-    "engine_code": "POR-HYBRID-3.0T",
+    "code": "POR-HYBRID-3.0T",
+    "manufacturer_code": 43,
     "engine_type": "Hybrid",
     "fuel_type": "gas",
     "displacement_liters": 3.0,
@@ -3952,9 +3706,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 43,
-    "engine_code": "POR-EV-93KWH-DUAL",
+    "code": "POR-EV-93KWH-DUAL",
+    "manufacturer_code": 43,
     "engine_type": "EV",
     "fuel_type": null,
     "displacement_liters": null,
@@ -3968,9 +3721,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 43,
-    "engine_code": "POR-EV-93KWH-DUAL-ULTRA",
+    "code": "POR-EV-93KWH-DUAL-ULTRA",
+    "manufacturer_code": 43,
     "engine_type": "EV",
     "fuel_type": null,
     "displacement_liters": null,
@@ -3984,9 +3736,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 44,
-    "engine_code": "RAM-5.7L-V8",
+    "code": "RAM-5.7L-V8",
+    "manufacturer_code": 44,
     "engine_type": "ICE",
     "fuel_type": "gas",
     "displacement_liters": 5.7,
@@ -4000,9 +3751,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 44,
-    "engine_code": "RAM-3.6L-V6-eTorque",
+    "code": "RAM-3.6L-V6-eTorque",
+    "manufacturer_code": 44,
     "engine_type": "ICE",
     "fuel_type": "gas",
     "displacement_liters": 3.6,
@@ -4016,9 +3766,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 44,
-    "engine_code": "RAM-6.7L-I6-Diesel",
+    "code": "RAM-6.7L-I6-Diesel",
+    "manufacturer_code": 44,
     "engine_type": "ICE",
     "fuel_type": "diesel",
     "displacement_liters": 6.7,
@@ -4032,9 +3781,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 44,
-    "engine_code": "RAM-PROMASTER-3.6L-V6",
+    "code": "RAM-PROMASTER-3.6L-V6",
+    "manufacturer_code": 44,
     "engine_type": "ICE",
     "fuel_type": "gas",
     "displacement_liters": 3.6,
@@ -4048,9 +3796,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 44,
-    "engine_code": "RAM-PROMASTER-3.0L-I4-Diesel",
+    "code": "RAM-PROMASTER-3.0L-I4-Diesel",
+    "manufacturer_code": 44,
     "engine_type": "ICE",
     "fuel_type": "diesel",
     "displacement_liters": 3.0,
@@ -4064,9 +3811,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 44,
-    "engine_code": "RAM-PROMASTER-EV",
+    "code": "RAM-PROMASTER-EV",
+    "manufacturer_code": 44,
     "engine_type": "EV",
     "fuel_type": null,
     "displacement_liters": null,
@@ -4080,9 +3826,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 45,
-    "engine_code": "RIVIAN-DELIVERY-EV",
+    "code": "RIVIAN-DELIVERY-EV",
+    "manufacturer_code": 45,
     "engine_type": "EV",
     "fuel_type": null,
     "displacement_liters": null,
@@ -4096,9 +3841,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 45,
-    "engine_code": "RIVIAN-R1S-R1T-EV",
+    "code": "RIVIAN-R1S-R1T-EV",
+    "manufacturer_code": 45,
     "engine_type": "EV",
     "fuel_type": null,
     "displacement_liters": null,
@@ -4112,9 +3856,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 45,
-    "engine_code": "RIVIAN-R2-R3-EV",
+    "code": "RIVIAN-R2-R3-EV",
+    "manufacturer_code": 45,
     "engine_type": "EV",
     "fuel_type": null,
     "displacement_liters": null,
@@ -4128,9 +3871,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 47,
-    "engine_code": "SUB-ASCENT-CROSSTREK-FORESTER-OUTBACK-2.4L-TURBO",
+    "code": "SUB-ASCENT-CROSSTREK-FORESTER-OUTBACK-2.4L-TURBO",
+    "manufacturer_code": 47,
     "engine_type": "ICE",
     "fuel_type": "gas",
     "displacement_liters": 2.4,
@@ -4144,9 +3886,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 47,
-    "engine_code": "SUB-LEGACY-IMPREZA-WRX-2.0L-TURBO",
+    "code": "SUB-LEGACY-IMPREZA-WRX-2.0L-TURBO",
+    "manufacturer_code": 47,
     "engine_type": "ICE",
     "fuel_type": "gas",
     "displacement_liters": 2.0,
@@ -4160,9 +3901,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 47,
-    "engine_code": "SUB-BRZ-2.4L-NATURALLY-ASPR",
+    "code": "SUB-BRZ-2.4L-NATURALLY-ASPR",
+    "manufacturer_code": 47,
     "engine_type": "ICE",
     "fuel_type": "gas",
     "displacement_liters": 2.4,
@@ -4176,9 +3916,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 47,
-    "engine_code": "SUB-SOLTERRA-EV",
+    "code": "SUB-SOLTERRA-EV",
+    "manufacturer_code": 47,
     "engine_type": "EV",
     "fuel_type": null,
     "displacement_liters": null,
@@ -4192,9 +3931,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 48,
-    "engine_code": "TES-CYBERTRUCK-SINGLE-MOTOR-RWD",
+    "code": "TES-CYBERTRUCK-SINGLE-MOTOR-RWD",
+    "manufacturer_code": 48,
     "engine_type": "EV",
     "fuel_type": null,
     "displacement_liters": null,
@@ -4208,9 +3946,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 48,
-    "engine_code": "TES-CYBERTRUCK-DUAL-MOTOR-AWD",
+    "code": "TES-CYBERTRUCK-DUAL-MOTOR-AWD",
+    "manufacturer_code": 48,
     "engine_type": "EV",
     "fuel_type": null,
     "displacement_liters": null,
@@ -4224,9 +3961,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 48,
-    "engine_code": "TES-CYBERTRUCK-TRIPLE-MOTOR-AWD",
+    "code": "TES-CYBERTRUCK-TRIPLE-MOTOR-AWD",
+    "manufacturer_code": 48,
     "engine_type": "EV",
     "fuel_type": null,
     "displacement_liters": null,
@@ -4240,9 +3976,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 48,
-    "engine_code": "TES-MODEL-3-REAR-WHEEL-DRIVE",
+    "code": "TES-MODEL-3-REAR-WHEEL-DRIVE",
+    "manufacturer_code": 48,
     "engine_type": "EV",
     "fuel_type": null,
     "displacement_liters": null,
@@ -4256,9 +3991,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 48,
-    "engine_code": "TES-MODEL-3-DUAL-MOTOR-AWD",
+    "code": "TES-MODEL-3-DUAL-MOTOR-AWD",
+    "manufacturer_code": 48,
     "engine_type": "EV",
     "fuel_type": null,
     "displacement_liters": null,
@@ -4272,9 +4006,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 48,
-    "engine_code": "TES-MODEL-S-DUAL-MOTOR-AWD",
+    "code": "TES-MODEL-S-DUAL-MOTOR-AWD",
+    "manufacturer_code": 48,
     "engine_type": "EV",
     "fuel_type": null,
     "displacement_liters": null,
@@ -4288,9 +4021,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 48,
-    "engine_code": "TES-MODEL-S-PLAID-TRIPLE-MOTOR-AWD",
+    "code": "TES-MODEL-S-PLAID-TRIPLE-MOTOR-AWD",
+    "manufacturer_code": 48,
     "engine_type": "EV",
     "fuel_type": null,
     "displacement_liters": null,
@@ -4304,9 +4036,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 48,
-    "engine_code": "TES-MODEL-X-DUAL-MOTOR-AWD",
+    "code": "TES-MODEL-X-DUAL-MOTOR-AWD",
+    "manufacturer_code": 48,
     "engine_type": "EV",
     "fuel_type": null,
     "displacement_liters": null,
@@ -4320,9 +4051,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 48,
-    "engine_code": "TES-MODEL-X-PLAID-TRIPLE-MOTOR-AWD",
+    "code": "TES-MODEL-X-PLAID-TRIPLE-MOTOR-AWD",
+    "manufacturer_code": 48,
     "engine_type": "EV",
     "fuel_type": null,
     "displacement_liters": null,
@@ -4336,9 +4066,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 48,
-    "engine_code": "TES-MODEL-Y-DUAL-MOTOR-AWD",
+    "code": "TES-MODEL-Y-DUAL-MOTOR-AWD",
+    "manufacturer_code": 48,
     "engine_type": "EV",
     "fuel_type": null,
     "displacement_liters": null,
@@ -4352,9 +4081,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 50,
-    "engine_code": "VF8-DUAL-MOTOR-EV",
+    "code": "VF8-DUAL-MOTOR-EV",
+    "manufacturer_code": 50,
     "engine_type": "EV",
     "fuel_type": null,
     "displacement_liters": null,
@@ -4368,9 +4096,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 50,
-    "engine_code": "VF9-DUAL-MOTOR-EV",
+    "code": "VF9-DUAL-MOTOR-EV",
+    "manufacturer_code": 50,
     "engine_type": "EV",
     "fuel_type": null,
     "displacement_liters": null,
@@ -4384,9 +4111,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 51,
-    "engine_code": "ATLAS-3.6-V6",
+    "code": "ATLAS-3.6-V6",
+    "manufacturer_code": 51,
     "engine_type": "ICE",
     "fuel_type": "gas",
     "displacement_liters": 3.6,
@@ -4400,9 +4126,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 51,
-    "engine_code": "ATLAS-2.0-TURBO",
+    "code": "ATLAS-2.0-TURBO",
+    "manufacturer_code": 51,
     "engine_type": "ICE",
     "fuel_type": "gas",
     "displacement_liters": 2.0,
@@ -4416,9 +4141,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 51,
-    "engine_code": "GOLF-GTI-2.0-TURBO",
+    "code": "GOLF-GTI-2.0-TURBO",
+    "manufacturer_code": 51,
     "engine_type": "ICE",
     "fuel_type": "gas",
     "displacement_liters": 2.0,
@@ -4432,9 +4156,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 51,
-    "engine_code": "GOLF-R-2.0-TURBO",
+    "code": "GOLF-R-2.0-TURBO",
+    "manufacturer_code": 51,
     "engine_type": "ICE",
     "fuel_type": "gas",
     "displacement_liters": 2.0,
@@ -4448,9 +4171,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 51,
-    "engine_code": "ID.4-DUAL-MOTOR-EV",
+    "code": "ID.4-DUAL-MOTOR-EV",
+    "manufacturer_code": 51,
     "engine_type": "EV",
     "fuel_type": null,
     "displacement_liters": null,
@@ -4464,9 +4186,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 51,
-    "engine_code": "ID.BUZZ-DUAL-MOTOR-EV",
+    "code": "ID.BUZZ-DUAL-MOTOR-EV",
+    "manufacturer_code": 51,
     "engine_type": "EV",
     "fuel_type": null,
     "displacement_liters": null,
@@ -4480,9 +4201,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 51,
-    "engine_code": "JETTA-1.5-TURBO",
+    "code": "JETTA-1.5-TURBO",
+    "manufacturer_code": 51,
     "engine_type": "ICE",
     "fuel_type": "gas",
     "displacement_liters": 1.5,
@@ -4496,9 +4216,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 51,
-    "engine_code": "JETTA-GLI-2.0-TURBO",
+    "code": "JETTA-GLI-2.0-TURBO",
+    "manufacturer_code": 51,
     "engine_type": "ICE",
     "fuel_type": "gas",
     "displacement_liters": 2.0,
@@ -4512,9 +4231,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 51,
-    "engine_code": "TAOS-1.5-TURBO",
+    "code": "TAOS-1.5-TURBO",
+    "manufacturer_code": 51,
     "engine_type": "ICE",
     "fuel_type": "gas",
     "displacement_liters": 1.5,
@@ -4528,9 +4246,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 51,
-    "engine_code": "TIGUAN-2.0-TURBO",
+    "code": "TIGUAN-2.0-TURBO",
+    "manufacturer_code": 51,
     "engine_type": "ICE",
     "fuel_type": "gas",
     "displacement_liters": 2.0,
@@ -4544,9 +4261,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 52,
-    "engine_code": "XC40-2.0-T4",
+    "code": "XC40-2.0-T4",
+    "manufacturer_code": 52,
     "engine_type": "ICE",
     "fuel_type": "gas",
     "displacement_liters": 2.0,
@@ -4560,9 +4276,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 52,
-    "engine_code": "XC60-2.0-T5",
+    "code": "XC60-2.0-T5",
+    "manufacturer_code": 52,
     "engine_type": "ICE",
     "fuel_type": "gas",
     "displacement_liters": 2.0,
@@ -4576,9 +4291,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 52,
-    "engine_code": "XC60-T8-PLUG-IN",
+    "code": "XC60-T8-PLUG-IN",
+    "manufacturer_code": 52,
     "engine_type": "Hybrid",
     "fuel_type": "gas",
     "displacement_liters": 2.0,
@@ -4592,9 +4306,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 52,
-    "engine_code": "XC90-T8-PLUG-IN",
+    "code": "XC90-T8-PLUG-IN",
+    "manufacturer_code": 52,
     "engine_type": "Hybrid",
     "fuel_type": "Gasoline",
     "displacement_liters": 2.0,
@@ -4608,9 +4321,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 52,
-    "engine_code": "EXC90-EV",
+    "code": "EXC90-EV",
+    "manufacturer_code": 52,
     "engine_type": "EV",
     "fuel_type": null,
     "displacement_liters": null,
@@ -4624,9 +4336,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 52,
-    "engine_code": "XC30-EV",
+    "code": "XC30-EV",
+    "manufacturer_code": 52,
     "engine_type": "EV",
     "fuel_type": null,
     "displacement_liters": null,
@@ -4640,9 +4351,8 @@
     "active": true
   },
   {
-    "id": "uuid-here-later",
-    "manufacturer_id": 52,
-    "engine_code": "XC40-EV",
+    "code": "XC40-EV",
+    "manufacturer_code": 52,
     "engine_type": "EV",
     "fuel_type": null,
     "displacement_liters": null,

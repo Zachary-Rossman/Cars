@@ -1,26 +1,26 @@
 [
   {
-    "id": "uuid-here-later",
+    "code": "a6",
     "type": "Automatic",
     "speeds": 6
   },
   {
-    "id": "uuid-here-later",
+    "code": "a8",
     "type": "Automatic",
     "speeds": 8
   },
   {
-    "id": "uuid-here-later",
+    "code": "m6",
     "type": "Manual",
     "speeds": 6
   },
   {
-    "id": "uuid-here-later",
+    "code": "cvt",
     "type": "CVT",
     "speeds": 0
   },
   {
-    "id": "uuid-here-later",
+    "code": "ev1",
     "type": "Single-Speed",
     "speeds": 1
   }

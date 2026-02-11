@@ -1,312 +1,312 @@
 [
   {
-    "id": 1,
+    "code": 1,
     "name": "Acura",
     "country_code": "US",
     "active": true
   },
   {
-    "id": 2,
+    "code": 2,
     "name": "Alfa Romeo",
     "country_code": "IT",
     "active": true
   },
   {
-    "id": 3,
+    "code": 3,
     "name": "Aston Martin",
     "country_code": "GB",
     "active": true
   },
   {
-    "id": 4,
+    "code": 4,
     "name": "Audi",
     "country_code": "DE",
     "active": true
   },
   {
-    "id": 5,
+    "code": 5,
     "name": "Bentley",
     "country_code": "GB",
     "active": true
   },
   {
-    "id": 6,
+    "code": 6,
     "name": "Bugatti",
     "country_code": "FR",
     "active": true
   },
   {
-    "id": 7,
+    "code": 7,
     "name": "BMW",
     "country_code": "DE",
     "active": true
   },
   {
-    "id": 8,
+    "code": 8,
     "name": "Buick",
     "country_code": "US",
     "active": true
   },
   {
-    "id": 9,
+    "code": 9,
     "name": "Cadillac",
     "country_code": "US",
     "active": true
   },
   {
-    "id": 10,
+    "code": 10,
     "name": "Chevrolet",
     "country_code": "US",
     "active": true
   },
   {
-    "id": 11,
+    "code": 11,
     "name": "Chrysler",
     "country_code": "US",
     "active": true
   },
   {
-    "id": 12,
+    "code": 12,
     "name": "Dodge",
     "country_code": "US",
     "active": true
   },
   {
-    "id": 13,
+    "code": 13,
     "name": "Ferrari",
     "country_code": "IT",
     "active": true
   },
   {
-    "id": 14,
+    "code": 14,
     "name": "Fiat",
     "country_code": "IT",
     "active": true
   },
   {
-    "id": 15,
+    "code": 15,
     "name": "Fisker",
     "country_code": "US",
     "active": true
   },
   {
-    "id": 16,
+    "code": 16,
     "name": "Ford",
     "country_code": "US",
     "active": true
   },
   {
-    "id": 17,
+    "code": 17,
     "name": "Genesis",
     "country_code": "KR",
     "active": true
   },
   {
-    "id": 18,
+    "code": 18,
     "name": "GMC",
     "country_code": "US",
     "active": true
   },
   {
-    "id": 19,
+    "code": 19,
     "name": "Honda",
     "country_code": "JP",
     "active": true
   },
   {
-    "id": 20,
+    "code": 20,
     "name": "Hyundai",
     "country_code": "KR",
     "active": true
   },
   {
-    "id": 21,
+    "code": 21,
     "name": "Ineos",
     "country_code": "GB",
     "active": true
   },
   {
-    "id": 22,
+    "code": 22,
     "name": "Infiniti",
     "country_code": "US",
     "active": true
   },
   {
-    "id": 23,
+    "code": 23,
     "name": "Jaguar",
     "country_code": "GB",
     "active": true
   },
   {
-    "id": 24,
+    "code": 24,
     "name": "Jeep",
     "country_code": "US",
     "active": true
   },
   {
-    "id": 25,
+    "code": 25,
     "name": "Karma",
     "country_code": "US",
     "active": true
   },
   {
-    "id": 26,
+    "code": 26,
     "name": "Kia",
     "country_code": "KR",
     "active": true
   },
   {
-    "id": 27,
+    "code": 27,
     "name": "Koenigsegg",
     "country_code": "SE",
     "active": true
   },
   {
-    "id": 28,
+    "code": 28,
     "name": "Lamborghini",
     "country_code": "IT",
     "active": true
   },
   {
-    "id": 29,
+    "code": 29,
     "name": "Land Rover",
     "country_code": "GB",
     "active": true
   },
   {
-    "id": 30,
+    "code": 30,
     "name": "Lexus",
     "country_code": "US",
     "active": true
   },
   {
-    "id": 31,
+    "code": 31,
     "name": "Lincoln",
     "country_code": "US",
     "active": true
   },
   {
-    "id": 32,
+    "code": 32,
     "name": "Lotus",
     "country_code": "GB",
     "active": true
   },
   {
-    "id": 33,
+    "code": 33,
     "name": "Lucid",
     "country_code": "US",
     "active": true
   },
   {
-    "id": 34,
+    "code": 34,
     "name": "Maserati",
     "country_code": "IT",
     "active": true
   },
   {
-    "id": 35,
+    "code": 35,
     "name": "Mazda",
     "country_code": "JP",
     "active": true
   },
   {
-    "id": 36,
+    "code": 36,
     "name": "McLaren",
     "country_code": "GB",
     "active": true
   },
   {
-    "id": 37,
+    "code": 37,
     "name": "Mercedes-Benz",
     "country_code": "DE",
     "active": true
   },
   {
-    "id": 38,
+    "code": 38,
     "name": "Mini",
     "country_code": "GB",
     "active": true
   },
   {
-    "id": 39,
+    "code": 39,
     "name": "Mitsubishi",
     "country_code": "JP",
     "active": true
   },
   {
-    "id": 40,
+    "code": 40,
     "name": "Nissan",
     "country_code": "JP",
     "active": true
   },
   {
-    "id": 41,
+    "code": 41,
     "name": "Pagani",
     "country_code": "IT",
     "active": true
   },
   {
-    "id": 42,
+    "code": 42,
     "name": "Polestar",
     "country_code": "SE",
     "active": true
   },
   {
-    "id": 43,
+    "code": 43,
     "name": "Porsche",
     "country_code": "DE",
     "active": true
   },
   {
-    "id": 44,
+    "code": 44,
     "name": "Ram",
     "country_code": "US",
     "active": true
   },
   {
-    "id": 45,
+    "code": 45,
     "name": "Rivian",
     "country_code": "US",
     "active": true
   },
   {
-    "id": 46,
+    "code": 46,
     "name": "Rolls-Royce",
     "country_code": "GB",
     "active": true
   },
   {
-    "id": 47,
+    "code": 47,
     "name": "Subaru",
     "country_code": "JP",
     "active": true
   },
   {
-    "id": 48,
+    "code": 48,
     "name": "Tesla",
     "country_code": "US",
     "active": true
   },
   {
-    "id": 49,
+    "code": 49,
     "name": "Toyota",
     "country_code": "JP",
     "active": true
   },
   {
-    "id": 50,
+    "code": 50,
     "name": "VinFast",
     "country_code": "VN",
     "active": true
   },
   {
-    "id": 51,
+    "code": 51,
     "name": "Volkswagen",
     "country_code": "DE",
     "active": true
   },
   {
-    "id": 52,
+    "code": 52,
     "name": "Volvo",
     "country_code": "SE",
     "active": true

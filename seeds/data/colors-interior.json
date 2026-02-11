@@ -1,2485 +1,2485 @@
 [
   {
-    "id": "acura-majestic-black-leather",
-    "manufacturer_id": 1,
+    "code": "acura-majestic-black-leather",
+    "manufacturer_code": 1,
     "interior_name": "Majestic Black",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "acura-parchment-leather",
-    "manufacturer_id": 1,
+    "code": "acura-parchment-leather",
+    "manufacturer_code": 1,
     "interior_name": "Parchment",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "acura-gray-leather",
-    "manufacturer_id": 1,
+    "code": "acura-gray-leather",
+    "manufacturer_code": 1,
     "interior_name": "Gray",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "acura-ebony-cloth",
-    "manufacturer_id": 1,
+    "code": "acura-ebony-cloth",
+    "manufacturer_code": 1,
     "interior_name": "Ebony",
     "material": "Cloth",
     "active": true
   },
   {
-    "id": "acura-shale-leather",
-    "manufacturer_id": 1,
+    "code": "acura-shale-leather",
+    "manufacturer_code": 1,
     "interior_name": "Shale",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "acura-espresso-leather",
-    "manufacturer_id": 1,
+    "code": "acura-espresso-leather",
+    "manufacturer_code": 1,
     "interior_name": "Espresso",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "acura-ivory-leather",
-    "manufacturer_id": 1,
+    "code": "acura-ivory-leather",
+    "manufacturer_code": 1,
     "interior_name": "Ivory",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "alfa-romeo-black-leather",
-    "manufacturer_id": 2,
+    "code": "alfa-romeo-black-leather",
+    "manufacturer_code": 2,
     "interior_name": "Black",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "alfa-romeo-tan-leather",
-    "manufacturer_id": 2,
+    "code": "alfa-romeo-tan-leather",
+    "manufacturer_code": 2,
     "interior_name": "Tan",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "alfa-romeo-red-leather",
-    "manufacturer_id": 2,
+    "code": "alfa-romeo-red-leather",
+    "manufacturer_code": 2,
     "interior_name": "Red",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "alfa-romeo-brown-leather",
-    "manufacturer_id": 2,
+    "code": "alfa-romeo-brown-leather",
+    "manufacturer_code": 2,
     "interior_name": "Brown",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "alfa-romeo-black-alcantara",
-    "manufacturer_id": 2,
+    "code": "alfa-romeo-black-alcantara",
+    "manufacturer_code": 2,
     "interior_name": "Black",
     "material": "Alcantara",
     "active": true
   },
   {
-    "id": "alfa-romeo-grey-leather",
-    "manufacturer_id": 2,
+    "code": "alfa-romeo-grey-leather",
+    "manufacturer_code": 2,
     "interior_name": "Grey",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "alfa-romeo-bianco-leather",
-    "manufacturer_id": 2,
+    "code": "alfa-romeo-bianco-leather",
+    "manufacturer_code": 2,
     "interior_name": "Bianco",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "aston-martin-obsidian-black-leather",
-    "manufacturer_id": 3,
+    "code": "aston-martin-obsidian-black-leather",
+    "manufacturer_code": 3,
     "interior_name": "Obsidian Black",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "aston-martin-cognac-leather",
-    "manufacturer_id": 3,
+    "code": "aston-martin-cognac-leather",
+    "manufacturer_code": 3,
     "interior_name": "Cognac",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "aston-martin-cream-leather",
-    "manufacturer_id": 3,
+    "code": "aston-martin-cream-leather",
+    "manufacturer_code": 3,
     "interior_name": "Cream",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "aston-martin-midnight-blue-leather",
-    "manufacturer_id": 3,
+    "code": "aston-martin-midnight-blue-leather",
+    "manufacturer_code": 3,
     "interior_name": "Midnight Blue",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "aston-martin-ivy-leather",
-    "manufacturer_id": 3,
+    "code": "aston-martin-ivy-leather",
+    "manufacturer_code": 3,
     "interior_name": "Ivy",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "aston-martin-champagne-leather",
-    "manufacturer_id": 3,
+    "code": "aston-martin-champagne-leather",
+    "manufacturer_code": 3,
     "interior_name": "Champagne",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "aston-martin-charcoal-leather",
-    "manufacturer_id": 3,
+    "code": "aston-martin-charcoal-leather",
+    "manufacturer_code": 3,
     "interior_name": "Charcoal",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "audi-black-leather",
-    "manufacturer_id": 4,
+    "code": "audi-black-leather",
+    "manufacturer_code": 4,
     "interior_name": "Black",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "audi-rock-grey-leather",
-    "manufacturer_id": 4,
+    "code": "audi-rock-grey-leather",
+    "manufacturer_code": 4,
     "interior_name": "Rock Grey",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "audi-titanium-brown-leather",
-    "manufacturer_id": 4,
+    "code": "audi-titanium-brown-leather",
+    "manufacturer_code": 4,
     "interior_name": "Titanium Brown",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "audi-circuit-grey-leather",
-    "manufacturer_id": 4,
+    "code": "audi-circuit-grey-leather",
+    "manufacturer_code": 4,
     "interior_name": "Circuit Grey",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "audi-fjord-blue-leather",
-    "manufacturer_id": 4,
+    "code": "audi-fjord-blue-leather",
+    "manufacturer_code": 4,
     "interior_name": "Fjord Blue",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "audi-nougat-brown-leather",
-    "manufacturer_id": 4,
+    "code": "audi-nougat-brown-leather",
+    "manufacturer_code": 4,
     "interior_name": "Nougat Brown",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "audi-light-grey-leather",
-    "manufacturer_id": 4,
+    "code": "audi-light-grey-leather",
+    "manufacturer_code": 4,
     "interior_name": "Light Grey",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "audi-ivory-leather",
-    "manufacturer_id": 4,
+    "code": "audi-ivory-leather",
+    "manufacturer_code": 4,
     "interior_name": "Ivory",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "audi-sport-black-leather-s-edition",
-    "manufacturer_id": 4,
+    "code": "audi-sport-black-leather-s-edition",
+    "manufacturer_code": 4,
     "interior_name": "Sport Black",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "audi-red-contrast-stitch-leather-s-edition",
-    "manufacturer_id": 4,
+    "code": "audi-red-contrast-stitch-leather-s-edition",
+    "manufacturer_code": 4,
     "interior_name": "Red Contrast Stitch",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "audi-carbon-fiber-sport-leather-s-edition",
-    "manufacturer_id": 4,
+    "code": "audi-carbon-fiber-sport-leather-s-edition",
+    "manufacturer_code": 4,
     "interior_name": "Carbon Fiber Sport",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "bentley-beluga-leather",
-    "manufacturer_id": 5,
+    "code": "bentley-beluga-leather",
+    "manufacturer_code": 5,
     "interior_name": "Beluga",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "bentley-onyx-leather",
-    "manufacturer_id": 5,
+    "code": "bentley-onyx-leather",
+    "manufacturer_code": 5,
     "interior_name": "Onyx",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "bentley-linen-leather",
-    "manufacturer_id": 5,
+    "code": "bentley-linen-leather",
+    "manufacturer_code": 5,
     "interior_name": "Linen",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "bentley-mulliner-black-leather",
-    "manufacturer_id": 5,
+    "code": "bentley-mulliner-black-leather",
+    "manufacturer_code": 5,
     "interior_name": "Mulliner Black",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "bentley-mulliner-amber-leather",
-    "manufacturer_id": 5,
+    "code": "bentley-mulliner-amber-leather",
+    "manufacturer_code": 5,
     "interior_name": "Mulliner Amber",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "bentley-sequin-grey-leather",
-    "manufacturer_id": 5,
+    "code": "bentley-sequin-grey-leather",
+    "manufacturer_code": 5,
     "interior_name": "Sequin Grey",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "bentley-biscuit-leather",
-    "manufacturer_id": 5,
+    "code": "bentley-biscuit-leather",
+    "manufacturer_code": 5,
     "interior_name": "Biscuit",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "bentley-cognac-leather",
-    "manufacturer_id": 5,
+    "code": "bentley-cognac-leather",
+    "manufacturer_code": 5,
     "interior_name": "Cognac",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "bentley-cashew-leather",
-    "manufacturer_id": 5,
+    "code": "bentley-cashew-leather",
+    "manufacturer_code": 5,
     "interior_name": "Cashew",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "bentley-beluga-contrast-stitch-leather",
-    "manufacturer_id": 5,
+    "code": "bentley-beluga-contrast-stitch-leather",
+    "manufacturer_code": 5,
     "interior_name": "Beluga with Contrast Stitch",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "bentley-linen-contrast-stitch-leather",
-    "manufacturer_id": 5,
+    "code": "bentley-linen-contrast-stitch-leather",
+    "manufacturer_code": 5,
     "interior_name": "Linen with Contrast Stitch",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "bugatti-ebony-leather",
-    "manufacturer_id": 6,
+    "code": "bugatti-ebony-leather",
+    "manufacturer_code": 6,
     "interior_name": "Ebony",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "bugatti-carbon-grey-leather",
-    "manufacturer_id": 6,
+    "code": "bugatti-carbon-grey-leather",
+    "manufacturer_code": 6,
     "interior_name": "Carbon Grey",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "bugatti-champagne-leather",
-    "manufacturer_id": 6,
+    "code": "bugatti-champagne-leather",
+    "manufacturer_code": 6,
     "interior_name": "Champagne",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "bugatti-royal-blue-leather",
-    "manufacturer_id": 6,
+    "code": "bugatti-royal-blue-leather",
+    "manufacturer_code": 6,
     "interior_name": "Royal Blue",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "bugatti-titanium-leather",
-    "manufacturer_id": 6,
+    "code": "bugatti-titanium-leather",
+    "manufacturer_code": 6,
     "interior_name": "Titanium",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "bugatti-red-leather",
-    "manufacturer_id": 6,
+    "code": "bugatti-red-leather",
+    "manufacturer_code": 6,
     "interior_name": "Red",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "bugatti-cream-leather",
-    "manufacturer_id": 6,
+    "code": "bugatti-cream-leather",
+    "manufacturer_code": 6,
     "interior_name": "Cream",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "bmw-black-sensatec",
-    "manufacturer_id": 7,
+    "code": "bmw-black-sensatec",
+    "manufacturer_code": 7,
     "interior_name": "Black",
     "material": "Sensatec",
     "active": true
   },
   {
-    "id": "bmw-black-leather",
-    "manufacturer_id": 7,
+    "code": "bmw-black-leather",
+    "manufacturer_code": 7,
     "interior_name": "Black",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "bmw-cognac-leather",
-    "manufacturer_id": 7,
+    "code": "bmw-cognac-leather",
+    "manufacturer_code": 7,
     "interior_name": "Cognac",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "bmw-ivory-white-leather",
-    "manufacturer_id": 7,
+    "code": "bmw-ivory-white-leather",
+    "manufacturer_code": 7,
     "interior_name": "Ivory White",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "bmw-caramel-brown-leather",
-    "manufacturer_id": 7,
+    "code": "bmw-caramel-brown-leather",
+    "manufacturer_code": 7,
     "interior_name": "Caramel Brown",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "bmw-terracotta-leather",
-    "manufacturer_id": 7,
+    "code": "bmw-terracotta-leather",
+    "manufacturer_code": 7,
     "interior_name": "Terracotta",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "bmw-espresso-brown-leather",
-    "manufacturer_id": 7,
+    "code": "bmw-espresso-brown-leather",
+    "manufacturer_code": 7,
     "interior_name": "Espresso Brown",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "bmw-tartufo-leather",
-    "manufacturer_id": 7,
+    "code": "bmw-tartufo-leather",
+    "manufacturer_code": 7,
     "interior_name": "Tartufo",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "bmw-merino-black-leather",
-    "manufacturer_id": 7,
+    "code": "bmw-merino-black-leather",
+    "manufacturer_code": 7,
     "interior_name": "Merino Black",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "bmw-merino-ivory-leather",
-    "manufacturer_id": 7,
+    "code": "bmw-merino-ivory-leather",
+    "manufacturer_code": 7,
     "interior_name": "Merino Ivory",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "bmw-merino-cognac-leather",
-    "manufacturer_id": 7,
+    "code": "bmw-merino-cognac-leather",
+    "manufacturer_code": 7,
     "interior_name": "Merino Cognac",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "buick-ebony-leather",
-    "manufacturer_id": 8,
+    "code": "buick-ebony-leather",
+    "manufacturer_code": 8,
     "interior_name": "Ebony",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "buick-shale-leather",
-    "manufacturer_id": 8,
+    "code": "buick-shale-leather",
+    "manufacturer_code": 8,
     "interior_name": "Shale",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "buick-cashmere-leather",
-    "manufacturer_id": 8,
+    "code": "buick-cashmere-leather",
+    "manufacturer_code": 8,
     "interior_name": "Cashmere",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "buick-dark-cocoa-leather",
-    "manufacturer_id": 8,
+    "code": "buick-dark-cocoa-leather",
+    "manufacturer_code": 8,
     "interior_name": "Dark Cocoa",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "buick-light-neutral-leather",
-    "manufacturer_id": 8,
+    "code": "buick-light-neutral-leather",
+    "manufacturer_code": 8,
     "interior_name": "Light Neutral",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "buick-chestnut-leather",
-    "manufacturer_id": 8,
+    "code": "buick-chestnut-leather",
+    "manufacturer_code": 8,
     "interior_name": "Chestnut",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "cadillac-ebony-leather",
-    "manufacturer_id": 9,
+    "code": "cadillac-ebony-leather",
+    "manufacturer_code": 9,
     "interior_name": "Ebony",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "cadillac-jet-black-leather",
-    "manufacturer_id": 9,
+    "code": "cadillac-jet-black-leather",
+    "manufacturer_code": 9,
     "interior_name": "Jet Black",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "cadillac-ceramic-leather",
-    "manufacturer_id": 9,
+    "code": "cadillac-ceramic-leather",
+    "manufacturer_code": 9,
     "interior_name": "Ceramic",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "cadillac-slate-leather",
-    "manufacturer_id": 9,
+    "code": "cadillac-slate-leather",
+    "manufacturer_code": 9,
     "interior_name": "Slate",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "cadillac-cedar-leather",
-    "manufacturer_id": 9,
+    "code": "cadillac-cedar-leather",
+    "manufacturer_code": 9,
     "interior_name": "Cedar",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "cadillac-sahara-beige-leather",
-    "manufacturer_id": 9,
+    "code": "cadillac-sahara-beige-leather",
+    "manufacturer_code": 9,
     "interior_name": "Sahara Beige",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "cadillac-jet-black-suede",
-    "manufacturer_id": 9,
+    "code": "cadillac-jet-black-suede",
+    "manufacturer_code": 9,
     "interior_name": "Jet Black",
     "material": "Suede",
     "active": true
   },
   {
-    "id": "cadillac-cedar-suede",
-    "manufacturer_id": 9,
+    "code": "cadillac-cedar-suede",
+    "manufacturer_code": 9,
     "interior_name": "Cedar",
     "material": "Suede",
     "active": true
   },
   {
-    "id": "chevrolet-ebony-cloth",
-    "manufacturer_id": 10,
+    "code": "chevrolet-ebony-cloth",
+    "manufacturer_code": 10,
     "interior_name": "Ebony",
     "material": "Cloth",
     "active": true
   },
   {
-    "id": "chevrolet-ebony-leather",
-    "manufacturer_id": 10,
+    "code": "chevrolet-ebony-leather",
+    "manufacturer_code": 10,
     "interior_name": "Ebony",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "chevrolet-jet-black-leather",
-    "manufacturer_id": 10,
+    "code": "chevrolet-jet-black-leather",
+    "manufacturer_code": 10,
     "interior_name": "Jet Black",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "chevrolet-dark-titan-leather",
-    "manufacturer_id": 10,
+    "code": "chevrolet-dark-titan-leather",
+    "manufacturer_code": 10,
     "interior_name": "Dark Titan",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "chevrolet-cocoa-leather",
-    "manufacturer_id": 10,
+    "code": "chevrolet-cocoa-leather",
+    "manufacturer_code": 10,
     "interior_name": "Cocoa",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "chevrolet-shale-leather",
-    "manufacturer_id": 10,
+    "code": "chevrolet-shale-leather",
+    "manufacturer_code": 10,
     "interior_name": "Shale",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "chevrolet-light-tan-leather",
-    "manufacturer_id": 10,
+    "code": "chevrolet-light-tan-leather",
+    "manufacturer_code": 10,
     "interior_name": "Light Tan",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "chevrolet-jet-black-suede",
-    "manufacturer_id": 10,
+    "code": "chevrolet-jet-black-suede",
+    "manufacturer_code": 10,
     "interior_name": "Jet Black",
     "material": "Suede",
     "active": true
   },
   {
-    "id": "chevrolet-cocoa-suede",
-    "manufacturer_id": 10,
+    "code": "chevrolet-cocoa-suede",
+    "manufacturer_code": 10,
     "interior_name": "Cocoa",
     "material": "Suede",
     "active": true
   },
   {
-    "id": "chrysler-ebony-leather",
-    "manufacturer_id": 11,
+    "code": "chrysler-ebony-leather",
+    "manufacturer_code": 11,
     "interior_name": "Ebony",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "chrysler-black-leather",
-    "manufacturer_id": 11,
+    "code": "chrysler-black-leather",
+    "manufacturer_code": 11,
     "interior_name": "Black",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "chrysler-light-tan-leather",
-    "manufacturer_id": 11,
+    "code": "chrysler-light-tan-leather",
+    "manufacturer_code": 11,
     "interior_name": "Light Tan",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "chrysler-cashmere-leather",
-    "manufacturer_id": 11,
+    "code": "chrysler-cashmere-leather",
+    "manufacturer_code": 11,
     "interior_name": "Cashmere",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "chrysler-shale-leather",
-    "manufacturer_id": 11,
+    "code": "chrysler-shale-leather",
+    "manufacturer_code": 11,
     "interior_name": "Shale",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "chrysler-espresso-leather",
-    "manufacturer_id": 11,
+    "code": "chrysler-espresso-leather",
+    "manufacturer_code": 11,
     "interior_name": "Espresso",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "dodge-black-leather",
-    "manufacturer_id": 12,
+    "code": "dodge-black-leather",
+    "manufacturer_code": 12,
     "interior_name": "Black",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "dodge-dark-titan-leather",
-    "manufacturer_id": 12,
+    "code": "dodge-dark-titan-leather",
+    "manufacturer_code": 12,
     "interior_name": "Dark Titan",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "dodge-ivory-leather",
-    "manufacturer_id": 12,
+    "code": "dodge-ivory-leather",
+    "manufacturer_code": 12,
     "interior_name": "Ivory",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "dodge-redline-leather",
-    "manufacturer_id": 12,
+    "code": "dodge-redline-leather",
+    "manufacturer_code": 12,
     "interior_name": "Redline",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "dodge-ivory-suede",
-    "manufacturer_id": 12,
+    "code": "dodge-ivory-suede",
+    "manufacturer_code": 12,
     "interior_name": "Ivory",
     "material": "Suede",
     "active": true
   },
   {
-    "id": "dodge-black-suede",
-    "manufacturer_id": 12,
+    "code": "dodge-black-suede",
+    "manufacturer_code": 12,
     "interior_name": "Black",
     "material": "Suede",
     "active": true
   },
   {
-    "id": "ferrari-black-leather",
-    "manufacturer_id": 13,
+    "code": "ferrari-black-leather",
+    "manufacturer_code": 13,
     "interior_name": "Black",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "ferrari-cuoio-leather",
-    "manufacturer_id": 13,
+    "code": "ferrari-cuoio-leather",
+    "manufacturer_code": 13,
     "interior_name": "Cuoio",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "ferrari-rosso-leather",
-    "manufacturer_id": 13,
+    "code": "ferrari-rosso-leather",
+    "manufacturer_code": 13,
     "interior_name": "Rosso",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "ferrari-tartufo-leather",
-    "manufacturer_id": 13,
+    "code": "ferrari-tartufo-leather",
+    "manufacturer_code": 13,
     "interior_name": "Tartufo",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "ferrari-bianco-leather",
-    "manufacturer_id": 13,
+    "code": "ferrari-bianco-leather",
+    "manufacturer_code": 13,
     "interior_name": "Bianco",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "ferrari-nero-scuro-leather",
-    "manufacturer_id": 13,
+    "code": "ferrari-nero-scuro-leather",
+    "manufacturer_code": 13,
     "interior_name": "Nero Scuro",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "ferrari-sabbia-leather",
-    "manufacturer_id": 13,
+    "code": "ferrari-sabbia-leather",
+    "manufacturer_code": 13,
     "interior_name": "Sabbia",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "ferrari-cuio-scuro-leather",
-    "manufacturer_id": 13,
+    "code": "ferrari-cuio-scuro-leather",
+    "manufacturer_code": 13,
     "interior_name": "Cuio Scuro",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "fiat-black-cloth",
-    "manufacturer_id": 14,
+    "code": "fiat-black-cloth",
+    "manufacturer_code": 14,
     "interior_name": "Black",
     "material": "Cloth",
     "active": true
   },
   {
-    "id": "fiat-titanium-cloth",
-    "manufacturer_id": 14,
+    "code": "fiat-titanium-cloth",
+    "manufacturer_code": 14,
     "interior_name": "Titanium",
     "material": "Cloth",
     "active": true
   },
   {
-    "id": "fiat-cognac-leather",
-    "manufacturer_id": 14,
+    "code": "fiat-cognac-leather",
+    "manufacturer_code": 14,
     "interior_name": "Cognac",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "fiat-black-leather",
-    "manufacturer_id": 14,
+    "code": "fiat-black-leather",
+    "manufacturer_code": 14,
     "interior_name": "Black",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "fiat-ivory-leather",
-    "manufacturer_id": 14,
+    "code": "fiat-ivory-leather",
+    "manufacturer_code": 14,
     "interior_name": "Ivory",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "fisker-ocean-black-vegan-leather",
-    "manufacturer_id": 15,
+    "code": "fisker-ocean-black-vegan-leather",
+    "manufacturer_code": 15,
     "interior_name": "Black",
     "material": "Vegan Leather",
     "active": true
   },
   {
-    "id": "fisker-ocean-linen-vegan-leather",
-    "manufacturer_id": 15,
+    "code": "fisker-ocean-linen-vegan-leather",
+    "manufacturer_code": 15,
     "interior_name": "Linen",
     "material": "Vegan Leather",
     "active": true
   },
   {
-    "id": "fisker-ocean-titanium-vegan-leather",
-    "manufacturer_id": 15,
+    "code": "fisker-ocean-titanium-vegan-leather",
+    "manufacturer_code": 15,
     "interior_name": "Titanium",
     "material": "Vegan Leather",
     "active": true
   },
   {
-    "id": "fisker-ocean-caramel-vegan-leather",
-    "manufacturer_id": 15,
+    "code": "fisker-ocean-caramel-vegan-leather",
+    "manufacturer_code": 15,
     "interior_name": "Caramel",
     "material": "Vegan Leather",
     "active": true
   },
   {
-    "id": "ford-ebony-cloth",
-    "manufacturer_id": 16,
+    "code": "ford-ebony-cloth",
+    "manufacturer_code": 16,
     "interior_name": "Ebony",
     "material": "Cloth",
     "active": true
   },
   {
-    "id": "ford-ebony-leather",
-    "manufacturer_id": 16,
+    "code": "ford-ebony-leather",
+    "manufacturer_code": 16,
     "interior_name": "Ebony",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "ford-black-leather",
-    "manufacturer_id": 16,
+    "code": "ford-black-leather",
+    "manufacturer_code": 16,
     "interior_name": "Black",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "ford-camel-leather",
-    "manufacturer_id": 16,
+    "code": "ford-camel-leather",
+    "manufacturer_code": 16,
     "interior_name": "Camel",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "ford-chestnut-leather",
-    "manufacturer_id": 16,
+    "code": "ford-chestnut-leather",
+    "manufacturer_code": 16,
     "interior_name": "Chestnut",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "ford-medium-tan-leather",
-    "manufacturer_id": 16,
+    "code": "ford-medium-tan-leather",
+    "manufacturer_code": 16,
     "interior_name": "Medium Tan",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "ford-ivory-leather",
-    "manufacturer_id": 16,
+    "code": "ford-ivory-leather",
+    "manufacturer_code": 16,
     "interior_name": "Ivory",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "ford-jet-black-suede",
-    "manufacturer_id": 16,
+    "code": "ford-jet-black-suede",
+    "manufacturer_code": 16,
     "interior_name": "Jet Black",
     "material": "Suede",
     "active": true
   },
   {
-    "id": "ford-cocoa-suede",
-    "manufacturer_id": 16,
+    "code": "ford-cocoa-suede",
+    "manufacturer_code": 16,
     "interior_name": "Cocoa",
     "material": "Suede",
     "active": true
   },
   {
-    "id": "ford-espresso-suede",
-    "manufacturer_id": 16,
+    "code": "ford-espresso-suede",
+    "manufacturer_code": 16,
     "interior_name": "Espresso",
     "material": "Suede",
     "active": true
   },
   {
-    "id": "genesis-black-leather",
-    "manufacturer_id": 17,
+    "code": "genesis-black-leather",
+    "manufacturer_code": 17,
     "interior_name": "Black",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "genesis-sandstone-leather",
-    "manufacturer_id": 17,
+    "code": "genesis-sandstone-leather",
+    "manufacturer_code": 17,
     "interior_name": "Sandstone",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "genesis-caramel-leather",
-    "manufacturer_id": 17,
+    "code": "genesis-caramel-leather",
+    "manufacturer_code": 17,
     "interior_name": "Caramel",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "genesis-cashmere-leather",
-    "manufacturer_id": 17,
+    "code": "genesis-cashmere-leather",
+    "manufacturer_code": 17,
     "interior_name": "Cashmere",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "genesis-espresso-leather",
-    "manufacturer_id": 17,
+    "code": "genesis-espresso-leather",
+    "manufacturer_code": 17,
     "interior_name": "Espresso",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "genesis-ivory-leather",
-    "manufacturer_id": 17,
+    "code": "genesis-ivory-leather",
+    "manufacturer_code": 17,
     "interior_name": "Ivory",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "gmc-ebony-cloth",
-    "manufacturer_id": 18,
+    "code": "gmc-ebony-cloth",
+    "manufacturer_code": 18,
     "interior_name": "Ebony",
     "material": "Cloth",
     "active": true
   },
   {
-    "id": "gmc-ebony-leather",
-    "manufacturer_id": 18,
+    "code": "gmc-ebony-leather",
+    "manufacturer_code": 18,
     "interior_name": "Ebony",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "gmc-jet-black-leather",
-    "manufacturer_id": 18,
+    "code": "gmc-jet-black-leather",
+    "manufacturer_code": 18,
     "interior_name": "Jet Black",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "gmc-shale-leather",
-    "manufacturer_id": 18,
+    "code": "gmc-shale-leather",
+    "manufacturer_code": 18,
     "interior_name": "Shale",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "gmc-cocoa-leather",
-    "manufacturer_id": 18,
+    "code": "gmc-cocoa-leather",
+    "manufacturer_code": 18,
     "interior_name": "Cocoa",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "gmc-dark-tan-leather",
-    "manufacturer_id": 18,
+    "code": "gmc-dark-tan-leather",
+    "manufacturer_code": 18,
     "interior_name": "Dark Tan",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "gmc-light-tan-leather",
-    "manufacturer_id": 18,
+    "code": "gmc-light-tan-leather",
+    "manufacturer_code": 18,
     "interior_name": "Light Tan",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "gmc-jet-black-suede",
-    "manufacturer_id": 18,
+    "code": "gmc-jet-black-suede",
+    "manufacturer_code": 18,
     "interior_name": "Jet Black",
     "material": "Suede",
     "active": true
   },
   {
-    "id": "gmc-cocoa-suede",
-    "manufacturer_id": 18,
+    "code": "gmc-cocoa-suede",
+    "manufacturer_code": 18,
     "interior_name": "Cocoa",
     "material": "Suede",
     "active": true
   },
   {
-    "id": "honda-black-cloth",
-    "manufacturer_id": 19,
+    "code": "honda-black-cloth",
+    "manufacturer_code": 19,
     "interior_name": "Black",
     "material": "Cloth",
     "active": true
   },
   {
-    "id": "honda-gray-cloth",
-    "manufacturer_id": 19,
+    "code": "honda-gray-cloth",
+    "manufacturer_code": 19,
     "interior_name": "Gray",
     "material": "Cloth",
     "active": true
   },
   {
-    "id": "honda-tan-cloth",
-    "manufacturer_id": 19,
+    "code": "honda-tan-cloth",
+    "manufacturer_code": 19,
     "interior_name": "Tan",
     "material": "Cloth",
     "active": true
   },
   {
-    "id": "honda-black-leather",
-    "manufacturer_id": 19,
+    "code": "honda-black-leather",
+    "manufacturer_code": 19,
     "interior_name": "Black",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "honda-gray-leather",
-    "manufacturer_id": 19,
+    "code": "honda-gray-leather",
+    "manufacturer_code": 19,
     "interior_name": "Gray",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "honda-tan-leather",
-    "manufacturer_id": 19,
+    "code": "honda-tan-leather",
+    "manufacturer_code": 19,
     "interior_name": "Tan",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "honda-jet-black-suede",
-    "manufacturer_id": 19,
+    "code": "honda-jet-black-suede",
+    "manufacturer_code": 19,
     "interior_name": "Jet Black",
     "material": "Suede",
     "active": true
   },
   {
-    "id": "hyundai-black-cloth",
-    "manufacturer_id": 20,
+    "code": "hyundai-black-cloth",
+    "manufacturer_code": 20,
     "interior_name": "Black",
     "material": "Cloth",
     "active": true
   },
   {
-    "id": "hyundai-gray-cloth",
-    "manufacturer_id": 20,
+    "code": "hyundai-gray-cloth",
+    "manufacturer_code": 20,
     "interior_name": "Gray",
     "material": "Cloth",
     "active": true
   },
   {
-    "id": "hyundai-beige-cloth",
-    "manufacturer_id": 20,
+    "code": "hyundai-beige-cloth",
+    "manufacturer_code": 20,
     "interior_name": "Beige",
     "material": "Cloth",
     "active": true
   },
   {
-    "id": "hyundai-black-leather",
-    "manufacturer_id": 20,
+    "code": "hyundai-black-leather",
+    "manufacturer_code": 20,
     "interior_name": "Black",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "hyundai-gray-leather",
-    "manufacturer_id": 20,
+    "code": "hyundai-gray-leather",
+    "manufacturer_code": 20,
     "interior_name": "Gray",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "hyundai-beige-leather",
-    "manufacturer_id": 20,
+    "code": "hyundai-beige-leather",
+    "manufacturer_code": 20,
     "interior_name": "Beige",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "hyundai-tan-leather",
-    "manufacturer_id": 20,
+    "code": "hyundai-tan-leather",
+    "manufacturer_code": 20,
     "interior_name": "Tan",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "hyundai-jet-black-suede",
-    "manufacturer_id": 20,
+    "code": "hyundai-jet-black-suede",
+    "manufacturer_code": 20,
     "interior_name": "Jet Black",
     "material": "Suede",
     "active": true
   },
   {
-    "id": "ineos-ebony-leather",
-    "manufacturer_id": 21,
+    "code": "ineos-ebony-leather",
+    "manufacturer_code": 21,
     "interior_name": "Ebony",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "ineos-titanium-leather",
-    "manufacturer_id": 21,
+    "code": "ineos-titanium-leather",
+    "manufacturer_code": 21,
     "interior_name": "Titanium",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "ineos-espresso-leather",
-    "manufacturer_id": 21,
+    "code": "ineos-espresso-leather",
+    "manufacturer_code": 21,
     "interior_name": "Espresso",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "ineos-camel-leather",
-    "manufacturer_id": 21,
+    "code": "ineos-camel-leather",
+    "manufacturer_code": 21,
     "interior_name": "Camel",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "ineos-black-suede",
-    "manufacturer_id": 21,
+    "code": "ineos-black-suede",
+    "manufacturer_code": 21,
     "interior_name": "Black",
     "material": "Suede",
     "active": true
   },
   {
-    "id": "infiniti-ebony-leather",
-    "manufacturer_id": 22,
+    "code": "infiniti-ebony-leather",
+    "manufacturer_code": 22,
     "interior_name": "Ebony",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "infiniti-brown-leather",
-    "manufacturer_id": 22,
+    "code": "infiniti-brown-leather",
+    "manufacturer_code": 22,
     "interior_name": "Brown",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "infiniti-graphite-leather",
-    "manufacturer_id": 22,
+    "code": "infiniti-graphite-leather",
+    "manufacturer_code": 22,
     "interior_name": "Graphite",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "infiniti-cream-leather",
-    "manufacturer_id": 22,
+    "code": "infiniti-cream-leather",
+    "manufacturer_code": 22,
     "interior_name": "Cream",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "infiniti-tan-leather",
-    "manufacturer_id": 22,
+    "code": "infiniti-tan-leather",
+    "manufacturer_code": 22,
     "interior_name": "Tan",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "infiniti-black-suede",
-    "manufacturer_id": 22,
+    "code": "infiniti-black-suede",
+    "manufacturer_code": 22,
     "interior_name": "Black",
     "material": "Suede",
     "active": true
   },
   {
-    "id": "jaguar-ebony-leather",
-    "manufacturer_id": 23,
+    "code": "jaguar-ebony-leather",
+    "manufacturer_code": 23,
     "interior_name": "Ebony",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "jaguar-espresso-leather",
-    "manufacturer_id": 23,
+    "code": "jaguar-espresso-leather",
+    "manufacturer_code": 23,
     "interior_name": "Espresso",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "jaguar-cream-leather",
-    "manufacturer_id": 23,
+    "code": "jaguar-cream-leather",
+    "manufacturer_code": 23,
     "interior_name": "Cream",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "jaguar-cashew-leather",
-    "manufacturer_id": 23,
+    "code": "jaguar-cashew-leather",
+    "manufacturer_code": 23,
     "interior_name": "Cashew",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "jaguar-ochre-leather",
-    "manufacturer_id": 23,
+    "code": "jaguar-ochre-leather",
+    "manufacturer_code": 23,
     "interior_name": "Ochre",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "jaguar-jet-black-suede",
-    "manufacturer_id": 23,
+    "code": "jaguar-jet-black-suede",
+    "manufacturer_code": 23,
     "interior_name": "Jet Black",
     "material": "Suede",
     "active": true
   },
   {
-    "id": "jeep-black-cloth",
-    "manufacturer_id": 24,
+    "code": "jeep-black-cloth",
+    "manufacturer_code": 24,
     "interior_name": "Black",
     "material": "Cloth",
     "active": true
   },
   {
-    "id": "jeep-dark-harbor-cloth",
-    "manufacturer_id": 24,
+    "code": "jeep-dark-harbor-cloth",
+    "manufacturer_code": 24,
     "interior_name": "Dark Harbor",
     "material": "Cloth",
     "active": true
   },
   {
-    "id": "jeep-heritage-tan-cloth",
-    "manufacturer_id": 24,
+    "code": "jeep-heritage-tan-cloth",
+    "manufacturer_code": 24,
     "interior_name": "Heritage Tan",
     "material": "Cloth",
     "active": true
   },
   {
-    "id": "jeep-black-leather",
-    "manufacturer_id": 24,
+    "code": "jeep-black-leather",
+    "manufacturer_code": 24,
     "interior_name": "Black",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "jeep-bark-brown-leather",
-    "manufacturer_id": 24,
+    "code": "jeep-bark-brown-leather",
+    "manufacturer_code": 24,
     "interior_name": "Bark Brown",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "jeep-sandstone-leather",
-    "manufacturer_id": 24,
+    "code": "jeep-sandstone-leather",
+    "manufacturer_code": 24,
     "interior_name": "Sandstone",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "jeep-gray-leather",
-    "manufacturer_id": 24,
+    "code": "jeep-gray-leather",
+    "manufacturer_code": 24,
     "interior_name": "Gray",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "jeep-ivory-leather",
-    "manufacturer_id": 24,
+    "code": "jeep-ivory-leather",
+    "manufacturer_code": 24,
     "interior_name": "Ivory",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "jeep-jet-black-suede",
-    "manufacturer_id": 24,
+    "code": "jeep-jet-black-suede",
+    "manufacturer_code": 24,
     "interior_name": "Jet Black",
     "material": "Suede",
     "active": true
   },
   {
-    "id": "karma-black-leather",
-    "manufacturer_id": 25,
+    "code": "karma-black-leather",
+    "manufacturer_code": 25,
     "interior_name": "Black",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "karma-caramel-leather",
-    "manufacturer_id": 25,
+    "code": "karma-caramel-leather",
+    "manufacturer_code": 25,
     "interior_name": "Caramel",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "karma-gray-leather",
-    "manufacturer_id": 25,
+    "code": "karma-gray-leather",
+    "manufacturer_code": 25,
     "interior_name": "Gray",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "karma-ivory-leather",
-    "manufacturer_id": 25,
+    "code": "karma-ivory-leather",
+    "manufacturer_code": 25,
     "interior_name": "Ivory",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "kia-black-cloth",
-    "manufacturer_id": 26,
+    "code": "kia-black-cloth",
+    "manufacturer_code": 26,
     "interior_name": "Black",
     "material": "Cloth",
     "active": true
   },
   {
-    "id": "kia-gray-cloth",
-    "manufacturer_id": 26,
+    "code": "kia-gray-cloth",
+    "manufacturer_code": 26,
     "interior_name": "Gray",
     "material": "Cloth",
     "active": true
   },
   {
-    "id": "kia-beige-cloth",
-    "manufacturer_id": 26,
+    "code": "kia-beige-cloth",
+    "manufacturer_code": 26,
     "interior_name": "Beige",
     "material": "Cloth",
     "active": true
   },
   {
-    "id": "kia-black-leather",
-    "manufacturer_id": 26,
+    "code": "kia-black-leather",
+    "manufacturer_code": 26,
     "interior_name": "Black",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "kia-gray-leather",
-    "manufacturer_id": 26,
+    "code": "kia-gray-leather",
+    "manufacturer_code": 26,
     "interior_name": "Gray",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "kia-tan-leather",
-    "manufacturer_id": 26,
+    "code": "kia-tan-leather",
+    "manufacturer_code": 26,
     "interior_name": "Tan",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "kia-caramel-leather",
-    "manufacturer_id": 26,
+    "code": "kia-caramel-leather",
+    "manufacturer_code": 26,
     "interior_name": "Caramel",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "kia-jet-black-suede",
-    "manufacturer_id": 26,
+    "code": "kia-jet-black-suede",
+    "manufacturer_code": 26,
     "interior_name": "Jet Black",
     "material": "Suede",
     "active": true
   },
   {
-    "id": "koenigsegg-black-leather",
-    "manufacturer_id": 27,
+    "code": "koenigsegg-black-leather",
+    "manufacturer_code": 27,
     "interior_name": "Black",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "koenigsegg-carbon-leather",
-    "manufacturer_id": 27,
+    "code": "koenigsegg-carbon-leather",
+    "manufacturer_code": 27,
     "interior_name": "Carbon",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "koenigsegg-tan-leather",
-    "manufacturer_id": 27,
+    "code": "koenigsegg-tan-leather",
+    "manufacturer_code": 27,
     "interior_name": "Tan",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "koenigsegg-brown-leather",
-    "manufacturer_id": 27,
+    "code": "koenigsegg-brown-leather",
+    "manufacturer_code": 27,
     "interior_name": "Brown",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "koenigsegg-gray-leather",
-    "manufacturer_id": 27,
+    "code": "koenigsegg-gray-leather",
+    "manufacturer_code": 27,
     "interior_name": "Gray",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "lamborghini-black-leather",
-    "manufacturer_id": 28,
+    "code": "lamborghini-black-leather",
+    "manufacturer_code": 28,
     "interior_name": "Black",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "lamborghini-tan-leather",
-    "manufacturer_id": 28,
+    "code": "lamborghini-tan-leather",
+    "manufacturer_code": 28,
     "interior_name": "Tan",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "lamborghini-brown-leather",
-    "manufacturer_id": 28,
+    "code": "lamborghini-brown-leather",
+    "manufacturer_code": 28,
     "interior_name": "Brown",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "lamborghini-red-leather",
-    "manufacturer_id": 28,
+    "code": "lamborghini-red-leather",
+    "manufacturer_code": 28,
     "interior_name": "Red",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "lamborghini-ivory-leather",
-    "manufacturer_id": 28,
+    "code": "lamborghini-ivory-leather",
+    "manufacturer_code": 28,
     "interior_name": "Ivory",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "lamborghini-gray-leather",
-    "manufacturer_id": 28,
+    "code": "lamborghini-gray-leather",
+    "manufacturer_code": 28,
     "interior_name": "Gray",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "lamborghini-alcantara-black",
-    "manufacturer_id": 28,
+    "code": "lamborghini-alcantara-black",
+    "manufacturer_code": 28,
     "interior_name": "Black",
     "material": "Alcantara",
     "active": true
   },
   {
-    "id": "lamborghini-alcantara-gray",
-    "manufacturer_id": 28,
+    "code": "lamborghini-alcantara-gray",
+    "manufacturer_code": 28,
     "interior_name": "Gray",
     "material": "Alcantara",
     "active": true
   },
   {
-    "id": "lamborghini-alcantara-red",
-    "manufacturer_id": 28,
+    "code": "lamborghini-alcantara-red",
+    "manufacturer_code": 28,
     "interior_name": "Red",
     "material": "Alcantara",
     "active": true
   },
   {
-    "id": "land-rover-ebony-leather",
-    "manufacturer_id": 29,
+    "code": "land-rover-ebony-leather",
+    "manufacturer_code": 29,
     "interior_name": "Ebony",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "land-rover-espresso-leather",
-    "manufacturer_id": 29,
+    "code": "land-rover-espresso-leather",
+    "manufacturer_code": 29,
     "interior_name": "Espresso",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "land-rover-cashew-leather",
-    "manufacturer_id": 29,
+    "code": "land-rover-cashew-leather",
+    "manufacturer_code": 29,
     "interior_name": "Cashew",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "land-rover-ochre-leather",
-    "manufacturer_id": 29,
+    "code": "land-rover-ochre-leather",
+    "manufacturer_code": 29,
     "interior_name": "Ochre",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "land-rover-sandstone-leather",
-    "manufacturer_id": 29,
+    "code": "land-rover-sandstone-leather",
+    "manufacturer_code": 29,
     "interior_name": "Sandstone",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "land-rover-jet-black-suede",
-    "manufacturer_id": 29,
+    "code": "land-rover-jet-black-suede",
+    "manufacturer_code": 29,
     "interior_name": "Jet Black",
     "material": "Suede",
     "active": true
   },
   {
-    "id": "land-rover-gray-suede",
-    "manufacturer_id": 29,
+    "code": "land-rover-gray-suede",
+    "manufacturer_code": 29,
     "interior_name": "Gray",
     "material": "Suede",
     "active": true
   },
   {
-    "id": "lexus-black-leather",
-    "manufacturer_id": 30,
+    "code": "lexus-black-leather",
+    "manufacturer_code": 30,
     "interior_name": "Black",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "lexus-gray-leather",
-    "manufacturer_id": 30,
+    "code": "lexus-gray-leather",
+    "manufacturer_code": 30,
     "interior_name": "Gray",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "lexus-tan-leather",
-    "manufacturer_id": 30,
+    "code": "lexus-tan-leather",
+    "manufacturer_code": 30,
     "interior_name": "Tan",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "lexus-camel-leather",
-    "manufacturer_id": 30,
+    "code": "lexus-camel-leather",
+    "manufacturer_code": 30,
     "interior_name": "Camel",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "lexus-espresso-leather",
-    "manufacturer_id": 30,
+    "code": "lexus-espresso-leather",
+    "manufacturer_code": 30,
     "interior_name": "Espresso",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "lexus-jet-black-suede",
-    "manufacturer_id": 30,
+    "code": "lexus-jet-black-suede",
+    "manufacturer_code": 30,
     "interior_name": "Jet Black",
     "material": "Suede",
     "active": true
   },
   {
-    "id": "lincoln-ebony-leather",
-    "manufacturer_id": 31,
+    "code": "lincoln-ebony-leather",
+    "manufacturer_code": 31,
     "interior_name": "Ebony",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "lincoln-cashew-leather",
-    "manufacturer_id": 31,
+    "code": "lincoln-cashew-leather",
+    "manufacturer_code": 31,
     "interior_name": "Cashew",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "lincoln-chocolate-leather",
-    "manufacturer_id": 31,
+    "code": "lincoln-chocolate-leather",
+    "manufacturer_code": 31,
     "interior_name": "Chocolate",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "lincoln-espresso-leather",
-    "manufacturer_id": 31,
+    "code": "lincoln-espresso-leather",
+    "manufacturer_code": 31,
     "interior_name": "Espresso",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "lincoln-tan-leather",
-    "manufacturer_id": 31,
+    "code": "lincoln-tan-leather",
+    "manufacturer_code": 31,
     "interior_name": "Tan",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "lincoln-gray-leather",
-    "manufacturer_id": 31,
+    "code": "lincoln-gray-leather",
+    "manufacturer_code": 31,
     "interior_name": "Gray",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "lincoln-jet-black-suede",
-    "manufacturer_id": 31,
+    "code": "lincoln-jet-black-suede",
+    "manufacturer_code": 31,
     "interior_name": "Jet Black",
     "material": "Suede",
     "active": true
   },
   {
-    "id": "lotus-black-leather",
-    "manufacturer_id": 32,
+    "code": "lotus-black-leather",
+    "manufacturer_code": 32,
     "interior_name": "Black",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "lotus-gray-leather",
-    "manufacturer_id": 32,
+    "code": "lotus-gray-leather",
+    "manufacturer_code": 32,
     "interior_name": "Gray",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "lotus-tan-leather",
-    "manufacturer_id": 32,
+    "code": "lotus-tan-leather",
+    "manufacturer_code": 32,
     "interior_name": "Tan",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "lotus-carbon-suede",
-    "manufacturer_id": 32,
+    "code": "lotus-carbon-suede",
+    "manufacturer_code": 32,
     "interior_name": "Carbon",
     "material": "Suede",
     "active": true
   },
   {
-    "id": "lotus-jet-black-suede",
-    "manufacturer_id": 32,
+    "code": "lotus-jet-black-suede",
+    "manufacturer_code": 32,
     "interior_name": "Jet Black",
     "material": "Suede",
     "active": true
   },
   {
-    "id": "lucid-black-leather",
-    "manufacturer_id": 33,
+    "code": "lucid-black-leather",
+    "manufacturer_code": 33,
     "interior_name": "Black",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "lucid-white-leather",
-    "manufacturer_id": 33,
+    "code": "lucid-white-leather",
+    "manufacturer_code": 33,
     "interior_name": "White",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "lucid-tan-leather",
-    "manufacturer_id": 33,
+    "code": "lucid-tan-leather",
+    "manufacturer_code": 33,
     "interior_name": "Tan",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "lucid-gray-leather",
-    "manufacturer_id": 33,
+    "code": "lucid-gray-leather",
+    "manufacturer_code": 33,
     "interior_name": "Gray",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "lucid-cream-leather",
-    "manufacturer_id": 33,
+    "code": "lucid-cream-leather",
+    "manufacturer_code": 33,
     "interior_name": "Cream",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "maserati-black-leather",
-    "manufacturer_id": 34,
+    "code": "maserati-black-leather",
+    "manufacturer_code": 34,
     "interior_name": "Black",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "maserati-tan-leather",
-    "manufacturer_id": 34,
+    "code": "maserati-tan-leather",
+    "manufacturer_code": 34,
     "interior_name": "Tan",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "maserati-brown-leather",
-    "manufacturer_id": 34,
+    "code": "maserati-brown-leather",
+    "manufacturer_code": 34,
     "interior_name": "Brown",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "maserati-red-leather",
-    "manufacturer_id": 34,
+    "code": "maserati-red-leather",
+    "manufacturer_code": 34,
     "interior_name": "Red",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "maserati-cream-leather",
-    "manufacturer_id": 34,
+    "code": "maserati-cream-leather",
+    "manufacturer_code": 34,
     "interior_name": "Cream",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "maserati-gray-leather",
-    "manufacturer_id": 34,
+    "code": "maserati-gray-leather",
+    "manufacturer_code": 34,
     "interior_name": "Gray",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "maserati-nuvola-leather",
-    "manufacturer_id": 34,
+    "code": "maserati-nuvola-leather",
+    "manufacturer_code": 34,
     "interior_name": "Nuvola",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "mazda-black-cloth",
-    "manufacturer_id": 35,
+    "code": "mazda-black-cloth",
+    "manufacturer_code": 35,
     "interior_name": "Black",
     "material": "Cloth",
     "active": true
   },
   {
-    "id": "mazda-gray-cloth",
-    "manufacturer_id": 35,
+    "code": "mazda-gray-cloth",
+    "manufacturer_code": 35,
     "interior_name": "Gray",
     "material": "Cloth",
     "active": true
   },
   {
-    "id": "mazda-beige-cloth",
-    "manufacturer_id": 35,
+    "code": "mazda-beige-cloth",
+    "manufacturer_code": 35,
     "interior_name": "Beige",
     "material": "Cloth",
     "active": true
   },
   {
-    "id": "mazda-black-leather",
-    "manufacturer_id": 35,
+    "code": "mazda-black-leather",
+    "manufacturer_code": 35,
     "interior_name": "Black",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "mazda-camel-leather",
-    "manufacturer_id": 35,
+    "code": "mazda-camel-leather",
+    "manufacturer_code": 35,
     "interior_name": "Camel",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "mazda-gray-leather",
-    "manufacturer_id": 35,
+    "code": "mazda-gray-leather",
+    "manufacturer_code": 35,
     "interior_name": "Gray",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "mazda-espresso-leather",
-    "manufacturer_id": 35,
+    "code": "mazda-espresso-leather",
+    "manufacturer_code": 35,
     "interior_name": "Espresso",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "mazda-jet-black-suede",
-    "manufacturer_id": 35,
+    "code": "mazda-jet-black-suede",
+    "manufacturer_code": 35,
     "interior_name": "Jet Black",
     "material": "Suede",
     "active": true
   },
   {
-    "id": "mclaren-black-leather",
-    "manufacturer_id": 36,
+    "code": "mclaren-black-leather",
+    "manufacturer_code": 36,
     "interior_name": "Black",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "mclaren-tan-leather",
-    "manufacturer_id": 36,
+    "code": "mclaren-tan-leather",
+    "manufacturer_code": 36,
     "interior_name": "Tan",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "mclaren-brown-leather",
-    "manufacturer_id": 36,
+    "code": "mclaren-brown-leather",
+    "manufacturer_code": 36,
     "interior_name": "Brown",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "mclaren-gray-leather",
-    "manufacturer_id": 36,
+    "code": "mclaren-gray-leather",
+    "manufacturer_code": 36,
     "interior_name": "Gray",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "mclaren-red-leather",
-    "manufacturer_id": 36,
+    "code": "mclaren-red-leather",
+    "manufacturer_code": 36,
     "interior_name": "Red",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "mclaren-carbon-suede",
-    "manufacturer_id": 36,
+    "code": "mclaren-carbon-suede",
+    "manufacturer_code": 36,
     "interior_name": "Carbon",
     "material": "Suede",
     "active": true
   },
   {
-    "id": "mclaren-black-suede",
-    "manufacturer_id": 36,
+    "code": "mclaren-black-suede",
+    "manufacturer_code": 36,
     "interior_name": "Black",
     "material": "Suede",
     "active": true
   },
   {
-    "id": "mercedes-black-leather",
-    "manufacturer_id": 37,
+    "code": "mercedes-black-leather",
+    "manufacturer_code": 37,
     "interior_name": "Black",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "mercedes-brown-leather",
-    "manufacturer_id": 37,
+    "code": "mercedes-brown-leather",
+    "manufacturer_code": 37,
     "interior_name": "Brown",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "mercedes-tan-leather",
-    "manufacturer_id": 37,
+    "code": "mercedes-tan-leather",
+    "manufacturer_code": 37,
     "interior_name": "Tan",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "mercedes-gray-leather",
-    "manufacturer_id": 37,
+    "code": "mercedes-gray-leather",
+    "manufacturer_code": 37,
     "interior_name": "Gray",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "mercedes-ivory-leather",
-    "manufacturer_id": 37,
+    "code": "mercedes-ivory-leather",
+    "manufacturer_code": 37,
     "interior_name": "Ivory",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "mercedes-black-nappa-leather",
-    "manufacturer_id": 37,
+    "code": "mercedes-black-nappa-leather",
+    "manufacturer_code": 37,
     "interior_name": "Black Nappa",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "mercedes-red-leather",
-    "manufacturer_id": 37,
+    "code": "mercedes-red-leather",
+    "manufacturer_code": 37,
     "interior_name": "Red",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "mercedes-jet-black-suede",
-    "manufacturer_id": 37,
+    "code": "mercedes-jet-black-suede",
+    "manufacturer_code": 37,
     "interior_name": "Jet Black",
     "material": "Suede",
     "active": true
   },
   {
-    "id": "mercedes-gray-suede",
-    "manufacturer_id": 37,
+    "code": "mercedes-gray-suede",
+    "manufacturer_code": 37,
     "interior_name": "Gray",
     "material": "Suede",
     "active": true
   },
   {
-    "id": "mini-black-leather",
-    "manufacturer_id": 38,
+    "code": "mini-black-leather",
+    "manufacturer_code": 38,
     "interior_name": "Black",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "mini-ivory-leather",
-    "manufacturer_id": 38,
+    "code": "mini-ivory-leather",
+    "manufacturer_code": 38,
     "interior_name": "Ivory",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "mini-gray-leather",
-    "manufacturer_id": 38,
+    "code": "mini-gray-leather",
+    "manufacturer_code": 38,
     "interior_name": "Gray",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "mini-carbon-black-suede",
-    "manufacturer_id": 38,
+    "code": "mini-carbon-black-suede",
+    "manufacturer_code": 38,
     "interior_name": "Carbon Black",
     "material": "Suede",
     "active": true
   },
   {
-    "id": "mini-jet-black-suede",
-    "manufacturer_id": 38,
+    "code": "mini-jet-black-suede",
+    "manufacturer_code": 38,
     "interior_name": "Jet Black",
     "material": "Suede",
     "active": true
   },
   {
-    "id": "mini-red-leather",
-    "manufacturer_id": 38,
+    "code": "mini-red-leather",
+    "manufacturer_code": 38,
     "interior_name": "Red",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "mitsubishi-black-cloth",
-    "manufacturer_id": 39,
+    "code": "mitsubishi-black-cloth",
+    "manufacturer_code": 39,
     "interior_name": "Black",
     "material": "Cloth",
     "active": true
   },
   {
-    "id": "mitsubishi-gray-cloth",
-    "manufacturer_id": 39,
+    "code": "mitsubishi-gray-cloth",
+    "manufacturer_code": 39,
     "interior_name": "Gray",
     "material": "Cloth",
     "active": true
   },
   {
-    "id": "mitsubishi-tan-cloth",
-    "manufacturer_id": 39,
+    "code": "mitsubishi-tan-cloth",
+    "manufacturer_code": 39,
     "interior_name": "Tan",
     "material": "Cloth",
     "active": true
   },
   {
-    "id": "mitsubishi-black-leather",
-    "manufacturer_id": 39,
+    "code": "mitsubishi-black-leather",
+    "manufacturer_code": 39,
     "interior_name": "Black",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "mitsubishi-gray-leather",
-    "manufacturer_id": 39,
+    "code": "mitsubishi-gray-leather",
+    "manufacturer_code": 39,
     "interior_name": "Gray",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "mitsubishi-tan-leather",
-    "manufacturer_id": 39,
+    "code": "mitsubishi-tan-leather",
+    "manufacturer_code": 39,
     "interior_name": "Tan",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "nissan-black-cloth",
-    "manufacturer_id": 40,
+    "code": "nissan-black-cloth",
+    "manufacturer_code": 40,
     "interior_name": "Black",
     "material": "Cloth",
     "active": true
   },
   {
-    "id": "nissan-gray-cloth",
-    "manufacturer_id": 40,
+    "code": "nissan-gray-cloth",
+    "manufacturer_code": 40,
     "interior_name": "Gray",
     "material": "Cloth",
     "active": true
   },
   {
-    "id": "nissan-tan-cloth",
-    "manufacturer_id": 40,
+    "code": "nissan-tan-cloth",
+    "manufacturer_code": 40,
     "interior_name": "Tan",
     "material": "Cloth",
     "active": true
   },
   {
-    "id": "nissan-black-leather",
-    "manufacturer_id": 40,
+    "code": "nissan-black-leather",
+    "manufacturer_code": 40,
     "interior_name": "Black",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "nissan-gray-leather",
-    "manufacturer_id": 40,
+    "code": "nissan-gray-leather",
+    "manufacturer_code": 40,
     "interior_name": "Gray",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "nissan-tan-leather",
-    "manufacturer_id": 40,
+    "code": "nissan-tan-leather",
+    "manufacturer_code": 40,
     "interior_name": "Tan",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "nissan-charcoal-leather",
-    "manufacturer_id": 40,
+    "code": "nissan-charcoal-leather",
+    "manufacturer_code": 40,
     "interior_name": "Charcoal",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "pagani-black-leather",
-    "manufacturer_id": 41,
+    "code": "pagani-black-leather",
+    "manufacturer_code": 41,
     "interior_name": "Black",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "pagani-tan-leather",
-    "manufacturer_id": 41,
+    "code": "pagani-tan-leather",
+    "manufacturer_code": 41,
     "interior_name": "Tan",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "pagani-brown-leather",
-    "manufacturer_id": 41,
+    "code": "pagani-brown-leather",
+    "manufacturer_code": 41,
     "interior_name": "Brown",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "pagani-red-leather",
-    "manufacturer_id": 41,
+    "code": "pagani-red-leather",
+    "manufacturer_code": 41,
     "interior_name": "Red",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "pagani-gray-leather",
-    "manufacturer_id": 41,
+    "code": "pagani-gray-leather",
+    "manufacturer_code": 41,
     "interior_name": "Gray",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "polestar-black-vegan-leather",
-    "manufacturer_id": 42,
+    "code": "polestar-black-vegan-leather",
+    "manufacturer_code": 42,
     "interior_name": "Black",
     "material": "Vegan Leather",
     "active": true
   },
   {
-    "id": "polestar-gray-vegan-leather",
-    "manufacturer_id": 42,
+    "code": "polestar-gray-vegan-leather",
+    "manufacturer_code": 42,
     "interior_name": "Gray",
     "material": "Vegan Leather",
     "active": true
   },
   {
-    "id": "polestar-white-vegan-leather",
-    "manufacturer_id": 42,
+    "code": "polestar-white-vegan-leather",
+    "manufacturer_code": 42,
     "interior_name": "White",
     "material": "Vegan Leather",
     "active": true
   },
   {
-    "id": "polestar-charcoal-suede",
-    "manufacturer_id": 42,
+    "code": "polestar-charcoal-suede",
+    "manufacturer_code": 42,
     "interior_name": "Charcoal",
     "material": "Suede",
     "active": true
   },
   {
-    "id": "porsche-black-leather",
-    "manufacturer_id": 43,
+    "code": "porsche-black-leather",
+    "manufacturer_code": 43,
     "interior_name": "Black",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "porsche-carmine-red-leather",
-    "manufacturer_id": 43,
+    "code": "porsche-carmine-red-leather",
+    "manufacturer_code": 43,
     "interior_name": "Carmine Red",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "porsche-bordeaux-leather",
-    "manufacturer_id": 43,
+    "code": "porsche-bordeaux-leather",
+    "manufacturer_code": 43,
     "interior_name": "Bordeaux",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "porsche-camel-leather",
-    "manufacturer_id": 43,
+    "code": "porsche-camel-leather",
+    "manufacturer_code": 43,
     "interior_name": "Camel",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "porsche-chocolate-leather",
-    "manufacturer_id": 43,
+    "code": "porsche-chocolate-leather",
+    "manufacturer_code": 43,
     "interior_name": "Chocolate",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "porsche-gray-leather",
-    "manufacturer_id": 43,
+    "code": "porsche-gray-leather",
+    "manufacturer_code": 43,
     "interior_name": "Gray",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "porsche-jet-black-suede",
-    "manufacturer_id": 43,
+    "code": "porsche-jet-black-suede",
+    "manufacturer_code": 43,
     "interior_name": "Jet Black",
     "material": "Suede",
     "active": true
   },
   {
-    "id": "porsche-sand-suede",
-    "manufacturer_id": 43,
+    "code": "porsche-sand-suede",
+    "manufacturer_code": 43,
     "interior_name": "Sand",
     "material": "Suede",
     "active": true
   },
   {
-    "id": "ram-black-cloth",
-    "manufacturer_id": 44,
+    "code": "ram-black-cloth",
+    "manufacturer_code": 44,
     "interior_name": "Black",
     "material": "Cloth",
     "active": true
   },
   {
-    "id": "ram-gray-cloth",
-    "manufacturer_id": 44,
+    "code": "ram-gray-cloth",
+    "manufacturer_code": 44,
     "interior_name": "Gray",
     "material": "Cloth",
     "active": true
   },
   {
-    "id": "ram-tan-cloth",
-    "manufacturer_id": 44,
+    "code": "ram-tan-cloth",
+    "manufacturer_code": 44,
     "interior_name": "Tan",
     "material": "Cloth",
     "active": true
   },
   {
-    "id": "ram-black-leather",
-    "manufacturer_id": 44,
+    "code": "ram-black-leather",
+    "manufacturer_code": 44,
     "interior_name": "Black",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "ram-gray-leather",
-    "manufacturer_id": 44,
+    "code": "ram-gray-leather",
+    "manufacturer_code": 44,
     "interior_name": "Gray",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "ram-tan-leather",
-    "manufacturer_id": 44,
+    "code": "ram-tan-leather",
+    "manufacturer_code": 44,
     "interior_name": "Tan",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "ram-espresso-leather",
-    "manufacturer_id": 44,
+    "code": "ram-espresso-leather",
+    "manufacturer_code": 44,
     "interior_name": "Espresso",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "rivian-black-vegan-leather",
-    "manufacturer_id": 45,
+    "code": "rivian-black-vegan-leather",
+    "manufacturer_code": 45,
     "interior_name": "Black",
     "material": "Vegan Leather",
     "active": true
   },
   {
-    "id": "rivian-tan-vegan-leather",
-    "manufacturer_id": 45,
+    "code": "rivian-tan-vegan-leather",
+    "manufacturer_code": 45,
     "interior_name": "Tan",
     "material": "Vegan Leather",
     "active": true
   },
   {
-    "id": "rivian-gray-vegan-leather",
-    "manufacturer_id": 45,
+    "code": "rivian-gray-vegan-leather",
+    "manufacturer_code": 45,
     "interior_name": "Gray",
     "material": "Vegan Leather",
     "active": true
   },
   {
-    "id": "rivian-espresso-vegan-leather",
-    "manufacturer_id": 45,
+    "code": "rivian-espresso-vegan-leather",
+    "manufacturer_code": 45,
     "interior_name": "Espresso",
     "material": "Vegan Leather",
     "active": true
   },
   {
-    "id": "rolls-royce-black-leather",
-    "manufacturer_id": 46,
+    "code": "rolls-royce-black-leather",
+    "manufacturer_code": 46,
     "interior_name": "Black",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "rolls-royce-tan-leather",
-    "manufacturer_id": 46,
+    "code": "rolls-royce-tan-leather",
+    "manufacturer_code": 46,
     "interior_name": "Tan",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "rolls-royce-cream-leather",
-    "manufacturer_id": 46,
+    "code": "rolls-royce-cream-leather",
+    "manufacturer_code": 46,
     "interior_name": "Cream",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "rolls-royce-gray-leather",
-    "manufacturer_id": 46,
+    "code": "rolls-royce-gray-leather",
+    "manufacturer_code": 46,
     "interior_name": "Gray",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "rolls-royce-bordeaux-leather",
-    "manufacturer_id": 46,
+    "code": "rolls-royce-bordeaux-leather",
+    "manufacturer_code": 46,
     "interior_name": "Bordeaux",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "rolls-royce-blue-leather",
-    "manufacturer_id": 46,
+    "code": "rolls-royce-blue-leather",
+    "manufacturer_code": 46,
     "interior_name": "Blue",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "rolls-royce-carbon-suede",
-    "manufacturer_id": 46,
+    "code": "rolls-royce-carbon-suede",
+    "manufacturer_code": 46,
     "interior_name": "Carbon",
     "material": "Suede",
     "active": true
   },
   {
-    "id": "subaru-black-cloth",
-    "manufacturer_id": 47,
+    "code": "subaru-black-cloth",
+    "manufacturer_code": 47,
     "interior_name": "Black",
     "material": "Cloth",
     "active": true
   },
   {
-    "id": "subaru-gray-cloth",
-    "manufacturer_id": 47,
+    "code": "subaru-gray-cloth",
+    "manufacturer_code": 47,
     "interior_name": "Gray",
     "material": "Cloth",
     "active": true
   },
   {
-    "id": "subaru-tan-cloth",
-    "manufacturer_id": 47,
+    "code": "subaru-tan-cloth",
+    "manufacturer_code": 47,
     "interior_name": "Tan",
     "material": "Cloth",
     "active": true
   },
   {
-    "id": "subaru-black-leather",
-    "manufacturer_id": 47,
+    "code": "subaru-black-leather",
+    "manufacturer_code": 47,
     "interior_name": "Black",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "subaru-gray-leather",
-    "manufacturer_id": 47,
+    "code": "subaru-gray-leather",
+    "manufacturer_code": 47,
     "interior_name": "Gray",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "subaru-tan-leather",
-    "manufacturer_id": 47,
+    "code": "subaru-tan-leather",
+    "manufacturer_code": 47,
     "interior_name": "Tan",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "subaru-charcoal-suede",
-    "manufacturer_id": 47,
+    "code": "subaru-charcoal-suede",
+    "manufacturer_code": 47,
     "interior_name": "Charcoal",
     "material": "Suede",
     "active": true
   },
   {
-    "id": "tesla-black-vegan-leather",
-    "manufacturer_id": 48,
+    "code": "tesla-black-vegan-leather",
+    "manufacturer_code": 48,
     "interior_name": "Black",
     "material": "Vegan Leather",
     "active": true
   },
   {
-    "id": "tesla-white-vegan-leather",
-    "manufacturer_id": 48,
+    "code": "tesla-white-vegan-leather",
+    "manufacturer_code": 48,
     "interior_name": "White",
     "material": "Vegan Leather",
     "active": true
   },
   {
-    "id": "tesla-tan-vegan-leather",
-    "manufacturer_id": 48,
+    "code": "tesla-tan-vegan-leather",
+    "manufacturer_code": 48,
     "interior_name": "Tan",
     "material": "Vegan Leather",
     "active": true
   },
   {
-    "id": "tesla-gray-vegan-leather",
-    "manufacturer_id": 48,
+    "code": "tesla-gray-vegan-leather",
+    "manufacturer_code": 48,
     "interior_name": "Gray",
     "material": "Vegan Leather",
     "active": true
   },
   {
-    "id": "tesla-black-suede",
-    "manufacturer_id": 48,
+    "code": "tesla-black-suede",
+    "manufacturer_code": 48,
     "interior_name": "Black",
     "material": "Suede",
     "active": true
   },
   {
-    "id": "toyota-black-cloth",
-    "manufacturer_id": 49,
+    "code": "toyota-black-cloth",
+    "manufacturer_code": 49,
     "interior_name": "Black",
     "material": "Cloth",
     "active": true
   },
   {
-    "id": "toyota-gray-cloth",
-    "manufacturer_id": 49,
+    "code": "toyota-gray-cloth",
+    "manufacturer_code": 49,
     "interior_name": "Gray",
     "material": "Cloth",
     "active": true
   },
   {
-    "id": "toyota-tan-cloth",
-    "manufacturer_id": 49,
+    "code": "toyota-tan-cloth",
+    "manufacturer_code": 49,
     "interior_name": "Tan",
     "material": "Cloth",
     "active": true
   },
   {
-    "id": "toyota-black-leather",
-    "manufacturer_id": 49,
+    "code": "toyota-black-leather",
+    "manufacturer_code": 49,
     "interior_name": "Black",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "toyota-gray-leather",
-    "manufacturer_id": 49,
+    "code": "toyota-gray-leather",
+    "manufacturer_code": 49,
     "interior_name": "Gray",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "toyota-tan-leather",
-    "manufacturer_id": 49,
+    "code": "toyota-tan-leather",
+    "manufacturer_code": 49,
     "interior_name": "Tan",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "toyota-espresso-leather",
-    "manufacturer_id": 49,
+    "code": "toyota-espresso-leather",
+    "manufacturer_code": 49,
     "interior_name": "Espresso",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "vinfast-black-leather",
-    "manufacturer_id": 50,
+    "code": "vinfast-black-leather",
+    "manufacturer_code": 50,
     "interior_name": "Black",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "vinfast-tan-leather",
-    "manufacturer_id": 50,
+    "code": "vinfast-tan-leather",
+    "manufacturer_code": 50,
     "interior_name": "Tan",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "vinfast-gray-leather",
-    "manufacturer_id": 50,
+    "code": "vinfast-gray-leather",
+    "manufacturer_code": 50,
     "interior_name": "Gray",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "vinfast-espresso-leather",
-    "manufacturer_id": 50,
+    "code": "vinfast-espresso-leather",
+    "manufacturer_code": 50,
     "interior_name": "Espresso",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "volkswagen-black-cloth",
-    "manufacturer_id": 51,
+    "code": "volkswagen-black-cloth",
+    "manufacturer_code": 51,
     "interior_name": "Black",
     "material": "Cloth",
     "active": true
   },
   {
-    "id": "volkswagen-gray-cloth",
-    "manufacturer_id": 51,
+    "code": "volkswagen-gray-cloth",
+    "manufacturer_code": 51,
     "interior_name": "Gray",
     "material": "Cloth",
     "active": true
   },
   {
-    "id": "volkswagen-tan-cloth",
-    "manufacturer_id": 51,
+    "code": "volkswagen-tan-cloth",
+    "manufacturer_code": 51,
     "interior_name": "Tan",
     "material": "Cloth",
     "active": true
   },
   {
-    "id": "volkswagen-black-leather",
-    "manufacturer_id": 51,
+    "code": "volkswagen-black-leather",
+    "manufacturer_code": 51,
     "interior_name": "Black",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "volkswagen-gray-leather",
-    "manufacturer_id": 51,
+    "code": "volkswagen-gray-leather",
+    "manufacturer_code": 51,
     "interior_name": "Gray",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "volkswagen-tan-leather",
-    "manufacturer_id": 51,
+    "code": "volkswagen-tan-leather",
+    "manufacturer_code": 51,
     "interior_name": "Tan",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "volkswagen-espresso-leather",
-    "manufacturer_id": 51,
+    "code": "volkswagen-espresso-leather",
+    "manufacturer_code": 51,
     "interior_name": "Espresso",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "volvo-black-leather",
-    "manufacturer_id": 52,
+    "code": "volvo-black-leather",
+    "manufacturer_code": 52,
     "interior_name": "Black",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "volvo-charcoal-leather",
-    "manufacturer_id": 52,
+    "code": "volvo-charcoal-leather",
+    "manufacturer_code": 52,
     "interior_name": "Charcoal",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "volvo-tan-leather",
-    "manufacturer_id": 52,
+    "code": "volvo-tan-leather",
+    "manufacturer_code": 52,
     "interior_name": "Tan",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "volvo-cream-leather",
-    "manufacturer_id": 52,
+    "code": "volvo-cream-leather",
+    "manufacturer_code": 52,
     "interior_name": "Cream",
     "material": "Leather",
     "active": true
   },
   {
-    "id": "volvo-gray-suede",
-    "manufacturer_id": 52,
+    "code": "volvo-gray-suede",
+    "manufacturer_code": 52,
     "interior_name": "Gray",
     "material": "Suede",
     "active": true
