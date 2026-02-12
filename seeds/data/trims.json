@@ -1,6 +1,7 @@
 [
   {
     "code": "2026-adx-base",
+    "model_code": "ADX",
     "manufacturer_code": 1,
     "trim_name": "Base",
     "standard_features": [
@@ -21,6 +22,7 @@
   },
   {
     "code": "2026-adx-technology",
+    "model_code": "ADX",
     "manufacturer_code": 1,
     "trim_name": "Technology",
     "standard_features": [
@@ -43,6 +45,7 @@
   },
   {
     "code": "2026-adx-a-spec",
+    "model_code": "ADX",
     "manufacturer_code": 1,
     "trim_name": "A-Spec",
     "standard_features": [
@@ -66,6 +69,7 @@
   },
   {
     "code": "2026-adx-advance",
+    "model_code": "ADX",
     "manufacturer_code": 1,
     "trim_name": "Advance",
     "standard_features": [
@@ -88,6 +92,7 @@
   },
   {
     "code": "2026-integra-base",
+    "model_code": "Integra",
     "manufacturer_code": 1,
     "trim_name": "Base",
     "standard_features": [
@@ -108,6 +113,7 @@
   },
   {
     "code": "2026-integra-technology",
+    "model_code": "Integra",
     "manufacturer_code": 1,
     "trim_name": "Technology",
     "standard_features": [
@@ -129,6 +135,7 @@
   },
   {
     "code": "2026-integra-a-spec",
+    "model_code": "Integra",
     "manufacturer_code": 1,
     "trim_name": "A-Spec",
     "standard_features": [
@@ -150,6 +157,7 @@
   },
   {
     "code": "2026-integra-a-spec-technology",
+    "model_code": "Integra",
     "manufacturer_code": 1,
     "trim_name": "A-Spec with Technology",
     "standard_features": [
@@ -172,6 +180,7 @@
   },
   {
     "code": "2026-integra-type-s",
+    "model_code": "Integra",
     "manufacturer_code": 1,
     "trim_name": "Type S",
     "standard_features": [
@@ -194,6 +203,7 @@
   },
   {
     "code": "2026-mdx-base",
+    "model_code": "MDX",
     "manufacturer_code": 1,
     "trim_name": "Base",
     "standard_features": [
@@ -215,6 +225,7 @@
   },
   {
     "code": "2026-mdx-technology",
+    "model_code": "MDX",
     "manufacturer_code": 1,
     "trim_name": "Technology",
     "standard_features": [
@@ -237,6 +248,7 @@
   },
   {
     "code": "2026-mdx-a-spec",
+    "model_code": "MDX",
     "manufacturer_code": 1,
     "trim_name": "A-Spec",
     "standard_features": [
@@ -259,6 +271,7 @@
   },
   {
     "code": "2026-mdx-advance",
+    "model_code": "MDX",
     "manufacturer_code": 1,
     "trim_name": "Advance",
     "standard_features": [
@@ -281,6 +294,7 @@
   },
   {
     "code": "2026-rdx-base",
+    "model_code": "RDX",
     "manufacturer_code": 1,
     "trim_name": "Base",
     "standard_features": [
@@ -302,6 +316,7 @@
   },
   {
     "code": "2026-rdx-technology",
+    "model_code": "RDX",
     "manufacturer_code": 1,
     "trim_name": "Technology",
     "standard_features": [
@@ -324,6 +339,7 @@
   },
   {
     "code": "2026-rdx-a-spec",
+    "model_code": "RDX",
     "manufacturer_code": 1,
     "trim_name": "A-Spec",
     "standard_features": [
@@ -346,6 +362,7 @@
   },
   {
     "code": "2026-rdx-advance",
+    "model_code": "RDX",
     "manufacturer_code": 1,
     "trim_name": "Advance",
     "standard_features": [
@@ -368,6 +385,7 @@
   },
   {
     "code": "2026-tlx-base",
+    "model_code": "TLX",
     "manufacturer_code": 1,
     "trim_name": "Base",
     "standard_features": [
@@ -389,6 +407,7 @@
   },
   {
     "code": "2026-tlx-technology",
+    "model_code": "TLX",
     "manufacturer_code": 1,
     "trim_name": "Technology",
     "standard_features": [
@@ -411,6 +430,7 @@
   },
   {
     "code": "2026-tlx-a-spec",
+    "model_code": "TLX",
     "manufacturer_code": 1,
     "trim_name": "A-Spec",
     "standard_features": [
@@ -433,6 +453,7 @@
   },
   {
     "code": "2026-tlx-type-s",
+    "model_code": "TLX",
     "manufacturer_code": 1,
     "trim_name": "Type S",
     "standard_features": [
@@ -454,124 +475,100 @@
     "active": true
   },
   {
-    "code": "2026-giulia-base",
-    "manufacturer_code": 2,
-    "trim_name": "Base",
-    "standard_features": [
-      "Apple CarPlay",
-      "Android Auto",
-      "Adaptive Cruise Control",
-      "Lane Keep Assist",
-      "Automatic Emergency Braking",
-      "LED Headlights",
-      "Keyless Entry",
-      "Cloth Seats"
-    ],
-    "optional_features": [
-      "Leather Seats",
-      "Heated Front Seats",
-      "Wireless Phone Charging"
-    ],
-    "active": true
+  "code": "2026-giulia-base",
+  "model_code": "Giulia",
+  "manufacturer_code": 2,
+  "trim_name": "Base",
+  "standard_features": [
+    "Apple CarPlay",
+    "Android Auto",
+    "Adaptive Cruise Control",
+    "Lane Keep Assist",
+    "Automatic Emergency Braking",
+    "LED Headlights",
+    "Keyless Entry",
+    "Leather Seats",
+    "Power Front Seats",
+    "Dual-Zone Climate Control",
+    "Wireless Phone Charging"
+  ],
+  "optional_features": [
+    "Navigation System",
+    "Premium Audio System",
+    "Heated Front Seats",
+    "Driver Assistance Package"
+  ],
+  "active": true
   },
   {
-    "code": "2026-giulia-ti",
-    "manufacturer_code": 2,
-    "trim_name": "Ti",
-    "standard_features": [
-      "Apple CarPlay",
-      "Android Auto",
-      "Adaptive Cruise Control",
-      "Lane Keep Assist",
-      "Automatic Emergency Braking",
-      "Leather Seats",
-      "Heated Front Seats",
-      "Premium Audio System",
-      "Navigation System",
-      "Wireless Phone Charging"
-    ],
-    "optional_features": [
-      "Ventilated Front Seats",
-      "Driver Assistance Package"
-    ],
-    "active": true
+  "code": "2026-giulia-veloce-package",
+  "model_code": "Giulia",
+  "manufacturer_code": 2,
+  "trim_name": "Veloce Package",
+  "standard_features": [
+    "Limited Slip Differential",
+    "Sport Leather Seats",
+    "19-inch Alloy Wheels",
+    "Red Brake Calipers",
+    "Gloss Black Window Trim",
+    "Sport Rear Bumper"
+  ],
+  "optional_features": [
+    "Performance Suspension Upgrade",
+    "Sport Exhaust Tips"
+  ],
+  "active": true
   },
   {
-    "code": "2026-giulia-quadrofoglio",
-    "manufacturer_code": 2,
-    "trim_name": "Quadrifoglio",
-    "standard_features": [
-      "Apple CarPlay",
-      "Android Auto",
-      "Adaptive Cruise Control",
-      "Lane Keep Assist",
-      "Automatic Emergency Braking",
-      "Sport Seats",
-      "Leather Seats",
-      "Heated Front Seats",
-      "Performance Brakes",
-      "Sport Suspension",
-      "Limited Slip Differential",
-      "Premium Audio System",
-      "Wireless Phone Charging"
-    ],
-    "optional_features": [
-      "Carbon Fiber Package",
-      "Head-Up Display"
-    ],
-    "active": true
+  "code": "2026-giulia-tributo-italiano",
+  "model_code": "Giulia",
+  "manufacturer_code": 2,
+  "trim_name": "Tributo Italiano",
+  "standard_features": [
+    "Adaptive Suspension",
+    "Harman Kardon Premium Audio",
+    "19-inch Dark Aluminum Wheels",
+    "Italian Tricolore Badging",
+    "Sunroof",
+    "Leather Sport Seats with Red Stitching"
+  ],
+  "optional_features": [
+    "Driving Assist Package",
+    "Premium Interior Package"
+  ],
+  "active": true
   },
   {
-    "code": "2026-giulia",
-    "manufacturer_code": 2,
-    "trim_name": "Giulia",
-    "standard_features": [
-      "Apple CarPlay",
-      "Android Auto",
-      "Adaptive Cruise Control",
-      "Lane Keep Assist",
-      "Automatic Emergency Braking",
-      "LED Headlights",
-      "Leather Seats",
-      "Heated Front Seats",
-      "Navigation System",
-      "Premium Audio System",
-      "Power Adjustable Front Seats",
-      "Rearview Camera",
-      "Keyless Entry"
-    ],
-    "optional_features": [
-      "Veloce Sport Package",
-      "Premium Interior & Sound Package",
-      "Driving Assist Package",
-      "AWD Drivetrain",
-      "RWD Drivetrain"
-    ],
-    "active": true
-  },
-  {
-    "code": "2026-stelvio",
-    "manufacturer_code": 2,
-    "trim_name": "Stelvio",
-    "standard_features": [
-      "Apple CarPlay",
-      "Android Auto",
-      "Adaptive Cruise Control",
-      "Lane Keep Assist",
-      "Automatic Emergency Braking",
-      "LED Headlights",
-      "Keyless Entry"
-    ],
-    "optional_features": [
-      "Premium Sound Package",
-      "Alfa Active Suspension Package",
-      "Driver Assistance Package",
-      "AWD Option"
-    ],
-    "active": true
+  "code": "2026-stelvio-tributo-italiano",
+  "model_code": "Stelvio",
+  "manufacturer_code": 2,
+  "trim_name": "Tributo Italiano",
+  "standard_features": [
+    "Apple CarPlay",
+    "Android Auto",
+    "Adaptive Cruise Control",
+    "Lane Keep Assist",
+    "Automatic Emergency Braking",
+    "LED Headlights",
+    "Blind Spot Monitoring",
+    "Keyless Entry",
+    "21‑inch Dark Aluminum Wheels",
+    "Red Brake Calipers",
+    "Gloss Black Roof Rails",
+    "Power Liftgate",
+    "Premium Audio System",
+    "Heated Front Seats",
+    "Wireless Phone Charging"
+  ],
+  "optional_features": [
+    "Driver Assistance Package",
+    "Luxury Interior Package"
+  ],
+  "active": true
   },
   {
     "code": "2026-tonale-sprint",
+    "model_code": "Tonale",
     "manufacturer_code": 2,
     "trim_name": "Sprint",
     "standard_features": [
@@ -591,6 +588,7 @@
   },
   {
     "code": "2026-tonale-sport-speciale",
+    "model_code": "Tonale",
     "manufacturer_code": 2,
     "trim_name": "Sport Speciale",
     "standard_features": [
@@ -612,6 +610,7 @@
   },
   {
     "code": "2026-tonale-veloce",
+    "model_code": "Tonale",
     "manufacturer_code": 2,
     "trim_name": "Veloce",
     "standard_features": [
@@ -635,8 +634,9 @@
   },
   {
     "code": "2026-db12-coupe",
+    "model_code": "DB12",
     "manufacturer_code": 3,
-    "trim_name": "DB12",
+    "trim_name": "Standard",
     "standard_features": [
       "Apple CarPlay",
       "Android Auto",
@@ -669,8 +669,9 @@
   },
   {
     "code": "2026-vantage-coupe",
+    "model_code": "Vantage",
     "manufacturer_code": 3,
-    "trim_name": "Vantage",
+    "trim_name": "Standard",
     "standard_features": [
       "Apple CarPlay",
       "Android Auto",
@@ -705,8 +706,9 @@
   },
   {
     "code": "2026-vanquish-coupe",
+    "model_code": "Vanquish",
     "manufacturer_code": 3,
-    "trim_name": "Vanquish",
+    "trim_name": "Standard",
     "standard_features": [
       "Apple CarPlay",
       "Android Auto",
@@ -746,8 +748,9 @@
   },
   {
     "code": "2026-dbx-base",
+    "model_code": "DBX",
     "manufacturer_code": 3,
-    "trim_name": "DBX",
+    "trim_name": "Standard",
     "standard_features": [
       "Apple CarPlay",
       "Android Auto",
@@ -782,8 +785,9 @@
   },
   {
     "code": "2026-dbx-707",
+    "model_code": "DBX",
     "manufacturer_code": 3,
-    "trim_name": "DBX707",
+    "trim_name": "707",
     "standard_features": [
       "Apple CarPlay",
       "Android Auto",
@@ -821,8 +825,9 @@
   },
   {
     "code": "2026-valhalla",
+    "model_code": "Valhalla",
     "manufacturer_code": 3,
-    "trim_name": "Valhalla",
+    "trim_name": "Standard",
     "standard_features": [
       "Apple CarPlay",
       "Digital Instrument Cluster",
@@ -853,8 +858,9 @@
   },
   {
     "code": "2026-valkyrie",
+    "model_code": "Valkyrie",
     "manufacturer_code": 3,
-    "trim_name": "Valkyrie",
+    "trim_name": "Standard",
     "standard_features": [
       "Digital Instrument Cluster",
       "Carbon Fiber Monocoque",
@@ -879,8 +885,9 @@
   },
   {
     "code": "2026-valour",
+    "model_code": "Valour",
     "manufacturer_code": 3,
-    "trim_name": "Valour",
+    "trim_name": "Standard",
     "standard_features": [
       "Manual Transmission",
       "Carbon Fiber Body Panels",
@@ -904,8 +911,9 @@
   },
   {
     "code": "2026-valiant",
+    "model_code": "Valiant",
     "manufacturer_code": 3,
-    "trim_name": "Valiant",
+    "trim_name": "Standard",
     "standard_features": [
       "Manual Transmission",
       "Carbon Fiber Body Panels",
@@ -929,6 +937,7 @@
   },
   {
     "code": "2026-a3-premium",
+    "model_code": "A3",
     "manufacturer_code": 4,
     "trim_name": "Premium",
     "standard_features": [
@@ -955,6 +964,7 @@
   },
   {
     "code": "2026-a3-premium-plus",
+    "model_code": "A3",
     "manufacturer_code": 4,
     "trim_name": "Premium Plus",
     "standard_features": [
@@ -983,6 +993,7 @@
   },
   {
     "code": "2026-a3-prestige",
+    "model_code": "A3",
     "manufacturer_code": 4,
     "trim_name": "Prestige",
     "standard_features": [
@@ -1013,6 +1024,7 @@
   },
   {
     "code": "2026-a5-premium",
+    "model_code": "A5",
     "manufacturer_code": 4,
     "trim_name": "Premium",
     "standard_features": [
@@ -1038,6 +1050,7 @@
   },
   {
     "code": "2026-a5-premium-plus",
+    "model_code": "A5",
     "manufacturer_code": 4,
     "trim_name": "Premium Plus",
     "standard_features": [
@@ -1066,6 +1079,7 @@
   },
   {
     "code": "2026-a5-prestige",
+    "model_code": "A5",
     "manufacturer_code": 4,
     "trim_name": "Prestige",
     "standard_features": [
@@ -1096,6 +1110,7 @@
   },
   {
     "code": "2026-a6-premium",
+    "model_code": "A6",
     "manufacturer_code": 4,
     "trim_name": "Premium",
     "standard_features": [
@@ -1121,6 +1136,7 @@
   },
   {
     "code": "2026-a6-premium-plus",
+    "model_code": "A6",
     "manufacturer_code": 4,
     "trim_name": "Premium Plus",
     "standard_features": [
@@ -1149,6 +1165,7 @@
   },
   {
     "code": "2026-a6-prestige",
+    "model_code": "A6",
     "manufacturer_code": 4,
     "trim_name": "Prestige",
     "standard_features": [
@@ -1179,6 +1196,7 @@
   },
   {
     "code": "2026-a6-allroad-premium",
+    "model_code": "A6 allroad quattro",
     "manufacturer_code": 4,
     "trim_name": "Premium",
     "standard_features": [
@@ -1206,6 +1224,7 @@
   },
   {
     "code": "2026-a6-allroad-premium-plus",
+    "model_code": "A6 allroad quattro",
     "manufacturer_code": 4,
     "trim_name": "Premium Plus",
     "standard_features": [
@@ -1236,6 +1255,7 @@
   },
   {
     "code": "2026-a6-allroad-prestige",
+    "model_code": "A6 allroad quattro",
     "manufacturer_code": 4,
     "trim_name": "Prestige",
     "standard_features": [
@@ -1268,6 +1288,7 @@
   },
   {
     "code": "2026-a6-sportback-etron-premium",
+    "model_code": "A6 Sportback e-tron",
     "manufacturer_code": 4,
     "trim_name": "Premium",
     "standard_features": [
@@ -1297,6 +1318,7 @@
   },
   {
     "code": "2026-a6-sportback-etron-premium-plus",
+    "model_code": "A6 Sportback e-tron",
     "manufacturer_code": 4,
     "trim_name": "Premium Plus",
     "standard_features": [
@@ -1329,6 +1351,7 @@
   },
   {
     "code": "2026-a6-sportback-etron-prestige",
+    "model_code": "A6 Sportback e-tron",
     "manufacturer_code": 4,
     "trim_name": "Prestige",
     "standard_features": [
@@ -1363,6 +1386,7 @@
   },
   {
     "code": "2026-a8-premium",
+    "model_code": "A8",
     "manufacturer_code": 4,
     "trim_name": "Premium",
     "standard_features": [
@@ -1391,6 +1415,7 @@
   },
   {
     "code": "2026-a8-premium-plus",
+    "model_code": "A8",
     "manufacturer_code": 4,
     "trim_name": "Premium Plus",
     "standard_features": [
@@ -1422,6 +1447,7 @@
   },
   {
     "code": "2026-a8-prestige",
+    "model_code": "A8",
     "manufacturer_code": 4,
     "trim_name": "Prestige",
     "standard_features": [
@@ -1457,6 +1483,7 @@
   },
   {
     "code": "2026-q3-premium",
+    "model_code": "Q3",
     "manufacturer_code": 4,
     "trim_name": "Premium",
     "standard_features": [
@@ -1483,6 +1510,7 @@
   },
   {
     "code": "2026-q3-premium-plus",
+    "model_code": "Q3",
     "manufacturer_code": 4,
     "trim_name": "Premium Plus",
     "standard_features": [
@@ -1511,6 +1539,7 @@
   },
   {
     "code": "2026-q3-s-line",
+    "model_code": "Q3",
     "manufacturer_code": 4,
     "trim_name": "S line",
     "standard_features": [
@@ -1541,7 +1570,8 @@
     "active": true
   },
   {
-    "code": "2026-q4-etron",
+    "code": "2026-q4-etron-premium",
+    "model_code": "Q4 e-tron",
     "manufacturer_code": 4,
     "trim_name": "Premium",
     "standard_features": [
@@ -1563,7 +1593,8 @@
     "active": true
   },
   {
-    "code": "2026-q4-etron",
+    "code": "2026-q4-etron-prestige",
+    "model_code": "Q4 e-tron",
     "manufacturer_code": 4,
     "trim_name": "Prestige",
     "standard_features": [
@@ -1587,7 +1618,8 @@
     "active": true
   },
   {
-    "code": "2026-q4-sportback-etron",
+    "code": "2026-q4-sportback-etron-premium",
+    "model_code": "Q4 Sportback e-tron",
     "manufacturer_code": 4,
     "trim_name": "Premium",
     "standard_features": [
@@ -1609,7 +1641,8 @@
     "active": true
   },
   {
-    "code": "2026-q4-sportback-etron",
+    "code": "2026-q4-sportback-etron-prestige",
+    "model_code": "Q4 Sportback e-tron",
     "manufacturer_code": 4,
     "trim_name": "Prestige",
     "standard_features": [
@@ -1634,6 +1667,7 @@
   },
   {
     "code": "2026-q5-premium",
+    "model_code": "Q5",
     "manufacturer_code": 4,
     "trim_name": "Premium",
     "standard_features": [
@@ -1656,6 +1690,7 @@
   },
   {
     "code": "2026-q5-premium-plus",
+    "model_code": "Q5",
     "manufacturer_code": 4,
     "trim_name": "Premium Plus",
     "standard_features": [
@@ -1680,6 +1715,7 @@
   },
   {
     "code": "2026-q5-prestige",
+    "model_code": "Q5",
     "manufacturer_code": 4,
     "trim_name": "Prestige",
     "standard_features": [
@@ -1706,6 +1742,7 @@
   },
   {
     "code": "2026-q5-sportback-premium",
+    "model_code": "Q5 Sportback",
     "manufacturer_code": 4,
     "trim_name": "Premium",
     "standard_features": [
@@ -1728,6 +1765,7 @@
   },
   {
     "code": "2026-q5-sportback-premium-plus",
+    "model_code": "Q5 Sportback",
     "manufacturer_code": 4,
     "trim_name": "Premium Plus",
     "standard_features": [
@@ -1752,6 +1790,7 @@
   },
   {
     "code": "2026-q5-sportback-prestige",
+    "model_code": "Q5 Sportback",
     "manufacturer_code": 4,
     "trim_name": "Prestige",
     "standard_features": [
@@ -1778,6 +1817,7 @@
   },
   {
     "code": "2026-q6-e-tron-premium",
+    "model_code": "Q6 e-tron",
     "manufacturer_code": 4,
     "trim_name": "Premium",
     "standard_features": [
@@ -1800,6 +1840,7 @@
   },
   {
     "code": "2026-q6-e-tron-premium-plus",
+    "model_code": "Q6 e-tron",
     "manufacturer_code": 4,
     "trim_name": "Premium Plus",
     "standard_features": [
@@ -1824,6 +1865,7 @@
   },
   {
     "code": "2026-q6-e-tron-prestige",
+    "model_code": "Q6 e-tron",
     "manufacturer_code": 4,
     "trim_name": "Prestige",
     "standard_features": [
@@ -1850,6 +1892,7 @@
   },
   {
     "code": "2026-q6-sportback-e-tron-premium",
+    "model_code": "Q6 Sportback e-tron",
     "manufacturer_code": 4,
     "trim_name": "Premium",
     "standard_features": [
@@ -1872,6 +1915,7 @@
   },
   {
     "code": "2026-q6-sportback-e-tron-premium-plus",
+    "model_code": "Q6 Sportback e-tron",
     "manufacturer_code": 4,
     "trim_name": "Premium Plus",
     "standard_features": [
@@ -1896,6 +1940,7 @@
   },
   {
     "code": "2026-q6-sportback-e-tron-prestige",
+    "model_code": "Q6 Sportback e-tron",
     "manufacturer_code": 4,
     "trim_name": "Prestige",
     "standard_features": [
@@ -1922,6 +1967,7 @@
   },
   {
     "code": "2026-q7-premium",
+    "model_code": "Q7",
     "manufacturer_code": 4,
     "trim_name": "Premium",
     "standard_features": [
@@ -1943,6 +1989,7 @@
   },
   {
     "code": "2026-q7-premium-plus",
+    "model_code": "Q7",
     "manufacturer_code": 4,
     "trim_name": "Premium Plus",
     "standard_features": [
@@ -1968,6 +2015,7 @@
   },
   {
     "code": "2026-q7-s-line",
+    "model_code": "Q7",
     "manufacturer_code": 4,
     "trim_name": "S line",
     "standard_features": [
@@ -1993,6 +2041,7 @@
   },
   {
     "code": "2026-q8-premium",
+    "model_code": "Q8",
     "manufacturer_code": 4,
     "trim_name": "Premium",
     "standard_features": [
@@ -2014,6 +2063,7 @@
   },
   {
     "code": "2026-q8-premium-plus",
+    "model_code": "Q8",
     "manufacturer_code": 4,
     "trim_name": "Premium Plus",
     "standard_features": [
@@ -2039,6 +2089,7 @@
   },
   {
     "code": "2026-q8-s-line",
+    "model_code": "Q8",
     "manufacturer_code": 4,
     "trim_name": "S line",
     "standard_features": [
@@ -2064,8 +2115,9 @@
   },
   {
     "code": "2026-rs3",
+    "model_code": "RS 3",
     "manufacturer_code": 4,
-    "trim_name": "RS 3",
+    "trim_name": "Standard",
     "standard_features": [
       "Apple CarPlay",
       "Android Auto",
@@ -2089,8 +2141,9 @@
   },
   {
     "code": "2026-rs6-avant",
+    "model_code": "RS 6 Avant",
     "manufacturer_code": 4,
-    "trim_name": "RS 6 Avant",
+    "trim_name": "Standard",
     "standard_features": [
       "Apple CarPlay",
       "Android Auto",
@@ -2116,8 +2169,9 @@
   },
   {
     "code": "2026-rs7",
+    "model_code": "RS 7",
     "manufacturer_code": 4,
-    "trim_name": "RS 7",
+    "trim_name": "Standard",
     "standard_features": [
       "Apple CarPlay",
       "Android Auto",
@@ -2143,8 +2197,9 @@
   },
   {
     "code": "2026-rs-e-tron",
+    "model_code": "RS e-tron",
     "manufacturer_code": 4,
-    "trim_name": "RS e-tron",
+    "trim_name": "Standard",
     "standard_features": [
       "Apple CarPlay",
       "Android Auto",
@@ -2170,8 +2225,9 @@
   },
   {
     "code": "2026-rs-q8",
+    "model_code": "RS Q8",
     "manufacturer_code": 4,
-    "trim_name": "RS Q8",
+    "trim_name": "Standard",
     "standard_features": [
       "Apple CarPlay",
       "Android Auto",
@@ -2198,8 +2254,9 @@
   },
   {
     "code": "2026-s3-premium",
+    "model_code": "S3",
     "manufacturer_code": 4,
-    "trim_name": "S3 Premium",
+    "trim_name": "Premium",
     "standard_features": [
       "Apple CarPlay",
       "Android Auto",
@@ -2221,8 +2278,9 @@
   },
   {
     "code": "2026-s3-premium-plus",
+    "model_code": "S3",
     "manufacturer_code": 4,
-    "trim_name": "S3 Premium Plus",
+    "trim_name": "Premium Plus",
     "standard_features": [
       "Apple CarPlay",
       "Android Auto",
@@ -2245,8 +2303,9 @@
   },
   {
     "code": "2026-s3-technik",
+    "model_code": "S3",
     "manufacturer_code": 4,
-    "trim_name": "S3 Technik",
+    "trim_name": "Technik",
     "standard_features": [
       "Apple CarPlay",
       "Android Auto",
@@ -2270,8 +2329,9 @@
   },
   {
     "code": "2026-s5-premium",
+    "model_code": "S5",
     "manufacturer_code": 4,
-    "trim_name": "S5 Premium",
+    "trim_name": "Premium",
     "standard_features": [
       "Apple CarPlay",
       "Android Auto",
@@ -2293,8 +2353,9 @@
   },
   {
     "code": "2026-s5-premium-plus",
+    "model_code": "S5",
     "manufacturer_code": 4,
-    "trim_name": "S5 Premium Plus",
+    "trim_name": "Premium Plus",
     "standard_features": [
       "Apple CarPlay",
       "Android Auto",
@@ -2317,8 +2378,9 @@
   },
   {
     "code": "2026-s5-technik",
+    "model_code": "S5",
     "manufacturer_code": 4,
-    "trim_name": "S5 Technik",
+    "trim_name": "Technik",
     "standard_features": [
       "Apple CarPlay",
       "Android Auto",
@@ -2342,6 +2404,7 @@
   },
   {
     "code": "2026-s6-sportback-e-tron-Prestige",
+    "model_code": "S6 Sportback e-tron",
     "manufacturer_code": 4,
     "trim_name": "Prestige",
     "standard_features": [
@@ -2362,6 +2425,7 @@
   },
   {
     "code": "2026-s6-sportback-e-tron-Competition-Plus",
+    "model_code": "S6 Sportback e-tron",
     "manufacturer_code": 4,
     "trim_name": "Competition Plus",
     "standard_features": [
@@ -2382,6 +2446,7 @@
   },
   {
     "code": "2026-s8-Prestige",
+    "model_code": "S8",
     "manufacturer_code": 4,
     "trim_name": "Prestige",
     "standard_features": [
@@ -2404,6 +2469,7 @@
   },
   {
     "code": "2026-s8-Competition",
+    "model_code": "S8",
     "manufacturer_code": 4,
     "trim_name": "Competition",
     "standard_features": [
@@ -2426,6 +2492,7 @@
   },
   {
     "code": "2026-s-e-tron-Premium",
+    "model_code": "S e-tron",
     "manufacturer_code": 4,
     "trim_name": "Premium",
     "standard_features": [
@@ -2448,6 +2515,7 @@
   },
   {
     "code": "2026-s-e-tron-Premium-Plus",
+    "model_code": "S e-tron",
     "manufacturer_code": 4,
     "trim_name": "Premium Plus",
     "standard_features": [
@@ -2471,6 +2539,7 @@
   },
   {
     "code": "2026-s-e-tron-Prestige",
+    "model_code": "S e-tron",
     "manufacturer_code": 4,
     "trim_name": "Prestige",
     "standard_features": [
@@ -2495,6 +2564,7 @@
   },
   {
     "code": "2026-sq5-Premium",
+    "model_code": "SQ5",
     "manufacturer_code": 4,
     "trim_name": "Premium",
     "standard_features": [
@@ -2517,6 +2587,7 @@
   },
   {
     "code": "2026-sq5-Premium-Plus",
+    "model_code": "SQ5",
     "manufacturer_code": 4,
     "trim_name": "Premium Plus",
     "standard_features": [
@@ -2539,6 +2610,7 @@
   },
   {
     "code": "2026-sq5-Prestige",
+    "model_code": "SQ5",
     "manufacturer_code": 4,
     "trim_name": "Prestige",
     "standard_features": [
@@ -2563,6 +2635,7 @@
   },
   {
     "code": "2026-sq5-sportback-Premium",
+    "model_code": "SQ5 Sportback",
     "manufacturer_code": 4,
     "trim_name": "Premium",
     "standard_features": [
@@ -2585,6 +2658,7 @@
   },
   {
     "code": "2026-sq5-sportback-Premium-Plus",
+    "model_code": "SQ5 Sportback",
     "manufacturer_code": 4,
     "trim_name": "Premium Plus",
     "standard_features": [
@@ -2607,6 +2681,7 @@
   },
   {
     "code": "2026-sq5-sportback-Prestige",
+    "model_code": "SQ5 Sportback",
     "manufacturer_code": 4,
     "trim_name": "Prestige",
     "standard_features": [
@@ -2631,6 +2706,7 @@
   },
   {
     "code": "2026-sq6-e-tron-Premium",
+    "model_code": "SQ6 e-tron",
     "manufacturer_code": 4,
     "trim_name": "Premium",
     "standard_features": [
@@ -2654,6 +2730,7 @@
   },
   {
     "code": "2026-sq6-e-tron-Premium-Plus",
+    "model_code": "SQ6 e-tron",
     "manufacturer_code": 4,
     "trim_name": "Premium Plus",
     "standard_features": [
@@ -2678,6 +2755,7 @@
   },
   {
     "code": "2026-sq6-e-tron-Prestige",
+    "model_code": "SQ6 e-tron",
     "manufacturer_code": 4,
     "trim_name": "Prestige",
     "standard_features": [
@@ -2703,6 +2781,7 @@
   },
   {
     "code": "2026-sq6-sportback-e-tron-Premium",
+    "model_code": "SQ6 Sportback e-tron",
     "manufacturer_code": 4,
     "trim_name": "Premium",
     "standard_features": [
@@ -2726,6 +2805,7 @@
   },
   {
     "code": "2026-sq6-sportback-e-tron-Premium-Plus",
+    "model_code": "SQ6 Sportback e-tron",
     "manufacturer_code": 4,
     "trim_name": "Premium Plus",
     "standard_features": [
@@ -2750,6 +2830,7 @@
   },
   {
     "code": "2026-sq6-sportback-e-tron-Prestige",
+    "model_code": "SQ6 Sportback e-tron",
     "manufacturer_code": 4,
     "trim_name": "Prestige",
     "standard_features": [
@@ -2775,6 +2856,7 @@
   },
   {
     "code": "2026-sq7-Premium",
+    "model_code": "SQ7",
     "manufacturer_code": 4,
     "trim_name": "Premium",
     "standard_features": [
@@ -2797,6 +2879,7 @@
   },
   {
     "code": "2026-sq7-Premium-Plus",
+    "model_code": "SQ7",
     "manufacturer_code": 4,
     "trim_name": "Premium Plus",
     "standard_features": [
@@ -2820,6 +2903,7 @@
   },
   {
     "code": "2026-sq7-Prestige",
+    "model_code": "SQ7",
     "manufacturer_code": 4,
     "trim_name": "Prestige",
     "standard_features": [
@@ -2844,6 +2928,7 @@
   },
   {
     "code": "2026-sq8-Premium",
+    "model_code": "SQ8",
     "manufacturer_code": 4,
     "trim_name": "Premium",
     "standard_features": [
@@ -2866,6 +2951,7 @@
   },
   {
     "code": "2026-sq8-Premium-Plus",
+    "model_code": "SQ8",
     "manufacturer_code": 4,
     "trim_name": "Premium Plus",
     "standard_features": [
@@ -2889,6 +2975,7 @@
   },
   {
     "code": "2026-sq8-Prestige",
+    "model_code": "SQ8",
     "manufacturer_code": 4,
     "trim_name": "Prestige",
     "standard_features": [
@@ -2913,6 +3000,7 @@
   },
   {
     "code": "2026-bentayga-Standard",
+    "model_code": "Bentayga",
     "manufacturer_code": 5,
     "trim_name": "Standard",
     "standard_features": [
@@ -2936,6 +3024,7 @@
   },
   {
     "code": "2026-bentayga-Speed",
+    "model_code": "Bentayga",
     "manufacturer_code": 5,
     "trim_name": "Speed",
     "standard_features": [
@@ -2961,6 +3050,7 @@
   },
   {
     "code": "2026-continental-gt-Standard",
+    "model_code": "Continental GT",
     "manufacturer_code": 5,
     "trim_name": "Standard",
     "standard_features": [
@@ -2984,6 +3074,7 @@
   },
   {
     "code": "2026-continental-gt-Speed",
+    "model_code": "Continental GT",
     "manufacturer_code": 5,
     "trim_name": "Speed",
     "standard_features": [
@@ -3009,6 +3100,7 @@
   },
   {
     "code": "2026-continental-gtc-Standard",
+    "model_code": "Continental GTC",
     "manufacturer_code": 5,
     "trim_name": "Standard",
     "standard_features": [
@@ -3032,6 +3124,7 @@
   },
   {
     "code": "2026-continental-gtc-Speed",
+    "model_code": "Continental GTC",
     "manufacturer_code": 5,
     "trim_name": "Speed",
     "standard_features": [
@@ -3057,6 +3150,7 @@
   },
   {
     "code": "2026-flying-spur-Standard",
+    "model_code": "Flying Spur",
     "manufacturer_code": 5,
     "trim_name": "Standard",
     "standard_features": [
@@ -3081,6 +3175,7 @@
   },
   {
     "code": "2026-flying-spur-Speed",
+    "model_code": "Flying Spur",
     "manufacturer_code": 5,
     "trim_name": "Speed",
     "standard_features": [
@@ -3107,6 +3202,7 @@
   },
   {
     "code": "2026-supersports-Standard",
+    "model_code": "Supersports",
     "manufacturer_code": 5,
     "trim_name": "Standard",
     "standard_features": [
@@ -3132,6 +3228,7 @@
   },
   {
     "code": "2026-tourbillon-Standard",
+    "model_code": "Tourbillon",
     "manufacturer_code": 6,
     "trim_name": "Standard",
     "standard_features": [
@@ -3156,6 +3253,7 @@
   },
   {
     "code": "2026-w16-mistral-Standard",
+    "model_code": "W16 Mistral",
     "manufacturer_code": 6,
     "trim_name": "Standard",
     "standard_features": [
@@ -3181,6 +3279,7 @@
   },
   {
     "code": "2026-bolide-Standard",
+    "model_code": "Bolide",
     "manufacturer_code": 6,
     "trim_name": "Standard",
     "standard_features": [
@@ -3204,6 +3303,7 @@
   },
   {
     "code": "2026-228-228i",
+    "model_code": "2 Series",
     "manufacturer_code": 7,
     "trim_name": "228i",
     "standard_features": [
@@ -3228,6 +3328,7 @@
   },
   {
     "code": "2026-228-xdrive-gran-coupe-228i",
+    "model_code": "2 Series",
     "manufacturer_code": 7,
     "trim_name": "228i xDrive Gran Coupe",
     "standard_features": [
@@ -3256,6 +3357,7 @@
   },
   {
     "code": "2026-230i-coupe-230i",
+    "model_code": "2 Series",
     "manufacturer_code": 7,
     "trim_name": "230i Coupe",
     "standard_features": [
@@ -3284,7 +3386,8 @@
     "active": true
   },
   {
-    "code": "2026-230i-xdrive-coupe-230i-xdrive",
+    "code": "2026-230i-xdrive-coupe",
+    "model_code": "2 Series",
     "manufacturer_code": 7,
     "trim_name": "230i xDrive Coupe",
     "standard_features": [
@@ -3313,1490 +3416,8 @@
     "active": true
   },
   {
-    "code": "2026-330i-sedan-330i",
-    "manufacturer_code": 7,
-    "trim_name": "330i Sedan",
-    "standard_features": [
-      "Apple CarPlay",
-      "Android Auto",
-      "Rear-Wheel Drive",
-      "Adaptive Cruise Control",
-      "Lane Departure Warning",
-      "Automatic Emergency Braking",
-      "LED Headlights",
-      "Power Front Seats",
-      "Dual-Zone Climate Control",
-      "Keyless Entry",
-      "Rearview Camera",
-      "Drive Mode Selector"
-    ],
-    "optional_features": [
-      "M Sport Package",
-      "Heated Front Seats",
-      "Wireless Phone Charging",
-      "Head-Up Display",
-      "Harman Kardon Surround Sound",
-      "Adaptive Suspension",
-      "Parking Assistance Package"
-    ],
-    "active": true
-  },
-  {
-    "code": "2026-330i-xdrive-sedan-330i-xdrive",
-    "manufacturer_code": 7,
-    "trim_name": "330i xDrive Sedan",
-    "standard_features": [
-      "Apple CarPlay",
-      "Android Auto",
-      "All-Wheel Drive",
-      "Adaptive Cruise Control",
-      "Lane Departure Warning",
-      "Automatic Emergency Braking",
-      "LED Headlights",
-      "Power Front Seats",
-      "Dual-Zone Climate Control",
-      "Keyless Entry",
-      "Rearview Camera",
-      "Drive Mode Selector"
-    ],
-    "optional_features": [
-      "M Sport Package",
-      "Heated Front Seats",
-      "Wireless Phone Charging",
-      "Head-Up Display",
-      "Harman Kardon Surround Sound",
-      "Adaptive Suspension",
-      "Parking Assistance Package"
-    ],
-    "active": true
-  },
-  {
-    "code": "2026-430i-coupe-430i",
-    "manufacturer_code": 7,
-    "trim_name": "430i Coupe",
-    "standard_features": [
-      "Apple CarPlay",
-      "Android Auto",
-      "Rear-Wheel Drive",
-      "Adaptive Cruise Control",
-      "Lane Departure Warning",
-      "Automatic Emergency Braking",
-      "LED Headlights",
-      "Power Front Seats",
-      "Dual-Zone Climate Control",
-      "Keyless Entry",
-      "Rearview Camera",
-      "Drive Mode Selector"
-    ],
-    "optional_features": [
-      "xDrive All-Wheel Drive",
-      "M Sport Package",
-      "Heated Front Seats",
-      "Wireless Phone Charging",
-      "Head-Up Display",
-      "Harman Kardon Surround Sound",
-      "Adaptive Suspension",
-      "Parking Assistance Package"
-    ],
-    "active": true
-  },
-  {
-    "code": "2026-430i-convertible-430i",
-    "manufacturer_code": 7,
-    "trim_name": "430i Convertible",
-    "standard_features": [
-      "Apple CarPlay",
-      "Android Auto",
-      "Rear-Wheel Drive",
-      "Adaptive Cruise Control",
-      "Lane Departure Warning",
-      "Automatic Emergency Braking",
-      "LED Headlights",
-      "Power Front Seats",
-      "Dual-Zone Climate Control",
-      "Keyless Entry",
-      "Rearview Camera",
-      "Drive Mode Selector"
-    ],
-    "optional_features": [
-      "M Sport Package",
-      "Heated Front Seats",
-      "Wireless Phone Charging",
-      "Head-Up Display",
-      "Harman Kardon Surround Sound",
-      "Adaptive Suspension",
-      "Parking Assistance Package"
-    ],
-    "active": true
-  },
-  {
-    "code": "2026-430i-gran-coupe-430i",
-    "manufacturer_code": 7,
-    "trim_name": "430i Gran Coupe",
-    "standard_features": [
-      "Apple CarPlay",
-      "Android Auto",
-      "Rear-Wheel Drive",
-      "Adaptive Cruise Control",
-      "Lane Departure Warning",
-      "Automatic Emergency Braking",
-      "LED Headlights",
-      "Power Front Seats",
-      "Dual-Zone Climate Control",
-      "Keyless Entry",
-      "Rearview Camera",
-      "Drive Mode Selector"
-    ],
-    "optional_features": [
-      "M Sport Package",
-      "Heated Front Seats",
-      "Wireless Phone Charging",
-      "Head-Up Display",
-      "Harman Kardon Surround Sound",
-      "Adaptive Suspension",
-      "Parking Assistance Package"
-    ],
-    "active": true
-  },
-  {
-    "code": "2026-430i-xdrive-coupe-430i-xdrive",
-    "manufacturer_code": 7,
-    "trim_name": "430i xDrive Coupe",
-    "standard_features": [
-      "Apple CarPlay",
-      "Android Auto",
-      "All-Wheel Drive",
-      "Adaptive Cruise Control",
-      "Lane Departure Warning",
-      "Automatic Emergency Braking",
-      "LED Headlights",
-      "Power Front Seats",
-      "Dual-Zone Climate Control",
-      "Keyless Entry",
-      "Rearview Camera",
-      "Drive Mode Selector"
-    ],
-    "optional_features": [
-      "M Sport Package",
-      "Heated Front Seats",
-      "Wireless Phone Charging",
-      "Head-Up Display",
-      "Harman Kardon Surround Sound",
-      "Adaptive Suspension",
-      "Parking Assistance Package"
-    ],
-    "active": true
-  },
-  {
-    "code": "2026-430i-xdrive-convertible-430i-xdrive",
-    "manufacturer_code": 7,
-    "trim_name": "430i xDrive Convertible",
-    "standard_features": [
-      "Apple CarPlay",
-      "Android Auto",
-      "All-Wheel Drive",
-      "Adaptive Cruise Control",
-      "Lane Departure Warning",
-      "Automatic Emergency Braking",
-      "LED Headlights",
-      "Power Front Seats",
-      "Dual-Zone Climate Control",
-      "Keyless Entry",
-      "Rearview Camera",
-      "Drive Mode Selector"
-    ],
-    "optional_features": [
-      "M Sport Package",
-      "Heated Front Seats",
-      "Wireless Phone Charging",
-      "Head-Up Display",
-      "Harman Kardon Surround Sound",
-      "Adaptive Suspension",
-      "Parking Assistance Package"
-    ],
-    "active": true
-  },
-  {
-    "code": "2026-430i-xdrive-gran-coupe-430i-xdrive",
-    "manufacturer_code": 7,
-    "trim_name": "430i xDrive Gran Coupe",
-    "standard_features": [
-      "Apple CarPlay",
-      "Android Auto",
-      "All-Wheel Drive",
-      "Adaptive Cruise Control",
-      "Lane Departure Warning",
-      "Automatic Emergency Braking",
-      "LED Headlights",
-      "Power Front Seats",
-      "Dual-Zone Climate Control",
-      "Keyless Entry",
-      "Rearview Camera",
-      "Drive Mode Selector"
-    ],
-    "optional_features": [
-      "M Sport Package",
-      "Heated Front Seats",
-      "Wireless Phone Charging",
-      "Head-Up Display",
-      "Harman Kardon Surround Sound",
-      "Adaptive Suspension",
-      "Parking Assistance Package"
-    ],
-    "active": true
-  },
-  {
-    "code": "2026-530i-sedan-530i",
-    "manufacturer_code": 7,
-    "trim_name": "530i Sedan",
-    "standard_features": [
-      "Apple CarPlay",
-      "Android Auto",
-      "Rear-Wheel Drive",
-      "Adaptive Cruise Control",
-      "Lane Departure Warning",
-      "Automatic Emergency Braking",
-      "LED Headlights",
-      "Power Front Seats",
-      "Dual-Zone Climate Control",
-      "Keyless Entry",
-      "Rearview Camera",
-      "Drive Mode Selector"
-    ],
-    "optional_features": [
-      "M Sport Package",
-      "Heated Front Seats",
-      "Wireless Phone Charging",
-      "Head-Up Display",
-      "Harman Kardon Surround Sound",
-      "Adaptive Suspension",
-      "Parking Assistance Package"
-    ],
-    "active": true
-  },
-  {
-    "code": "2026-530i-xdrive-sedan-530i-xdrive",
-    "manufacturer_code": 7,
-    "trim_name": "530i xDrive Sedan",
-    "standard_features": [
-      "Apple CarPlay",
-      "Android Auto",
-      "All-Wheel Drive",
-      "Adaptive Cruise Control",
-      "Lane Departure Warning",
-      "Automatic Emergency Braking",
-      "LED Headlights",
-      "Power Front Seats",
-      "Dual-Zone Climate Control",
-      "Keyless Entry",
-      "Rearview Camera",
-      "Drive Mode Selector"
-    ],
-    "optional_features": [
-      "M Sport Package",
-      "Heated Front Seats",
-      "Wireless Phone Charging",
-      "Head-Up Display",
-      "Harman Kardon Surround Sound",
-      "Adaptive Suspension",
-      "Parking Assistance Package"
-    ],
-    "active": true
-  },
-  {
-    "code": "2026-540i-xdrive-sedan-540i-xdrive",
-    "manufacturer_code": 7,
-    "trim_name": "540i xDrive Sedan",
-    "standard_features": [
-      "Apple CarPlay",
-      "Android Auto",
-      "All-Wheel Drive",
-      "Adaptive Cruise Control",
-      "Lane Departure Warning",
-      "Automatic Emergency Braking",
-      "LED Headlights",
-      "Power Front Seats",
-      "Dual-Zone Climate Control",
-      "Keyless Entry",
-      "Rearview Camera",
-      "Drive Mode Selector"
-    ],
-    "optional_features": [
-      "M Sport Package",
-      "Heated Front Seats",
-      "Wireless Phone Charging",
-      "Head-Up Display",
-      "Harman Kardon Surround Sound",
-      "Adaptive Suspension",
-      "Parking Assistance Package"
-    ],
-    "active": true
-  },
-  {
-    "code": "2026-550e-sedan-550e",
-    "manufacturer_code": 7,
-    "trim_name": "550e Sedan",
-    "standard_features": [
-      "Apple CarPlay",
-      "Android Auto",
-      "Rear-Wheel Drive",
-      "Hybrid Powertrain",
-      "Adaptive Cruise Control",
-      "Lane Departure Warning",
-      "Automatic Emergency Braking",
-      "LED Headlights",
-      "Power Front Seats",
-      "Dual-Zone Climate Control",
-      "Keyless Entry",
-      "Rearview Camera",
-      "Drive Mode Selector"
-    ],
-    "optional_features": [
-      "M Sport Package",
-      "Heated Front Seats",
-      "Wireless Phone Charging",
-      "Head-Up Display",
-      "Harman Kardon Surround Sound",
-      "Adaptive Suspension",
-      "Parking Assistance Package"
-    ],
-    "active": true
-  },
-  {
-    "code": "2026-740i-sedan-740i",
-    "manufacturer_code": 7,
-    "trim_name": "740i Sedan",
-    "standard_features": [
-      "Apple CarPlay",
-      "Android Auto",
-      "Rear-Wheel Drive",
-      "Navigation System",
-      "LED Headlights",
-      "Adaptive Cruise Control",
-      "Lane Departure Warning",
-      "Automatic Emergency Braking",
-      "Power Front Seats",
-      "Dual-Zone Climate Control",
-      "Keyless Entry",
-      "Rearview Camera",
-      "Air Suspension",
-      "Panoramic Roof"
-    ],
-    "optional_features": [
-      "Premium Package",
-      "Executive Package",
-      "Luxury Rear Seating Package",
-      "Driving Assistance Professional Package",
-      "M Sport Professional Package",
-      "Bowers & Wilkins Diamond Surround Sound",
-      "Heated Front and Rear Seats",
-      "Ventilated Front Seats",
-      "Head-Up Display",
-      "Parking Assistance Professional"
-    ],
-    "active": true
-  },
-  {
-    "code": "2026-740i-xdrive-sedan-740i-xdrive",
-    "manufacturer_code": 7,
-    "trim_name": "740i xDrive Sedan",
-    "standard_features": [
-      "Apple CarPlay",
-      "Android Auto",
-      "All-Wheel Drive",
-      "3.0L Turbocharged I6 with Mild Hybrid",
-      "8-Speed Automatic Transmission",
-      "Adaptive Air Suspension",
-      "Adaptive Cruise Control",
-      "Lane Departure Warning",
-      "Automatic Emergency Braking",
-      "LED Headlights",
-      "Power Front Seats",
-      "Dual-Zone Climate Control",
-      "Keyless Entry",
-      "Rearview Camera",
-      "Blind Spot Monitoring",
-      "Rear Parking Sensors"
-    ],
-    "optional_features": [
-      "Premium Package",
-      "M Sport Professional Package",
-      "Driving Assistance Professional Package",
-      "Executive Package",
-      "Luxury Rear Seating Package",
-      "BMW Individual Composition",
-      "Bowers & Wilkins Diamond Surround Sound System",
-      "Heated Front and Rear Seats",
-      "Ventilated Front Seats",
-      "Head-Up Display",
-      "Parking Assistance Professional"
-    ],
-    "active": true
-  },
-  {
-    "code": "2026-750e-xdrive-sedan-750e-xdrive",
-    "manufacturer_code": 7,
-    "trim_name": "750e xDrive Sedan",
-    "standard_features": [
-      "Apple CarPlay",
-      "Android Auto",
-      "All‑Wheel Drive",
-      "3.0L Turbocharged I6 Plug‑In Hybrid",
-      "Electric Motor with Regenerative Braking",
-      "8‑Speed Automatic Transmission",
-      "Adaptive Air Suspension",
-      "LED Headlights",
-      "Integrated Navigation System",
-      "Blind Spot Monitoring",
-      "Adaptive Cruise Control",
-      "Lane Departure Warning",
-      "Automatic Emergency Braking",
-      "Rearview Camera",
-      "Power Front Seats",
-      "Dual‑Zone Climate Control",
-      "Panoramic Roof",
-      "Wireless Phone Charging",
-      "Cruise Control"
-    ],
-    "optional_features": [
-      "BMW Individual Composition Package",
-      "Driving Assistance Professional Package",
-      "Heated Front and Rear Seats",
-      "Ventilated Front Seats",
-      "Head‑Up Display",
-      "Parking Assistance Professional",
-      "Bowers & Wilkins Diamond Surround Sound System",
-      "Executive Lounge Rear Seat Package"
-    ],
-    "active": true
-  },
-  {
-    "code": "2026-760i-xdrive-sedan-760i-xdrive",
-    "manufacturer_code": 7,
-    "trim_name": "760i xDrive Sedan",
-    "standard_features": [
-      "Apple CarPlay",
-      "Android Auto",
-      "All-Wheel Drive",
-      "4.4L Twin‑Turbo V8 with Mild Hybrid",
-      "8‑Speed Automatic Transmission",
-      "Adaptive Air Suspension",
-      "LED Matrix Headlights",
-      "Navigation System",
-      "Blind Spot Monitoring",
-      "Adaptive Cruise Control",
-      "Lane Departure Warning",
-      "Automatic Emergency Braking",
-      "Rearview Camera",
-      "Power Front Seats with Multi‑Way Adjustments",
-      "Ventilated Front Seats",
-      "Heated Front and Rear Seats",
-      "Dual‑Zone Automatic Climate Control",
-      "Panoramic Sky Lounge Roof",
-      "Wireless Phone Charging",
-      "Digital Instrument Cluster",
-      "Memory Seats"
-    ],
-    "optional_features": [
-      "Executive Package",
-      "Driving Assistance Professional Package",
-      "Luxury Rear Seating Package",
-      "BMW Individual Composition Package",
-      "M Sport Professional Package",
-      "Bowers & Wilkins Diamond Surround Sound System",
-      "Head‑Up Display",
-      "Parking Assistance Professional"
-    ],
-    "active": true
-  },
-  {
-    "code": "2026-840i-coupe-840i",
-    "manufacturer_code": 7,
-    "trim_name": "840i Coupe",
-    "standard_features": [
-      "Apple CarPlay",
-      "Android Auto",
-      "Rear-Wheel Drive",
-      "3.0L Twin‑Power Turbo I6",
-      "8‑Speed Automatic Transmission",
-      "Adaptive Suspension",
-      "LED Headlights",
-      "Power Front Seats",
-      "Dual‑Zone Climate Control",
-      "Keyless Entry",
-      "Rearview Camera",
-      "Drive Mode Selector"
-    ],
-    "optional_features": [
-      "M Sport Package",
-      "Heated Front Seats",
-      "Wireless Phone Charging",
-      "Head‑Up Display",
-      "Harman Kardon Surround Sound",
-      "Parking Assistance Package",
-      "Adaptive Suspension Enhancement",
-      "Ventilated Front Seats"
-    ],
-    "active": true
-  },
-  {
-    "code": "2026-840i-convertible-840i",
-    "manufacturer_code": 7,
-    "trim_name": "840i Convertible",
-    "standard_features": [
-      "Apple CarPlay",
-      "Android Auto",
-      "Rear-Wheel Drive",
-      "3.0L Twin‑Power Turbo I6",
-      "8‑Speed Automatic Transmission",
-      "Adaptive Suspension",
-      "LED Headlights",
-      "Power Front Seats",
-      "Dual‑Zone Climate Control",
-      "Keyless Entry",
-      "Rearview Camera",
-      "Drive Mode Selector",
-      "Power Retractable Soft Top"
-    ],
-    "optional_features": [
-      "M Sport Package",
-      "Heated Front Seats",
-      "Wireless Phone Charging",
-      "Head‑Up Display",
-      "Harman Kardon Surround Sound",
-      "Parking Assistance Package",
-      "Adaptive Suspension Enhancement",
-      "Ventilated Front Seats"
-    ],
-    "active": true
-  },
-  {
-    "code": "2026-840i-gran-coupe-840i",
-    "manufacturer_code": 7,
-    "trim_name": "840i Gran Coupe",
-    "standard_features": [
-      "Apple CarPlay",
-      "Android Auto",
-      "Rear-Wheel Drive",
-      "3.0L BMW TwinPower Turbo I6",
-      "8-Speed Automatic Transmission",
-      "Adaptive Suspension",
-      "LED Headlights",
-      "Power Front Seats with Memory",
-      "Dual-Zone Automatic Climate Control",
-      "Keyless Entry",
-      "Rearview Camera",
-      "Drive Mode Selector",
-      "Navigation System"
-    ],
-    "optional_features": [
-      "xDrive All-Wheel Drive",
-      "M Sport Package",
-      "Heated Front Seats",
-      "Wireless Phone Charging",
-      "Head-Up Display",
-      "Harman Kardon Surround Sound",
-      "Ventilated Front Seats",
-      "Parking Assistance Package"
-    ],
-    "active": true
-  },
-  {
-    "code": "2026-840i-xdrive-coupe-840i-xdrive",
-    "manufacturer_code": 7,
-    "trim_name": "840i xDrive Coupe",
-    "standard_features": [
-      "Apple CarPlay",
-      "Android Auto",
-      "All-Wheel Drive",
-      "3.0L BMW TwinPower Turbo I6",
-      "8-Speed Automatic Transmission",
-      "Adaptive Suspension",
-      "LED Headlights",
-      "Power Front Seats with Memory",
-      "Dual-Zone Automatic Climate Control",
-      "Keyless Entry",
-      "Rearview Camera",
-      "Drive Mode Selector",
-      "Navigation System"
-    ],
-    "optional_features": [
-      "M Sport Package",
-      "Heated Front Seats",
-      "Wireless Phone Charging",
-      "Head-Up Display",
-      "Harman Kardon Surround Sound",
-      "Adaptive Suspension Enhancement",
-      "Ventilated Front Seats",
-      "Parking Assistance Package"
-    ],
-    "active": true
-  },
-  {
-    "code": "2026-840i-xdrive-convertible-840i-xdrive",
-    "manufacturer_code": 7,
-    "trim_name": "840i xDrive Convertible",
-    "standard_features": [
-      "Apple CarPlay",
-      "Android Auto",
-      "All-Wheel Drive",
-      "3.0L BMW TwinPower Turbo I6",
-      "8-Speed Automatic Transmission",
-      "Adaptive Suspension",
-      "LED Headlights",
-      "Power Front Seats with Memory",
-      "Dual-Zone Automatic Climate Control",
-      "Keyless Entry",
-      "Rearview Camera",
-      "Drive Mode Selector",
-      "Navigation System",
-      "Power Retractable Soft Top"
-    ],
-    "optional_features": [
-      "M Sport Package",
-      "Heated Front Seats",
-      "Wireless Phone Charging",
-      "Head-Up Display",
-      "Harman Kardon Surround Sound",
-      "Adaptive Suspension Enhancement",
-      "Ventilated Front Seats",
-      "Parking Assistance Package"
-    ],
-    "active": true
-  },
-  {
-    "code": "2026-840i-xdrive-gran-coupe-840i-xdrive",
-    "manufacturer_code": 7,
-    "trim_name": "840i xDrive Gran Coupe",
-    "standard_features": [
-      "Apple CarPlay",
-      "Android Auto",
-      "All-Wheel Drive",
-      "3.0L BMW TwinPower Turbo I6",
-      "8-Speed Automatic Transmission",
-      "Adaptive Suspension",
-      "LED Headlights",
-      "Power Front Seats with Memory",
-      "Dual-Zone Automatic Climate Control",
-      "Keyless Entry",
-      "Rearview Camera",
-      "Drive Mode Selector",
-      "Navigation System"
-    ],
-    "optional_features": [
-      "M Sport Package",
-      "Heated Front Seats",
-      "Wireless Phone Charging",
-      "Head-Up Display",
-      "Harman Kardon Surround Sound",
-      "Adaptive Suspension Enhancement",
-      "Ventilated Front Seats",
-      "Parking Assistance Package"
-    ],
-    "active": true
-  },
-  {
-    "code": "2026-i4-edrive40-sedan-edrive40",
-    "manufacturer_code": 7,
-    "trim_name": "i4 eDrive40",
-    "standard_features": [
-      "Electric Powertrain (Single Motor, RWD)",
-      "81 kWh Battery Pack",
-      "Regenerative Braking",
-      "LED Headlights",
-      "BMW iDrive 8.5 with 14.9\" Touchscreen",
-      "Apple CarPlay",
-      "Android Auto",
-      "Navigation System",
-      "Forward Collision Warning",
-      "Automatic Emergency Braking",
-      "Blind Spot Monitoring",
-      "Lane Keeping Assist",
-      "Rear Cross Traffic Alert",
-      "Rearview Camera",
-      "Dual-Zone Climate Control",
-      "Power Front Seats"
-    ],
-    "optional_features": [
-      "Dynamic Handling Package",
-      "Glass Controls",
-      "Premium Package (Heated Steering Wheel, Harman Kardon Audio)",
-      "Driving Assistance Package",
-      "Driving Assistance Professional Package",
-      "Parking Assistance Package",
-      "Heated Front and Rear Seats"
-    ],
-    "active": true
-  },
-  {
-    "code": "2026-i4-xdrive40-sedan-xdrive40",
-    "manufacturer_code": 7,
-    "trim_name": "i4 xDrive40",
-    "standard_features": [
-      "Electric Powertrain (Dual Motor, AWD)",
-      "81 kWh Battery Pack",
-      "Regenerative Braking",
-      "LED Headlights",
-      "BMW iDrive 8.5 with 14.9\" Touchscreen",
-      "Apple CarPlay",
-      "Android Auto",
-      "Navigation System",
-      "Forward Collision Warning",
-      "Automatic Emergency Braking",
-      "Blind Spot Monitoring",
-      "Lane Keeping Assist",
-      "Rear Cross Traffic Alert",
-      "Rearview Camera",
-      "Dual-Zone Climate Control",
-      "Power Front Seats"
-    ],
-    "optional_features": [
-      "Dynamic Handling Package",
-      "Glass Controls",
-      "Premium Package (Heated Steering Wheel, Harman Kardon Audio)",
-      "Driving Assistance Package",
-      "Driving Assistance Professional Package",
-      "Parking Assistance Package",
-      "Heated Front and Rear Seats"
-    ],
-    "active": true
-  },
-  {
-    "code": "2026-i4-m60-sedan-m60",
-    "manufacturer_code": 7,
-    "trim_name": "i4 M60",
-    "standard_features": [
-      "Electric Powertrain (Dual Motor, Performance AWD)",
-      "81 kWh Battery Pack",
-      "Regenerative Braking",
-      "LED Headlights",
-      "BMW iDrive 8.5 with 14.9\" Touchscreen",
-      "Apple CarPlay",
-      "Android Auto",
-      "Navigation System",
-      "Forward Collision Warning",
-      "Automatic Emergency Braking",
-      "Blind Spot Monitoring",
-      "Lane Keeping Assist",
-      "Rear Cross Traffic Alert",
-      "Rearview Camera",
-      "Dual-Zone Climate Control",
-      "Power Sport Seats",
-      "Performance Brakes",
-      "Sport Suspension"
-    ],
-    "optional_features": [
-      "Dynamic Handling Package",
-      "Glass Controls",
-      "Premium Package (Heated Steering Wheel, Harman Kardon Audio)",
-      "Driving Assistance Package",
-      "Driving Assistance Professional Package",
-      "Parking Assistance Package",
-      "Heated Front and Rear Seats"
-    ],
-    "active": true
-  },
-  {
-    "code": "2026-i5-edrive40-sedan-edrive40",
-    "manufacturer_code": 7,
-    "trim_name": "i5 eDrive40",
-    "standard_features": [
-      "Electric Powertrain (Single Motor, RWD)",
-      "Regenerative Braking",
-      "84.3 kWh Battery Pack",
-      "BMW iDrive 8.5 with Digital Display",
-      "Wireless Apple CarPlay",
-      "Wireless Android Auto",
-      "Navigation System",
-      "Forward Collision Warning",
-      "Automatic Emergency Braking",
-      "Blind Spot Monitoring",
-      "Lane Keeping Assist",
-      "Rear Cross Traffic Alert",
-      "Rearview Camera",
-      "Dual-Zone Climate Control",
-      "Heated Front Seats",
-      "19-inch Wheels"
-    ],
-    "optional_features": [
-      "M Sport Package",
-      "Driving Assistance Package",
-      "Driving Assistance Professional Package",
-      "Parking Assistance Package",
-      "Head-Up Display",
-      "Harman Kardon Premium Audio",
-      "Glass Controls",
-      "Heated Rear Seats"
-    ],
-    "active": true
-  },
-  {
-    "code": "2026-i5-xdrive40-sedan-xdrive40",
-    "manufacturer_code": 7,
-    "trim_name": "i5 xDrive40",
-    "standard_features": [
-      "Electric Powertrain (Dual Motor, AWD)",
-      "Regenerative Braking",
-      "84.3 kWh Battery Pack",
-      "BMW iDrive 8.5 with Digital Display",
-      "Wireless Apple CarPlay",
-      "Wireless Android Auto",
-      "Navigation System",
-      "Forward Collision Warning",
-      "Automatic Emergency Braking",
-      "Blind Spot Monitoring",
-      "Lane Keeping Assist",
-      "Rear Cross Traffic Alert",
-      "Rearview Camera",
-      "Dual-Zone Climate Control",
-      "Heated Front Seats",
-      "19-inch Wheels"
-    ],
-    "optional_features": [
-      "M Sport Package",
-      "Driving Assistance Package",
-      "Driving Assistance Professional Package",
-      "Parking Assistance Package",
-      "Head-Up Display",
-      "Harman Kardon Premium Audio",
-      "Glass Controls",
-      "Heated Rear Seats"
-    ],
-    "active": true
-  },
-  {
-    "code": "2026-i5-m60-sedan-m60",
-    "manufacturer_code": 7,
-    "trim_name": "i5 M60 xDrive",
-    "standard_features": [
-      "Electric Powertrain (Dual Motor, Performance AWD)",
-      "Regenerative Braking",
-      "84.3 kWh Battery Pack",
-      "BMW iDrive 8.5 with Digital Display",
-      "Wireless Apple CarPlay",
-      "Wireless Android Auto",
-      "Navigation System",
-      "Performance Brakes",
-      "Sport Suspension",
-      "Forward Collision Warning",
-      "Automatic Emergency Braking",
-      "Blind Spot Monitoring",
-      "Lane Keeping Assist",
-      "Rear Cross Traffic Alert",
-      "Rearview Camera",
-      "Dual-Zone Climate Control",
-      "Heated Front Seats",
-      "19-inch Wheels"
-    ],
-    "optional_features": [
-      "M Sport Package",
-      "Driving Assistance Package",
-      "Driving Assistance Professional Package",
-      "Parking Assistance Package",
-      "Head-Up Display",
-      "Bowers & Wilkins Diamond Audio",
-      "Glass Controls",
-      "Heated Rear Seats"
-    ],
-    "active": true
-  },
-  {
-    "code": "2026-i7-edrive50-sedan-edrive50",
-    "manufacturer_code": 7,
-    "trim_name": "i7 eDrive50",
-    "standard_features": [
-      "Electric Powertrain (Single Motor, RWD)",
-      "BMW iDrive 8.5 with Curved Display",
-      "Navigation System",
-      "Wireless Apple CarPlay",
-      "Wireless Android Auto",
-      "LED Adaptive Headlights",
-      "Adaptive Cruise Control",
-      "Lane Departure Warning",
-      "Automatic Emergency Braking",
-      "Blind Spot Monitoring",
-      "Rear Cross Traffic Alert",
-      "Rearview Camera",
-      "Four‑Zone Automatic Climate Control",
-      "Power Front and Rear Seats",
-      "Ambient Interior Lighting",
-      "Panoramic Sky Lounge Roof"
-    ],
-    "optional_features": [
-      "Driving Assistance Professional Package",
-      "Parking Assistance Professional",
-      "Executive Lounge Rear Seat Package",
-      "Bowers & Wilkins Diamond Surround Sound",
-      "Heated and Ventilated Seats",
-      "Heated Rear Seats",
-      "Head-Up Display",
-      "Glass Controls",
-      "BMW Individual Composition"
-    ],
-    "active": true
-  },
-  {
-    "code": "2026-i7-xdrive60-sedan-xdrive60",
-    "manufacturer_code": 7,
-    "trim_name": "i7 xDrive60",
-    "standard_features": [
-      "Electric Powertrain (Dual Motor, AWD)",
-      "BMW iDrive 8.5 with Curved Display",
-      "Navigation System",
-      "Wireless Apple CarPlay",
-      "Wireless Android Auto",
-      "LED Adaptive Headlights",
-      "Adaptive Cruise Control",
-      "Lane Departure Warning",
-      "Automatic Emergency Braking",
-      "Blind Spot Monitoring",
-      "Rear Cross Traffic Alert",
-      "Rearview Camera",
-      "Four‑Zone Automatic Climate Control",
-      "Power Front and Rear Seats",
-      "Ambient Interior Lighting",
-      "Panoramic Sky Lounge Roof"
-    ],
-    "optional_features": [
-      "Driving Assistance Professional Package",
-      "Parking Assistance Professional",
-      "Executive Lounge Rear Seat Package",
-      "Bowers & Wilkins Diamond Surround Sound",
-      "Heated and Ventilated Seats",
-      "Heated Rear Seats",
-      "Head-Up Display",
-      "Glass Controls",
-      "BMW Individual Composition"
-    ],
-    "active": true
-  },
-  {
-    "code": "2026-i7-m70-xdrive-sedan-m70-xdrive",
-    "manufacturer_code": 7,
-    "trim_name": "i7 M70 xDrive",
-    "standard_features": [
-      "Electric Powertrain (Dual Motor, Performance AWD)",
-      "BMW iDrive 8.5 with Curved Display",
-      "Navigation System",
-      "Wireless Apple CarPlay",
-      "Wireless Android Auto",
-      "LED Adaptive Headlights",
-      "Adaptive Cruise Control",
-      "Lane Departure Warning",
-      "Automatic Emergency Braking",
-      "Blind Spot Monitoring",
-      "Rear Cross Traffic Alert",
-      "Rearview Camera",
-      "Four‑Zone Automatic Climate Control",
-      "Power Sport Seats",
-      "Ambient Interior Lighting",
-      "Panoramic Sky Lounge Roof",
-      "Performance Brakes",
-      "Sport Suspension"
-    ],
-    "optional_features": [
-      "Driving Assistance Professional Package",
-      "Parking Assistance Professional",
-      "Executive Lounge Rear Seat Package",
-      "Bowers & Wilkins Diamond Surround Sound",
-      "Heated and Ventilated Seats",
-      "Heated Rear Seats",
-      "Head-Up Display",
-      "Glass Controls",
-      "BMW Individual Composition"
-    ],
-    "active": true
-  },
-  {
-    "code": "2026-ix-xdrive45-suv-xdrive45",
-    "manufacturer_code": 7,
-    "trim_name": "iX xDrive45",
-    "standard_features": [
-      "All-Wheel Drive",
-      "Electric Powertrain (Dual Motor)",
-      "Regenerative Braking",
-      "LED Headlights",
-      "Curved BMW iDrive Display",
-      "Navigation System",
-      "Wireless Apple CarPlay",
-      "Wireless Android Auto",
-      "Adaptive Cruise Control",
-      "Lane Departure Warning",
-      "Automatic Emergency Braking",
-      "Blind Spot Monitoring",
-      "Rear Cross Traffic Alert",
-      "Rearview Camera",
-      "Dual-Zone Climate Control",
-      "Heated Front Seats"
-    ],
-    "optional_features": [
-      "M Sport Package",
-      "Driving Assistance Package",
-      "Driving Assistance Professional Package",
-      "Parking Assistance Package",
-      "Head-Up Display",
-      "Harman Kardon Premium Audio",
-      "Glass Controls",
-      "Panoramic Roof"
-    ],
-    "active": true
-  },
-  {
-    "code": "2026-ix-xdrive60-suv-xdrive60",
-    "manufacturer_code": 7,
-    "trim_name": "iX xDrive60",
-    "standard_features": [
-      "All-Wheel Drive",
-      "Electric Powertrain (Dual Motor, 536 hp)",
-      "Regenerative Braking",
-      "LED Headlights",
-      "Curved BMW iDrive Display",
-      "Navigation System",
-      "Wireless Apple CarPlay",
-      "Wireless Android Auto",
-      "Adaptive Cruise Control",
-      "Lane Departure Warning",
-      "Automatic Emergency Braking",
-      "Blind Spot Monitoring",
-      "Rear Cross Traffic Alert",
-      "Rearview Camera",
-      "Dual-Zone Climate Control",
-      "Heated Front Seats"
-    ],
-    "optional_features": [
-      "M Sport Package",
-      "Driving Assistance Package",
-      "Driving Assistance Professional Package",
-      "Parking Assistance Package",
-      "Head-Up Display",
-      "Harman Kardon Premium Audio",
-      "Glass Controls",
-      "Panoramic Roof"
-    ],
-    "active": true
-  },
-  {
-    "code": "2026-ix-m70-xdrive-suv-m70-xdrive",
-    "manufacturer_code": 7,
-    "trim_name": "iX M70 xDrive",
-    "standard_features": [
-      "All-Wheel Drive",
-      "Electric Powertrain (Dual Motor, Performance)",
-      "Regenerative Braking",
-      "LED Headlights",
-      "Curved BMW iDrive Display",
-      "Navigation System",
-      "Wireless Apple CarPlay",
-      "Wireless Android Auto",
-      "Adaptive Cruise Control",
-      "Lane Departure Warning",
-      "Automatic Emergency Braking",
-      "Blind Spot Monitoring",
-      "Rear Cross Traffic Alert",
-      "Rearview Camera",
-      "Dual-Zone Climate Control",
-      "Heated Front Seats",
-      "Performance Brakes",
-      "Sport Suspension"
-    ],
-    "optional_features": [
-      "M Sport Professional Package",
-      "Driving Assistance Professional Package",
-      "Parking Assistance Package",
-      "Head-Up Display",
-      "Bowers & Wilkins Diamond Audio",
-      "Glass Controls",
-      "Panoramic Roof"
-    ],
-    "active": true
-  },
-  {
-    "code": "2026-m2-coupe-m2",
-    "manufacturer_code": 7,
-    "trim_name": "M2 Coupe",
-    "standard_features": [
-      "Rear‑Wheel Drive",
-      "3.0L Twin‑Turbo Inline‑6 Engine",
-      "6‑Speed Manual Transmission (or Optional 8‑Speed Automatic)",
-      "Adaptive M Suspension",
-      "M Sport Differential",
-      "19\" Front / 20\" Rear Wheels",
-      "LED Headlights",
-      "Heated Front Seats",
-      "Merino Leather Upholstery",
-      "BMW iDrive 8.5 with 12.3\" Digital Instrument Cluster",
-      "14.9\" Touchscreen",
-      "Navigation",
-      "Wireless Apple CarPlay and Android Auto",
-      "Automatic Emergency Braking",
-      "Lane Departure Warning",
-      "Blind Spot Monitoring",
-      "Rearview Camera",
-      "Parking Sensors",
-      "Dual‑Zone Climate Control"
-    ],
-    "optional_features": [
-      "Carbon Package (Carbon Roof, Carbon Trim)",
-      "Lighting Package",
-      "Harman Kardon Premium Audio",
-      "Head‑Up Display",
-      "Parking Assistance Package",
-      "Adaptive M Differential",
-      "Performance Tires Package"
-    ],
-    "active": true
-  },
-  {
-    "code": "2026-m2-cs-coupe-m2-cs",
-    "manufacturer_code": 7,
-    "trim_name": "M2 CS Coupe",
-    "standard_features": [
-      "Rear‑Wheel Drive",
-      "3.0L Twin‑Turbo Inline‑6 Engine (523 hp)",
-      "8‑Speed Automatic Transmission",
-      "Adaptive M Suspension with Track Tuning",
-      "M Sport Differential",
-      "Carbon Fiber Roof and Trunk Lid",
-      "M Carbon Bucket Seats",
-      "Carbon Trim Inserts",
-      "19\" Front / 20\" Rear Forged Wheels",
-      "Performance Brakes",
-      "Adaptive LED Headlights",
-      "Heated Front Seats",
-      "Merino Leather Upholstery",
-      "BMW iDrive 8.5 with 12.3\" Digital Cluster",
-      "14.9\" Touchscreen",
-      "Navigation",
-      "Wireless Apple CarPlay and Android Auto",
-      "Automatic Emergency Braking",
-      "Lane Departure Warning",
-      "Blind Spot Monitoring",
-      "Rearview Camera",
-      "Parking Sensors",
-      "Dual‑Zone Climate Control"
-    ],
-    "optional_features": [
-      "Carbon‑Ceramic Brakes",
-      "Head‑Up Display",
-      "Harman Kardon Premium Audio",
-      "Parking Assistance Package"
-    ],
-    "active": true
-  },
-  {
-    "code": "2026-m3-sedan-m3",
-    "manufacturer_code": 7,
-    "trim_name": "M3 Sedan",
-    "standard_features": [
-      "Rear-Wheel Drive",
-      "3.0L Twin‑Turbo Inline‑6 Engine",
-      "473 hp",
-      "6‑Speed Manual Transmission",
-      "Adaptive M Suspension",
-      "LED Headlights",
-      "M Sport Seats with Merino Leather",
-      "BMW iDrive 8.5 with Digital Display",
-      "Navigation System",
-      "Wireless Apple CarPlay and Android Auto",
-      "Automatic Emergency Braking",
-      "Blind Spot Monitoring",
-      "Lane Departure Warning",
-      "Rearview Camera",
-      "Parking Sensors",
-      "Dual‑Zone Climate Control"
-    ],
-    "optional_features": [
-      "M Drive Professional Package",
-      "Carbon Package",
-      "Head‑Up Display",
-      "Harman Kardon Premium Audio",
-      "Parking Assistance Package",
-      "Heated Front Seats",
-      "Ventilated Front Seats"
-    ],
-    "active": true
-  },
-  {
-    "code": "2026-m3-sedan-competition",
-    "manufacturer_code": 7,
-    "trim_name": "M3 Competition Sedan",
-    "standard_features": [
-      "Rear-Wheel Drive",
-      "3.0L Twin‑Turbo Inline‑6 Engine",
-      "503 hp",
-      "8‑Speed Automatic Transmission",
-      "Adaptive M Suspension",
-      "M Sport Differential",
-      "LED Headlights",
-      "M Sport Seats with Merino Leather",
-      "BMW iDrive 8.5 with Digital Display",
-      "Navigation System",
-      "Wireless Apple CarPlay and Android Auto",
-      "Automatic Emergency Braking",
-      "Blind Spot Monitoring",
-      "Lane Departure Warning",
-      "Rearview Camera",
-      "Parking Sensors",
-      "Dual‑Zone Climate Control"
-    ],
-    "optional_features": [
-      "M Drive Professional Package",
-      "Carbon Package",
-      "Head‑Up Display",
-      "Harman Kardon Premium Audio",
-      "Parking Assistance Package",
-      "Heated Front Seats",
-      "Ventilated Front Seats"
-    ],
-    "active": true
-  },
-  {
-    "code": "2026-m3-sedan-competition-xdrive",
-    "manufacturer_code": 7,
-    "trim_name": "M3 Competition xDrive Sedan",
-    "standard_features": [
-      "All-Wheel Drive",
-      "3.0L Twin‑Turbo Inline‑6 Engine",
-      "523 hp",
-      "8‑Speed Automatic Transmission",
-      "Adaptive M Suspension",
-      "M Sport Differential",
-      "LED Headlights",
-      "M Sport Seats with Merino Leather",
-      "BMW iDrive 8.5 with Digital Display",
-      "Navigation System",
-      "Wireless Apple CarPlay and Android Auto",
-      "Automatic Emergency Braking",
-      "Blind Spot Monitoring",
-      "Lane Departure Warning",
-      "Rearview Camera",
-      "Parking Sensors",
-      "Dual‑Zone Climate Control"
-    ],
-    "optional_features": [
-      "M Drive Professional Package",
-      "Carbon Package",
-      "Head‑Up Display",
-      "Harman Kardon Premium Audio",
-      "Parking Assistance Package",
-      "Heated Front Seats",
-      "Ventilated Front Seats"
-    ],
-    "active": true
-  },
-  {
-    "code": "2026-m4-coupe-m4",
-    "manufacturer_code": 7,
-    "trim_name": "M4 Coupe",
-    "standard_features": [
-      "Rear‑Wheel Drive",
-      "3.0L Twin‑Turbo Inline‑6 Engine",
-      "473 hp",
-      "6‑Speed Manual Transmission",
-      "Adaptive M Suspension",
-      "M Sport Brakes",
-      "LED Headlights",
-      "M Sport Seats with Merino Leather",
-      "BMW iDrive 8.5 with Digital Display",
-      "Navigation System",
-      "Wireless Apple CarPlay and Android Auto",
-      "Automatic Emergency Braking",
-      "Blind Spot Monitoring",
-      "Lane Departure Warning",
-      "Rearview Camera",
-      "Parking Sensors",
-      "Dual‑Zone Climate Control"
-    ],
-    "optional_features": [
-      "M Drive Professional Package",
-      "Carbon Package",
-      "Head‑Up Display",
-      "Harman Kardon Premium Audio",
-      "Parking Assistance Package",
-      "Heated Front Seats",
-      "Ventilated Front Seats"
-    ],
-    "active": true
-  },
-  {
-    "code": "2026-m4-coupe-competition",
-    "manufacturer_code": 7,
-    "trim_name": "M4 Competition Coupe",
-    "standard_features": [
-      "Rear‑Wheel Drive",
-      "3.0L Twin‑Turbo Inline‑6 Engine",
-      "503 hp",
-      "8‑Speed Automatic Transmission",
-      "Adaptive M Suspension",
-      "M Sport Differential",
-      "M Sport Brakes",
-      "LED Headlights",
-      "M Sport Seats with Merino Leather",
-      "BMW iDrive 8.5 with Digital Display",
-      "Navigation System",
-      "Wireless Apple CarPlay and Android Auto",
-      "Automatic Emergency Braking",
-      "Blind Spot Monitoring",
-      "Lane Departure Warning",
-      "Rearview Camera",
-      "Parking Sensors",
-      "Dual‑Zone Climate Control"
-    ],
-    "optional_features": [
-      "M Drive Professional Package",
-      "Carbon Package",
-      "Head‑Up Display",
-      "Harman Kardon Premium Audio",
-      "Parking Assistance Package",
-      "Heated Front Seats",
-      "Ventilated Front Seats"
-    ],
-    "active": true
-  },
-  {
-    "code": "2026-m4-coupe-competition-xdrive",
-    "manufacturer_code": 7,
-    "trim_name": "M4 Competition xDrive Coupe",
-    "standard_features": [
-      "All‑Wheel Drive",
-      "3.0L Twin‑Turbo Inline‑6 Engine",
-      "523 hp",
-      "8‑Speed Automatic Transmission",
-      "Adaptive M Suspension",
-      "M Sport Differential",
-      "M Sport Brakes",
-      "LED Headlights",
-      "M Sport Seats with Merino Leather",
-      "BMW iDrive 8.5 with Digital Display",
-      "Navigation System",
-      "Wireless Apple CarPlay and Android Auto",
-      "Automatic Emergency Braking",
-      "Blind Spot Monitoring",
-      "Lane Departure Warning",
-      "Rearview Camera",
-      "Parking Sensors",
-      "Dual‑Zone Climate Control"
-    ],
-    "optional_features": [
-      "M Drive Professional Package",
-      "Carbon Package",
-      "Head‑Up Display",
-      "Harman Kardon Premium Audio",
-      "Parking Assistance Package",
-      "Heated Front Seats",
-      "Ventilated Front Seats"
-    ],
-    "active": true
-  },
-  {
-    "code": "2026-m5-sedan-m5",
-    "manufacturer_code": 7,
-    "trim_name": "M5 Sedan",
-    "standard_features": [
-      "All-Wheel Drive (M xDrive)",
-      "4.4L Twin‑Turbo V8 + Plug‑In Hybrid Powertrain",
-      "8‑Speed M Steptronic Automatic Transmission",
-      "Adaptive M Suspension",
-      "LED Adaptive Headlights",
-      "Navigation System",
-      "Wireless Apple CarPlay and Android Auto",
-      "Adaptive Cruise Control",
-      "Lane Departure Warning",
-      "Automatic Emergency Braking",
-      "Blind Spot Monitoring",
-      "Rear Cross Traffic Alert",
-      "Rearview Camera",
-      "Parking Sensors",
-      "Four‑Zone Automatic Climate Control",
-      "Performance Brakes"
-    ],
-    "optional_features": [
-      "Carbon‑Ceramic Brakes",
-      "M Driver’s Package",
-      "Executive Package",
-      "Heated and Ventilated Seats",
-      "Head‑Up Display",
-      "Bowers & Wilkins Diamond Surround Sound",
-      "Parking Assistance Professional",
-      "BMW Individual Customization Options"
-    ],
-    "active": true
-  },
-  {
-    "code": "2026-m8-competition-convertible-m8-competition",
-    "manufacturer_code": 7,
-    "trim_name": "M8 Competition Convertible",
-    "standard_features": [
-      "All‑Wheel Drive (M xDrive)",
-      "4.4L Twin‑Turbo V8 Engine (~627 hp)",
-      "8‑Speed M Steptronic Automatic Transmission",
-      "Adaptive M Suspension",
-      "M Sport Brakes with Large Rotors",
-      "Active M Differential",
-      "LED Adaptive Headlights",
-      "Merino Leather Upholstery",
-      "M Carbon Bucket Seats",
-      "Convertible Soft Top with Power Operation",
-      "BMW iDrive 8.5 with Curved Display",
-      "Navigation System",
-      "Wireless Apple CarPlay and Android Auto",
-      "Adaptive Cruise Control",
-      "Lane Departure Warning",
-      "Automatic Emergency Braking",
-      "Blind Spot Monitoring",
-      "Rear Cross Traffic Alert",
-      "Surround View / Parking Sensors",
-      "Four‑Zone Automatic Climate Control"
-    ],
-    "optional_features": [
-      "Bowers & Wilkins Diamond Surround Sound",
-      "Head‑Up Display",
-      "M Carbon Ceramic Brakes",
-      "Carbon Fiber Exterior Package",
-      "Heated and Ventilated Seats",
-      "Parking Assistance Professional",
-      "BMW Individual Custom Paint / Trim"
-    ],
-    "active": true
-  },
-  {
-    "code": "2026-m8-competition-gran-coupe-m8-competition",
-    "manufacturer_code": 7,
-    "trim_name": "M8 Competition Gran Coupe",
-    "standard_features": [
-      "All‑Wheel Drive (M xDrive)",
-      "4.4L Twin‑Turbo V8 (~627 hp)",
-      "8‑Speed M Steptronic Automatic Transmission",
-      "Adaptive M Suspension",
-      "M Sport Brakes with Large Rotors",
-      "Active M Differential",
-      "LED Adaptive Headlights",
-      "Merino Leather Upholstery",
-      "M Carbon Sports Seats",
-      "BMW iDrive 8.5 with Curved Display",
-      "Navigation System",
-      "Wireless Apple CarPlay and Android Auto",
-      "Adaptive Cruise Control",
-      "Lane Departure Warning",
-      "Automatic Emergency Braking",
-      "Blind Spot Monitoring",
-      "Rear Cross Traffic Alert",
-      "Surround View / Parking Sensors",
-      "Four‑Zone Automatic Climate Control"
-    ],
-    "optional_features": [
-      "Bowers & Wilkins Diamond Surround Sound",
-      "Head‑Up Display",
-      "M Carbon Ceramic Brakes",
-      "Carbon Fiber Exterior Package",
-      "Heated and Ventilated Seats",
-      "Parking Assistance Professional",
-      "BMW Individual Custom Paint / Trim"
-    ],
-    "active": true
-  },
-  {
-    "code": "2026-m235-xdrive-gran-coupe-m235-xdrive",
+    "code": "2026-m235-xdrive-gran-coupe",
+    "model_code": "2 Series",
     "manufacturer_code": 7,
     "trim_name": "M235 xDrive Gran Coupe",
     "standard_features": [
@@ -4834,6 +3455,7 @@
   },
   {
     "code": "2026-m240i-coupe-m240i",
+    "model_code": "2 Series",
     "manufacturer_code": 7,
     "trim_name": "M240i Coupe",
     "standard_features": [
@@ -4866,7 +3488,8 @@
     "active": true
   },
   {
-    "code": "2026-m240i-xdrive-coupe-m240i-xdrive",
+    "code": "2026-m240i-xdrive-coupe",
+    "model_code": "2 Series",
     "manufacturer_code": 7,
     "trim_name": "M240i xDrive Coupe",
     "standard_features": [
@@ -4899,9 +3522,70 @@
     "active": true
   },
   {
-    "code": "2026-m340i-sedan-m340i",
+    "code": "2026-330i-sedan-330i",
+    "model_code": "3 Series",
     "manufacturer_code": 7,
-    "trim_name": "M340i Sedan",
+    "trim_name": "330i Sedan",
+    "standard_features": [
+      "Apple CarPlay",
+      "Android Auto",
+      "Rear-Wheel Drive",
+      "Adaptive Cruise Control",
+      "Lane Departure Warning",
+      "Automatic Emergency Braking",
+      "LED Headlights",
+      "Power Front Seats",
+      "Dual-Zone Climate Control",
+      "Keyless Entry",
+      "Rearview Camera",
+      "Drive Mode Selector"
+    ],
+    "optional_features": [
+      "M Sport Package",
+      "Heated Front Seats",
+      "Wireless Phone Charging",
+      "Head-Up Display",
+      "Harman Kardon Surround Sound",
+      "Adaptive Suspension",
+      "Parking Assistance Package"
+    ],
+    "active": true
+  },
+  {
+    "code": "2026-330i-xdrive-sedan",
+    "model_code": "3 Series",
+    "manufacturer_code": 7,
+    "trim_name": "330i xDrive",
+    "standard_features": [
+      "Apple CarPlay",
+      "Android Auto",
+      "All-Wheel Drive",
+      "Adaptive Cruise Control",
+      "Lane Departure Warning",
+      "Automatic Emergency Braking",
+      "LED Headlights",
+      "Power Front Seats",
+      "Dual-Zone Climate Control",
+      "Keyless Entry",
+      "Rearview Camera",
+      "Drive Mode Selector"
+    ],
+    "optional_features": [
+      "M Sport Package",
+      "Heated Front Seats",
+      "Wireless Phone Charging",
+      "Head-Up Display",
+      "Harman Kardon Surround Sound",
+      "Adaptive Suspension",
+      "Parking Assistance Package"
+    ],
+    "active": true
+  },
+  {
+    "code": "2026-m340i-sedan",
+    "model_code": "3 Series",
+    "manufacturer_code": 7,
+    "trim_name": "M340i",
     "standard_features": [
       "Rear‑Wheel Drive",
       "3.0L BMW TwinPower Turbo I6 Engine (~382 hp)",
@@ -4934,7 +3618,8 @@
     "active": true
   },
   {
-    "code": "2026-m340i-xdrive-sedan-m340i-xdrive",
+    "code": "2026-m340i-xdrive-sedan",
+    "model_code": "3 Series",
     "manufacturer_code": 7,
     "trim_name": "M340i xDrive Sedan",
     "standard_features": [
@@ -4969,7 +3654,189 @@
     "active": true
   },
   {
-    "code": "2026-m440i-coupe-m440i",
+    "code": "2026-430i-coupe-430i",
+    "model_code": "4 Series",
+    "manufacturer_code": 7,
+    "trim_name": "430i Coupe",
+    "standard_features": [
+      "Apple CarPlay",
+      "Android Auto",
+      "Rear-Wheel Drive",
+      "Adaptive Cruise Control",
+      "Lane Departure Warning",
+      "Automatic Emergency Braking",
+      "LED Headlights",
+      "Power Front Seats",
+      "Dual-Zone Climate Control",
+      "Keyless Entry",
+      "Rearview Camera",
+      "Drive Mode Selector"
+    ],
+    "optional_features": [
+      "xDrive All-Wheel Drive",
+      "M Sport Package",
+      "Heated Front Seats",
+      "Wireless Phone Charging",
+      "Head-Up Display",
+      "Harman Kardon Surround Sound",
+      "Adaptive Suspension",
+      "Parking Assistance Package"
+    ],
+    "active": true
+  },
+  {
+    "code": "2026-430i-convertible",
+    "model_code": "4 Series",
+    "manufacturer_code": 7,
+    "trim_name": "430i Convertible",
+    "standard_features": [
+      "Apple CarPlay",
+      "Android Auto",
+      "Rear-Wheel Drive",
+      "Adaptive Cruise Control",
+      "Lane Departure Warning",
+      "Automatic Emergency Braking",
+      "LED Headlights",
+      "Power Front Seats",
+      "Dual-Zone Climate Control",
+      "Keyless Entry",
+      "Rearview Camera",
+      "Drive Mode Selector"
+    ],
+    "optional_features": [
+      "M Sport Package",
+      "Heated Front Seats",
+      "Wireless Phone Charging",
+      "Head-Up Display",
+      "Harman Kardon Surround Sound",
+      "Adaptive Suspension",
+      "Parking Assistance Package"
+    ],
+    "active": true
+  },
+  {
+    "code": "2026-430i-gran-coupe",
+    "model_code": "4 Series",
+    "manufacturer_code": 7,
+    "trim_name": "430i Gran Coupe",
+    "standard_features": [
+      "Apple CarPlay",
+      "Android Auto",
+      "Rear-Wheel Drive",
+      "Adaptive Cruise Control",
+      "Lane Departure Warning",
+      "Automatic Emergency Braking",
+      "LED Headlights",
+      "Power Front Seats",
+      "Dual-Zone Climate Control",
+      "Keyless Entry",
+      "Rearview Camera",
+      "Drive Mode Selector"
+    ],
+    "optional_features": [
+      "M Sport Package",
+      "Heated Front Seats",
+      "Wireless Phone Charging",
+      "Head-Up Display",
+      "Harman Kardon Surround Sound",
+      "Adaptive Suspension",
+      "Parking Assistance Package"
+    ],
+    "active": true
+  },
+  {
+    "code": "2026-430i-xdrive-coupe",
+    "model_code": "4 Series",
+    "manufacturer_code": 7,
+    "trim_name": "430i xDrive Coupe",
+    "standard_features": [
+      "Apple CarPlay",
+      "Android Auto",
+      "All-Wheel Drive",
+      "Adaptive Cruise Control",
+      "Lane Departure Warning",
+      "Automatic Emergency Braking",
+      "LED Headlights",
+      "Power Front Seats",
+      "Dual-Zone Climate Control",
+      "Keyless Entry",
+      "Rearview Camera",
+      "Drive Mode Selector"
+    ],
+    "optional_features": [
+      "M Sport Package",
+      "Heated Front Seats",
+      "Wireless Phone Charging",
+      "Head-Up Display",
+      "Harman Kardon Surround Sound",
+      "Adaptive Suspension",
+      "Parking Assistance Package"
+    ],
+    "active": true
+  },
+  {
+    "code": "2026-430i-xdrive-convertible",
+    "model_code": "4 Series",
+    "manufacturer_code": 7,
+    "trim_name": "430i xDrive Convertible",
+    "standard_features": [
+      "Apple CarPlay",
+      "Android Auto",
+      "All-Wheel Drive",
+      "Adaptive Cruise Control",
+      "Lane Departure Warning",
+      "Automatic Emergency Braking",
+      "LED Headlights",
+      "Power Front Seats",
+      "Dual-Zone Climate Control",
+      "Keyless Entry",
+      "Rearview Camera",
+      "Drive Mode Selector"
+    ],
+    "optional_features": [
+      "M Sport Package",
+      "Heated Front Seats",
+      "Wireless Phone Charging",
+      "Head-Up Display",
+      "Harman Kardon Surround Sound",
+      "Adaptive Suspension",
+      "Parking Assistance Package"
+    ],
+    "active": true
+  },
+  {
+    "code": "2026-430i-xdrive-gran-coupe",
+    "model_code": "4 Series Gran Coupe",
+    "manufacturer_code": 7,
+    "trim_name": "430i xDrive Gran Coupe",
+    "standard_features": [
+      "Apple CarPlay",
+      "Android Auto",
+      "All-Wheel Drive",
+      "Adaptive Cruise Control",
+      "Lane Departure Warning",
+      "Automatic Emergency Braking",
+      "LED Headlights",
+      "Power Front Seats",
+      "Dual-Zone Climate Control",
+      "Keyless Entry",
+      "Rearview Camera",
+      "Drive Mode Selector"
+    ],
+    "optional_features": [
+      "M Sport Package",
+      "Heated Front Seats",
+      "Wireless Phone Charging",
+      "Head-Up Display",
+      "Harman Kardon Surround Sound",
+      "Adaptive Suspension",
+      "Parking Assistance Package"
+    ],
+    "active": true
+  },
+  {
+    "code": "2026-m440i-coupe",
+    "model_code": "4 Series",
     "manufacturer_code": 7,
     "trim_name": "M440i Coupe",
     "standard_features": [
@@ -5004,7 +3871,8 @@
     "active": true
   },
   {
-    "code": "2026-m440i-convertible-m440i",
+    "code": "2026-m440i-convertible",
+    "model_code": "4 Series",
     "manufacturer_code": 7,
     "trim_name": "M440i Convertible",
     "standard_features": [
@@ -5039,7 +3907,8 @@
     "active": true
   },
   {
-    "code": "2026-m440i-xdrive-coupe-m440i-xdrive",
+    "code": "2026-m440i-xdrive-coupe",
+    "model_code": "4 Series",
     "manufacturer_code": 7,
     "trim_name": "M440i xDrive Coupe",
     "standard_features": [
@@ -5074,7 +3943,8 @@
     "active": true
   },
   {
-    "code": "2026-m440i-xdrive-convertible-m440i-xdrive",
+    "code": "2026-m440i-xdrive-convertible",
+    "model_code": "4 Series",
     "manufacturer_code": 7,
     "trim_name": "M440i xDrive Convertible",
     "standard_features": [
@@ -5109,7 +3979,8 @@
     "active": true
   },
   {
-    "code": "2026-m440i-xdrive-gran-coupe-m440i-xdrive",
+    "code": "2026-m440i-xdrive-gran-coupe",
+    "model_code": "4 Series",
     "manufacturer_code": 7,
     "trim_name": "M440i xDrive Gran Coupe",
     "standard_features": [
@@ -5144,7 +4015,472 @@
     "active": true
   },
   {
-    "code": "2026-m850i-xdrive-coupe-m850i-xdrive",
+    "code": "2026-530i-sedan",
+    "model_code": "5 Series",
+    "manufacturer_code": 7,
+    "trim_name": "530i",
+    "standard_features": [
+      "Apple CarPlay",
+      "Android Auto",
+      "Rear-Wheel Drive",
+      "Adaptive Cruise Control",
+      "Lane Departure Warning",
+      "Automatic Emergency Braking",
+      "LED Headlights",
+      "Power Front Seats",
+      "Dual-Zone Climate Control",
+      "Keyless Entry",
+      "Rearview Camera",
+      "Drive Mode Selector"
+    ],
+    "optional_features": [
+      "M Sport Package",
+      "Heated Front Seats",
+      "Wireless Phone Charging",
+      "Head-Up Display",
+      "Harman Kardon Surround Sound",
+      "Adaptive Suspension",
+      "Parking Assistance Package"
+    ],
+    "active": true
+  },
+  {
+    "code": "2026-530i-xdrive-sedan",
+    "model_code": "5 Series",
+    "manufacturer_code": 7,
+    "trim_name": "530i xDrive",
+    "standard_features": [
+      "Apple CarPlay",
+      "Android Auto",
+      "All-Wheel Drive",
+      "Adaptive Cruise Control",
+      "Lane Departure Warning",
+      "Automatic Emergency Braking",
+      "LED Headlights",
+      "Power Front Seats",
+      "Dual-Zone Climate Control",
+      "Keyless Entry",
+      "Rearview Camera",
+      "Drive Mode Selector"
+    ],
+    "optional_features": [
+      "M Sport Package",
+      "Heated Front Seats",
+      "Wireless Phone Charging",
+      "Head-Up Display",
+      "Harman Kardon Surround Sound",
+      "Adaptive Suspension",
+      "Parking Assistance Package"
+    ],
+    "active": true
+  },
+  {
+    "code": "2026-540i-xdrive-sedan",
+    "model_code": "5 Series",
+    "manufacturer_code": 7,
+    "trim_name": "540i xDrive",
+    "standard_features": [
+      "Apple CarPlay",
+      "Android Auto",
+      "All-Wheel Drive",
+      "Adaptive Cruise Control",
+      "Lane Departure Warning",
+      "Automatic Emergency Braking",
+      "LED Headlights",
+      "Power Front Seats",
+      "Dual-Zone Climate Control",
+      "Keyless Entry",
+      "Rearview Camera",
+      "Drive Mode Selector"
+    ],
+    "optional_features": [
+      "M Sport Package",
+      "Heated Front Seats",
+      "Wireless Phone Charging",
+      "Head-Up Display",
+      "Harman Kardon Surround Sound",
+      "Adaptive Suspension",
+      "Parking Assistance Package"
+    ],
+    "active": true
+  },
+  {
+    "code": "2026-550e-sedan",
+    "model_code": "5 Series",
+    "manufacturer_code": 7,
+    "trim_name": "550e",
+    "standard_features": [
+      "Apple CarPlay",
+      "Android Auto",
+      "Rear-Wheel Drive",
+      "Hybrid Powertrain",
+      "Adaptive Cruise Control",
+      "Lane Departure Warning",
+      "Automatic Emergency Braking",
+      "LED Headlights",
+      "Power Front Seats",
+      "Dual-Zone Climate Control",
+      "Keyless Entry",
+      "Rearview Camera",
+      "Drive Mode Selector"
+    ],
+    "optional_features": [
+      "M Sport Package",
+      "Heated Front Seats",
+      "Wireless Phone Charging",
+      "Head-Up Display",
+      "Harman Kardon Surround Sound",
+      "Adaptive Suspension",
+      "Parking Assistance Package"
+    ],
+    "active": true
+  },
+  {
+    "code": "2026-740i-sedan",
+    "model_code": "7 Series",
+    "manufacturer_code": 7,
+    "trim_name": "740i",
+    "standard_features": [
+      "Apple CarPlay",
+      "Android Auto",
+      "Rear-Wheel Drive",
+      "Navigation System",
+      "LED Headlights",
+      "Adaptive Cruise Control",
+      "Lane Departure Warning",
+      "Automatic Emergency Braking",
+      "Power Front Seats",
+      "Dual-Zone Climate Control",
+      "Keyless Entry",
+      "Rearview Camera",
+      "Air Suspension",
+      "Panoramic Roof"
+    ],
+    "optional_features": [
+      "Premium Package",
+      "Executive Package",
+      "Luxury Rear Seating Package",
+      "Driving Assistance Professional Package",
+      "M Sport Professional Package",
+      "Bowers & Wilkins Diamond Surround Sound",
+      "Heated Front and Rear Seats",
+      "Ventilated Front Seats",
+      "Head-Up Display",
+      "Parking Assistance Professional"
+    ],
+    "active": true
+  },
+  {
+    "code": "2026-740i-xdrive-sedan",
+    "model_code": "7 Series",
+    "manufacturer_code": 7,
+    "trim_name": "740i xDrive",
+    "standard_features": [
+      "Apple CarPlay",
+      "Android Auto",
+      "All-Wheel Drive",
+      "3.0L Turbocharged I6 with Mild Hybrid",
+      "8-Speed Automatic Transmission",
+      "Adaptive Air Suspension",
+      "Adaptive Cruise Control",
+      "Lane Departure Warning",
+      "Automatic Emergency Braking",
+      "LED Headlights",
+      "Power Front Seats",
+      "Dual-Zone Climate Control",
+      "Keyless Entry",
+      "Rearview Camera",
+      "Blind Spot Monitoring",
+      "Rear Parking Sensors"
+    ],
+    "optional_features": [
+      "Premium Package",
+      "M Sport Professional Package",
+      "Driving Assistance Professional Package",
+      "Executive Package",
+      "Luxury Rear Seating Package",
+      "BMW Individual Composition",
+      "Bowers & Wilkins Diamond Surround Sound System",
+      "Heated Front and Rear Seats",
+      "Ventilated Front Seats",
+      "Head-Up Display",
+      "Parking Assistance Professional"
+    ],
+    "active": true
+  },
+  {
+    "code": "2026-750e-xdrive-sedan",
+    "model_code": "7 Series",
+    "manufacturer_code": 7,
+    "trim_name": "750e xDrive",
+    "standard_features": [
+      "Apple CarPlay",
+      "Android Auto",
+      "All‑Wheel Drive",
+      "3.0L Turbocharged I6 Plug‑In Hybrid",
+      "Electric Motor with Regenerative Braking",
+      "8‑Speed Automatic Transmission",
+      "Adaptive Air Suspension",
+      "LED Headlights",
+      "Integrated Navigation System",
+      "Blind Spot Monitoring",
+      "Adaptive Cruise Control",
+      "Lane Departure Warning",
+      "Automatic Emergency Braking",
+      "Rearview Camera",
+      "Power Front Seats",
+      "Dual‑Zone Climate Control",
+      "Panoramic Roof",
+      "Wireless Phone Charging",
+      "Cruise Control"
+    ],
+    "optional_features": [
+      "BMW Individual Composition Package",
+      "Driving Assistance Professional Package",
+      "Heated Front and Rear Seats",
+      "Ventilated Front Seats",
+      "Head‑Up Display",
+      "Parking Assistance Professional",
+      "Bowers & Wilkins Diamond Surround Sound System",
+      "Executive Lounge Rear Seat Package"
+    ],
+    "active": true
+  },
+  {
+    "code": "2026-760i-xdrive-sedan",
+    "model_code": "7 Series",
+    "manufacturer_code": 7,
+    "trim_name": "760i xDrive",
+    "standard_features": [
+      "Apple CarPlay",
+      "Android Auto",
+      "All-Wheel Drive",
+      "4.4L Twin‑Turbo V8 with Mild Hybrid",
+      "8‑Speed Automatic Transmission",
+      "Adaptive Air Suspension",
+      "LED Matrix Headlights",
+      "Navigation System",
+      "Blind Spot Monitoring",
+      "Adaptive Cruise Control",
+      "Lane Departure Warning",
+      "Automatic Emergency Braking",
+      "Rearview Camera",
+      "Power Front Seats with Multi‑Way Adjustments",
+      "Ventilated Front Seats",
+      "Heated Front and Rear Seats",
+      "Dual‑Zone Automatic Climate Control",
+      "Panoramic Sky Lounge Roof",
+      "Wireless Phone Charging",
+      "Digital Instrument Cluster",
+      "Memory Seats"
+    ],
+    "optional_features": [
+      "Executive Package",
+      "Driving Assistance Professional Package",
+      "Luxury Rear Seating Package",
+      "BMW Individual Composition Package",
+      "M Sport Professional Package",
+      "Bowers & Wilkins Diamond Surround Sound System",
+      "Head‑Up Display",
+      "Parking Assistance Professional"
+    ],
+    "active": true
+  },
+  {
+    "code": "2026-840i-coupe",
+    "model_code": "8 Series",
+    "manufacturer_code": 7,
+    "trim_name": "840i Coupe",
+    "standard_features": [
+      "Apple CarPlay",
+      "Android Auto",
+      "Rear-Wheel Drive",
+      "3.0L Twin‑Power Turbo I6",
+      "8‑Speed Automatic Transmission",
+      "Adaptive Suspension",
+      "LED Headlights",
+      "Power Front Seats",
+      "Dual‑Zone Climate Control",
+      "Keyless Entry",
+      "Rearview Camera",
+      "Drive Mode Selector"
+    ],
+    "optional_features": [
+      "M Sport Package",
+      "Heated Front Seats",
+      "Wireless Phone Charging",
+      "Head‑Up Display",
+      "Harman Kardon Surround Sound",
+      "Parking Assistance Package",
+      "Adaptive Suspension Enhancement",
+      "Ventilated Front Seats"
+    ],
+    "active": true
+  },
+  {
+    "code": "2026-840i-convertible-840i",
+    "model_code": "8 Series",
+    "manufacturer_code": 7,
+    "trim_name": "840i Convertible",
+    "standard_features": [
+      "Apple CarPlay",
+      "Android Auto",
+      "Rear-Wheel Drive",
+      "3.0L Twin‑Power Turbo I6",
+      "8‑Speed Automatic Transmission",
+      "Adaptive Suspension",
+      "LED Headlights",
+      "Power Front Seats",
+      "Dual‑Zone Climate Control",
+      "Keyless Entry",
+      "Rearview Camera",
+      "Drive Mode Selector",
+      "Power Retractable Soft Top"
+    ],
+    "optional_features": [
+      "M Sport Package",
+      "Heated Front Seats",
+      "Wireless Phone Charging",
+      "Head‑Up Display",
+      "Harman Kardon Surround Sound",
+      "Parking Assistance Package",
+      "Adaptive Suspension Enhancement",
+      "Ventilated Front Seats"
+    ],
+    "active": true
+  },
+  {
+    "code": "2026-840i-gran-coupe-840i",
+    "model_code": "8 Series",
+    "manufacturer_code": 7,
+    "trim_name": "840i Gran Coupe",
+    "standard_features": [
+      "Apple CarPlay",
+      "Android Auto",
+      "Rear-Wheel Drive",
+      "3.0L BMW TwinPower Turbo I6",
+      "8-Speed Automatic Transmission",
+      "Adaptive Suspension",
+      "LED Headlights",
+      "Power Front Seats with Memory",
+      "Dual-Zone Automatic Climate Control",
+      "Keyless Entry",
+      "Rearview Camera",
+      "Drive Mode Selector",
+      "Navigation System"
+    ],
+    "optional_features": [
+      "xDrive All-Wheel Drive",
+      "M Sport Package",
+      "Heated Front Seats",
+      "Wireless Phone Charging",
+      "Head-Up Display",
+      "Harman Kardon Surround Sound",
+      "Ventilated Front Seats",
+      "Parking Assistance Package"
+    ],
+    "active": true
+  },
+  {
+    "code": "2026-840i-xdrive-coupe",
+    "model_code": "8 Series",
+    "manufacturer_code": 7,
+    "trim_name": "840i xDrive Coupe",
+    "standard_features": [
+      "Apple CarPlay",
+      "Android Auto",
+      "All-Wheel Drive",
+      "3.0L BMW TwinPower Turbo I6",
+      "8-Speed Automatic Transmission",
+      "Adaptive Suspension",
+      "LED Headlights",
+      "Power Front Seats with Memory",
+      "Dual-Zone Automatic Climate Control",
+      "Keyless Entry",
+      "Rearview Camera",
+      "Drive Mode Selector",
+      "Navigation System"
+    ],
+    "optional_features": [
+      "M Sport Package",
+      "Heated Front Seats",
+      "Wireless Phone Charging",
+      "Head-Up Display",
+      "Harman Kardon Surround Sound",
+      "Adaptive Suspension Enhancement",
+      "Ventilated Front Seats",
+      "Parking Assistance Package"
+    ],
+    "active": true
+  },
+  {
+    "code": "2026-840i-xdrive-convertible",
+    "model_code": "8 Series",
+    "manufacturer_code": 7,
+    "trim_name": "840i xDrive Convertible",
+    "standard_features": [
+      "Apple CarPlay",
+      "Android Auto",
+      "All-Wheel Drive",
+      "3.0L BMW TwinPower Turbo I6",
+      "8-Speed Automatic Transmission",
+      "Adaptive Suspension",
+      "LED Headlights",
+      "Power Front Seats with Memory",
+      "Dual-Zone Automatic Climate Control",
+      "Keyless Entry",
+      "Rearview Camera",
+      "Drive Mode Selector",
+      "Navigation System",
+      "Power Retractable Soft Top"
+    ],
+    "optional_features": [
+      "M Sport Package",
+      "Heated Front Seats",
+      "Wireless Phone Charging",
+      "Head-Up Display",
+      "Harman Kardon Surround Sound",
+      "Adaptive Suspension Enhancement",
+      "Ventilated Front Seats",
+      "Parking Assistance Package"
+    ],
+    "active": true
+  },
+  {
+    "code": "2026-840i-xdrive-gran-coupe",
+    "model_code": "8 Series",
+    "manufacturer_code": 7,
+    "trim_name": "840i xDrive Gran Coupe",
+    "standard_features": [
+      "Apple CarPlay",
+      "Android Auto",
+      "All-Wheel Drive",
+      "3.0L BMW TwinPower Turbo I6",
+      "8-Speed Automatic Transmission",
+      "Adaptive Suspension",
+      "LED Headlights",
+      "Power Front Seats with Memory",
+      "Dual-Zone Automatic Climate Control",
+      "Keyless Entry",
+      "Rearview Camera",
+      "Drive Mode Selector",
+      "Navigation System"
+    ],
+    "optional_features": [
+      "M Sport Package",
+      "Heated Front Seats",
+      "Wireless Phone Charging",
+      "Head-Up Display",
+      "Harman Kardon Surround Sound",
+      "Adaptive Suspension Enhancement",
+      "Ventilated Front Seats",
+      "Parking Assistance Package"
+    ],
+    "active": true
+  },
+  {
+    "code": "2026-m850i-xdrive-coupe",
+    "model_code": "8 Series",
     "manufacturer_code": 7,
     "trim_name": "M850i xDrive Coupe",
     "standard_features": [
@@ -5180,7 +4516,8 @@
     "active": true
   },
   {
-    "code": "2026-m850i-xdrive-convertible-m850i-xdrive",
+    "code": "2026-m850i-xdrive-convertible",
+    "model_code": "8 Series",
     "manufacturer_code": 7,
     "trim_name": "M850i xDrive Convertible",
     "standard_features": [
@@ -5216,7 +4553,8 @@
     "active": true
   },
   {
-    "code": "2026-m850i-xdrive-gran-coupe-m850i-xdrive",
+    "code": "2026-m850i-xdrive-gran-coupe",
+    "model_code": "8 Series",
     "manufacturer_code": 7,
     "trim_name": "M850i xDrive Gran Coupe",
     "standard_features": [
@@ -5252,9 +4590,833 @@
     "active": true
   },
   {
-    "code": "2026-x1-sdrive28i-suv",
+    "code": "2026-i4-edrive40-sedan",
+    "model_code": "i4",
     "manufacturer_code": 7,
-    "trim_name": "X1 sDrive28i",
+    "trim_name": "eDrive40",
+    "standard_features": [
+      "Electric Powertrain (Single Motor, RWD)",
+      "81 kWh Battery Pack",
+      "Regenerative Braking",
+      "LED Headlights",
+      "BMW iDrive 8.5 with 14.9\" Touchscreen",
+      "Apple CarPlay",
+      "Android Auto",
+      "Navigation System",
+      "Forward Collision Warning",
+      "Automatic Emergency Braking",
+      "Blind Spot Monitoring",
+      "Lane Keeping Assist",
+      "Rear Cross Traffic Alert",
+      "Rearview Camera",
+      "Dual-Zone Climate Control",
+      "Power Front Seats"
+    ],
+    "optional_features": [
+      "Dynamic Handling Package",
+      "Glass Controls",
+      "Premium Package (Heated Steering Wheel, Harman Kardon Audio)",
+      "Driving Assistance Package",
+      "Driving Assistance Professional Package",
+      "Parking Assistance Package",
+      "Heated Front and Rear Seats"
+    ],
+    "active": true
+  },
+  {
+    "code": "2026-i4-xdrive40-sedan",
+    "model_code": "i4",
+    "manufacturer_code": 7,
+    "trim_name": "xDrive40",
+    "standard_features": [
+      "Electric Powertrain (Dual Motor, AWD)",
+      "81 kWh Battery Pack",
+      "Regenerative Braking",
+      "LED Headlights",
+      "BMW iDrive 8.5 with 14.9\" Touchscreen",
+      "Apple CarPlay",
+      "Android Auto",
+      "Navigation System",
+      "Forward Collision Warning",
+      "Automatic Emergency Braking",
+      "Blind Spot Monitoring",
+      "Lane Keeping Assist",
+      "Rear Cross Traffic Alert",
+      "Rearview Camera",
+      "Dual-Zone Climate Control",
+      "Power Front Seats"
+    ],
+    "optional_features": [
+      "Dynamic Handling Package",
+      "Glass Controls",
+      "Premium Package (Heated Steering Wheel, Harman Kardon Audio)",
+      "Driving Assistance Package",
+      "Driving Assistance Professional Package",
+      "Parking Assistance Package",
+      "Heated Front and Rear Seats"
+    ],
+    "active": true
+  },
+  {
+    "code": "2026-i4-m60-sedan",
+    "model_code": "i4",
+    "manufacturer_code": 7,
+    "trim_name": "M60",
+    "standard_features": [
+      "Electric Powertrain (Dual Motor, Performance AWD)",
+      "81 kWh Battery Pack",
+      "Regenerative Braking",
+      "LED Headlights",
+      "BMW iDrive 8.5 with 14.9\" Touchscreen",
+      "Apple CarPlay",
+      "Android Auto",
+      "Navigation System",
+      "Forward Collision Warning",
+      "Automatic Emergency Braking",
+      "Blind Spot Monitoring",
+      "Lane Keeping Assist",
+      "Rear Cross Traffic Alert",
+      "Rearview Camera",
+      "Dual-Zone Climate Control",
+      "Power Sport Seats",
+      "Performance Brakes",
+      "Sport Suspension"
+    ],
+    "optional_features": [
+      "Dynamic Handling Package",
+      "Glass Controls",
+      "Premium Package (Heated Steering Wheel, Harman Kardon Audio)",
+      "Driving Assistance Package",
+      "Driving Assistance Professional Package",
+      "Parking Assistance Package",
+      "Heated Front and Rear Seats"
+    ],
+    "active": true
+  },
+  {
+    "code": "2026-i5-edrive40-sedan",
+    "model_code": "i5",
+    "manufacturer_code": 7,
+    "trim_name": "eDrive40",
+    "standard_features": [
+      "Electric Powertrain (Single Motor, RWD)",
+      "Regenerative Braking",
+      "84.3 kWh Battery Pack",
+      "BMW iDrive 8.5 with Digital Display",
+      "Wireless Apple CarPlay",
+      "Wireless Android Auto",
+      "Navigation System",
+      "Forward Collision Warning",
+      "Automatic Emergency Braking",
+      "Blind Spot Monitoring",
+      "Lane Keeping Assist",
+      "Rear Cross Traffic Alert",
+      "Rearview Camera",
+      "Dual-Zone Climate Control",
+      "Heated Front Seats",
+      "19-inch Wheels"
+    ],
+    "optional_features": [
+      "M Sport Package",
+      "Driving Assistance Package",
+      "Driving Assistance Professional Package",
+      "Parking Assistance Package",
+      "Head-Up Display",
+      "Harman Kardon Premium Audio",
+      "Glass Controls",
+      "Heated Rear Seats"
+    ],
+    "active": true
+  },
+  {
+    "code": "2026-i5-xdrive40-sedan",
+    "model_code": "i5",
+    "manufacturer_code": 7,
+    "trim_name": "xDrive40",
+    "standard_features": [
+      "Electric Powertrain (Dual Motor, AWD)",
+      "Regenerative Braking",
+      "84.3 kWh Battery Pack",
+      "BMW iDrive 8.5 with Digital Display",
+      "Wireless Apple CarPlay",
+      "Wireless Android Auto",
+      "Navigation System",
+      "Forward Collision Warning",
+      "Automatic Emergency Braking",
+      "Blind Spot Monitoring",
+      "Lane Keeping Assist",
+      "Rear Cross Traffic Alert",
+      "Rearview Camera",
+      "Dual-Zone Climate Control",
+      "Heated Front Seats",
+      "19-inch Wheels"
+    ],
+    "optional_features": [
+      "M Sport Package",
+      "Driving Assistance Package",
+      "Driving Assistance Professional Package",
+      "Parking Assistance Package",
+      "Head-Up Display",
+      "Harman Kardon Premium Audio",
+      "Glass Controls",
+      "Heated Rear Seats"
+    ],
+    "active": true
+  },
+  {
+    "code": "2026-i5-m60-sedan",
+    "model_code": "i5",
+    "manufacturer_code": 7,
+    "trim_name": "M60 xDrive",
+    "standard_features": [
+      "Electric Powertrain (Dual Motor, Performance AWD)",
+      "Regenerative Braking",
+      "84.3 kWh Battery Pack",
+      "BMW iDrive 8.5 with Digital Display",
+      "Wireless Apple CarPlay",
+      "Wireless Android Auto",
+      "Navigation System",
+      "Performance Brakes",
+      "Sport Suspension",
+      "Forward Collision Warning",
+      "Automatic Emergency Braking",
+      "Blind Spot Monitoring",
+      "Lane Keeping Assist",
+      "Rear Cross Traffic Alert",
+      "Rearview Camera",
+      "Dual-Zone Climate Control",
+      "Heated Front Seats",
+      "19-inch Wheels"
+    ],
+    "optional_features": [
+      "M Sport Package",
+      "Driving Assistance Package",
+      "Driving Assistance Professional Package",
+      "Parking Assistance Package",
+      "Head-Up Display",
+      "Bowers & Wilkins Diamond Audio",
+      "Glass Controls",
+      "Heated Rear Seats"
+    ],
+    "active": true
+  },
+  {
+    "code": "2026-i7-edrive50-sedan",
+    "model_code": "i7",
+    "manufacturer_code": 7,
+    "trim_name": "eDrive50",
+    "standard_features": [
+      "Electric Powertrain (Single Motor, RWD)",
+      "BMW iDrive 8.5 with Curved Display",
+      "Navigation System",
+      "Wireless Apple CarPlay",
+      "Wireless Android Auto",
+      "LED Adaptive Headlights",
+      "Adaptive Cruise Control",
+      "Lane Departure Warning",
+      "Automatic Emergency Braking",
+      "Blind Spot Monitoring",
+      "Rear Cross Traffic Alert",
+      "Rearview Camera",
+      "Four‑Zone Automatic Climate Control",
+      "Power Front and Rear Seats",
+      "Ambient Interior Lighting",
+      "Panoramic Sky Lounge Roof"
+    ],
+    "optional_features": [
+      "Driving Assistance Professional Package",
+      "Parking Assistance Professional",
+      "Executive Lounge Rear Seat Package",
+      "Bowers & Wilkins Diamond Surround Sound",
+      "Heated and Ventilated Seats",
+      "Heated Rear Seats",
+      "Head-Up Display",
+      "Glass Controls",
+      "BMW Individual Composition"
+    ],
+    "active": true
+  },
+  {
+    "code": "2026-i7-xdrive60-sedan",
+    "model_code": "i7",
+    "manufacturer_code": 7,
+    "trim_name": "xDrive60",
+    "standard_features": [
+      "Electric Powertrain (Dual Motor, AWD)",
+      "BMW iDrive 8.5 with Curved Display",
+      "Navigation System",
+      "Wireless Apple CarPlay",
+      "Wireless Android Auto",
+      "LED Adaptive Headlights",
+      "Adaptive Cruise Control",
+      "Lane Departure Warning",
+      "Automatic Emergency Braking",
+      "Blind Spot Monitoring",
+      "Rear Cross Traffic Alert",
+      "Rearview Camera",
+      "Four‑Zone Automatic Climate Control",
+      "Power Front and Rear Seats",
+      "Ambient Interior Lighting",
+      "Panoramic Sky Lounge Roof"
+    ],
+    "optional_features": [
+      "Driving Assistance Professional Package",
+      "Parking Assistance Professional",
+      "Executive Lounge Rear Seat Package",
+      "Bowers & Wilkins Diamond Surround Sound",
+      "Heated and Ventilated Seats",
+      "Heated Rear Seats",
+      "Head-Up Display",
+      "Glass Controls",
+      "BMW Individual Composition"
+    ],
+    "active": true
+  },
+  {
+    "code": "2026-i7-m70-xdrive-sedan",
+    "model_code": "i7",
+    "manufacturer_code": 7,
+    "trim_name": "M70 xDrive",
+    "standard_features": [
+      "Electric Powertrain (Dual Motor, Performance AWD)",
+      "BMW iDrive 8.5 with Curved Display",
+      "Navigation System",
+      "Wireless Apple CarPlay",
+      "Wireless Android Auto",
+      "LED Adaptive Headlights",
+      "Adaptive Cruise Control",
+      "Lane Departure Warning",
+      "Automatic Emergency Braking",
+      "Blind Spot Monitoring",
+      "Rear Cross Traffic Alert",
+      "Rearview Camera",
+      "Four‑Zone Automatic Climate Control",
+      "Power Sport Seats",
+      "Ambient Interior Lighting",
+      "Panoramic Sky Lounge Roof",
+      "Performance Brakes",
+      "Sport Suspension"
+    ],
+    "optional_features": [
+      "Driving Assistance Professional Package",
+      "Parking Assistance Professional",
+      "Executive Lounge Rear Seat Package",
+      "Bowers & Wilkins Diamond Surround Sound",
+      "Heated and Ventilated Seats",
+      "Heated Rear Seats",
+      "Head-Up Display",
+      "Glass Controls",
+      "BMW Individual Composition"
+    ],
+    "active": true
+  },
+  {
+    "code": "2026-ix-xdrive45-suv",
+    "model_code": "iX",
+    "manufacturer_code": 7,
+    "trim_name": "xDrive45",
+    "standard_features": [
+      "All-Wheel Drive",
+      "Electric Powertrain (Dual Motor)",
+      "Regenerative Braking",
+      "LED Headlights",
+      "Curved BMW iDrive Display",
+      "Navigation System",
+      "Wireless Apple CarPlay",
+      "Wireless Android Auto",
+      "Adaptive Cruise Control",
+      "Lane Departure Warning",
+      "Automatic Emergency Braking",
+      "Blind Spot Monitoring",
+      "Rear Cross Traffic Alert",
+      "Rearview Camera",
+      "Dual-Zone Climate Control",
+      "Heated Front Seats"
+    ],
+    "optional_features": [
+      "M Sport Package",
+      "Driving Assistance Package",
+      "Driving Assistance Professional Package",
+      "Parking Assistance Package",
+      "Head-Up Display",
+      "Harman Kardon Premium Audio",
+      "Glass Controls",
+      "Panoramic Roof"
+    ],
+    "active": true
+  },
+  {
+    "code": "2026-ix-xdrive60-suv",
+    "model_code": "iX",
+    "manufacturer_code": 7,
+    "trim_name": "xDrive60",
+    "standard_features": [
+      "All-Wheel Drive",
+      "Electric Powertrain (Dual Motor, 536 hp)",
+      "Regenerative Braking",
+      "LED Headlights",
+      "Curved BMW iDrive Display",
+      "Navigation System",
+      "Wireless Apple CarPlay",
+      "Wireless Android Auto",
+      "Adaptive Cruise Control",
+      "Lane Departure Warning",
+      "Automatic Emergency Braking",
+      "Blind Spot Monitoring",
+      "Rear Cross Traffic Alert",
+      "Rearview Camera",
+      "Dual-Zone Climate Control",
+      "Heated Front Seats"
+    ],
+    "optional_features": [
+      "M Sport Package",
+      "Driving Assistance Package",
+      "Driving Assistance Professional Package",
+      "Parking Assistance Package",
+      "Head-Up Display",
+      "Harman Kardon Premium Audio",
+      "Glass Controls",
+      "Panoramic Roof"
+    ],
+    "active": true
+  },
+  {
+    "code": "2026-ix-m70-xdrive-suv",
+    "model_code": "iX",
+    "manufacturer_code": 7,
+    "trim_name": "M70 xDrive",
+    "standard_features": [
+      "All-Wheel Drive",
+      "Electric Powertrain (Dual Motor, Performance)",
+      "Regenerative Braking",
+      "LED Headlights",
+      "Curved BMW iDrive Display",
+      "Navigation System",
+      "Wireless Apple CarPlay",
+      "Wireless Android Auto",
+      "Adaptive Cruise Control",
+      "Lane Departure Warning",
+      "Automatic Emergency Braking",
+      "Blind Spot Monitoring",
+      "Rear Cross Traffic Alert",
+      "Rearview Camera",
+      "Dual-Zone Climate Control",
+      "Heated Front Seats",
+      "Performance Brakes",
+      "Sport Suspension"
+    ],
+    "optional_features": [
+      "M Sport Professional Package",
+      "Driving Assistance Professional Package",
+      "Parking Assistance Package",
+      "Head-Up Display",
+      "Bowers & Wilkins Diamond Audio",
+      "Glass Controls",
+      "Panoramic Roof"
+    ],
+    "active": true
+  },
+  {
+    "code": "2026-m2-coupe",
+    "model_code": "M2",
+    "manufacturer_code": 7,
+    "trim_name": "M2",
+    "standard_features": [
+      "Rear‑Wheel Drive",
+      "3.0L Twin‑Turbo Inline‑6 Engine",
+      "6‑Speed Manual Transmission (or Optional 8‑Speed Automatic)",
+      "Adaptive M Suspension",
+      "M Sport Differential",
+      "19\" Front / 20\" Rear Wheels",
+      "LED Headlights",
+      "Heated Front Seats",
+      "Merino Leather Upholstery",
+      "BMW iDrive 8.5 with 12.3\" Digital Instrument Cluster",
+      "14.9\" Touchscreen",
+      "Navigation",
+      "Wireless Apple CarPlay and Android Auto",
+      "Automatic Emergency Braking",
+      "Lane Departure Warning",
+      "Blind Spot Monitoring",
+      "Rearview Camera",
+      "Parking Sensors",
+      "Dual‑Zone Climate Control"
+    ],
+    "optional_features": [
+      "Carbon Package (Carbon Roof, Carbon Trim)",
+      "Lighting Package",
+      "Harman Kardon Premium Audio",
+      "Head‑Up Display",
+      "Parking Assistance Package",
+      "Adaptive M Differential",
+      "Performance Tires Package"
+    ],
+    "active": true
+  },
+  {
+    "code": "2026-m2-cs-coupe",
+    "model_code": "M2",
+    "manufacturer_code": 7,
+    "trim_name": "CS",
+    "standard_features": [
+      "Rear‑Wheel Drive",
+      "3.0L Twin‑Turbo Inline‑6 Engine (523 hp)",
+      "8‑Speed Automatic Transmission",
+      "Adaptive M Suspension with Track Tuning",
+      "M Sport Differential",
+      "Carbon Fiber Roof and Trunk Lid",
+      "M Carbon Bucket Seats",
+      "Carbon Trim Inserts",
+      "19\" Front / 20\" Rear Forged Wheels",
+      "Performance Brakes",
+      "Adaptive LED Headlights",
+      "Heated Front Seats",
+      "Merino Leather Upholstery",
+      "BMW iDrive 8.5 with 12.3\" Digital Cluster",
+      "14.9\" Touchscreen",
+      "Navigation",
+      "Wireless Apple CarPlay and Android Auto",
+      "Automatic Emergency Braking",
+      "Lane Departure Warning",
+      "Blind Spot Monitoring",
+      "Rearview Camera",
+      "Parking Sensors",
+      "Dual‑Zone Climate Control"
+    ],
+    "optional_features": [
+      "Carbon‑Ceramic Brakes",
+      "Head‑Up Display",
+      "Harman Kardon Premium Audio",
+      "Parking Assistance Package"
+    ],
+    "active": true
+  },
+  {
+    "code": "2026-m3-sedan",
+    "model_code": "M3",
+    "manufacturer_code": 7,
+    "trim_name": "Base",
+    "standard_features": [
+      "Rear-Wheel Drive",
+      "3.0L Twin‑Turbo Inline‑6 Engine",
+      "473 hp",
+      "6‑Speed Manual Transmission",
+      "Adaptive M Suspension",
+      "LED Headlights",
+      "M Sport Seats with Merino Leather",
+      "BMW iDrive 8.5 with Digital Display",
+      "Navigation System",
+      "Wireless Apple CarPlay and Android Auto",
+      "Automatic Emergency Braking",
+      "Blind Spot Monitoring",
+      "Lane Departure Warning",
+      "Rearview Camera",
+      "Parking Sensors",
+      "Dual‑Zone Climate Control"
+    ],
+    "optional_features": [
+      "M Drive Professional Package",
+      "Carbon Package",
+      "Head‑Up Display",
+      "Harman Kardon Premium Audio",
+      "Parking Assistance Package",
+      "Heated Front Seats",
+      "Ventilated Front Seats"
+    ],
+    "active": true
+  },
+  {
+    "code": "2026-m3-sedan-competition",
+    "model_code": "M3",
+    "manufacturer_code": 7,
+    "trim_name": "Competition",
+    "standard_features": [
+      "Rear-Wheel Drive",
+      "3.0L Twin‑Turbo Inline‑6 Engine",
+      "503 hp",
+      "8‑Speed Automatic Transmission",
+      "Adaptive M Suspension",
+      "M Sport Differential",
+      "LED Headlights",
+      "M Sport Seats with Merino Leather",
+      "BMW iDrive 8.5 with Digital Display",
+      "Navigation System",
+      "Wireless Apple CarPlay and Android Auto",
+      "Automatic Emergency Braking",
+      "Blind Spot Monitoring",
+      "Lane Departure Warning",
+      "Rearview Camera",
+      "Parking Sensors",
+      "Dual‑Zone Climate Control"
+    ],
+    "optional_features": [
+      "M Drive Professional Package",
+      "Carbon Package",
+      "Head‑Up Display",
+      "Harman Kardon Premium Audio",
+      "Parking Assistance Package",
+      "Heated Front Seats",
+      "Ventilated Front Seats"
+    ],
+    "active": true
+  },
+  {
+    "code": "2026-m3-sedan-competition-xdrive",
+    "model_code": "M3",
+    "manufacturer_code": 7,
+    "trim_name": "Competition xDrive",
+    "standard_features": [
+      "All-Wheel Drive",
+      "3.0L Twin‑Turbo Inline‑6 Engine",
+      "523 hp",
+      "8‑Speed Automatic Transmission",
+      "Adaptive M Suspension",
+      "M Sport Differential",
+      "LED Headlights",
+      "M Sport Seats with Merino Leather",
+      "BMW iDrive 8.5 with Digital Display",
+      "Navigation System",
+      "Wireless Apple CarPlay and Android Auto",
+      "Automatic Emergency Braking",
+      "Blind Spot Monitoring",
+      "Lane Departure Warning",
+      "Rearview Camera",
+      "Parking Sensors",
+      "Dual‑Zone Climate Control"
+    ],
+    "optional_features": [
+      "M Drive Professional Package",
+      "Carbon Package",
+      "Head‑Up Display",
+      "Harman Kardon Premium Audio",
+      "Parking Assistance Package",
+      "Heated Front Seats",
+      "Ventilated Front Seats"
+    ],
+    "active": true
+  },
+  {
+    "code": "2026-m4-coupe",
+    "model_code": "M4",
+    "manufacturer_code": 7,
+    "trim_name": "Base",
+    "standard_features": [
+      "Rear‑Wheel Drive",
+      "3.0L Twin‑Turbo Inline‑6 Engine",
+      "473 hp",
+      "6‑Speed Manual Transmission",
+      "Adaptive M Suspension",
+      "M Sport Brakes",
+      "LED Headlights",
+      "M Sport Seats with Merino Leather",
+      "BMW iDrive 8.5 with Digital Display",
+      "Navigation System",
+      "Wireless Apple CarPlay and Android Auto",
+      "Automatic Emergency Braking",
+      "Blind Spot Monitoring",
+      "Lane Departure Warning",
+      "Rearview Camera",
+      "Parking Sensors",
+      "Dual‑Zone Climate Control"
+    ],
+    "optional_features": [
+      "M Drive Professional Package",
+      "Carbon Package",
+      "Head‑Up Display",
+      "Harman Kardon Premium Audio",
+      "Parking Assistance Package",
+      "Heated Front Seats",
+      "Ventilated Front Seats"
+    ],
+    "active": true
+  },
+  {
+    "code": "2026-m4-coupe-competition",
+    "model_code": "M4",
+    "manufacturer_code": 7,
+    "trim_name": "Competition",
+    "standard_features": [
+      "Rear‑Wheel Drive",
+      "3.0L Twin‑Turbo Inline‑6 Engine",
+      "503 hp",
+      "8‑Speed Automatic Transmission",
+      "Adaptive M Suspension",
+      "M Sport Differential",
+      "M Sport Brakes",
+      "LED Headlights",
+      "M Sport Seats with Merino Leather",
+      "BMW iDrive 8.5 with Digital Display",
+      "Navigation System",
+      "Wireless Apple CarPlay and Android Auto",
+      "Automatic Emergency Braking",
+      "Blind Spot Monitoring",
+      "Lane Departure Warning",
+      "Rearview Camera",
+      "Parking Sensors",
+      "Dual‑Zone Climate Control"
+    ],
+    "optional_features": [
+      "M Drive Professional Package",
+      "Carbon Package",
+      "Head‑Up Display",
+      "Harman Kardon Premium Audio",
+      "Parking Assistance Package",
+      "Heated Front Seats",
+      "Ventilated Front Seats"
+    ],
+    "active": true
+  },
+  {
+    "code": "2026-m4-coupe-competition-xdrive",
+    "model_code": "M4",
+    "manufacturer_code": 7,
+    "trim_name": "Competition xDrive",
+    "standard_features": [
+      "All‑Wheel Drive",
+      "3.0L Twin‑Turbo Inline‑6 Engine",
+      "523 hp",
+      "8‑Speed Automatic Transmission",
+      "Adaptive M Suspension",
+      "M Sport Differential",
+      "M Sport Brakes",
+      "LED Headlights",
+      "M Sport Seats with Merino Leather",
+      "BMW iDrive 8.5 with Digital Display",
+      "Navigation System",
+      "Wireless Apple CarPlay and Android Auto",
+      "Automatic Emergency Braking",
+      "Blind Spot Monitoring",
+      "Lane Departure Warning",
+      "Rearview Camera",
+      "Parking Sensors",
+      "Dual‑Zone Climate Control"
+    ],
+    "optional_features": [
+      "M Drive Professional Package",
+      "Carbon Package",
+      "Head‑Up Display",
+      "Harman Kardon Premium Audio",
+      "Parking Assistance Package",
+      "Heated Front Seats",
+      "Ventilated Front Seats"
+    ],
+    "active": true
+  },
+  {
+    "code": "2026-m5-sedan",
+    "model_code": "M5",
+    "manufacturer_code": 7,
+    "trim_name": "Base",
+    "standard_features": [
+      "All-Wheel Drive (M xDrive)",
+      "4.4L Twin‑Turbo V8 + Plug‑In Hybrid Powertrain",
+      "8‑Speed M Steptronic Automatic Transmission",
+      "Adaptive M Suspension",
+      "LED Adaptive Headlights",
+      "Navigation System",
+      "Wireless Apple CarPlay and Android Auto",
+      "Adaptive Cruise Control",
+      "Lane Departure Warning",
+      "Automatic Emergency Braking",
+      "Blind Spot Monitoring",
+      "Rear Cross Traffic Alert",
+      "Rearview Camera",
+      "Parking Sensors",
+      "Four‑Zone Automatic Climate Control",
+      "Performance Brakes"
+    ],
+    "optional_features": [
+      "Carbon‑Ceramic Brakes",
+      "M Driver’s Package",
+      "Executive Package",
+      "Heated and Ventilated Seats",
+      "Head‑Up Display",
+      "Bowers & Wilkins Diamond Surround Sound",
+      "Parking Assistance Professional",
+      "BMW Individual Customization Options"
+    ],
+    "active": true
+  },
+  {
+    "code": "2026-m8-competition-convertible",
+    "model_code": "M8",
+    "manufacturer_code": 7,
+    "trim_name": "Competition Convertible",
+    "standard_features": [
+      "All‑Wheel Drive (M xDrive)",
+      "4.4L Twin‑Turbo V8 Engine (~627 hp)",
+      "8‑Speed M Steptronic Automatic Transmission",
+      "Adaptive M Suspension",
+      "M Sport Brakes with Large Rotors",
+      "Active M Differential",
+      "LED Adaptive Headlights",
+      "Merino Leather Upholstery",
+      "M Carbon Bucket Seats",
+      "Convertible Soft Top with Power Operation",
+      "BMW iDrive 8.5 with Curved Display",
+      "Navigation System",
+      "Wireless Apple CarPlay and Android Auto",
+      "Adaptive Cruise Control",
+      "Lane Departure Warning",
+      "Automatic Emergency Braking",
+      "Blind Spot Monitoring",
+      "Rear Cross Traffic Alert",
+      "Surround View / Parking Sensors",
+      "Four‑Zone Automatic Climate Control"
+    ],
+    "optional_features": [
+      "Bowers & Wilkins Diamond Surround Sound",
+      "Head‑Up Display",
+      "M Carbon Ceramic Brakes",
+      "Carbon Fiber Exterior Package",
+      "Heated and Ventilated Seats",
+      "Parking Assistance Professional",
+      "BMW Individual Custom Paint / Trim"
+    ],
+    "active": true
+  },
+  {
+    "code": "2026-m8-competition-gran-coupe",
+    "model_code": "M8",
+    "manufacturer_code": 7,
+    "trim_name": "Competition Gran Coupe",
+    "standard_features": [
+      "All‑Wheel Drive (M xDrive)",
+      "4.4L Twin‑Turbo V8 (~627 hp)",
+      "8‑Speed M Steptronic Automatic Transmission",
+      "Adaptive M Suspension",
+      "M Sport Brakes with Large Rotors",
+      "Active M Differential",
+      "LED Adaptive Headlights",
+      "Merino Leather Upholstery",
+      "M Carbon Sports Seats",
+      "BMW iDrive 8.5 with Curved Display",
+      "Navigation System",
+      "Wireless Apple CarPlay and Android Auto",
+      "Adaptive Cruise Control",
+      "Lane Departure Warning",
+      "Automatic Emergency Braking",
+      "Blind Spot Monitoring",
+      "Rear Cross Traffic Alert",
+      "Surround View / Parking Sensors",
+      "Four‑Zone Automatic Climate Control"
+    ],
+    "optional_features": [
+      "Bowers & Wilkins Diamond Surround Sound",
+      "Head‑Up Display",
+      "M Carbon Ceramic Brakes",
+      "Carbon Fiber Exterior Package",
+      "Heated and Ventilated Seats",
+      "Parking Assistance Professional",
+      "BMW Individual Custom Paint / Trim"
+    ],
+    "active": true
+  },
+  {
+    "code": "2026-x1-sdrive28i-suv",
+    "model_code": "X1",
+    "manufacturer_code": 7,
+    "trim_name": "sDrive28i",
     "standard_features": [
       "Front‑Wheel Drive (sDrive)",
       "2.0L BMW TwinPower Turbo I4 Engine (~241 hp)",
@@ -5285,8 +5447,9 @@
   },
   {
     "code": "2026-x1-xdrive28i-suv",
+    "model_code": "X1",
     "manufacturer_code": 7,
-    "trim_name": "X1 xDrive28i",
+    "trim_name": "xDrive28i",
     "standard_features": [
       "All‑Wheel Drive (xDrive)",
       "2.0L BMW TwinPower Turbo I4 Engine (~241 hp)",
@@ -5316,8 +5479,9 @@
   },
   {
     "code": "2026-x2-sdrive28i-suv",
+    "model_code": "X2",
     "manufacturer_code": 7,
-    "trim_name": "X2 sDrive28i",
+    "trim_name": "sDrive28i",
     "standard_features": [
       "Front‑Wheel Drive (sDrive)",
       "2.0L BMW TwinPower Turbo I4 Engine (~241 hp)",
@@ -5348,8 +5512,9 @@
   },
   {
     "code": "2026-x2-xdrive28i-suv",
+    "model_code": "X2",
     "manufacturer_code": 7,
-    "trim_name": "X2 xDrive28i",
+    "trim_name": "xDrive28i",
     "standard_features": [
       "All‑Wheel Drive (xDrive)",
       "2.0L BMW TwinPower Turbo I4 Engine (~241 hp)",
@@ -5379,8 +5544,9 @@
   },
   {
     "code": "2026-x3-sdrive30i-suv",
+    "model_code": "X3",
     "manufacturer_code": 7,
-    "trim_name": "X3 sDrive30i",
+    "trim_name": "sDrive30i",
     "standard_features": [
       "Rear‑Wheel Drive (sDrive)",
       "2.0L BMW TwinPower Turbo I4 Engine (~248 hp)",
@@ -5411,8 +5577,9 @@
   },
   {
     "code": "2026-x3-xdrive30i-suv",
+    "model_code": "X3",
     "manufacturer_code": 7,
-    "trim_name": "X3 xDrive30i",
+    "trim_name": "xDrive30i",
     "standard_features": [
       "All‑Wheel Drive (xDrive)",
       "2.0L BMW TwinPower Turbo I4 Engine (~248 hp)",
@@ -5442,8 +5609,9 @@
   },
   {
     "code": "2026-x3-m40i-xdrive-suv",
+    "model_code": "X3",
     "manufacturer_code": 7,
-    "trim_name": "X3 M40i xDrive",
+    "trim_name": "M40i xDrive",
     "standard_features": [
       "All‑Wheel Drive (xDrive)",
       "3.0L BMW TwinPower Turbo I6 Engine (~382 hp)",
@@ -5478,8 +5646,9 @@
   },
   {
     "code": "2026-x5-sdrive40i-suv",
+    "model_code": "X5",
     "manufacturer_code": 7,
-    "trim_name": "X5 sDrive40i",
+    "trim_name": "sDrive40i",
     "standard_features": [
       "Rear-Wheel Drive",
       "3.0L BMW TwinPower Turbo Inline-6 Engine (~375 hp)",
@@ -5522,8 +5691,9 @@
   },
   {
     "code": "2026-x5-xdrive40i-suv",
+    "model_code": "X5",
     "manufacturer_code": 7,
-    "trim_name": "X5 xDrive40i",
+    "trim_name": "xDrive40i",
     "standard_features": [
       "All-Wheel Drive (xDrive)",
       "3.0L BMW TwinPower Turbo Inline-6 Engine (~375 hp)",
@@ -5566,8 +5736,9 @@
   },
   {
     "code": "2026-x5-xdrive50e-suv",
+    "model_code": "X5",
     "manufacturer_code": 7,
-    "trim_name": "X5 xDrive50e",
+    "trim_name": "xDrive50e",
     "standard_features": [
       "All-Wheel Drive (xDrive)",
       "3.0L Turbocharged Inline-6 Plug-In Hybrid Powertrain",
@@ -5612,8 +5783,9 @@
   },
   {
     "code": "2026-x5-m60i-xdrive-suv",
+    "model_code": "X5",
     "manufacturer_code": 7,
-    "trim_name": "X5 M60i xDrive",
+    "trim_name": "M60i xDrive",
     "standard_features": [
       "All-Wheel Drive (xDrive)",
       "4.4L BMW M TwinPower Turbo V8 Engine (~523 hp)",
@@ -5659,8 +5831,9 @@
   },
   {
     "code": "2026-x5-m-xdrive-suv",
+    "model_code": "X5 M",
     "manufacturer_code": 7,
-    "trim_name": "X5 M",
+    "trim_name": "xDrive",
     "standard_features": [
       "All-Wheel Drive (M xDrive)",
       "4.4L BMW M TwinPower Turbo V8 Engine (~600 hp)",
@@ -5708,8 +5881,9 @@
   },
   {
     "code": "2026-x5-m-competition-xdrive-suv",
+    "model_code": "X5 M",
     "manufacturer_code": 7,
-    "trim_name": "X5 M Competition",
+    "trim_name": "Competition xDrive",
     "standard_features": [
       "All-Wheel Drive (M xDrive)",
       "4.4L BMW M TwinPower Turbo V8 Engine (~617 hp)",
@@ -5758,8 +5932,9 @@
   },
   {
     "code": "2026-x6-xdrive40i-suv",
+    "model_code": "X6",
     "manufacturer_code": 7,
-    "trim_name": "X6 xDrive40i",
+    "trim_name": "xDrive40i",
     "standard_features": [
       "All-Wheel Drive (xDrive)",
       "3.0L BMW TwinPower Turbo Inline-6 Engine (~375 hp)",
@@ -5803,8 +5978,9 @@
   },
   {
     "code": "2026-x6-m60i-xdrive-suv",
+    "model_code": "X6",
     "manufacturer_code": 7,
-    "trim_name": "X6 M60i xDrive",
+    "trim_name": "M60i xDrive",
     "standard_features": [
       "All-Wheel Drive (xDrive)",
       "4.4L BMW M TwinPower Turbo V8 Engine (~523 hp)",
@@ -5850,8 +6026,9 @@
   },
   {
     "code": "2026-x6-m-xdrive-suv",
+    "model_code": "X6 M",
     "manufacturer_code": 7,
-    "trim_name": "X6 M",
+    "trim_name": "xDrive",
     "standard_features": [
       "All-Wheel Drive (M xDrive)",
       "4.4L BMW M TwinPower Turbo V8 Engine (~600 hp)",
@@ -5899,8 +6076,9 @@
   },
   {
     "code": "2026-x6-m-competition-xdrive-suv",
+    "model_code": "X6 M",
     "manufacturer_code": 7,
-    "trim_name": "X6 M Competition",
+    "trim_name": "Competition xDrive",
     "standard_features": [
       "All-Wheel Drive (M xDrive)",
       "4.4L BMW M TwinPower Turbo V8 Engine (~617 hp)",
@@ -5949,8 +6127,9 @@
   },
   {
     "code": "2026-x7-xdrive40i-suv",
+    "model_code": "X7",
     "manufacturer_code": 7,
-    "trim_name": "X7 xDrive40i",
+    "trim_name": "xDrive40i",
     "standard_features": [
       "All-Wheel Drive (xDrive)",
       "3.0L BMW TwinPower Turbo Inline-6 Engine (~375 hp)",
@@ -5995,8 +6174,9 @@
   },
   {
     "code": "2026-x7-xdrive50i-suv",
+    "model_code": "X7",
     "manufacturer_code": 7,
-    "trim_name": "X7 xDrive50i",
+    "trim_name": "xDrive50i",
     "standard_features": [
       "All-Wheel Drive (xDrive)",
       "4.4L BMW TwinPower Turbo V8 Engine (~523 hp)",
@@ -6041,8 +6221,9 @@
   },
   {
     "code": "2026-x7-m60i-xdrive-suv",
+    "model_code": "X7",
     "manufacturer_code": 7,
-    "trim_name": "X7 M60i xDrive",
+    "trim_name": "M60i xDrive",
     "standard_features": [
       "All-Wheel Drive (xDrive)",
       "4.4L BMW M TwinPower Turbo V8 Engine (~523 hp)",
@@ -6089,8 +6270,9 @@
   },
   {
     "code": "2026-xm-xdrive-suv",
+    "model_code": "XM",
     "manufacturer_code": 7,
-    "trim_name": "XM",
+    "trim_name": "xDrive",
     "standard_features": [
       "All-Wheel Drive (M xDrive)",
       "4.4L BMW M TwinPower Turbo V8 Engine",
@@ -6138,8 +6320,9 @@
   },
   {
     "code": "2026-xm-competition-xdrive-suv",
+    "model_code": "XM",
     "manufacturer_code": 7,
-    "trim_name": "XM Competition",
+    "trim_name": "Competition xDrive",
     "standard_features": [
       "All-Wheel Drive (M xDrive)",
       "4.4L BMW M TwinPower Turbo V8 Engine",
@@ -6188,8 +6371,9 @@
   },
   {
     "code": "2026-z4-sdrive30i-convertible",
+    "model_code": "Z4",
     "manufacturer_code": 7,
-    "trim_name": "Z4 sDrive30i",
+    "trim_name": "sDrive30i",
     "standard_features": [
       "Rear-Wheel Drive",
       "2.0L BMW TwinPower Turbo Inline-4 Engine",
@@ -6226,8 +6410,9 @@
   },
   {
     "code": "2026-z4-m40i-convertible",
+    "model_code": "Z4",
     "manufacturer_code": 7,
-    "trim_name": "Z4 M40i",
+    "trim_name": "M40i",
     "standard_features": [
       "Rear-Wheel Drive",
       "3.0L BMW M TwinPower Turbo Inline-6 Engine",
@@ -6267,8 +6452,9 @@
   },
   {
     "code": "2026-enclave-gx-preferred-suv",
+    "model_code": "Enclave GX",
     "manufacturer_code": 8,
-    "trim_name": "Enclave GX Preferred",
+    "trim_name": "Preferred",
     "standard_features": [
       "Front-Wheel Drive",
       "2.0L Turbocharged Inline-4 Engine",
@@ -6306,8 +6492,9 @@
   },
   {
     "code": "2026-enclave-gx-essence-suv",
+    "model_code": "Enclave GX",
     "manufacturer_code": 8,
-    "trim_name": "Enclave GX Essence",
+    "trim_name": "Essence",
     "standard_features": [
       "Front-Wheel Drive",
       "2.0L Turbocharged Inline-4 Engine",
@@ -6345,8 +6532,9 @@
   },
   {
     "code": "2026-enclave-gx-premium-suv",
+    "model_code": "Enclave GX",
     "manufacturer_code": 8,
-    "trim_name": "Enclave GX Premium",
+    "trim_name": "Premium",
     "standard_features": [
       "Front-Wheel Drive",
       "2.0L Turbocharged Inline-4 Engine",
@@ -6384,8 +6572,9 @@
   },
   {
     "code": "2026-encore-gx-preferred-suv",
+    "model_code": "Encore GX",
     "manufacturer_code": 8,
-    "trim_name": "Encore GX Preferred",
+    "trim_name": "Preferred",
     "standard_features": [
       "Front-Wheel Drive",
       "1.2L Turbocharged Inline-3 Engine",
@@ -6421,8 +6610,9 @@
   },
   {
     "code": "2026-encore-gx-prestige-suv",
+    "model_code": "Encore GX",
     "manufacturer_code": 8,
-    "trim_name": "Encore GX Prestige",
+    "trim_name": "Prestige",
     "standard_features": [
       "Front-Wheel Drive",
       "1.3L Turbocharged Inline-3 Engine",
@@ -6458,8 +6648,9 @@
   },
   {
     "code": "2026-envision-preferred-suv",
+    "model_code": "Envision",
     "manufacturer_code": 8,
-    "trim_name": "Envision Preferred",
+    "trim_name": "Preferred",
     "standard_features": [
       "Front-Wheel Drive",
       "2.0L Turbocharged Inline-4 Engine",
@@ -6497,8 +6688,9 @@
   },
   {
     "code": "2026-envision-essence-suv",
+    "model_code": "Envision",
     "manufacturer_code": 8,
-    "trim_name": "Envision Essence",
+    "trim_name": "Essence",
     "standard_features": [
       "Front-Wheel Drive",
       "2.0L Turbocharged Inline-4 Engine",
@@ -6536,8 +6728,9 @@
   },
   {
     "code": "2026-envision-premium-suv",
+    "model_code": "Envision",
     "manufacturer_code": 8,
-    "trim_name": "Envision Premium",
+    "trim_name": "Premium",
     "standard_features": [
       "Front-Wheel Drive",
       "2.0L Turbocharged Inline-4 Engine",
@@ -6575,8 +6768,9 @@
   },
   {
     "code": "2026-envista-preferred-suv",
+    "model_code": "Envista",
     "manufacturer_code": 8,
-    "trim_name": "Envista Preferred",
+    "trim_name": "Preferred",
     "standard_features": [
       "Front-Wheel Drive",
       "1.2L Turbocharged Inline-3 Engine",
@@ -6612,8 +6806,9 @@
   },
   {
     "code": "2026-envista-prestige-suv",
+    "model_code": "Envista",
     "manufacturer_code": 8,
-    "trim_name": "Envista Prestige",
+    "trim_name": "Prestige",
     "standard_features": [
       "Front-Wheel Drive",
       "1.3L Turbocharged Inline-3 Engine",
@@ -6649,8 +6844,9 @@
   },
   {
     "code": "2026-celestiq-sedan",
+    "model_code": "Celestiq",
     "manufacturer_code": 9,
-    "trim_name": "Celestiq",
+    "trim_name": "Standard",
     "standard_features": [
       "All-Wheel Drive",
       "Electric Motor",
@@ -6692,8 +6888,9 @@
   },
   {
     "code": "2026-ct4-luxury-sedan",
+    "model_code": "CT4",
     "manufacturer_code": 9,
-    "trim_name": "CT4 Luxury",
+    "trim_name": "Luxury",
     "standard_features": [
       "Rear-Wheel Drive",
       "2.0L Turbocharged Inline-4 Engine",
@@ -6730,8 +6927,9 @@
   },
   {
     "code": "2026-ct4-premium-luxury-sedan",
+    "model_code": "CT4",
     "manufacturer_code": 9,
-    "trim_name": "CT4 Premium Luxury",
+    "trim_name": "Premium Luxury",
     "standard_features": [
       "Rear-Wheel Drive",
       "2.0L Turbocharged Inline-4 Engine",
@@ -6768,8 +6966,9 @@
   },
   {
     "code": "2026-ct4-v-sedan",
+    "model_code": "CT4-V",
     "manufacturer_code": 9,
-    "trim_name": "CT4-V",
+    "trim_name": "Base",
     "standard_features": [
       "All-Wheel Drive",
       "3.6L Twin-Turbo V6 Engine",
@@ -6808,8 +7007,9 @@
   },
   {
     "code": "2026-ct4-v-blackwing-sedan",
+    "model_code": "CT4-V",
     "manufacturer_code": 9,
-    "trim_name": "CT4-V Blackwing",
+    "trim_name": "Blackwing",
     "standard_features": [
       "All-Wheel Drive",
       "4.2L Supercharged V8 Engine",
@@ -6848,8 +7048,9 @@
   },
   {
     "code": "2026-ct5-luxury-sedan",
+    "model_code": "CT5",
     "manufacturer_code": 9,
-    "trim_name": "CT5 Luxury",
+    "trim_name": "Luxury",
     "standard_features": [
       "Rear-Wheel Drive",
       "2.0L Turbocharged Inline-4 Engine",
@@ -6886,8 +7087,9 @@
   },
   {
     "code": "2026-ct5-premium-luxury-sedan",
+    "model_code": "CT5",
     "manufacturer_code": 9,
-    "trim_name": "CT5 Premium Luxury",
+    "trim_name": "Premium Luxury",
     "standard_features": [
       "Rear-Wheel Drive",
       "2.0L Turbocharged Inline-4 Engine",
@@ -6924,8 +7126,9 @@
   },
   {
     "code": "2026-ct5-v-sedan",
+    "model_code": "CT5-V",
     "manufacturer_code": 9,
-    "trim_name": "CT5-V",
+    "trim_name": "Base",
     "standard_features": [
       "All-Wheel Drive",
       "3.6L Twin-Turbo V6 Engine",
@@ -6965,8 +7168,9 @@
   },
   {
     "code": "2026-ct5-v-blackwing-sedan",
+    "model_code": "CT5-V",
     "manufacturer_code": 9,
-    "trim_name": "CT5-V Blackwing",
+    "trim_name": "Blackwing",
     "standard_features": [
       "All-Wheel Drive",
       "4.2L Supercharged V8 Engine",
@@ -7005,8 +7209,9 @@
   },
   {
     "code": "2026-escalade-suv",
+    "model_code": "Escalade",
     "manufacturer_code": 9,
-    "trim_name": "Escalade",
+    "trim_name": "Base",
     "standard_features": [
       "Rear-Wheel Drive",
       "6.2L V8 Engine",
@@ -7046,8 +7251,9 @@
   },
   {
     "code": "2026-escalade-v-suv",
+    "model_code": "Escalade-V",
     "manufacturer_code": 9,
-    "trim_name": "Escalade-V",
+    "trim_name": "Base",
     "standard_features": [
       "All-Wheel Drive",
       "6.2L Supercharged V8 Engine",
@@ -7086,8 +7292,9 @@
   },
   {
     "code": "2026-escalade-esv-suv",
+    "model_code": "Escalade ESV",
     "manufacturer_code": 9,
-    "trim_name": "Escalade ESV",
+    "trim_name": "Base",
     "standard_features": [
       "Rear-Wheel Drive",
       "6.2L V8 Engine",
@@ -7127,8 +7334,9 @@
   },
   {
     "code": "2026-escalade-v-esv-suv",
+    "model_code": "Escalade-V ESV",
     "manufacturer_code": 9,
-    "trim_name": "Escalade-V ESV",
+    "trim_name": "Base",
     "standard_features": [
       "All-Wheel Drive",
       "6.2L Supercharged V8 Engine",
@@ -7167,8 +7375,9 @@
   },
   {
     "code": "2026-escalade-iq-suv",
+    "model_code": "Escalade IQ",
     "manufacturer_code": 9,
-    "trim_name": "Escalade IQ",
+    "trim_name": "Base",
     "standard_features": [
       "All-Wheel Drive",
       "Electric Motor",
@@ -7208,8 +7417,9 @@
   },
   {
     "code": "2026-escalade-iql-suv",
+    "model_code": "Escalade IQL",
     "manufacturer_code": 9,
-    "trim_name": "Escalade IQL",
+    "trim_name": "Base",
     "standard_features": [
       "All-Wheel Drive",
       "Electric Motor",
@@ -7249,8 +7459,9 @@
   },
   {
     "code": "2026-lyriq-suv",
+    "model_code": "Lyriq",
     "manufacturer_code": 9,
-    "trim_name": "Lyriq",
+    "trim_name": "Base",
     "standard_features": [
       "Rear-Wheel Drive",
       "Electric Motor",
@@ -7291,6 +7502,7 @@
   },
   {
     "code": "2026-lyriq-v-suv",
+    "model_code": "Lyriq-V",
     "manufacturer_code": 9,
     "trim_name": "Lyriq-V",
     "standard_features": [
@@ -7332,8 +7544,9 @@
   },
   {
     "code": "2026-optiq-suv",
+    "model_code": "Optiq",
     "manufacturer_code": 9,
-    "trim_name": "Optiq",
+    "trim_name": "Base",
     "standard_features": [
       "Rear-Wheel Drive",
       "Electric Motor",
@@ -7374,8 +7587,9 @@
   },
   {
     "code": "2026-optiq-v-suv",
+    "model_code": "Optiq-V",
     "manufacturer_code": 9,
-    "trim_name": "Optiq-V",
+    "trim_name": "Base",
     "standard_features": [
       "All-Wheel Drive",
       "Dual Electric Motors",
@@ -7415,8 +7629,9 @@
   },
   {
     "code": "2026-vistiq-suv",
+    "model_code": "Vistiq",
     "manufacturer_code": 9,
-    "trim_name": "Vistiq",
+    "trim_name": "Base",
     "standard_features": [
       "Rear-Wheel Drive",
       "Electric Motor",
@@ -7457,8 +7672,9 @@
   },
   {
     "code": "2026-xt5-suv",
+    "model_code": "XT5",
     "manufacturer_code": 9,
-    "trim_name": "XT5",
+    "trim_name": "Base",
     "standard_features": [
       "Front-Wheel Drive",
       "2.0L Turbocharged 4-Cylinder Engine",
@@ -7495,8 +7711,9 @@
   },
   {
     "code": "2026-blazer-lt-2lt-fwd-suv",
+    "model_code": "Blazer",
     "manufacturer_code": 10,
-    "trim_name": "Blazer LT 2LT FWD",
+    "trim_name": "LT 2LT FWD",
     "standard_features": [
       "Front-Wheel Drive",
       "2.0L Turbocharged 4-Cylinder Engine",
@@ -7531,8 +7748,9 @@
   },
   {
     "code": "2026-blazer-lt-3lt-fwd-suv",
+    "model_code": "Blazer",
     "manufacturer_code": 10,
-    "trim_name": "Blazer LT 3LT FWD",
+    "trim_name": "LT 3LT FWD",
     "standard_features": [
       "Front-Wheel Drive",
       "2.0L Turbocharged 4-Cylinder Engine",
@@ -7566,8 +7784,9 @@
   },
   {
     "code": "2026-blazer-lt-2lt-awd-suv",
+    "model_code": "Blazer",
     "manufacturer_code": 10,
-    "trim_name": "Blazer LT 2LT AWD",
+    "trim_name": "LT 2LT AWD",
     "standard_features": [
       "All-Wheel Drive",
       "2.0L Turbocharged 4-Cylinder Engine",
@@ -7601,8 +7820,9 @@
   },
   {
     "code": "2026-blazer-lt-3lt-awd-suv",
+    "model_code": "Blazer",
     "manufacturer_code": 10,
-    "trim_name": "Blazer LT 3LT AWD",
+    "trim_name": "LT 3LT AWD",
     "standard_features": [
       "All-Wheel Drive",
       "2.0L Turbocharged 4-Cylinder Engine",
@@ -7635,8 +7855,9 @@
   },
   {
     "code": "2026-blazer-rs-fwd-suv",
+    "model_code": "Blazer",
     "manufacturer_code": 10,
-    "trim_name": "Blazer RS FWD",
+    "trim_name": "RS FWD",
     "standard_features": [
       "Front-Wheel Drive",
       "2.0L Turbocharged 4-Cylinder Engine",
@@ -7672,8 +7893,9 @@
   },
   {
     "code": "2026-blazer-rs-awd-suv",
+    "model_code": "Blazer",
     "manufacturer_code": 10,
-    "trim_name": "Blazer RS AWD",
+    "trim_name": "RS AWD",
     "standard_features": [
       "All-Wheel Drive",
       "2.0L Turbocharged 4-Cylinder Engine",
@@ -7708,8 +7930,9 @@
   },
   {
     "code": "2026-bolt-1lt-hatchback",
+    "model_code": "Bolt",
     "manufacturer_code": 10,
-    "trim_name": "Bolt EV 1LT",
+    "trim_name": "1LT",
     "standard_features": [
       "Front-Wheel Drive",
       "Electric Motor",
@@ -7743,8 +7966,9 @@
   },
   {
     "code": "2026-bolt-2lt-hatchback",
+    "model_code": "Bolt",
     "manufacturer_code": 10,
-    "trim_name": "Bolt EV 2LT",
+    "trim_name": "2LT",
     "standard_features": [
       "Front-Wheel Drive",
       "Electric Motor",
@@ -7779,8 +8003,9 @@
   },
   {
     "code": "2026-brightdrop-zevo600-base-van",
+    "model_code": "BrightDrop",
     "manufacturer_code": 10,
-    "trim_name": "BrightDrop Zevo 600 Base",
+    "trim_name": "Zevo 600 Base",
     "standard_features": [
       "Electric Drive System",
       "Single Electric Motor",
@@ -7812,8 +8037,9 @@
   },
   {
     "code": "2026-brightdrop-zevo600-xl-van",
+    "model_code": "BrightDrop",
     "manufacturer_code": 10,
-    "trim_name": "BrightDrop Zevo 600 XL",
+    "trim_name": "Zevo 600 XL",
     "standard_features": [
       "Electric Drive System",
       "Single Electric Motor",
@@ -7846,8 +8072,9 @@
   },
   {
     "code": "2026-corvette-stingray-coupe",
+    "model_code": "Corvette",
     "manufacturer_code": 10,
-    "trim_name": "Corvette Stingray Coupe",
+    "trim_name": "Stingray Coupe",
     "standard_features": [
       "Rear-Wheel Drive",
       "6.2L V8 Engine",
@@ -7884,8 +8111,9 @@
   },
   {
     "code": "2026-corvette-stingray-convertible",
+    "model_code": "Corvette",
     "manufacturer_code": 10,
-    "trim_name": "Corvette Stingray Convertible",
+    "trim_name": "Stingray Convertible",
     "standard_features": [
       "Rear-Wheel Drive",
       "6.2L V8 Engine",
@@ -7922,8 +8150,9 @@
   },
   {
     "code": "2026-corvette-z06-coupe",
+    "model_code": "Corvette",
     "manufacturer_code": 10,
-    "trim_name": "Corvette Z06 Coupe",
+    "trim_name": "Z06 Coupe",
     "standard_features": [
       "Rear-Wheel Drive",
       "5.5L Flat-Plane Crank V8 Engine",
@@ -7960,8 +8189,9 @@
   },
   {
     "code": "2026-corvette-z06-convertible",
+    "model_code": "Corvette",
     "manufacturer_code": 10,
-    "trim_name": "Corvette Z06 Convertible",
+    "trim_name": "Z06 Convertible",
     "standard_features": [
       "Rear-Wheel Drive",
       "5.5L Flat-Plane Crank V8 Engine",
@@ -7998,8 +8228,9 @@
   },
   {
     "code": "2026-corvette-zr1-coupe",
+    "model_code": "Corvette",
     "manufacturer_code": 10,
-    "trim_name": "Corvette ZR1 Coupe",
+    "trim_name": "ZR1 Coupe",
     "standard_features": [
       "Rear-Wheel Drive",
       "5.5L Supercharged V8 Engine",
@@ -8034,8 +8265,9 @@
   },
   {
     "code": "2026-corvette-zr1-convertible",
+    "model_code": "Corvette",
     "manufacturer_code": 10,
-    "trim_name": "Corvette ZR1 Convertible",
+    "trim_name": "ZR1 Convertible",
     "standard_features": [
       "Rear-Wheel Drive",
       "5.5L Supercharged V8 Engine",
@@ -8070,8 +8302,9 @@
   },
   {
     "code": "2026-colorado-wt-crew-cab",
+    "model_code": "Colorado",
     "manufacturer_code": 10,
-    "trim_name": "Colorado WT Crew Cab",
+    "trim_name": "WT Crew Cab",
     "standard_features": [
       "Rear-Wheel Drive",
       "2.7L Turbo 4-Cylinder Engine",
@@ -8101,8 +8334,9 @@
   },
   {
     "code": "2026-colorado-lt-crew-cab",
+    "model_code": "Colorado",
     "manufacturer_code": 10,
-    "trim_name": "Colorado LT Crew Cab",
+    "trim_name": "LT Crew Cab",
     "standard_features": [
       "Rear-Wheel Drive",
       "2.7L Turbo 4-Cylinder Engine",
@@ -8136,8 +8370,9 @@
   },
   {
     "code": "2026-colorado-rt-crew-cab",
+    "model_code": "Colorado",
     "manufacturer_code": 10,
-    "trim_name": "Colorado RST Crew Cab",
+    "trim_name": "RST Crew Cab",
     "standard_features": [
       "Rear-Wheel Drive",
       "3.6L V6 Engine",
@@ -8171,8 +8406,9 @@
   },
   {
     "code": "2026-colorado-z71-crew-cab",
+    "model_code": "Colorado",
     "manufacturer_code": 10,
-    "trim_name": "Colorado Z71 Crew Cab",
+    "trim_name": "Z71 Crew Cab",
     "standard_features": [
       "All-Wheel Drive",
       "3.6L V6 Engine",
@@ -8207,8 +8443,9 @@
   },
   {
     "code": "2026-colorado-zr2-crew-cab",
+    "model_code": "Colorado",
     "manufacturer_code": 10,
-    "trim_name": "Colorado ZR2 Crew Cab",
+    "trim_name": "ZR2 Crew Cab",
     "standard_features": [
       "All-Wheel Drive",
       "3.6L V6 Engine",
@@ -8244,8 +8481,9 @@
   },
   {
     "code": "2026-colorado-zr2-bison-crew-cab",
+    "model_code": "Colorado",
     "manufacturer_code": 10,
-    "trim_name": "Colorado ZR2 Bison Crew Cab",
+    "trim_name": "ZR2 Bison Crew Cab",
     "standard_features": [
       "All-Wheel Drive",
       "3.6L V6 Engine",
@@ -8282,8 +8520,9 @@
   },
   {
     "code": "2026-equinox-lt-suv",
+    "model_code": "Equinox",
     "manufacturer_code": 10,
-    "trim_name": "Equinox LT",
+    "trim_name": "LT",
     "standard_features": [
       "Front-Wheel Drive",
       "1.5L Turbo 4-Cylinder Engine",
@@ -8314,8 +8553,9 @@
   },
   {
     "code": "2026-equinox-activation-package-suv",
+    "model_code": "Equinox",
     "manufacturer_code": 10,
-    "trim_name": "Equinox Activation Package",
+    "trim_name": "Activation Package",
     "standard_features": [
       "Front-Wheel Drive",
       "1.5L Turbo 4-Cylinder Engine",
@@ -8346,8 +8586,9 @@
   },
   {
     "code": "2026-equinox-rs-suv",
+    "model_code": "Equinox",
     "manufacturer_code": 10,
-    "trim_name": "Equinox RS",
+    "trim_name": "RS",
     "standard_features": [
       "All-Wheel Drive",
       "1.5L Turbo 4-Cylinder Engine",
@@ -8381,8 +8622,9 @@
   },
   {
     "code": "2026-equinox-activ-suv",
+    "model_code": "Equinox",
     "manufacturer_code": 10,
-    "trim_name": "Equinox Activ",
+    "trim_name": "Activ",
     "standard_features": [
       "All-Wheel Drive",
       "1.5L Turbo 4-Cylinder Engine",
@@ -8415,8 +8657,9 @@
   },
   {
     "code": "2026-equinox-ev-lt1-suv",
+    "model_code": "Equinox EV",
     "manufacturer_code": 10,
-    "trim_name": "Equinox EV LT1",
+    "trim_name": "LT1",
     "standard_features": [
       "Front-Wheel Drive",
       "Electric Motor",
@@ -8450,8 +8693,9 @@
   },
   {
     "code": "2026-equinox-ev-lt2-suv",
+    "model_code": "Equinox EV",
     "manufacturer_code": 10,
-    "trim_name": "Equinox EV LT2",
+    "trim_name": "LT2",
     "standard_features": [
       "Front-Wheel Drive",
       "Electric Motor",
@@ -8488,8 +8732,9 @@
   },
   {
     "code": "2026-equinox-ev-rs-suv",
+    "model_code": "Equinox EV",
     "manufacturer_code": 10,
-    "trim_name": "Equinox EV RS",
+    "trim_name": "RS",
     "standard_features": [
       "All-Wheel Drive",
       "Electric Motor",
@@ -8523,8 +8768,9 @@
   },
   {
     "code": "2026-express-2500-cargo",
+    "model_code": "Express",
     "manufacturer_code": 10,
-    "trim_name": "Express 2500 Cargo",
+    "trim_name": "2500 Cargo",
     "standard_features": [
       "Rear-Wheel Drive",
       "4.3L V6 Engine",
@@ -8553,8 +8799,9 @@
   },
   {
     "code": "2026-express-3500-cargo",
+    "model_code": "Express",
     "manufacturer_code": 10,
-    "trim_name": "Express 3500 Cargo",
+    "trim_name": "3500 Cargo",
     "standard_features": [
       "Rear-Wheel Drive",
       "4.3L V6 Engine",
@@ -8583,8 +8830,9 @@
   },
   {
     "code": "2026-express-2500-passenger",
+    "model_code": "Express",
     "manufacturer_code": 10,
-    "trim_name": "Express 2500 Passenger",
+    "trim_name": "2500 Passenger",
     "standard_features": [
       "Rear-Wheel Drive",
       "4.3L V6 Engine",
@@ -8615,8 +8863,9 @@
   },
   {
     "code": "2026-express-3500-passenger",
+    "model_code": "Express",
     "manufacturer_code": 10,
-    "trim_name": "Express 3500 Passenger",
+    "trim_name": "3500 Passenger",
     "standard_features": [
       "Rear-Wheel Drive",
       "4.3L V6 Engine",
@@ -8647,8 +8896,9 @@
   },
   {
     "code": "2026-silverado-wt-crew-cab",
+    "model_code": "Silverado",
     "manufacturer_code": 10,
-    "trim_name": "Silverado WT Crew Cab",
+    "trim_name": "WT Crew Cab",
     "standard_features": [
       "Rear-Wheel Drive",
       "2.7L Turbo 4-Cylinder Engine",
@@ -8678,8 +8928,9 @@
   },
   {
     "code": "2026-silverado-lt-crew-cab",
+    "model_code": "Silverado",
     "manufacturer_code": 10,
-    "trim_name": "Silverado LT Crew Cab",
+    "trim_name": "LT Crew Cab",
     "standard_features": [
       "Rear-Wheel Drive",
       "2.7L Turbo 4-Cylinder Engine",
@@ -8713,8 +8964,9 @@
   },
   {
     "code": "2026-silverado-rst-crew-cab",
+    "model_code": "Silverado",
     "manufacturer_code": 10,
-    "trim_name": "Silverado RST Crew Cab",
+    "trim_name": "RST Crew Cab",
     "standard_features": [
       "Rear-Wheel Drive",
       "5.3L V8 Engine",
@@ -8748,8 +9000,9 @@
   },
   {
     "code": "2026-silverado-ltz-crew-cab",
+    "model_code": "Silverado",
     "manufacturer_code": 10,
-    "trim_name": "Silverado LTZ Crew Cab",
+    "trim_name": "LTZ Crew Cab",
     "standard_features": [
       "All-Wheel Drive",
       "5.3L V8 Engine",
@@ -8783,8 +9036,9 @@
   },
   {
     "code": "2026-silverado-high-country-crew-cab",
+    "model_code": "Silverado",
     "manufacturer_code": 10,
-    "trim_name": "Silverado High Country Crew Cab",
+    "trim_name": "High Country Crew Cab",
     "standard_features": [
       "All-Wheel Drive",
       "6.2L V8 Engine",
@@ -8819,8 +9073,9 @@
   },
   {
     "code": "2026-silverado-trail-boss-crew-cab",
+    "model_code": "Silverado",
     "manufacturer_code": 10,
-    "trim_name": "Silverado Trail Boss Crew Cab",
+    "trim_name": "Trail Boss Crew Cab",
     "standard_features": [
       "All-Wheel Drive",
       "5.3L V8 Engine",
@@ -8854,8 +9109,9 @@
   },
   {
     "code": "2026-silverado-zr2-crew-cab",
+    "model_code": "Silverado",
     "manufacturer_code": 10,
-    "trim_name": "Silverado ZR2 Crew Cab",
+    "trim_name": "ZR2 Crew Cab",
     "standard_features": [
       "All-Wheel Drive",
       "6.2L V8 Engine",
@@ -8890,8 +9146,9 @@
   },
   {
     "code": "2026-silverado-ev-wt-suv",
+    "model_code": "Silverado EV",
     "manufacturer_code": 10,
-    "trim_name": "Silverado EV WT",
+    "trim_name": "WT",
     "standard_features": [
       "All‑Wheel Drive (Dual Electric Motors)",
       "Ultium Electric Motor",
@@ -8925,8 +9182,9 @@
   },
   {
     "code": "2026-silverado-ev-rst-first-edition-suv",
+    "model_code": "Silverado EV",
     "manufacturer_code": 10,
-    "trim_name": "Silverado EV RST First Edition",
+    "trim_name": "RST First Edition",
     "standard_features": [
       "All‑Wheel Drive (Dual Electric Motors)",
       "Ultium Electric Motor",
@@ -8961,8 +9219,9 @@
   },
   {
     "code": "2026-silverado-ev-lt-suv",
+    "model_code": "Silverado EV",
     "manufacturer_code": 10,
-    "trim_name": "Silverado EV LT",
+    "trim_name": "LT",
     "standard_features": [
       "All‑Wheel Drive (Dual Electric Motors)",
       "Ultium Electric Motor",
@@ -8995,8 +9254,9 @@
   },
   {
     "code": "2026-silverado-ev-ss-suv",
+    "model_code": "Silverado EV",
     "manufacturer_code": 10,
-    "trim_name": "Silverado EV SS",
+    "trim_name": "SS",
     "standard_features": [
       "All‑Wheel Drive (Dual High‑Performance Electric Motors)",
       "Ultium Electric Motor",
@@ -9031,8 +9291,9 @@
   },
   {
     "code": "2026-silverado-2500hd-wt-crew-cab",
+    "model_code": "Silverado HD",
     "manufacturer_code": 10,
-    "trim_name": "Silverado 2500HD WT",
+    "trim_name": "WT",
     "standard_features": [
       "Rear-Wheel Drive",
       "6.6L V8 Gas Engine",
@@ -9063,8 +9324,9 @@
   },
   {
     "code": "2026-silverado-2500hd-lt-crew-cab",
+    "model_code": "Silverado HD",
     "manufacturer_code": 10,
-    "trim_name": "Silverado 2500HD LT",
+    "trim_name": "LT",
     "standard_features": [
       "Rear-Wheel Drive",
       "6.6L V8 Gas Engine",
@@ -9097,8 +9359,9 @@
   },
   {
     "code": "2026-silverado-2500hd-ltz-crew-cab",
+    "model_code": "Silverado HD",
     "manufacturer_code": 10,
-    "trim_name": "Silverado 2500HD LTZ",
+    "trim_name": "LTZ",
     "standard_features": [
       "All-Wheel Drive",
       "6.6L V8 Gas Engine",
@@ -9131,8 +9394,9 @@
   },
   {
     "code": "2026-silverado-2500hd-high-country-crew-cab",
+    "model_code": "Silverado HD",
     "manufacturer_code": 10,
-    "trim_name": "Silverado 2500HD High Country",
+    "trim_name": "High Country",
     "standard_features": [
       "All-Wheel Drive",
       "6.6L V8 Gas Engine",
@@ -9167,8 +9431,9 @@
   },
   {
     "code": "2026-silverado-3500hd-wt-crew-cab",
+    "model_code": "Silverado HD",
     "manufacturer_code": 10,
-    "trim_name": "Silverado 3500HD WT",
+    "trim_name": "3500HD WT",
     "standard_features": [
       "Rear-Wheel Drive",
       "6.6L V8 Gas Engine",
@@ -9199,8 +9464,9 @@
   },
   {
     "code": "2026-silverado-3500hd-lt-crew-cab",
+    "model_code": "Silverado HD",
     "manufacturer_code": 10,
-    "trim_name": "Silverado 3500HD LT",
+    "trim_name": "3500HD LT",
     "standard_features": [
       "Rear-Wheel Drive",
       "6.6L V8 Gas Engine",
@@ -9233,8 +9499,9 @@
   },
   {
     "code": "2026-silverado-3500hd-ltz-crew-cab",
+    "model_code": "Silverado HD",
     "manufacturer_code": 10,
-    "trim_name": "Silverado 3500HD LTZ",
+    "trim_name": "3500HD LTZ",
     "standard_features": [
       "All-Wheel Drive",
       "6.6L V8 Gas Engine",
@@ -9267,8 +9534,9 @@
   },
   {
     "code": "2026-silverado-3500hd-high-country-crew-cab",
+    "model_code": "Silverado HD",
     "manufacturer_code": 10,
-    "trim_name": "Silverado 3500HD High Country",
+    "trim_name": "3500HD High Country",
     "standard_features": [
       "All-Wheel Drive",
       "6.6L V8 Gas Engine",
@@ -9303,8 +9571,9 @@
   },
   {
     "code": "2026-spark-euv-1lt",
+    "model_code": "Spark EUV",
     "manufacturer_code": 10,
-    "trim_name": "Spark EUV 1LT",
+    "trim_name": "1LT",
     "standard_features": [
       "Front-Wheel Drive",
       "Electric Motor (Ultium EV Platform)",
@@ -9336,8 +9605,9 @@
   },
   {
     "code": "2026-spark-euv-2lt",
+    "model_code": "Spark EUV",
     "manufacturer_code": 10,
-    "trim_name": "Spark EUV 2LT",
+    "trim_name": "2LT",
     "standard_features": [
       "Front-Wheel Drive",
       "Electric Motor (Ultium EV Platform)",
@@ -9370,8 +9640,9 @@
   },
   {
     "code": "2026-suburban-wt",
+    "model_code": "Suburban",
     "manufacturer_code": 10,
-    "trim_name": "Suburban WT",
+    "trim_name": "WT",
     "standard_features": [
       "Rear-Wheel Drive",
       "5.3L V8 Engine",
@@ -9402,8 +9673,9 @@
   },
   {
     "code": "2026-suburban-ls",
+    "model_code": "Suburban",
     "manufacturer_code": 10,
-    "trim_name": "Suburban LS",
+    "trim_name": "LS",
     "standard_features": [
       "Rear-Wheel Drive",
       "5.3L V8 Engine",
@@ -9437,8 +9709,9 @@
   },
   {
     "code": "2026-suburban-lt",
+    "model_code": "Suburban",
     "manufacturer_code": 10,
-    "trim_name": "Suburban LT",
+    "trim_name": "LT",
     "standard_features": [
       "All-Wheel Drive",
       "5.3L V8 Engine",
@@ -9473,8 +9746,9 @@
   },
   {
     "code": "2026-suburban-rst",
+    "model_code": "Suburban",
     "manufacturer_code": 10,
-    "trim_name": "Suburban RST",
+    "trim_name": "RST",
     "standard_features": [
       "All-Wheel Drive",
       "6.2L V8 Engine",
@@ -9508,8 +9782,9 @@
   },
   {
     "code": "2026-suburban-z71",
+    "model_code": "Suburban",
     "manufacturer_code": 10,
-    "trim_name": "Suburban Z71",
+    "trim_name": "Z71",
     "standard_features": [
       "All-Wheel Drive",
       "6.2L V8 Engine",
@@ -9543,8 +9818,9 @@
   },
   {
     "code": "2026-suburban-premier",
+    "model_code": "Suburban",
     "manufacturer_code": 10,
-    "trim_name": "Suburban Premier",
+    "trim_name": "Premier",
     "standard_features": [
       "All-Wheel Drive",
       "6.2L V8 Engine",
@@ -9579,8 +9855,9 @@
   },
   {
     "code": "2026-suburban-high-country",
+    "model_code": "Suburban",
     "manufacturer_code": 10,
-    "trim_name": "Suburban High Country",
+    "trim_name": "High Country",
     "standard_features": [
       "All-Wheel Drive",
       "6.2L V8 Engine",
@@ -9615,8 +9892,9 @@
   },
   {
     "code": "2026-tahoe-wt",
+    "model_code": "Tahoe",
     "manufacturer_code": 10,
-    "trim_name": "Tahoe WT",
+    "trim_name": "WT",
     "standard_features": [
       "Rear-Wheel Drive",
       "5.3L V8 Engine",
@@ -9647,8 +9925,9 @@
   },
   {
     "code": "2026-tahoe-ls",
+    "model_code": "Tahoe",
     "manufacturer_code": 10,
-    "trim_name": "Tahoe LS",
+    "trim_name": "LS",
     "standard_features": [
       "Rear-Wheel Drive",
       "5.3L V8 Engine",
@@ -9682,8 +9961,9 @@
   },
   {
     "code": "2026-tahoe-lt",
+    "model_code": "Tahoe",
     "manufacturer_code": 10,
-    "trim_name": "Tahoe LT",
+    "trim_name": "LT",
     "standard_features": [
       "All-Wheel Drive",
       "5.3L V8 Engine",
@@ -9718,8 +9998,9 @@
   },
   {
     "code": "2026-tahoe-rst",
+    "model_code": "Tahoe",
     "manufacturer_code": 10,
-    "trim_name": "Tahoe RST",
+    "trim_name": "RST",
     "standard_features": [
       "All-Wheel Drive",
       "6.2L V8 Engine",
@@ -9753,8 +10034,9 @@
   },
   {
     "code": "2026-tahoe-z71",
+    "model_code": "Tahoe",
     "manufacturer_code": 10,
-    "trim_name": "Tahoe Z71",
+    "trim_name": "Z71",
     "standard_features": [
       "All-Wheel Drive",
       "6.2L V8 Engine",
@@ -9788,8 +10070,9 @@
   },
   {
     "code": "2026-tahoe-premier",
+    "model_code": "Tahoe",
     "manufacturer_code": 10,
-    "trim_name": "Tahoe Premier",
+    "trim_name": "Premier",
     "standard_features": [
       "All-Wheel Drive",
       "6.2L V8 Engine",
@@ -9824,8 +10107,9 @@
   },
   {
     "code": "2026-tahoe-high-country",
+    "model_code": "Tahoe",
     "manufacturer_code": 10,
-    "trim_name": "Tahoe High Country",
+    "trim_name": "High Country",
     "standard_features": [
       "All-Wheel Drive",
       "6.2L V8 Engine",
@@ -9860,8 +10144,9 @@
   },
   {
     "code": "2026-trailblazer-ls",
+    "model_code": "Trailblazer",
     "manufacturer_code": 10,
-    "trim_name": "Trailblazer LS",
+    "trim_name": "LS",
     "standard_features": [
       "Front-Wheel Drive",
       "1.2L Turbo 3-Cylinder Engine",
@@ -9890,8 +10175,9 @@
   },
   {
     "code": "2026-trailblazer-lt",
+    "model_code": "Trailblazer",
     "manufacturer_code": 10,
-    "trim_name": "Trailblazer LT",
+    "trim_name": "LT",
     "standard_features": [
       "Front-Wheel Drive",
       "1.3L Turbo 3-Cylinder Engine",
@@ -9922,8 +10208,9 @@
   },
   {
     "code": "2026-trailblazer-activ",
+    "model_code": "Trailblazer",
     "manufacturer_code": 10,
-    "trim_name": "Trailblazer ACTIV",
+    "trim_name": "ACTIV",
     "standard_features": [
       "All-Wheel Drive",
       "1.3L Turbo 3-Cylinder Engine",
@@ -9954,8 +10241,9 @@
   },
   {
     "code": "2026-trailblazer-rs",
+    "model_code": "Trailblazer",
     "manufacturer_code": 10,
-    "trim_name": "Trailblazer RS",
+    "trim_name": "RS",
     "standard_features": [
       "All-Wheel Drive",
       "1.3L Turbo 3-Cylinder Engine",
@@ -9986,8 +10274,9 @@
   },
   {
     "code": "2026-traverse-ls",
+    "model_code": "Traverse",
     "manufacturer_code": 10,
-    "trim_name": "Traverse LS",
+    "trim_name": "LS",
     "standard_features": [
       "Front-Wheel Drive",
       "3.6L V6 Engine",
@@ -10018,8 +10307,9 @@
   },
   {
     "code": "2026-traverse-lt",
+    "model_code": "Traverse",
     "manufacturer_code": 10,
-    "trim_name": "Traverse LT",
+    "trim_name": "LT",
     "standard_features": [
       "Front-Wheel Drive",
       "3.6L V6 Engine",
@@ -10052,8 +10342,9 @@
   },
   {
     "code": "2026-traverse-rs",
+    "model_code": "Traverse",
     "manufacturer_code": 10,
-    "trim_name": "Traverse RS",
+    "trim_name": "RS",
     "standard_features": [
       "All-Wheel Drive",
       "3.6L V6 Engine",
@@ -10086,8 +10377,9 @@
   },
   {
     "code": "2026-traverse-premier",
+    "model_code": "Traverse",
     "manufacturer_code": 10,
-    "trim_name": "Traverse Premier",
+    "trim_name": "Premier",
     "standard_features": [
       "All-Wheel Drive",
       "3.6L V6 Engine",
@@ -10121,8 +10413,9 @@
   },
   {
     "code": "2026-traverse-high-country",
+    "model_code": "Traverse",
     "manufacturer_code": 10,
-    "trim_name": "Traverse High Country",
+    "trim_name": "High Country",
     "standard_features": [
       "All-Wheel Drive",
       "3.6L V6 Engine",
@@ -10156,8 +10449,9 @@
   },
   {
     "code": "2026-trax-ls",
+    "model_code": "Trax",
     "manufacturer_code": 10,
-    "trim_name": "Trax LS",
+    "trim_name": "LS",
     "standard_features": [
       "Front-Wheel Drive",
       "1.2L Turbo 3-Cylinder Engine",
@@ -10186,8 +10480,9 @@
   },
   {
     "code": "2026-trax-lt",
+    "model_code": "Trax",
     "manufacturer_code": 10,
-    "trim_name": "Trax LT",
+    "trim_name": "LT",
     "standard_features": [
       "Front-Wheel Drive",
       "1.2L Turbo 3-Cylinder Engine",
@@ -10219,8 +10514,9 @@
   },
   {
     "code": "2026-trax-activ",
+    "model_code": "Trax",
     "manufacturer_code": 10,
-    "trim_name": "Trax ACTIV",
+    "trim_name": "ACTIV",
     "standard_features": [
       "All-Wheel Drive",
       "1.2L Turbo 3-Cylinder Engine",
@@ -10252,8 +10548,9 @@
   },
   {
     "code": "2026-pacifica-lx",
+    "model_code": "Pacifica",
     "manufacturer_code": 11,
-    "trim_name": "Pacifica LX",
+    "trim_name": "LX",
     "standard_features": [
       "Front-Wheel Drive",
       "3.6L V6 Engine",
@@ -10284,8 +10581,9 @@
   },
   {
     "code": "2026-pacifica-touring",
+    "model_code": "Pacifica",
     "manufacturer_code": 11,
-    "trim_name": "Pacifica Touring",
+    "trim_name": "Touring",
     "standard_features": [
       "Front-Wheel Drive",
       "3.6L V6 Engine",
@@ -10317,8 +10615,9 @@
   },
   {
     "code": "2026-pacifica-touring-l",
+    "model_code": "Pacifica",
     "manufacturer_code": 11,
-    "trim_name": "Pacifica Touring L",
+    "trim_name": "Touring L",
     "standard_features": [
       "Front-Wheel Drive",
       "3.6L V6 Engine",
@@ -10351,8 +10650,9 @@
   },
   {
     "code": "2026-pacifica-limited",
+    "model_code": "Pacifica",
     "manufacturer_code": 11,
-    "trim_name": "Pacifica Limited",
+    "trim_name": "Limited",
     "standard_features": [
       "All-Wheel Drive",
       "3.6L V6 Engine",
@@ -10386,8 +10686,9 @@
   },
   {
     "code": "2026-pacifica-pinnacle",
+    "model_code": "Pacifica",
     "manufacturer_code": 11,
-    "trim_name": "Pacifica Pinnacle",
+    "trim_name": "Pinnacle",
     "standard_features": [
       "All-Wheel Drive",
       "3.6L V6 Engine",
@@ -10421,8 +10722,9 @@
   },
   {
     "code": "2026-pacifica-hybrid-lx",
+    "model_code": "Pacifica Plug-in Hybrid",
     "manufacturer_code": 11,
-    "trim_name": "Pacifica Hybrid LX",
+    "trim_name": "LX",
     "standard_features": [
       "Front-Wheel Drive",
       "3.6L V6 Engine + Plug-In Hybrid System",
@@ -10453,8 +10755,9 @@
   },
   {
     "code": "2026-pacifica-hybrid-touring",
+    "model_code": "Pacifica Plug-in Hybrid",
     "manufacturer_code": 11,
-    "trim_name": "Pacifica Hybrid Touring",
+    "trim_name": "Touring",
     "standard_features": [
       "Front-Wheel Drive",
       "3.6L V6 Engine + Plug-In Hybrid System",
@@ -10487,8 +10790,9 @@
   },
   {
     "code": "2026-pacifica-hybrid-touring-l",
+    "model_code": "Pacifica Plug-in Hybrid",
     "manufacturer_code": 11,
-    "trim_name": "Pacifica Hybrid Touring L",
+    "trim_name": "Touring L",
     "standard_features": [
       "Front-Wheel Drive",
       "3.6L V6 Engine + Plug-In Hybrid System",
@@ -10521,8 +10825,9 @@
   },
   {
     "code": "2026-pacifica-hybrid-limited",
+    "model_code": "Pacifica Plug-in Hybrid",
     "manufacturer_code": 11,
-    "trim_name": "Pacifica Hybrid Limited",
+    "trim_name": "Limited",
     "standard_features": [
       "All-Wheel Drive",
       "3.6L V6 Engine + Plug-In Hybrid System",
@@ -10556,8 +10861,9 @@
   },
   {
     "code": "2026-pacifica-hybrid-pinnacle",
+    "model_code": "Pacifica Plug-in Hybrid",
     "manufacturer_code": 11,
-    "trim_name": "Pacifica Hybrid Pinnacle",
+    "trim_name": "Pinnacle",
     "standard_features": [
       "All-Wheel Drive",
       "3.6L V6 Engine + Plug-In Hybrid System",
@@ -10591,8 +10897,9 @@
   },
   {
     "code": "2026-voyager-lx",
+    "model_code": "Voyager",
     "manufacturer_code": 11,
-    "trim_name": "Voyager LX",
+    "trim_name": "LX",
     "standard_features": [
       "Front-Wheel Drive",
       "3.6L V6 Engine",
