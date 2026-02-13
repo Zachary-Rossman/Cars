@@ -10930,8 +10930,9 @@
   },
   {
     "code": "2026-charger-rt-sixpack",
+    "model_code": "Charger",
     "manufacturer_code": 12,
-    "trim_name": "Charger R/T SixPack",
+    "trim_name": "R/T SixPack",
     "standard_features": [
       "All-Wheel Drive (Dual Traction Control with Front Axle Disconnect)",
       "3.0L Twin‑Turbo Hurricane Inline‑6 Engine",
@@ -10963,8 +10964,9 @@
   },
   {
     "code": "2026-charger-scat-pack-sixpack",
+    "model_code": "Charger",
     "manufacturer_code": 12,
-    "trim_name": "Charger Scat Pack SixPack",
+    "trim_name": "Scat Pack SixPack",
     "standard_features": [
       "All‑Wheel Drive (Dual Traction Control with Front Axle Disconnect)",
       "3.0L Twin‑Turbo Hurricane Inline‑6 High‑Output Engine",
@@ -10996,8 +10998,9 @@
   },
   {
     "code": "2026-charger-daytona-scat-pack-ev",
+    "model_code": "Charger",
     "manufacturer_code": 12,
-    "trim_name": "Charger Daytona Scat Pack EV",
+    "trim_name": "Daytona Scat Pack EV",
     "standard_features": [
       "All‑Wheel Drive (Dual Electric Motors)",
       "Electric Motor (Dual‑Motor AWD)",
@@ -11027,8 +11030,9 @@
   },
   {
     "code": "2026-charger-daytona-scat-pack-plus-ev",
+    "model_code": "Charger",
     "manufacturer_code": 12,
-    "trim_name": "Charger Daytona Scat Pack Plus EV",
+    "trim_name": "Daytona Scat Pack Plus EV",
     "standard_features": [
       "All‑Wheel Drive (Dual Electric Motors)",
       "Electric Motor (Dual‑Motor AWD)",
@@ -11059,8 +11063,9 @@
   },
   {
     "code": "2026-durango-sxt",
+    "model_code": "Durango",
     "manufacturer_code": 12,
-    "trim_name": "Durango SXT",
+    "trim_name": "SXT",
     "standard_features": [
       "Rear-Wheel Drive",
       "3.6L Pentastar V6 Engine",
@@ -11091,8 +11096,9 @@
   },
   {
     "code": "2026-durango-gt",
+    "model_code": "Durango",
     "manufacturer_code": 12,
-    "trim_name": "Durango GT",
+    "trim_name": "GT",
     "standard_features": [
       "All-Wheel Drive",
       "3.6L Pentastar V6 Engine",
@@ -11123,8 +11129,9 @@
   },
   {
     "code": "2026-durango-citadel",
+    "model_code": "Durango",
     "manufacturer_code": 12,
-    "trim_name": "Durango Citadel",
+    "trim_name": "Citadel",
     "standard_features": [
       "All-Wheel Drive",
       "3.6L Pentastar V6 Engine",
@@ -11156,8 +11163,9 @@
   },
   {
     "code": "2026-durango-rt",
+    "model_code": "Durango",
     "manufacturer_code": 12,
-    "trim_name": "Durango R/T",
+    "trim_name": "R/T",
     "standard_features": [
       "All-Wheel Drive",
       "5.7L HEMI V8 Engine",
@@ -11189,8 +11197,9 @@
   },
   {
     "code": "2026-durango-srt",
+    "model_code": "Durango",
     "manufacturer_code": 12,
-    "trim_name": "Durango SRT",
+    "trim_name": "SRT",
     "standard_features": [
       "All-Wheel Drive",
       "6.4L HEMI V8 Engine",
@@ -11222,8 +11231,9 @@
   },
   {
     "code": "2026-hornet-sxt",
+    "model_code": "Hornet",
     "manufacturer_code": 12,
-    "trim_name": "Hornet SXT",
+    "trim_name": "SXT",
     "standard_features": [
       "Front-Wheel Drive",
       "2.0L Turbocharged Inline-4 Engine",
@@ -11253,8 +11263,9 @@
   },
   {
     "code": "2026-hornet-gt",
+    "model_code": "Hornet",
     "manufacturer_code": 12,
-    "trim_name": "Hornet GT",
+    "trim_name": "GT",
     "standard_features": [
       "All-Wheel Drive",
       "2.0L Turbocharged Inline-4 Engine",
@@ -11284,8 +11295,9 @@
   },
   {
     "code": "2026-hornet-rt",
+    "model_code": "Hornet",
     "manufacturer_code": 12,
-    "trim_name": "Hornet R/T",
+    "trim_name": "R/T",
     "standard_features": [
       "All-Wheel Drive",
       "2.5L Turbocharged Inline-4 Engine",
@@ -11315,8 +11327,9 @@
   },
   {
     "code": "2026-hornet-rt-rwd",
+    "model_code": "Hornet",
     "manufacturer_code": 12,
-    "trim_name": "Hornet R/T RWD",
+    "trim_name": "R/T RWD",
     "standard_features": [
       "Rear-Wheel Drive",
       "2.5L Turbocharged Inline-4 Engine",
@@ -11346,8 +11359,9 @@
   },
   {
     "code": "2026-12cilindri-coupe",
+    "model_code": "12Cilindri",
     "manufacturer_code": 13,
-    "trim_name": "12Cilindri Coupe",
+    "trim_name": "Standard",
     "standard_features": [
       "Rear-Wheel Drive",
       "6.5L V12 F140HD Engine",
@@ -11382,8 +11396,9 @@
   },
   {
     "code": "2026-12cilindri-spider",
+    "model_code": "12Cilindri Spider",
     "manufacturer_code": 13,
-    "trim_name": "12Cilindri Spider",
+    "trim_name": "Standard",
     "standard_features": [
       "Rear-Wheel Drive",
       "6.5L V12 F140HD Engine",
@@ -11419,8 +11434,9 @@
   },
   {
     "code": "2026-296-gtb-coupe",
+    "model_code": "296 GTB",
     "manufacturer_code": 13,
-    "trim_name": "296 GTB",
+    "trim_name": "Standard",
     "standard_features": [
       "Rear-Wheel Drive",
       "3.0L Twin‑Turbo V6 Engine + eMotor Hybrid System",
@@ -11456,8 +11472,9 @@
   },
   {
     "code": "2026-296-gts-convertible",
+    "model_code": "296 GTS",
     "manufacturer_code": 13,
-    "trim_name": "296 GTS",
+    "trim_name": "Standard",
     "standard_features": [
       "Rear-Wheel Drive",
       "3.0L Twin‑Turbo V6 Engine + eMotor Hybrid System",
@@ -11494,8 +11511,9 @@
   },
   {
     "code": "2026-849-testarossa-coupe",
+    "model_code": "849 Testarossa",
     "manufacturer_code": 13,
-    "trim_name": "849 Testarossa",
+    "trim_name": "Standard",
     "standard_features": [
       "Mid‑Rear Engine",
       "Twin‑Turbo V8 + Three Electric Motors Hybrid Powertrain",
@@ -11525,8 +11543,9 @@
   },
   {
     "code": "2026-849-testarossa-spider",
+    "model_code": "849 Testarossa Spider",
     "manufacturer_code": 13,
-    "trim_name": "849 Testarossa Spider",
+    "trim_name": "Standard",
     "standard_features": [
       "Mid‑Rear Engine",
       "Twin‑Turbo V8 + Three Electric Motors Hybrid Powertrain",
@@ -11557,8 +11576,9 @@
   },
   {
     "code": "2026-amalfi-coupe",
+    "model_code": "Amalfi",
     "manufacturer_code": 13,
-    "trim_name": "Amalfi",
+    "trim_name": "Standard",
     "standard_features": [
       "Front Mid‑Engine Rear‑Wheel Drive",
       "3.9L Twin‑Turbo V8 Engine",
@@ -11593,8 +11613,9 @@
   },
   {
     "code": "2026-f80-coupe",
+    "model_code": "F80",
     "manufacturer_code": 13,
-    "trim_name": "F80",
+    "trim_name": "Standard",
     "standard_features": [
       "Rear-Wheel Drive",
       "6.5L Naturally Aspirated V12 Engine",
@@ -11628,8 +11649,9 @@
   },
   {
     "code": "2026-purosangue-suv",
+    "model_code": "Purosangue",
     "manufacturer_code": 13,
-    "trim_name": "Purosangue",
+    "trim_name": "Standard",
     "standard_features": [
       "All-Wheel Drive",
       "6.5L Naturally Aspirated V12 Engine",
@@ -11663,8 +11685,9 @@
   },
   {
     "code": "2026-roma-spider-convertible",
+    "model_code": "Roma Spider",
     "manufacturer_code": 13,
-    "trim_name": "Roma Spider",
+    "trim_name": "Standard",
     "standard_features": [
       "Front Mid‑Engine Rear-Wheel Drive",
       "3.9L Twin‑Turbo V8 Engine",
@@ -11699,8 +11722,9 @@
   },
   {
     "code": "2026-500e-base-hatchback",
+    "model_code": "500e",
     "manufacturer_code": 14,
-    "trim_name": "500e",
+    "trim_name": "Base",
     "standard_features": [
       "Front-Wheel Drive",
       "Electric Motor (Battery Pack ~42 kWh)",
@@ -11730,8 +11754,9 @@
   },
   {
     "code": "2026-500e-red-hatchback",
+    "model_code": "500e",
     "manufacturer_code": 14,
-    "trim_name": "500e Red",
+    "trim_name": "Red",
     "standard_features": [
       "Front-Wheel Drive",
       "Electric Motor (Battery Pack ~42 kWh)",
@@ -11760,8 +11785,9 @@
   },
   {
     "code": "2026-500e-iconica-hatchback",
+    "model_code": "500e",
     "manufacturer_code": 14,
-    "trim_name": "500e Iconica",
+    "trim_name": "Iconica",
     "standard_features": [
       "Front-Wheel Drive",
       "Electric Motor (Battery Pack ~42 kWh)",
@@ -11790,8 +11816,9 @@
   },
   {
     "code": "2026-500e-giorgio-armani-hatchback",
+    "model_code": "500e",
     "manufacturer_code": 14,
-    "trim_name": "500e Giorgio Armani Collector's Edition",
+    "trim_name": "Giorgio Armani Collector's Edition",
     "standard_features": [
       "Front-Wheel Drive",
       "Electric Motor (Battery Pack ~42 kWh)",
@@ -11820,8 +11847,9 @@
   },
   {
     "code": "2026-ocean-sport",
+    "model_code": "Ocean",
     "manufacturer_code": 15,
-    "trim_name": "Ocean Sport",
+    "trim_name": "Sport",
     "standard_features": [
       "All‑Electric Powertrain",
       "Front‑Wheel Drive",
@@ -11848,8 +11876,9 @@
   },
   {
     "code": "2026-ocean-ultra",
+    "model_code": "Ocean",
     "manufacturer_code": 15,
-    "trim_name": "Ocean Ultra",
+    "trim_name": "Ultra",
     "standard_features": [
       "All‑Electric Powertrain",
       "All‑Wheel Drive",
@@ -11876,8 +11905,9 @@
   },
   {
     "code": "2026-ocean-extreme",
+    "model_code": "Ocean",
     "manufacturer_code": 15,
-    "trim_name": "Ocean Extreme",
+    "trim_name": "Extreme",
     "standard_features": [
       "All‑Electric Powertrain",
       "All‑Wheel Drive",
@@ -11905,8 +11935,9 @@
   },
   {
     "code": "2026-ocean-one",
+    "model_code": "Ocean",
     "manufacturer_code": 15,
-    "trim_name": "Ocean One",
+    "trim_name": "One",
     "standard_features": [
       "All‑Electric Powertrain",
       "All‑Wheel Drive",
@@ -11934,8 +11965,9 @@
   },
   {
     "code": "2026-bronco-big-bend",
+    "model_code": "Bronco",
     "manufacturer_code": 16,
-    "trim_name": "Bronco Big Bend",
+    "trim_name": "Big Bend",
     "standard_features": [
       "4x4 Drivetrain",
       "2.3L EcoBoost I4 Engine",
@@ -11960,8 +11992,9 @@
   },
   {
     "code": "2026-bronco-outer-banks",
+    "model_code": "Bronco",
     "manufacturer_code": 16,
-    "trim_name": "Bronco Outer Banks",
+    "trim_name": "Outer Banks",
     "standard_features": [
       "4x4 Drivetrain",
       "2.3L EcoBoost I4 Engine (optional 2.7L V6)",
@@ -11986,8 +12019,9 @@
   },
   {
     "code": "2026-bronco-badlands",
+    "model_code": "Bronco",
     "manufacturer_code": 16,
-    "trim_name": "Bronco Badlands",
+    "trim_name": "Badlands",
     "standard_features": [
       "4x4 Drivetrain",
       "2.3L EcoBoost I4 Engine (optional 2.7L V6)",
@@ -12012,8 +12046,9 @@
   },
   {
     "code": "2026-bronco-heritage-edition",
+    "model_code": "Bronco",
     "manufacturer_code": 16,
-    "trim_name": "Bronco Heritage Edition",
+    "trim_name": "Heritage Edition",
     "standard_features": [
       "4x4 Drivetrain",
       "2.7L EcoBoost V6 Engine",
@@ -12038,8 +12073,9 @@
   },
   {
     "code": "2026-bronco-stroppe-edition",
+    "model_code": "Bronco",
     "manufacturer_code": 16,
-    "trim_name": "Bronco Stroppe Edition",
+    "trim_name": "Stroppe Edition",
     "standard_features": [
       "4x4 Drivetrain",
       "2.7L EcoBoost V6 Engine",
@@ -12063,8 +12099,9 @@
   },
   {
     "code": "2026-bronco-raptor",
+    "model_code": "Bronco",
     "manufacturer_code": 16,
-    "trim_name": "Bronco Raptor",
+    "trim_name": "Raptor",
     "standard_features": [
       "4x4 Drivetrain",
       "3.0L EcoBoost V6 Engine",
@@ -12089,8 +12126,9 @@
   },
   {
     "code": "2026-bronco-sport-big-bend",
+    "model_code": "Bronco Sport",
     "manufacturer_code": 16,
-    "trim_name": "Bronco Sport Big Bend",
+    "trim_name": "Big Bend",
     "standard_features": [
       "All‑Wheel Drive (4×4)",
       "1.5L EcoBoost Turbo I3 Engine",
@@ -12119,8 +12157,9 @@
   },
   {
     "code": "2026-bronco-sport-heritage",
+    "model_code": "Bronco Sport",
     "manufacturer_code": 16,
-    "trim_name": "Bronco Sport Heritage",
+    "trim_name": "Heritage",
     "standard_features": [
       "All‑Wheel Drive (4×4)",
       "1.5L EcoBoost Turbo I3 Engine",
@@ -12147,8 +12186,9 @@
   },
   {
     "code": "2026-bronco-sport-outer-banks",
+    "model_code": "Bronco Sport",
     "manufacturer_code": 16,
-    "trim_name": "Bronco Sport Outer Banks",
+    "trim_name": "Outer Banks",
     "standard_features": [
       "All‑Wheel Drive (4×4)",
       "1.5L EcoBoost Turbo I3 Engine",
@@ -12176,8 +12216,9 @@
   },
   {
     "code": "2026-bronco-sport-badlands",
+    "model_code": "Bronco Sport",
     "manufacturer_code": 16,
-    "trim_name": "Bronco Sport Badlands",
+    "trim_name": "Badlands",
     "standard_features": [
       "All‑Wheel Drive (4×4)",
       "2.0L EcoBoost Turbo I4 Engine",
@@ -12206,8 +12247,9 @@
   },
   {
     "code": "2026-escape-s",
+    "model_code": "Escape",
     "manufacturer_code": 16,
-    "trim_name": "Escape S",
+    "trim_name": "S",
     "standard_features": [
       "Front-Wheel Drive (AWD optional)",
       "1.5L EcoBoost I3 Engine",
@@ -12232,8 +12274,9 @@
   },
   {
     "code": "2026-escape-se",
+    "model_code": "Escape",
     "manufacturer_code": 16,
-    "trim_name": "Escape SE",
+    "trim_name": "SE",
     "standard_features": [
       "Front-Wheel Drive (AWD optional)",
       "1.5L EcoBoost I3 Engine",
@@ -12260,8 +12303,9 @@
   },
   {
     "code": "2026-escape-se-sport",
+    "model_code": "Escape",
     "manufacturer_code": 16,
-    "trim_name": "Escape SE Sport",
+    "trim_name": "SE Sport",
     "standard_features": [
       "Front-Wheel Drive (AWD optional)",
       "2.0L EcoBoost I4 Engine",
@@ -12288,8 +12332,9 @@
   },
   {
     "code": "2026-escape-sel",
+    "model_code": "Escape",
     "manufacturer_code": 16,
-    "trim_name": "Escape SEL",
+    "trim_name": "SEL",
     "standard_features": [
       "Front-Wheel Drive (AWD optional)",
       "2.0L EcoBoost I4 Engine",
@@ -12317,8 +12362,9 @@
   },
   {
     "code": "2026-escape-titanium",
+    "model_code": "Escape",
     "manufacturer_code": 16,
-    "trim_name": "Escape Titanium",
+    "trim_name": "Titanium",
     "standard_features": [
       "All-Wheel Drive (AWD standard)",
       "2.0L EcoBoost I4 Engine",
@@ -12346,8 +12392,9 @@
   },
   {
     "code": "2026-escape-phev-se",
+    "model_code": "Escape Plugin Hybrid",
     "manufacturer_code": 16,
-    "trim_name": "Escape PHEV SE",
+    "trim_name": "SE",
     "standard_features": [
       "Front-Wheel Drive (AWD optional)",
       "2.5L Atkinson-Cycle I4 Hybrid Engine + Electric Motor",
@@ -12374,8 +12421,9 @@
   },
   {
     "code": "2026-escape-phev-se-ultimate",
+    "model_code": "Escape Plugin Hybrid",
     "manufacturer_code": 16,
-    "trim_name": "Escape PHEV SE Ultimate",
+    "trim_name": "SE Ultimate",
     "standard_features": [
       "All-Wheel Drive",
       "2.5L Atkinson-Cycle I4 Hybrid Engine + Electric Motor",
@@ -12403,8 +12451,9 @@
   },
   {
     "code": "2026-e-transit-van-150",
+    "model_code": "E-Transit",
     "manufacturer_code": 16,
-    "trim_name": "E-Transit Van 150",
+    "trim_name": "150",
     "standard_features": [
       "Rear-Wheel Drive (RWD)",
       "Electric Motor (~266 hp / 317 lb-ft)",
@@ -12430,8 +12479,9 @@
   },
   {
     "code": "2026-e-transit-van-250",
+    "model_code": "E-Transit",
     "manufacturer_code": 16,
-    "trim_name": "E-Transit Van 250",
+    "trim_name": "250",
     "standard_features": [
       "Rear-Wheel Drive (RWD)",
       "Electric Motor (~266 hp / 317 lb-ft)",
@@ -12456,8 +12506,9 @@
   },
   {
     "code": "2026-e-transit-van-350",
+    "model_code": "E-Transit",
     "manufacturer_code": 16,
-    "trim_name": "E-Transit Van 350",
+    "trim_name": "350",
     "standard_features": [
       "Rear-Wheel Drive (RWD)",
       "Electric Motor (~266 hp / 317 lb-ft)",
@@ -12482,8 +12533,9 @@
   },
   {
     "code": "2026-expedition-xl",
+    "model_code": "Expedition",
     "manufacturer_code": 16,
-    "trim_name": "Expedition XL",
+    "trim_name": "XL",
     "standard_features": [
       "Rear-Wheel Drive (4WD optional)",
       "3.5L EcoBoost V6 Engine",
@@ -12511,8 +12563,9 @@
   },
   {
     "code": "2026-expedition-xlt",
+    "model_code": "Expedition",
     "manufacturer_code": 16,
-    "trim_name": "Expedition XLT",
+    "trim_name": "XLT",
     "standard_features": [
       "Rear-Wheel Drive (4WD optional)",
       "3.5L EcoBoost V6 Engine",
@@ -12540,8 +12593,9 @@
   },
   {
     "code": "2026-expedition-limited",
+    "model_code": "Expedition",
     "manufacturer_code": 16,
-    "trim_name": "Expedition Limited",
+    "trim_name": "Limited",
     "standard_features": [
       "4WD Standard",
       "3.5L EcoBoost V6 Engine",
@@ -12569,8 +12623,9 @@
   },
   {
     "code": "2026-expedition-platinum",
+    "model_code": "Expedition",
     "manufacturer_code": 16,
-    "trim_name": "Expedition Platinum",
+    "trim_name": "Platinum",
     "standard_features": [
       "4WD Standard",
       "3.5L EcoBoost V6 Engine",
@@ -12598,8 +12653,9 @@
   },
   {
     "code": "2026-explorer-xl",
+    "model_code": "Explorer",
     "manufacturer_code": 16,
-    "trim_name": "Explorer XL",
+    "trim_name": "XL",
     "standard_features": [
       "Rear-Wheel Drive (AWD optional)",
       "2.3L EcoBoost I4 Engine",
@@ -12627,8 +12683,9 @@
   },
   {
     "code": "2026-explorer-xlt",
+    "model_code": "Explorer",
     "manufacturer_code": 16,
-    "trim_name": "Explorer XLT",
+    "trim_name": "XLT",
     "standard_features": [
       "Rear-Wheel Drive (AWD optional)",
       "2.3L EcoBoost I4 Engine",
@@ -12658,8 +12715,9 @@
   },
   {
     "code": "2026-explorer-limited",
+    "model_code": "Explorer",
     "manufacturer_code": 16,
-    "trim_name": "Explorer Limited",
+    "trim_name": "Limited",
     "standard_features": [
       "All-Wheel Drive Standard",
       "2.3L EcoBoost I4 Engine",
@@ -12687,8 +12745,9 @@
   },
   {
     "code": "2026-explorer-king-ranch",
+    "model_code": "Explorer",
     "manufacturer_code": 16,
-    "trim_name": "Explorer King Ranch",
+    "trim_name": "King Ranch",
     "standard_features": [
       "All-Wheel Drive Standard",
       "3.0L EcoBoost V6 Engine",
@@ -12716,8 +12775,9 @@
   },
   {
     "code": "2026-explorer-platinum",
+    "model_code": "Explorer",
     "manufacturer_code": 16,
-    "trim_name": "Explorer Platinum",
+    "trim_name": "Platinum",
     "standard_features": [
       "All-Wheel Drive Standard",
       "3.0L EcoBoost V6 Engine",
@@ -12746,8 +12806,9 @@
   },
   {
     "code": "2026-explorer-st",
+    "model_code": "Explorer",
     "manufacturer_code": 16,
-    "trim_name": "Explorer ST",
+    "trim_name": "ST",
     "standard_features": [
       "All-Wheel Drive Standard",
       "3.0L EcoBoost V6 Engine (~400 hp)",
@@ -12777,8 +12838,9 @@
   },
   {
     "code": "2026-f150-xl",
+    "model_code": "F-150",
     "manufacturer_code": 16,
-    "trim_name": "F-150 XL",
+    "trim_name": "XL",
     "standard_features": [
       "Rear-Wheel Drive (4WD optional)",
       "3.3L V6 Engine",
@@ -12805,8 +12867,9 @@
   },
   {
     "code": "2026-f150-xlt",
+    "model_code": "F-150",
     "manufacturer_code": 16,
-    "trim_name": "F-150 XLT",
+    "trim_name": "XLT",
     "standard_features": [
       "Rear-Wheel Drive (4WD optional)",
       "3.3L V6 Engine",
@@ -12833,8 +12896,9 @@
   },
   {
     "code": "2026-f150-lariat",
+    "model_code": "F-150",
     "manufacturer_code": 16,
-    "trim_name": "F-150 Lariat",
+    "trim_name": "Lariat",
     "standard_features": [
       "4WD optional",
       "2.7L EcoBoost V6 or 3.5L EcoBoost V6 Engine",
@@ -12862,8 +12926,9 @@
   },
   {
     "code": "2026-f150-king-ranch",
+    "model_code": "F-150",
     "manufacturer_code": 16,
-    "trim_name": "F-150 King Ranch",
+    "trim_name": "King Ranch",
     "standard_features": [
       "4WD optional",
       "3.5L EcoBoost V6 Engine",
@@ -12891,8 +12956,9 @@
   },
   {
     "code": "2026-f150-platinum",
+    "model_code": "F-150",
     "manufacturer_code": 16,
-    "trim_name": "F-150 Platinum",
+    "trim_name": "Platinum",
     "standard_features": [
       "4WD Standard",
       "3.5L EcoBoost V6 Engine",
@@ -12920,8 +12986,9 @@
   },
   {
     "code": "2026-f150-limited",
+    "model_code": "F-150",
     "manufacturer_code": 16,
-    "trim_name": "F-150 Limited",
+    "trim_name": "Limited",
     "standard_features": [
       "4WD Standard",
       "3.5L EcoBoost V6 Engine",
@@ -12949,8 +13016,9 @@
   },
   {
     "code": "2026-f150-raptor",
+    "model_code": "F-150",
     "manufacturer_code": 16,
-    "trim_name": "F-150 Raptor",
+    "trim_name": "Raptor",
     "standard_features": [
       "4WD Standard",
       "3.5L EcoBoost V6 High-Output Engine (~450 hp)",
@@ -12979,8 +13047,9 @@
   },
   {
     "code": "2026-f150-lightning-pro",
+    "model_code": "F-150 Lightning",
     "manufacturer_code": 16,
-    "trim_name": "F-150 Lightning Pro",
+    "trim_name": "Pro",
     "standard_features": [
       "Rear-Wheel Drive (All-Wheel Drive optional)",
       "Electric Motor (~426 hp)",
@@ -13009,8 +13078,9 @@
   },
   {
     "code": "2026-f150-lightning-xlt",
+    "model_code": "F-150 Lightning",
     "manufacturer_code": 16,
-    "trim_name": "F-150 Lightning XLT",
+    "trim_name": "XLT",
     "standard_features": [
       "Rear-Wheel Drive (All-Wheel Drive optional)",
       "Electric Motor (~426 hp)",
@@ -13040,8 +13110,9 @@
   },
   {
     "code": "2026-f150-lightning-lariat",
+    "model_code": "F-150 Lightning",
     "manufacturer_code": 16,
-    "trim_name": "F-150 Lightning Lariat",
+    "trim_name": "Lariat",
     "standard_features": [
       "All-Wheel Drive Standard",
       "Electric Motor (~426 hp)",
@@ -13071,8 +13142,9 @@
   },
   {
     "code": "2026-f150-lightning-platinum",
+    "model_code": "F-150 Lightning",
     "manufacturer_code": 16,
-    "trim_name": "F-150 Lightning Platinum",
+    "trim_name": "Platinum",
     "standard_features": [
       "All-Wheel Drive Standard",
       "Electric Motor (~426 hp)",
@@ -13100,8 +13172,9 @@
   },
   {
     "code": "2026-maverick-xl",
+    "model_code": "Maverick",
     "manufacturer_code": 16,
-    "trim_name": "Maverick XL",
+    "trim_name": "XL",
     "standard_features": [
       "Front‑Wheel Drive (All‑Wheel Drive optional)",
       "2.5L Atkinson‑Cycle Hybrid I4 Engine",
@@ -13127,8 +13200,9 @@
   },
   {
     "code": "2026-maverick-xlt",
+    "model_code": "Maverick",
     "manufacturer_code": 16,
-    "trim_name": "Maverick XLT",
+    "trim_name": "XLT",
     "standard_features": [
       "Front‑Wheel Drive (All‑Wheel Drive optional)",
       "2.5L Atkinson‑Cycle Hybrid I4 Engine or 2.0L EcoBoost I4 (Gas)",
@@ -13155,8 +13229,9 @@
   },
   {
     "code": "2026-maverick-lariat",
+    "model_code": "Maverick",
     "manufacturer_code": 16,
-    "trim_name": "Maverick Lariat",
+    "trim_name": "Lariat",
     "standard_features": [
       "All‑Wheel Drive Standard (Gas Engine)",
       "2.0L EcoBoost I4 Engine or 2.5L Hybrid I4",
@@ -13184,8 +13259,9 @@
   },
   {
     "code": "2026-maverick-lobo",
+    "model_code": "Maverick",
     "manufacturer_code": 16,
-    "trim_name": "Maverick Lobo",
+    "trim_name": "Lobo",
     "standard_features": [
       "All‑Wheel Drive Standard",
       "2.0L EcoBoost I4 High‑Output Engine",
@@ -13212,8 +13288,9 @@
   },
   {
     "code": "2026-maverick-tremor",
+    "model_code": "Maverick",
     "manufacturer_code": 16,
-    "trim_name": "Maverick Tremor",
+    "trim_name": "Tremor",
     "standard_features": [
       "All‑Wheel Drive Standard",
       "2.0L EcoBoost I4 Engine",
@@ -13243,8 +13320,9 @@
   },
   {
     "code": "2026-mustang-ecoboost",
+    "model_code": "Mustang",
     "manufacturer_code": 16,
-    "trim_name": "Mustang EcoBoost",
+    "trim_name": "EcoBoost",
     "standard_features": [
       "2.3L EcoBoost Turbo I4 Engine",
       "Rear-Wheel Drive",
@@ -13269,8 +13347,9 @@
   },
   {
     "code": "2026-mustang-ecoboost-premium",
+    "model_code": "Mustang",
     "manufacturer_code": 16,
-    "trim_name": "Mustang EcoBoost Premium",
+    "trim_name": "EcoBoost Premium",
     "standard_features": [
       "2.3L EcoBoost Turbo I4 Engine",
       "Rear-Wheel Drive",
@@ -13296,8 +13375,9 @@
   },
   {
     "code": "2026-mustang-gt",
+    "model_code": "Mustang",
     "manufacturer_code": 16,
-    "trim_name": "Mustang GT",
+    "trim_name": "GT",
     "standard_features": [
       "5.0L Ti‑VCT V8 Engine",
       "Rear-Wheel Drive",
@@ -13323,8 +13403,9 @@
   },
   {
     "code": "2026-mustang-gt-premium",
+    "model_code": "Mustang",
     "manufacturer_code": 16,
-    "trim_name": "Mustang GT Premium",
+    "trim_name": "GT Premium",
     "standard_features": [
       "5.0L Ti‑VCT V8 Engine",
       "Rear-Wheel Drive",
@@ -13351,8 +13432,9 @@
   },
   {
     "code": "2026-mustang-dark-horse",
+    "model_code": "Mustang",
     "manufacturer_code": 16,
-    "trim_name": "Mustang Dark Horse",
+    "trim_name": "Dark Horse",
     "standard_features": [
       "5.0L Modified Coyote V8 Engine (~500 hp)",
       "Rear-Wheel Drive",
@@ -13377,8 +13459,9 @@
   },
   {
     "code": "2026-mustang-dark-horse-premium",
+    "model_code": "Mustang",
     "manufacturer_code": 16,
-    "trim_name": "Mustang Dark Horse Premium",
+    "trim_name": "Dark Horse Premium",
     "standard_features": [
       "5.0L Modified Coyote V8 Engine (~500 hp)",
       "Rear-Wheel Drive",
@@ -13403,8 +13486,9 @@
   },
   {
     "code": "2026-mustang-mach-e-select",
+    "model_code": "Mustang Mach-E",
     "manufacturer_code": 16,
-    "trim_name": "Mustang Mach‑E Select",
+    "trim_name": "Select",
     "standard_features": [
       "Rear‑Wheel Drive (eAWD optional)",
       "Electric Motor (Single eMotor RWD, Dual eMotor available)",
@@ -13429,8 +13513,9 @@
   },
   {
     "code": "2026-mustang-mach-e-premium",
+    "model_code": "Mustang Mach-E",
     "manufacturer_code": 16,
-    "trim_name": "Mustang Mach‑E Premium",
+    "trim_name": "Premium",
     "standard_features": [
       "Rear‑Wheel Drive (eAWD optional)",
       "Electric Motor (Single or Dual Motor)",
@@ -13456,8 +13541,9 @@
   },
   {
     "code": "2026-mustang-mach-e-gt",
+    "model_code": "Mustang Mach-E",
     "manufacturer_code": 16,
-    "trim_name": "Mustang Mach‑E GT",
+    "trim_name": "GT",
     "standard_features": [
       "eAWD Standard (Dual Motors)",
       "Electric Motor (~480 hp)*",
@@ -13483,8 +13569,9 @@
   },
   {
     "code": "2026-mustang-mach-e-rally",
+    "model_code": "Mustang Mach-E",
     "manufacturer_code": 16,
-    "trim_name": "Mustang Mach‑E Rally",
+    "trim_name": "Rally",
     "standard_features": [
       "eAWD Standard (Dual Motors)",
       "Electric Motor (~480 hp)*",
@@ -13510,8 +13597,9 @@
   },
   {
     "code": "2026-ranger-xl",
+    "model_code": "Ranger",
     "manufacturer_code": 16,
-    "trim_name": "Ranger XL",
+    "trim_name": "XL",
     "standard_features": [
       "Rear‑Wheel Drive (4x4 optional)",
       "2.3L EcoBoost I4 Engine",
@@ -13538,8 +13626,9 @@
   },
   {
     "code": "2026-ranger-xlt",
+    "model_code": "Ranger",
     "manufacturer_code": 16,
-    "trim_name": "Ranger XLT",
+    "trim_name": "XLT",
     "standard_features": [
       "Rear‑Wheel Drive (4x4 optional)",
       "2.3L EcoBoost I4 Engine",
@@ -13567,8 +13656,9 @@
   },
   {
     "code": "2026-ranger-lariat",
+    "model_code": "Ranger",
     "manufacturer_code": 16,
-    "trim_name": "Ranger Lariat",
+    "trim_name": "Lariat",
     "standard_features": [
       "4x4 Drivetrain Standard",
       "2.3L EcoBoost I4 Engine (optional 2.7L EcoBoost V6)",
@@ -13596,8 +13686,9 @@
   },
   {
     "code": "2026-ranger-raptor",
+    "model_code": "Ranger",
     "manufacturer_code": 16,
-    "trim_name": "Ranger Raptor",
+    "trim_name": "Raptor",
     "standard_features": [
       "4x4 Drivetrain Standard",
       "3.0L Twin‑Turbo EcoBoost V6 Engine",
@@ -13624,8 +13715,9 @@
   },
   {
     "code": "2026-super-duty-xl",
+    "model_code": "Super Duty",
     "manufacturer_code": 16,
-    "trim_name": "Super Duty XL",
+    "trim_name": "XL",
     "standard_features": [
       "Rear‑Wheel Drive (4x4 optional)",
       "6.2L V8 Gas Engine",
@@ -13653,8 +13745,9 @@
   },
   {
     "code": "2026-super-duty-xlt",
+    "model_code": "Super Duty",
     "manufacturer_code": 16,
-    "trim_name": "Super Duty XLT",
+    "trim_name": "XLT",
     "standard_features": [
       "Rear‑Wheel Drive (4x4 optional)",
       "6.2L V8 Gas Engine",
@@ -13682,8 +13775,9 @@
   },
   {
     "code": "2026-super-duty-lariat",
+    "model_code": "Super Duty",
     "manufacturer_code": 16,
-    "trim_name": "Super Duty Lariat",
+    "trim_name": "Lariat",
     "standard_features": [
       "4x4 Drivetrain Standard",
       "6.2L V8 Gas Engine (optional 6.7L Diesel)",
@@ -13712,8 +13806,9 @@
   },
   {
     "code": "2026-super-duty-king-ranch",
+    "model_code": "Super Duty",
     "manufacturer_code": 16,
-    "trim_name": "Super Duty King Ranch",
+    "trim_name": "King Ranch",
     "standard_features": [
       "4x4 Drivetrain Standard",
       "6.7L Power Stroke Diesel V8 Engine",
@@ -13742,8 +13837,9 @@
   },
   {
     "code": "2026-super-duty-platinum",
+    "model_code": "Super Duty",
     "manufacturer_code": 16,
-    "trim_name": "Super Duty Platinum",
+    "trim_name": "Platinum",
     "standard_features": [
       "4x4 Drivetrain Standard",
       "6.7L Power Stroke Diesel V8 Engine",
@@ -13773,8 +13869,9 @@
   },
   {
     "code": "2026-super-duty-limited",
+    "model_code": "Super Duty",
     "manufacturer_code": 16,
-    "trim_name": "Super Duty Limited",
+    "trim_name": "Limited",
     "standard_features": [
       "4x4 Drivetrain Standard",
       "6.7L Power Stroke Diesel V8 Engine",
@@ -13805,8 +13902,9 @@
   },
   {
     "code": "2026-transit-base",
+    "model_code": "Transit",
     "manufacturer_code": 16,
-    "trim_name": "Transit Base",
+    "trim_name": "Base",
     "standard_features": [
       "Rear‑Wheel Drive (4x4 optional)",
       "3.5L EcoBoost V6 Engine",
@@ -13834,8 +13932,9 @@
   },
   {
     "code": "2026-transit-extended",
+    "model_code": "Transit",
     "manufacturer_code": 16,
-    "trim_name": "Transit Extended",
+    "trim_name": "Extended",
     "standard_features": [
       "Rear‑Wheel Drive (4x4 optional)",
       "3.5L EcoBoost V6 Engine",
@@ -13863,8 +13962,9 @@
   },
   {
     "code": "2026-transit-crew",
+    "model_code": "Transit",
     "manufacturer_code": 16,
-    "trim_name": "Transit Crew",
+    "trim_name": "Crew",
     "standard_features": [
       "Rear‑Wheel Drive (4x4 optional)",
       "3.5L EcoBoost V6 Engine",
@@ -13890,8 +13990,9 @@
   },
   {
     "code": "2026-transit-passenger",
+    "model_code": "Transit",
     "manufacturer_code": 16,
-    "trim_name": "Transit Passenger",
+    "trim_name": "Passenger",
     "standard_features": [
       "Rear‑Wheel Drive (4x4 optional)",
       "3.5L EcoBoost V6 Engine",
@@ -13917,8 +14018,9 @@
   },
   {
     "code": "2026-g70-2.0t",
+    "model_code": "G70",
     "manufacturer_code": 17,
-    "trim_name": "G70 2.0T",
+    "trim_name": "2.0T",
     "standard_features": [
       "Rear‑Wheel Drive (AWD optional)",
       "2.0L Turbocharged I4 Engine",
@@ -13948,8 +14050,9 @@
   },
   {
     "code": "2026-g70-3.3t",
+    "model_code": "G70",
     "manufacturer_code": 17,
-    "trim_name": "G70 3.3T",
+    "trim_name": "3.3T",
     "standard_features": [
       "All‑Wheel Drive Standard",
       "3.3L Twin‑Turbo V6 Engine",
@@ -13980,8 +14083,9 @@
   },
   {
     "code": "2026-g80-2.5t",
+    "model_code": "G80",
     "manufacturer_code": 17,
-    "trim_name": "G80 2.5T",
+    "trim_name": "2.5T",
     "standard_features": [
       "Rear‑Wheel Drive (AWD optional)",
       "2.5L Turbocharged I4 Engine",
@@ -14012,8 +14116,9 @@
   },
   {
     "code": "2026-g80-3.5t",
+    "model_code": "G80",
     "manufacturer_code": 17,
-    "trim_name": "G80 3.5T",
+    "trim_name": "3.5T",
     "standard_features": [
       "All‑Wheel Drive Standard",
       "3.5L Twin‑Turbo V6 Engine",
@@ -14044,8 +14149,9 @@
   },
   {
     "code": "2026-g80-electrified",
+    "model_code": "G80",
     "manufacturer_code": 17,
-    "trim_name": "G80 Electrified",
+    "trim_name": "Electrified",
     "standard_features": [
       "All‑Wheel Drive Standard",
       "Electric Motor / 87 kWh Battery",
@@ -14075,8 +14181,9 @@
   },
   {
     "code": "2026-g90-3.5t",
+    "model_code": "G90",
     "manufacturer_code": 17,
-    "trim_name": "G90 3.5T",
+    "trim_name": "3.5T",
     "standard_features": [
       "All‑Wheel Drive Standard",
       "3.5L Twin‑Turbo V6 Engine",
@@ -14109,8 +14216,9 @@
   },
   {
     "code": "2026-g90-5.0v8",
+    "model_code": "G90",
     "manufacturer_code": 17,
-    "trim_name": "G90 5.0 V8",
+    "trim_name": "5.0 V8",
     "standard_features": [
       "All‑Wheel Drive Standard",
       "5.0L V8 Naturally Aspirated Engine",
@@ -14144,8 +14252,9 @@
   },
   {
     "code": "2026-gv60-2wd",
+    "model_code": "GV60",
     "manufacturer_code": 17,
-    "trim_name": "GV60 2WD",
+    "trim_name": "2WD",
     "standard_features": [
       "Rear‑Wheel Drive (AWD optional)",
       "Electric Motor / 77.4 kWh Battery",
@@ -14177,8 +14286,9 @@
   },
   {
     "code": "2026-gv60-awd",
+    "model_code": "GV60",
     "manufacturer_code": 17,
-    "trim_name": "GV60 AWD",
+    "trim_name": "AWD",
     "standard_features": [
       "All‑Wheel Drive Standard",
       "Dual Electric Motors / 77.4 kWh Battery",
@@ -14209,8 +14319,9 @@
   },
   {
     "code": "2026-gv60-performance",
+    "model_code": "GV60",
     "manufacturer_code": 17,
-    "trim_name": "GV60 Performance AWD",
+    "trim_name": "Performance AWD",
     "standard_features": [
       "All‑Wheel Drive Standard",
       "Dual Electric Motors / 77.4 kWh Battery",
@@ -14242,8 +14353,9 @@
   },
   {
     "code": "2026-gv70-2.5t",
+    "model_code": "GV70",
     "manufacturer_code": 17,
-    "trim_name": "GV70 2.5T",
+    "trim_name": "2.5T",
     "standard_features": [
       "Rear‑Wheel Drive (AWD optional)",
       "2.5L Turbocharged I4 Engine",
@@ -14275,8 +14387,9 @@
   },
   {
     "code": "2026-gv70-3.5t",
+    "model_code": "GV70",
     "manufacturer_code": 17,
-    "trim_name": "GV70 3.5T",
+    "trim_name": "3.5T",
     "standard_features": [
       "All‑Wheel Drive Standard",
       "3.5L Twin‑Turbo V6 Engine",
@@ -14308,8 +14421,9 @@
   },
   {
     "code": "2026-gv70-electrified",
+    "model_code": "GV70",
     "manufacturer_code": 17,
-    "trim_name": "GV70 Electrified",
+    "trim_name": "Electrified",
     "standard_features": [
       "All‑Wheel Drive Standard",
       "Dual Electric Motors / 77.4 kWh Battery",
@@ -14340,8 +14454,9 @@
   },
   {
     "code": "2026-gv80-2.5t",
+    "model_code": "GV80",
     "manufacturer_code": 17,
-    "trim_name": "GV80 2.5T",
+    "trim_name": "2.5T",
     "standard_features": [
       "Rear‑Wheel Drive (AWD optional)",
       "2.5L Turbocharged I4 Engine",
@@ -14373,8 +14488,9 @@
   },
   {
     "code": "2026-gv80-3.5t",
+    "model_code": "GV80",
     "manufacturer_code": 17,
-    "trim_name": "GV80 3.5T",
+    "trim_name": "3.5T",
     "standard_features": [
       "All‑Wheel Drive Standard",
       "3.5L Twin‑Turbo V6 Engine",
@@ -14406,8 +14522,9 @@
   },
   {
     "code": "2026-gv80-5.0v8",
+    "model_code": "GV80",
     "manufacturer_code": 17,
-    "trim_name": "GV80 5.0 V8",
+    "trim_name": "5.0 V8",
     "standard_features": [
       "All‑Wheel Drive Standard",
       "5.0L V8 Naturally Aspirated Engine",
@@ -14439,8 +14556,9 @@
   },
   {
     "code": "2026-gv80-coupe-3.5t",
+    "model_code": "GV80 Coupe",
     "manufacturer_code": 17,
-    "trim_name": "GV80 Coupe 3.5T",
+    "trim_name": "3.5T",
     "standard_features": [
       "All‑Wheel Drive Standard",
       "3.5L Twin‑Turbo V6 Engine",
@@ -14472,8 +14590,9 @@
   },
   {
     "code": "2026-gv80-coupe-5.0v8",
+    "model_code": "GV80 Coupe",
     "manufacturer_code": 17,
-    "trim_name": "GV80 Coupe 5.0 V8",
+    "trim_name": "5.0 V8",
     "standard_features": [
       "All‑Wheel Drive Standard",
       "5.0L V8 Naturally Aspirated Engine",
@@ -14505,6 +14624,7 @@
   },
   {
     "code": "2026-acadia-slt",
+    "model_code": "Acadia",
     "manufacturer_code": 18,
     "trim_name": "SLT",
     "standard_features": [
@@ -14537,6 +14657,7 @@
   },
   {
     "code": "2026-acadia-at4",
+    "model_code": "Acadia",
     "manufacturer_code": 18,
     "trim_name": "AT4",
     "standard_features": [
@@ -14569,6 +14690,7 @@
   },
   {
     "code": "2026-acadia-denali",
+    "model_code": "Acadia",
     "manufacturer_code": 18,
     "trim_name": "Denali",
     "standard_features": [
@@ -14600,8 +14722,9 @@
   },
   {
     "code": "2026-canyon-elevation",
+    "model_code": "Canyon",
     "manufacturer_code": 18,
-    "trim_name": "Canyon Elevation",
+    "trim_name": "Elevation",
     "standard_features": [
       "Rear‑Wheel Drive (4WD optional)",
       "2.7L Turbo I4 Engine",
@@ -14628,8 +14751,9 @@
   },
   {
     "code": "2026-canyon-at4",
+    "model_code": "Canyon",
     "manufacturer_code": 18,
-    "trim_name": "Canyon AT4",
+    "trim_name": "AT4",
     "standard_features": [
       "4WD Standard",
       "2.7L Turbo I4 Engine",
@@ -14658,8 +14782,9 @@
   },
   {
     "code": "2026-canyon-at4x",
+    "model_code": "Canyon",
     "manufacturer_code": 18,
-    "trim_name": "Canyon AT4X",
+    "trim_name": "AT4X",
     "standard_features": [
       "4WD Standard",
       "2.7L Turbo I4 Engine",
@@ -14687,8 +14812,9 @@
   },
   {
     "code": "2026-canyon-denali",
+    "model_code": "Canyon",
     "manufacturer_code": 18,
-    "trim_name": "Canyon Denali",
+    "trim_name": "Denali",
     "standard_features": [
       "4WD Standard",
       "2.7L Turbo I4 Engine",
@@ -14714,8 +14840,9 @@
   },
   {
     "code": "2026-hummer-ev2x",
+    "model_code": "Hummer EV",
     "manufacturer_code": 18,
-    "trim_name": "EV2X",
+    "trim_name": "2X",
     "standard_features": [
       "All-Wheel Drive (Triple Motor)",
       "1000+ hp Electric Powertrain",
@@ -14743,8 +14870,9 @@
   },
   {
     "code": "2026-hummer-ev3x",
+    "model_code": "Hummer EV",
     "manufacturer_code": 18,
-    "trim_name": "EV3X",
+    "trim_name": "3X",
     "standard_features": [
       "All-Wheel Drive (Triple Motor)",
       "1000+ hp Electric Powertrain",
@@ -14773,8 +14901,9 @@
   },
   {
     "code": "2026-hummer-ev3x-edition1",
+    "model_code": "Hummer EV",
     "manufacturer_code": 18,
-    "trim_name": "EV3X Edition 1",
+    "trim_name": "3X Edition 1",
     "standard_features": [
       "All-Wheel Drive (Triple Motor)",
       "1000+ hp Electric Powertrain",
@@ -14803,6 +14932,7 @@
   },
   {
     "code": "2026-savannah-1500",
+    "model_code": "Savannah",
     "manufacturer_code": 18,
     "trim_name": "1500",
     "standard_features": [
@@ -14830,6 +14960,7 @@
   },
   {
     "code": "2026-savannah-2500",
+    "model_code": "Savannah",
     "manufacturer_code": 18,
     "trim_name": "2500",
     "standard_features": [
@@ -14857,6 +14988,7 @@
   },
   {
     "code": "2026-savannah-3500",
+    "model_code": "Savannah",
     "manufacturer_code": 18,
     "trim_name": "3500",
     "standard_features": [
@@ -14884,8 +15016,9 @@
   },
   {
     "code": "2026-sierra-1500-sierra",
+    "model_code": "Sierra 1500",
     "manufacturer_code": 18,
-    "trim_name": "Sierra",
+    "trim_name": "Base",
     "standard_features": [
       "Rear-Wheel Drive (4WD optional)",
       "2.7L Turbo I4 Engine",
@@ -14910,8 +15043,9 @@
   },
   {
     "code": "2026-sierra-1500-slt",
+    "model_code": "Sierra 1500",
     "manufacturer_code": 18,
-    "trim_name": "Sierra SLT",
+    "trim_name": "SLT",
     "standard_features": [
       "Rear-Wheel Drive (4WD optional)",
       "5.3L V8 Engine",
@@ -14938,8 +15072,9 @@
   },
   {
     "code": "2026-sierra-1500-at4",
+    "model_code": "Sierra 1500",
     "manufacturer_code": 18,
-    "trim_name": "Sierra AT4",
+    "trim_name": "AT4",
     "standard_features": [
       "4WD Standard",
       "5.3L V8 Engine",
@@ -14966,8 +15101,9 @@
   },
   {
     "code": "2026-sierra-1500-denali",
+    "model_code": "Sierra 1500",
     "manufacturer_code": 18,
-    "trim_name": "Sierra Denali",
+    "trim_name": "Denali",
     "standard_features": [
       "4WD Standard",
       "6.2L V8 Engine",
@@ -14994,6 +15130,7 @@
   },
   {
     "code": "2026-sierra-ev-elevation-standard",
+    "model_code": "Sierra EV",
     "manufacturer_code": 18,
     "trim_name": "Elevation Standard Range",
     "standard_features": [
@@ -15020,6 +15157,7 @@
   },
   {
     "code": "2026-sierra-ev-elevation-extended",
+    "model_code": "Sierra EV",
     "manufacturer_code": 18,
     "trim_name": "Elevation Extended Range",
     "standard_features": [
@@ -15046,6 +15184,7 @@
   },
   {
     "code": "2026-sierra-ev-at4-standard",
+    "model_code": "Sierra EV",
     "manufacturer_code": 18,
     "trim_name": "AT4 Standard Range",
     "standard_features": [
@@ -15072,6 +15211,7 @@
   },
   {
     "code": "2026-sierra-ev-at4-extended",
+    "model_code": "Sierra EV",
     "manufacturer_code": 18,
     "trim_name": "AT4 Extended Range",
     "standard_features": [
@@ -15098,6 +15238,7 @@
   },
   {
     "code": "2026-sierra-ev-denali-standard",
+    "model_code": "Sierra EV",
     "manufacturer_code": 18,
     "trim_name": "Denali Standard Range",
     "standard_features": [
@@ -15125,6 +15266,7 @@
   },
   {
     "code": "2026-sierra-ev-denali-extended",
+    "model_code": "Sierra EV",
     "manufacturer_code": 18,
     "trim_name": "Denali Extended Range",
     "standard_features": [
@@ -15152,8 +15294,9 @@
   },
   {
     "code": "2026-sierra-hd-sle",
+    "model_code": "Sierra HD",
     "manufacturer_code": 18,
-    "trim_name": "Sierra HD SLE",
+    "trim_name": "SLE",
     "standard_features": [
       "Gas or Diesel Engine Options",
       "4WD or 2WD Available",
@@ -15175,8 +15318,9 @@
   },
   {
     "code": "2026-sierra-hd-at4",
+    "model_code": "Sierra HD",
     "manufacturer_code": 18,
-    "trim_name": "Sierra HD AT4",
+    "trim_name": "AT4",
     "standard_features": [
       "Gas or Diesel Engine Options",
       "4WD Standard",
@@ -15200,8 +15344,9 @@
   },
   {
     "code": "2026-sierra-hd-denali",
+    "model_code": "Sierra HD",
     "manufacturer_code": 18,
-    "trim_name": "Sierra HD Denali",
+    "trim_name": "Denali",
     "standard_features": [
       "Gas or Diesel Engine Options",
       "4WD Standard",
@@ -15226,8 +15371,9 @@
   },
   {
     "code": "2026-terrain-sle",
+    "model_code": "Terrain",
     "manufacturer_code": 18,
-    "trim_name": "Terrain SLE",
+    "trim_name": "SLE",
     "standard_features": [
       "1.5L Turbo 4-Cylinder Engine",
       "FWD Standard, AWD Available",
@@ -15249,8 +15395,9 @@
   },
   {
     "code": "2026-terrain-slt",
+    "model_code": "Terrain",
     "manufacturer_code": 18,
-    "trim_name": "Terrain SLT",
+    "trim_name": "SLT",
     "standard_features": [
       "2.0L Turbo 4-Cylinder Engine",
       "FWD Standard, AWD Available",
@@ -15274,8 +15421,9 @@
   },
   {
     "code": "2026-terrain-at4",
+    "model_code": "Terrain",
     "manufacturer_code": 18,
-    "trim_name": "Terrain AT4",
+    "trim_name": "AT4",
     "standard_features": [
       "2.0L Turbo 4-Cylinder Engine",
       "AWD Standard",
@@ -15300,8 +15448,9 @@
   },
   {
     "code": "2026-terrain-denali",
+    "model_code": "Terrain",
     "manufacturer_code": 18,
-    "trim_name": "Terrain Denali",
+    "trim_name": "Denali",
     "standard_features": [
       "2.0L Turbo 4-Cylinder Engine",
       "AWD Standard",
@@ -15326,8 +15475,9 @@
   },
   {
     "code": "2026-yukon-sle",
+    "model_code": "Yukon",
     "manufacturer_code": 18,
-    "trim_name": "Yukon SLE",
+    "trim_name": "SLE",
     "standard_features": [
       "5.3L V8 Engine (Standard)",
       "4WD or RWD Available",
@@ -15351,8 +15501,9 @@
   },
   {
     "code": "2026-yukon-slt",
+    "model_code": "Yukon",
     "manufacturer_code": 18,
-    "trim_name": "Yukon SLT",
+    "trim_name": "SLT",
     "standard_features": [
       "5.3L V8 Engine (Standard)",
       "4WD or RWD Available",
@@ -15378,8 +15529,9 @@
   },
   {
     "code": "2026-yukon-at4",
+    "model_code": "Yukon",
     "manufacturer_code": 18,
-    "trim_name": "Yukon AT4",
+    "trim_name": "AT4",
     "standard_features": [
       "6.2L V8 Engine (Standard)",
       "4WD Standard",
@@ -15404,8 +15556,9 @@
   },
   {
     "code": "2026-yukon-denali",
+    "model_code": "Yukon",
     "manufacturer_code": 18,
-    "trim_name": "Yukon Denali",
+    "trim_name": "Denali",
     "standard_features": [
       "6.2L V8 Engine",
       "4WD Standard",
@@ -15431,8 +15584,9 @@
   },
   {
     "code": "2026-yukon-xl-sle",
+    "model_code": "Yukon XL",
     "manufacturer_code": 18,
-    "trim_name": "Yukon XL SLE",
+    "trim_name": "SLE",
     "standard_features": [
       "5.3L V8 Engine (Standard)",
       "4WD or RWD Available",
@@ -15456,8 +15610,9 @@
   },
   {
     "code": "2026-yukon-xl-slt",
+    "model_code": "Yukon XL",
     "manufacturer_code": 18,
-    "trim_name": "Yukon XL SLT",
+    "trim_name": "SLT",
     "standard_features": [
       "5.3L V8 Engine",
       "4WD or RWD Available",
@@ -15483,8 +15638,9 @@
   },
   {
     "code": "2026-yukon-xl-at4",
+    "model_code": "Yukon XL",
     "manufacturer_code": 18,
-    "trim_name": "Yukon XL AT4",
+    "trim_name": "AT4",
     "standard_features": [
       "6.2L V8 Engine",
       "4WD Standard",
@@ -15510,8 +15666,9 @@
   },
   {
     "code": "2026-yukon-xl-denali",
+    "model_code": "Yukon XL",
     "manufacturer_code": 18,
-    "trim_name": "Yukon XL Denali",
+    "trim_name": "Denali",
     "standard_features": [
       "6.2L V8 Engine",
       "4WD Standard",
@@ -15537,8 +15694,9 @@
   },
   {
     "code": "2026-accord-lx",
+    "model_code": "Accord",
     "manufacturer_code": 19,
-    "trim_name": "Accord LX",
+    "trim_name": "LX",
     "standard_features": [
       "1.5L Turbo 4-Cylinder Engine",
       "FWD Standard",
@@ -15561,8 +15719,9 @@
   },
   {
     "code": "2026-accord-sport",
+    "model_code": "Accord",
     "manufacturer_code": 19,
-    "trim_name": "Accord Sport",
+    "trim_name": "Sport",
     "standard_features": [
       "1.5L Turbo 4-Cylinder Engine",
       "FWD Standard",
@@ -15586,8 +15745,9 @@
   },
   {
     "code": "2026-accord-sport-2-0t",
+    "model_code": "Accord",
     "manufacturer_code": 19,
-    "trim_name": "Accord Sport 2.0T",
+    "trim_name": "Sport 2.0T",
     "standard_features": [
       "2.0L Turbo 4-Cylinder Engine",
       "FWD Standard",
@@ -15611,8 +15771,9 @@
   },
   {
     "code": "2026-accord-ex-l",
+    "model_code": "Accord",
     "manufacturer_code": 19,
-    "trim_name": "Accord EX-L",
+    "trim_name": "EX-L",
     "standard_features": [
       "1.5L Turbo 4-Cylinder Engine",
       "FWD Standard",
@@ -15638,8 +15799,9 @@
   },
   {
     "code": "2026-accord-touring",
+    "model_code": "Accord",
     "manufacturer_code": 19,
-    "trim_name": "Accord Touring",
+    "trim_name": "Touring",
     "standard_features": [
       "2.0L Turbo 4-Cylinder Engine",
       "FWD Standard",
@@ -15664,8 +15826,9 @@
   },
   {
     "code": "2026-accord-hybrid-lx",
+    "model_code": "Accord Hybrid",
     "manufacturer_code": 19,
-    "trim_name": "Accord Hybrid LX",
+    "trim_name": "LX",
     "standard_features": [
       "2.0L Atkinson-Cycle I4 + Electric Motor (212 hp combined)",
       "FWD Standard",
@@ -15687,8 +15850,9 @@
   },
   {
     "code": "2026-accord-hybrid-ex",
+    "model_code": "Accord Hybrid",
     "manufacturer_code": 19,
-    "trim_name": "Accord Hybrid EX",
+    "trim_name": "EX",
     "standard_features": [
       "2.0L Atkinson-Cycle I4 + Electric Motor (212 hp combined)",
       "FWD Standard",
@@ -15712,8 +15876,9 @@
   },
   {
     "code": "2026-accord-hybrid-ex-l",
+    "model_code": "Accord Hybrid",
     "manufacturer_code": 19,
-    "trim_name": "Accord Hybrid EX-L",
+    "trim_name": "EX-L",
     "standard_features": [
       "2.0L Atkinson-Cycle I4 + Electric Motor (212 hp combined)",
       "FWD Standard",
@@ -15738,8 +15903,9 @@
   },
   {
     "code": "2026-accord-hybrid-touring",
+    "model_code": "Accord Hybrid",
     "manufacturer_code": 19,
-    "trim_name": "Accord Hybrid Touring",
+    "trim_name": "Touring",
     "standard_features": [
       "2.0L Atkinson-Cycle I4 + Electric Motor (212 hp combined)",
       "FWD Standard",
@@ -15764,8 +15930,9 @@
   },
   {
     "code": "2026-civic-hatchback-lx",
+    "model_code": "Civic Hatchback",
     "manufacturer_code": 19,
-    "trim_name": "Civic Hatchback LX",
+    "trim_name": "LX",
     "standard_features": [
       "2.0L 4-Cylinder Engine (158 hp)",
       "FWD Standard",
@@ -15787,8 +15954,9 @@
   },
   {
     "code": "2026-civic-hatchback-sport",
+    "model_code": "Civic Hatchback",
     "manufacturer_code": 19,
-    "trim_name": "Civic Hatchback Sport",
+    "trim_name": "Sport",
     "standard_features": [
       "1.5L Turbo 4-Cylinder Engine (180 hp)",
       "FWD Standard",
@@ -15811,8 +15979,9 @@
   },
   {
     "code": "2026-civic-hatchback-ex-l",
+    "model_code": "Civic Hatchback",
     "manufacturer_code": 19,
-    "trim_name": "Civic Hatchback EX-L",
+    "trim_name": "EX-L",
     "standard_features": [
       "1.5L Turbo 4-Cylinder Engine (180 hp)",
       "FWD Standard",
@@ -15836,8 +16005,9 @@
   },
   {
     "code": "2026-civic-hatchback-touring",
+    "model_code": "Civic Hatchback",
     "manufacturer_code": 19,
-    "trim_name": "Civic Hatchback Touring",
+    "trim_name": "Touring",
     "standard_features": [
       "1.5L Turbo 4-Cylinder Engine (180 hp)",
       "FWD Standard",
@@ -15861,8 +16031,9 @@
   },
   {
     "code": "2026-civic-hatchback-hybrid-lx",
+    "model_code": "Civic Hatchback Hybrid",
     "manufacturer_code": 19,
-    "trim_name": "Civic Hatchback Hybrid LX",
+    "trim_name": "LX",
     "standard_features": [
       "2.0L Atkinson-Cycle I4 + Electric Motor (212 hp combined)",
       "FWD Standard",
@@ -15884,8 +16055,9 @@
   },
   {
     "code": "2026-civic-hatchback-hybrid-ex",
+    "model_code": "Civic Hatchback Hybrid",
     "manufacturer_code": 19,
-    "trim_name": "Civic Hatchback Hybrid EX",
+    "trim_name": "EX",
     "standard_features": [
       "2.0L Atkinson-Cycle I4 + Electric Motor (212 hp combined)",
       "FWD Standard",
@@ -15909,8 +16081,9 @@
   },
   {
     "code": "2026-civic-hatchback-hybrid-ex-l",
+    "model_code": "Civic Hatchback Hybrid",
     "manufacturer_code": 19,
-    "trim_name": "Civic Hatchback Hybrid EX-L",
+    "trim_name": "EX-L",
     "standard_features": [
       "2.0L Atkinson-Cycle I4 + Electric Motor (212 hp combined)",
       "FWD Standard",
@@ -15935,8 +16108,9 @@
   },
   {
     "code": "2026-civic-hatchback-hybrid-touring",
+    "model_code": "Civic Hatchback Hybrid",
     "manufacturer_code": 19,
-    "trim_name": "Civic Hatchback Hybrid Touring",
+    "trim_name": "Touring",
     "standard_features": [
       "2.0L Atkinson-Cycle I4 + Electric Motor (212 hp combined)",
       "FWD Standard",
@@ -15960,8 +16134,9 @@
   },
   {
     "code": "2026-civic-type-r",
+    "model_code": "Civic Type R",
     "manufacturer_code": 19,
-    "trim_name": "Civic Type R",
+    "trim_name": "Standard",
     "standard_features": [
       "2.0L Turbocharged 4-Cylinder Engine (315 hp)",
       "6-Speed Manual Transmission",
@@ -15985,8 +16160,9 @@
   },
   {
     "code": "2026-civic-sedan-lx",
+    "model_code": "Civic Sedan",
     "manufacturer_code": 19,
-    "trim_name": "Civic Sedan LX",
+    "trim_name": "LX",
     "standard_features": [
       "2.0L 4-Cylinder Engine (158 hp)",
       "FWD Standard",
@@ -16008,8 +16184,9 @@
   },
   {
     "code": "2026-civic-sedan-sport",
+    "model_code": "Civic Sedan",
     "manufacturer_code": 19,
-    "trim_name": "Civic Sedan Sport",
+    "trim_name": "Sport",
     "standard_features": [
       "1.5L Turbo 4-Cylinder Engine (180 hp)",
       "FWD Standard",
@@ -16032,8 +16209,9 @@
   },
   {
     "code": "2026-civic-sedan-ex-l",
+    "model_code": "Civic Sedan",
     "manufacturer_code": 19,
-    "trim_name": "Civic Sedan EX-L",
+    "trim_name": "EX-L",
     "standard_features": [
       "1.5L Turbo 4-Cylinder Engine (180 hp)",
       "FWD Standard",
@@ -16057,8 +16235,9 @@
   },
   {
     "code": "2026-civic-sedan-touring",
+    "model_code": "Civic Sedan",
     "manufacturer_code": 19,
-    "trim_name": "Civic Sedan Touring",
+    "trim_name": "Touring",
     "standard_features": [
       "1.5L Turbo 4-Cylinder Engine (180 hp)",
       "FWD Standard",
@@ -16082,8 +16261,9 @@
   },
   {
     "code": "2026-civic-sedan-hybrid-lx",
+    "model_code": "Civic Sedan Hybrid",
     "manufacturer_code": 19,
-    "trim_name": "Civic Sedan Hybrid LX",
+    "trim_name": "LX",
     "standard_features": [
       "2.0L Atkinson-Cycle I4 + Electric Motor (212 hp combined)",
       "FWD Standard",
@@ -16105,8 +16285,9 @@
   },
   {
     "code": "2026-civic-sedan-hybrid-ex",
+    "model_code": "Civic Sedan Hybrid",
     "manufacturer_code": 19,
-    "trim_name": "Civic Sedan Hybrid EX",
+    "trim_name": "EX",
     "standard_features": [
       "2.0L Atkinson-Cycle I4 + Electric Motor (212 hp combined)",
       "FWD Standard",
@@ -16130,8 +16311,9 @@
   },
   {
     "code": "2026-civic-sedan-hybrid-ex-l",
+    "model_code": "Civic Sedan Hybrid",
     "manufacturer_code": 19,
-    "trim_name": "Civic Sedan Hybrid EX-L",
+    "trim_name": "EX-L",
     "standard_features": [
       "2.0L Atkinson-Cycle I4 + Electric Motor (212 hp combined)",
       "FWD Standard",
@@ -16156,8 +16338,9 @@
   },
   {
     "code": "2026-civic-sedan-hybrid-touring",
+    "model_code": "Civic Sedan Hybrid",
     "manufacturer_code": 19,
-    "trim_name": "Civic Sedan Hybrid Touring",
+    "trim_name": "Touring",
     "standard_features": [
       "2.0L Atkinson-Cycle I4 + Electric Motor (212 hp combined)",
       "FWD Standard",
@@ -16181,8 +16364,9 @@
   },
   {
     "code": "2026-civic-si-sedan",
+    "model_code": "Civic SI",
     "manufacturer_code": 19,
-    "trim_name": "Civic Si Sedan",
+    "trim_name": "Standard",
     "standard_features": [
       "1.5L Turbocharged 4-Cylinder Engine (200 hp)",
       "6-Speed Manual Transmission",
@@ -16207,8 +16391,9 @@
   },
   {
     "code": "2026-cr-v-lx",
+    "model_code": "CR-V",
     "manufacturer_code": 19,
-    "trim_name": "CR-V LX",
+    "trim_name": "LX",
     "standard_features": [
       "1.5L Turbo 4-Cylinder Engine (190 hp)",
       "FWD Standard",
@@ -16230,8 +16415,9 @@
   },
   {
     "code": "2026-cr-v-ex",
+    "model_code": "CR-V",
     "manufacturer_code": 19,
-    "trim_name": "CR-V EX",
+    "trim_name": "EX",
     "standard_features": [
       "1.5L Turbo 4-Cylinder Engine (190 hp)",
       "FWD Standard",
@@ -16254,8 +16440,9 @@
   },
   {
     "code": "2026-cr-v-ex-l",
+    "model_code": "CR-V",
     "manufacturer_code": 19,
-    "trim_name": "CR-V EX-L",
+    "trim_name": "EX-L",
     "standard_features": [
       "1.5L Turbo 4-Cylinder Engine (190 hp)",
       "FWD Standard",
@@ -16278,9 +16465,10 @@
     "active": true
   },
   {
-    "code": "2026-cr-v-tour",
+    "code": "2026-cr-v-touring",
+    "model_code": "CR-V",
     "manufacturer_code": 19,
-    "trim_name": "CR-V Touring",
+    "trim_name": "Touring",
     "standard_features": [
       "1.5L Turbo 4-Cylinder Engine (190 hp)",
       "FWD Standard",
@@ -16304,8 +16492,9 @@
   },
   {
     "code": "2026-cr-v-hybrid-lx",
+    "model_code": "CR-V Hybrid",
     "manufacturer_code": 19,
-    "trim_name": "CR-V Hybrid LX",
+    "trim_name": "LX",
     "standard_features": [
       "2.0L Atkinson-Cycle I4 + Electric Motor (204 hp combined)",
       "FWD Standard",
@@ -16327,8 +16516,9 @@
   },
   {
     "code": "2026-cr-v-hybrid-ex",
+    "model_code": "CR-V Hybrid",
     "manufacturer_code": 19,
-    "trim_name": "CR-V Hybrid EX",
+    "trim_name": "EX",
     "standard_features": [
       "2.0L Atkinson-Cycle I4 + Electric Motor (204 hp combined)",
       "FWD Standard",
@@ -16351,8 +16541,9 @@
   },
   {
     "code": "2026-cr-v-hybrid-ex-l",
+    "model_code": "CR-V Hybrid",
     "manufacturer_code": 19,
-    "trim_name": "CR-V Hybrid EX-L",
+    "trim_name": "EX-L",
     "standard_features": [
       "2.0L Atkinson-Cycle I4 + Electric Motor (204 hp combined)",
       "FWD Standard",
@@ -16375,9 +16566,10 @@
     "active": true
   },
   {
-    "code": "2026-cr-v-hybrid-tour",
+    "code": "2026-cr-v-hybrid-touring",
+    "model_code": "CR-V Hybrid",
     "manufacturer_code": 19,
-    "trim_name": "CR-V Hybrid Touring",
+    "trim_name": "Touring",
     "standard_features": [
       "2.0L Atkinson-Cycle I4 + Electric Motor (204 hp combined)",
       "FWD Standard",
@@ -16401,8 +16593,9 @@
   },
   {
     "code": "2026-hr-v-sport",
+    "model_code": "HR-V",
     "manufacturer_code": 19,
-    "trim_name": "HR-V Sport",
+    "trim_name": "Sport",
     "standard_features": [
       "2.0L 4-Cylinder Engine (158 hp)",
       "FWD Standard",
@@ -16424,8 +16617,9 @@
   },
   {
     "code": "2026-hr-v-ex",
+    "model_code": "HR-V",
     "manufacturer_code": 19,
-    "trim_name": "HR-V EX",
+    "trim_name": "EX",
     "standard_features": [
       "2.0L 4-Cylinder Engine (158 hp)",
       "FWD Standard",
@@ -16448,8 +16642,9 @@
   },
   {
     "code": "2026-hr-v-ex-l",
+    "model_code": "HR-V",
     "manufacturer_code": 19,
-    "trim_name": "HR-V EX-L",
+    "trim_name": "EX-L",
     "standard_features": [
       "2.0L 4-Cylinder Engine (158 hp)",
       "FWD Standard",
@@ -16472,9 +16667,10 @@
     "active": true
   },
   {
-    "code": "2026-hr-v-tour",
+    "code": "2026-hr-v-touring",
+    "model_code": "HR-V",
     "manufacturer_code": 19,
-    "trim_name": "HR-V Touring",
+    "trim_name": "Touring",
     "standard_features": [
       "2.0L 4-Cylinder Engine (158 hp)",
       "FWD Standard",
@@ -16498,8 +16694,9 @@
   },
   {
     "code": "2026-passport-sport",
+    "model_code": "Passport",
     "manufacturer_code": 19,
-    "trim_name": "Passport Sport",
+    "trim_name": "Sport",
     "standard_features": [
       "3.5L V6 Engine (280 hp)",
       "FWD Standard",
@@ -16521,8 +16718,9 @@
   },
   {
     "code": "2026-passport-ex-l",
+    "model_code": "Passport",
     "manufacturer_code": 19,
-    "trim_name": "Passport EX-L",
+    "trim_name": "EX-L",
     "standard_features": [
       "3.5L V6 Engine (280 hp)",
       "FWD Standard",
@@ -16546,8 +16744,9 @@
   },
   {
     "code": "2026-passport-touring",
+    "model_code": "Passport",
     "manufacturer_code": 19,
-    "trim_name": "Passport Touring",
+    "trim_name": "Touring",
     "standard_features": [
       "3.5L V6 Engine (280 hp)",
       "FWD Standard",
@@ -16571,8 +16770,9 @@
   },
   {
     "code": "2026-pilot-sport",
+    "model_code": "Pilot",
     "manufacturer_code": 19,
-    "trim_name": "Pilot Sport",
+    "trim_name": "Sport",
     "standard_features": [
       "3.5L V6 Engine (285 hp)",
       "FWD Standard",
@@ -16594,8 +16794,9 @@
   },
   {
     "code": "2026-pilot-ex-l",
+    "model_code": "Pilot",
     "manufacturer_code": 19,
-    "trim_name": "Pilot EX-L",
+    "trim_name": "EX-L",
     "standard_features": [
       "3.5L V6 Engine (285 hp)",
       "FWD Standard",
@@ -16619,8 +16820,9 @@
   },
   {
     "code": "2026-pilot-touring",
+    "model_code": "Pilot",
     "manufacturer_code": 19,
-    "trim_name": "Pilot Touring",
+    "trim_name": "Touring",
     "standard_features": [
       "3.5L V6 Engine (285 hp)",
       "FWD Standard",
@@ -16644,8 +16846,9 @@
   },
   {
     "code": "2026-pilot-elite",
+    "model_code": "Pilot",
     "manufacturer_code": 19,
-    "trim_name": "Pilot Elite",
+    "trim_name": "Elite",
     "standard_features": [
       "3.5L V6 Engine (285 hp)",
       "FWD Standard",
@@ -16671,8 +16874,9 @@
   },
   {
     "code": "2026-prelude-hybrid",
+    "model_code": "Prelude Hybrid",
     "manufacturer_code": 19,
-    "trim_name": "Prelude Hybrid",
+    "trim_name": "Standard",
     "standard_features": [
       "2.0L I4 + Electric Motor (approx. 215 hp combined)",
       "FWD Standard",
@@ -16696,8 +16900,9 @@
   },
   {
     "code": "2026-prologue-sport",
+    "model_code": "Prologue",
     "manufacturer_code": 19,
-    "trim_name": "Prologue Sport",
+    "trim_name": "Sport",
     "standard_features": [
       "Electric Motor (approx. 300–320 hp)",
       "AWD Standard",
@@ -16721,8 +16926,9 @@
   },
   {
     "code": "2026-prologue-ex",
+    "model_code": "Prologue",
     "manufacturer_code": 19,
-    "trim_name": "Prologue EX",
+    "trim_name": "EX",
     "standard_features": [
       "Electric Motor (approx. 300–320 hp)",
       "AWD Standard",
@@ -16746,9 +16952,10 @@
     "active": true
   },
   {
-    "code": "2026-prologue-tour",
+    "code": "2026-prologue-touring",
+    "model_code": "Prologue",
     "manufacturer_code": 19,
-    "trim_name": "Prologue Touring",
+    "trim_name": "Touring",
     "standard_features": [
       "Electric Motor (approx. 300–320 hp)",
       "AWD Standard",
@@ -16773,8 +16980,9 @@
   },
   {
     "code": "2026-elantra-se",
+    "model_code": "Elantra",
     "manufacturer_code": 20,
-    "trim_name": "Elantra SE",
+    "trim_name": "SE",
     "standard_features": [
       "2.0L 4-Cylinder Engine (147 hp)",
       "FWD Standard",
@@ -16796,8 +17004,9 @@
   },
   {
     "code": "2026-elantra-sel",
+    "model_code": "Elantra",
     "manufacturer_code": 20,
-    "trim_name": "Elantra SEL",
+    "trim_name": "SEL",
     "standard_features": [
       "2.0L 4-Cylinder Engine (147 hp)",
       "FWD Standard",
@@ -16820,8 +17029,9 @@
   },
   {
     "code": "2026-elantra-n-line",
+    "model_code": "Elantra",
     "manufacturer_code": 20,
-    "trim_name": "Elantra N Line",
+    "trim_name": "N Line",
     "standard_features": [
       "1.6L Turbo 4-Cylinder Engine (201 hp)",
       "FWD Standard",
@@ -16845,8 +17055,9 @@
   },
   {
     "code": "2026-elantra-limited",
+    "model_code": "Elantra",
     "manufacturer_code": 20,
-    "trim_name": "Elantra Limited",
+    "trim_name": "Limited",
     "standard_features": [
       "2.0L 4-Cylinder Engine (147 hp)",
       "FWD Standard",
@@ -16870,8 +17081,9 @@
   },
   {
     "code": "2026-elantra-hybrid-se",
+    "model_code": "Elantra Hybrid",
     "manufacturer_code": 20,
-    "trim_name": "Elantra Hybrid SE",
+    "trim_name": "SE",
     "standard_features": [
       "1.6L Turbocharged 4-Cylinder + Electric Motor (139 hp combined)",
       "FWD Standard",
@@ -16894,8 +17106,9 @@
   },
   {
     "code": "2026-elantra-hybrid-limited",
+    "model_code": "Elantra Hybrid",
     "manufacturer_code": 20,
-    "trim_name": "Elantra Hybrid Limited",
+    "trim_name": "Limited",
     "standard_features": [
       "1.6L Turbocharged 4-Cylinder + Electric Motor (139 hp combined)",
       "FWD Standard",
@@ -16920,8 +17133,9 @@
   },
   {
     "code": "2026-elantra-n",
+    "model_code": "Elantra N",
     "manufacturer_code": 20,
-    "trim_name": "Elantra N",
+    "trim_name": "Standard",
     "standard_features": [
       "2.0L Turbo 4-Cylinder Engine (276 hp)",
       "6-Speed Manual Transmission (8-Speed DCT optional)",
@@ -16945,8 +17159,9 @@
   },
   {
     "code": "2026-ioniq5-se",
+    "model_code": "Ioniq 5",
     "manufacturer_code": 20,
-    "trim_name": "Ioniq 5 SE",
+    "trim_name": "SE",
     "standard_features": [
       "Electric Motor (Standard Range or Long Range, RWD)",
       "19\" Alloy Wheels",
@@ -16969,8 +17184,9 @@
   },
   {
     "code": "2026-ioniq5-limited",
+    "model_code": "Ioniq 5",
     "manufacturer_code": 20,
-    "trim_name": "Ioniq 5 Limited",
+    "trim_name": "Limited",
     "standard_features": [
       "Electric Motor (Long Range, RWD or AWD Dual Motor)",
       "20\" Alloy Wheels",
@@ -16994,8 +17210,9 @@
   },
   {
     "code": "2026-ioniq5-n",
+    "model_code": "Ioniq 5 N",
     "manufacturer_code": 20,
-    "trim_name": "Ioniq 5 N",
+    "trim_name": "Standard",
     "standard_features": [
       "Dual Electric Motors (AWD, approx. 590 hp)",
       "Performance-Tuned Suspension",
@@ -17019,8 +17236,9 @@
   },
   {
     "code": "2026-ioniq6-se",
+    "model_code": "Ioniq 6",
     "manufacturer_code": 20,
-    "trim_name": "Ioniq 6 SE",
+    "trim_name": "SE",
     "standard_features": [
       "Electric Motor (Standard Range RWD or Long Range RWD)",
       "19\" Alloy Wheels",
@@ -17043,8 +17261,9 @@
   },
   {
     "code": "2026-ioniq6-limited",
+    "model_code": "Ioniq 6",
     "manufacturer_code": 20,
-    "trim_name": "Ioniq 6 Limited",
+    "trim_name": "Limited",
     "standard_features": [
       "Electric Motor (Long Range RWD or AWD Dual Motor)",
       "20\" Alloy Wheels",
@@ -17068,8 +17287,9 @@
   },
   {
     "code": "2026-ioniq9-s",
+    "model_code": "Ioniq 9",
     "manufacturer_code": 20,
-    "trim_name": "Ioniq 9 S",
+    "trim_name": "S",
     "standard_features": [
       "Electric Motor – Single-motor RWD (approx. 215 hp)",
       "EPA-estimated range ~335 miles",
@@ -17090,8 +17310,9 @@
   },
   {
     "code": "2026-ioniq9-se",
+    "model_code": "Ioniq 9",
     "manufacturer_code": 20,
-    "trim_name": "Ioniq 9 SE",
+    "trim_name": "SE",
     "standard_features": [
       "Dual Electric Motors – AWD (approx. 303 hp)",
       "EPA-estimated range ~320 miles",
@@ -17112,8 +17333,9 @@
   },
   {
     "code": "2026-ioniq9-sel",
+    "model_code": "Ioniq 9",
     "manufacturer_code": 20,
-    "trim_name": "Ioniq 9 SEL",
+    "trim_name": "SEL",
     "standard_features": [
       "Dual Electric Motors – AWD (approx. 303 hp)",
       "EPA-estimated range ~320 miles",
@@ -17135,8 +17357,9 @@
   },
   {
     "code": "2026-ioniq9-performance-limited",
+    "model_code": "Ioniq 9",
     "manufacturer_code": 20,
-    "trim_name": "Ioniq 9 Performance Limited",
+    "trim_name": "Performance Limited",
     "standard_features": [
       "Dual Electric Motors – AWD (approx. 422 hp)",
       "EPA-estimated range ~311 miles",
@@ -17156,8 +17379,9 @@
   },
   {
     "code": "2026-ioniq9-performance-calligraphy",
+    "model_code": "Ioniq 9",
     "manufacturer_code": 20,
-    "trim_name": "Ioniq 9 Performance Calligraphy",
+    "trim_name": "Performance Calligraphy",
     "standard_features": [
       "Dual Electric Motors – AWD (approx. 422 hp)",
       "EPA-estimated range ~311 miles",
@@ -17178,8 +17402,9 @@
   },
   {
     "code": "2026-ioniq9-performance-calligraphy-design",
+    "model_code": "Ioniq 9",
     "manufacturer_code": 20,
-    "trim_name": "Ioniq 9 Performance Calligraphy Design",
+    "trim_name": "Performance Calligraphy Design",
     "standard_features": [
       "Dual Electric Motors – AWD (approx. 422 hp)",
       "EPA-estimated range ~311 miles",
@@ -17200,8 +17425,9 @@
   },
   {
     "code": "2026-kona-se",
+    "model_code": "Kona",
     "manufacturer_code": 20,
-    "trim_name": "Kona SE",
+    "trim_name": "SE",
     "standard_features": [
       "2.0L MPI 4-Cylinder Engine",
       "FWD Standard (AWD Optional)",
@@ -17222,8 +17448,9 @@
   },
   {
     "code": "2026-kona-sel-sport",
+    "model_code": "Kona",
     "manufacturer_code": 20,
-    "trim_name": "Kona SEL Sport",
+    "trim_name": "SEL Sport",
     "standard_features": [
       "2.0L MPI 4-Cylinder Engine",
       "FWD Standard (AWD Optional)",
@@ -17243,8 +17470,9 @@
   },
   {
     "code": "2026-kona-sel-premium",
+    "model_code": "Kona",
     "manufacturer_code": 20,
-    "trim_name": "Kona SEL Premium",
+    "trim_name": "SEL Premium",
     "standard_features": [
       "1.6L Turbocharged 4-Cylinder Engine",
       "FWD Standard (AWD Optional)",
@@ -17266,8 +17494,9 @@
   },
   {
     "code": "2026-kona-limited",
+    "model_code": "Kona",
     "manufacturer_code": 20,
-    "trim_name": "Kona Limited",
+    "trim_name": "Limited",
     "standard_features": [
       "1.6L Turbocharged 4-Cylinder Engine",
       "FWD Standard (AWD Optional)",
@@ -17288,8 +17517,9 @@
   },
   {
     "code": "2026-kona-electric-se",
+    "model_code": "Kona Electric",
     "manufacturer_code": 20,
-    "trim_name": "Kona Electric SE",
+    "trim_name": "SE",
     "standard_features": [
       "Front-Wheel Drive (FWD) Electric Powertrain",
       "Standard Range Battery (~48.6 kWh, ~200 mile EPA range)",
@@ -17313,8 +17543,9 @@
   },
   {
     "code": "2026-palisade-se",
+    "model_code": "Palisade",
     "manufacturer_code": 20,
-    "trim_name": "Palisade SE",
+    "trim_name": "SE",
     "standard_features": [
       "3.8L V6 Engine (291 hp)",
       "FWD Standard (AWD Optional)",
@@ -17341,8 +17572,9 @@
   },
   {
     "code": "2026-palisade-sel",
+    "model_code": "Palisade",
     "manufacturer_code": 20,
-    "trim_name": "Palisade SEL",
+    "trim_name": "SEL",
     "standard_features": [
       "3.8L V6 Engine (291 hp)",
       "FWD Standard (AWD Optional)",
@@ -17369,8 +17601,9 @@
   },
   {
     "code": "2026-palisade-xrt",
+    "model_code": "Palisade",
     "manufacturer_code": 20,
-    "trim_name": "Palisade XRT",
+    "trim_name": "XRT",
     "standard_features": [
       "3.8L V6 Engine (291 hp)",
       "AWD Standard",
@@ -17396,8 +17629,9 @@
   },
   {
     "code": "2026-palisade-limited",
+    "model_code": "Palisade",
     "manufacturer_code": 20,
-    "trim_name": "Palisade Limited",
+    "trim_name": "Limited",
     "standard_features": [
       "3.8L V6 Engine (291 hp)",
       "AWD Standard",
@@ -17423,8 +17657,9 @@
   },
   {
     "code": "2026-palisade-calligraphy",
+    "model_code": "Palisade",
     "manufacturer_code": 20,
-    "trim_name": "Palisade Calligraphy",
+    "trim_name": "Calligraphy",
     "standard_features": [
       "3.8L V6 Engine (291 hp)",
       "AWD Standard",
@@ -17450,8 +17685,9 @@
   },
   {
     "code": "2026-palisade-hybrid-se",
+    "model_code": "Palisade Hybrid",
     "manufacturer_code": 20,
-    "trim_name": "Palisade Hybrid SE",
+    "trim_name": "SE",
     "standard_features": [
       "2.5L Turbocharged 4-Cylinder Hybrid System (estimated 260+ hp combined)",
       "FWD Standard (AWD Optional)",
@@ -17477,8 +17713,9 @@
   },
   {
     "code": "2026-palisade-hybrid-sel",
+    "model_code": "Palisade Hybrid",
     "manufacturer_code": 20,
-    "trim_name": "Palisade Hybrid SEL",
+    "trim_name": "SEL",
     "standard_features": [
       "2.5L Turbocharged 4-Cylinder Hybrid System (estimated 260+ hp combined)",
       "FWD Standard (AWD Optional)",
@@ -17506,8 +17743,9 @@
   },
   {
     "code": "2026-palisade-hybrid-limited",
+    "model_code": "Palisade Hybrid",
     "manufacturer_code": 20,
-    "trim_name": "Palisade Hybrid Limited",
+    "trim_name": "Limited",
     "standard_features": [
       "2.5L Turbocharged 4-Cylinder Hybrid System (estimated 260+ hp combined)",
       "AWD Standard",
@@ -17533,8 +17771,9 @@
   },
   {
     "code": "2026-palisade-hybrid-calligraphy",
+    "model_code": "Palisade Hybrid",
     "manufacturer_code": 20,
-    "trim_name": "Palisade Hybrid Calligraphy",
+    "trim_name": "Calligraphy",
     "standard_features": [
       "2.5L Turbocharged 4-Cylinder Hybrid System (estimated 260+ hp combined)",
       "AWD Standard",
@@ -17560,8 +17799,9 @@
   },
   {
     "code": "2026-santacruz-se",
+    "model_code": "Santa Cruz",
     "manufacturer_code": 20,
-    "trim_name": "Santa Cruz SE",
+    "trim_name": "SE",
     "standard_features": [
       "2.5L 4-Cylinder Engine (191 hp)",
       "FWD Standard (AWD Optional)",
@@ -17586,8 +17826,9 @@
   },
   {
     "code": "2026-santacruz-sel",
+    "model_code": "Santa Cruz",
     "manufacturer_code": 20,
-    "trim_name": "Santa Cruz SEL",
+    "trim_name": "SEL",
     "standard_features": [
       "2.5L 4-Cylinder Engine (191 hp)",
       "FWD Standard (AWD Optional)",
@@ -17614,8 +17855,9 @@
   },
   {
     "code": "2026-santacruz-sel-activity",
+    "model_code": "Santa Cruz",
     "manufacturer_code": 20,
-    "trim_name": "Santa Cruz SEL Activity",
+    "trim_name": "SEL Activity",
     "standard_features": [
       "2.5L 4-Cylinder Engine (191 hp)",
       "AWD Standard",
@@ -17642,8 +17884,9 @@
   },
   {
     "code": "2026-santacruz-xrt",
+    "model_code": "Santa Cruz",
     "manufacturer_code": 20,
-    "trim_name": "Santa Cruz XRT",
+    "trim_name": "XRT",
     "standard_features": [
       "2.5L Turbocharged 4-Cylinder Engine (281 hp)",
       "AWD Standard",
@@ -17668,8 +17911,9 @@
   },
   {
     "code": "2026-santacruz-limited",
+    "model_code": "Santa Cruz",
     "manufacturer_code": 20,
-    "trim_name": "Santa Cruz Limited",
+    "trim_name": "Limited",
     "standard_features": [
       "2.5L Turbocharged 4-Cylinder Engine (281 hp)",
       "AWD Standard",
@@ -17694,8 +17938,9 @@
   },
   {
     "code": "2026-santafe-se",
+    "model_code": "Santa Fe",
     "manufacturer_code": 20,
-    "trim_name": "Santa Fe SE",
+    "trim_name": "SE",
     "standard_features": [
       "2.5L 4-Cylinder Engine (191 hp)",
       "FWD Standard (AWD Optional)",
@@ -17721,8 +17966,9 @@
   },
   {
     "code": "2026-santafe-sel",
+    "model_code": "Santa Fe",
     "manufacturer_code": 20,
-    "trim_name": "Santa Fe SEL",
+    "trim_name": "SEL",
     "standard_features": [
       "2.5L 4-Cylinder Engine (191 hp)",
       "FWD Standard (AWD Optional)",
@@ -17749,8 +17995,9 @@
   },
   {
     "code": "2026-santafe-xrt",
+    "model_code": "Santa Fe",
     "manufacturer_code": 20,
-    "trim_name": "Santa Fe XRT",
+    "trim_name": "XRT",
     "standard_features": [
       "2.5L Turbocharged 4-Cylinder Engine (277 hp)",
       "AWD Standard",
@@ -17775,8 +18022,9 @@
   },
   {
     "code": "2026-santafe-limited",
+    "model_code": "Santa Fe",
     "manufacturer_code": 20,
-    "trim_name": "Santa Fe Limited",
+    "trim_name": "Limited",
     "standard_features": [
       "2.5L Turbocharged 4-Cylinder Engine (277 hp)",
       "AWD Standard",
@@ -17801,8 +18049,9 @@
   },
   {
     "code": "2026-santafe-calligraphy",
+    "model_code": "Santa Fe",
     "manufacturer_code": 20,
-    "trim_name": "Santa Fe Calligraphy",
+    "trim_name": "Calligraphy",
     "standard_features": [
       "2.5L Turbocharged 4-Cylinder Engine (277 hp)",
       "AWD Standard",
@@ -17828,8 +18077,9 @@
   },
   {
     "code": "2026-santafe-hybrid-se",
+    "model_code": "Santa Fe Hybrid",
     "manufacturer_code": 20,
-    "trim_name": "Santa Fe Hybrid SE",
+    "trim_name": "SE",
     "standard_features": [
       "1.6L Turbocharged 4-Cylinder Hybrid System (226 hp combined)",
       "FWD Standard (AWD Optional)",
@@ -17856,8 +18106,9 @@
   },
   {
     "code": "2026-santafe-hybrid-sel",
+    "model_code": "Santa Fe Hybrid",
     "manufacturer_code": 20,
-    "trim_name": "Santa Fe Hybrid SEL",
+    "trim_name": "SEL",
     "standard_features": [
       "1.6L Turbocharged 4-Cylinder Hybrid System (226 hp combined)",
       "FWD Standard (AWD Optional)",
@@ -17885,8 +18136,9 @@
   },
   {
     "code": "2026-santafe-hybrid-limited",
+    "model_code": "Santa Fe Hybrid",
     "manufacturer_code": 20,
-    "trim_name": "Santa Fe Hybrid Limited",
+    "trim_name": "Limited",
     "standard_features": [
       "1.6L Turbocharged 4-Cylinder Hybrid System (226 hp combined)",
       "AWD Standard",
@@ -17912,8 +18164,9 @@
   },
   {
     "code": "2026-santafe-hybrid-calligraphy",
+    "model_code": "Santa Fe Hybrid",
     "manufacturer_code": 20,
-    "trim_name": "Santa Fe Hybrid Calligraphy",
+    "trim_name": "Calligraphy",
     "standard_features": [
       "1.6L Turbocharged 4-Cylinder Hybrid System (226 hp combined)",
       "AWD Standard",
@@ -17940,8 +18193,9 @@
   },
   {
     "code": "2026-sonata-se",
+    "model_code": "Sonata",
     "manufacturer_code": 20,
-    "trim_name": "Sonata SE",
+    "trim_name": "SE",
     "standard_features": [
       "2.5L 4-Cylinder Engine (191 hp)",
       "FWD Standard",
@@ -17965,8 +18219,9 @@
   },
   {
     "code": "2026-sonata-sel",
+    "model_code": "Sonata",
     "manufacturer_code": 20,
-    "trim_name": "Sonata SEL",
+    "trim_name": "SEL",
     "standard_features": [
       "2.5L 4-Cylinder Engine (191 hp)",
       "FWD Standard",
@@ -17992,8 +18247,9 @@
   },
   {
     "code": "2026-sonata-n-line",
+    "model_code": "Sonata",
     "manufacturer_code": 20,
-    "trim_name": "Sonata N Line",
+    "trim_name": "N Line",
     "standard_features": [
       "2.5L Turbocharged 4-Cylinder Engine (290 hp)",
       "FWD Standard",
@@ -18018,8 +18274,9 @@
   },
   {
     "code": "2026-sonata-limited",
+    "model_code": "Sonata",
     "manufacturer_code": 20,
-    "trim_name": "Sonata Limited",
+    "trim_name": "Limited",
     "standard_features": [
       "2.5L 4-Cylinder Engine (191 hp)",
       "FWD Standard",
@@ -18044,8 +18301,9 @@
   },
   {
     "code": "2026-sonata-hybrid-blue",
+    "model_code": "Sonata Hybrid",
     "manufacturer_code": 20,
-    "trim_name": "Sonata Hybrid Blue",
+    "trim_name": "Blue",
     "standard_features": [
       "2.0L 4-Cylinder Hybrid System (192 hp combined)",
       "FWD Standard",
@@ -18070,8 +18328,9 @@
   },
   {
     "code": "2026-sonata-hybrid-sel",
+    "model_code": "Sonata Hybrid",
     "manufacturer_code": 20,
-    "trim_name": "Sonata Hybrid SEL",
+    "trim_name": "SEL",
     "standard_features": [
       "2.0L 4-Cylinder Hybrid System (192 hp combined)",
       "FWD Standard",
@@ -18098,8 +18357,9 @@
   },
   {
     "code": "2026-sonata-hybrid-limited",
+    "model_code": "Sonata Hybrid",
     "manufacturer_code": 20,
-    "trim_name": "Sonata Hybrid Limited",
+    "trim_name": "Limited",
     "standard_features": [
       "2.0L 4-Cylinder Hybrid System (192 hp combined)",
       "FWD Standard",
@@ -18125,8 +18385,9 @@
   },
   {
     "code": "2026-tucson-se",
+    "model_code": "Tucson",
     "manufacturer_code": 20,
-    "trim_name": "Tucson SE",
+    "trim_name": "SE",
     "standard_features": [
       "2.5L 4-Cylinder Engine (187 hp)",
       "FWD Standard (AWD Optional)",
@@ -18151,8 +18412,9 @@
   },
   {
     "code": "2026-tucson-sel",
+    "model_code": "Tucson",
     "manufacturer_code": 20,
-    "trim_name": "Tucson SEL",
+    "trim_name": "SEL",
     "standard_features": [
       "2.5L 4-Cylinder Engine (187 hp)",
       "FWD Standard (AWD Optional)",
@@ -18179,8 +18441,9 @@
   },
   {
     "code": "2026-tucson-n-line",
+    "model_code": "Tucson",
     "manufacturer_code": 20,
-    "trim_name": "Tucson N Line",
+    "trim_name": "N Line",
     "standard_features": [
       "1.6L Turbo 4-Cylinder Engine (276 hp)",
       "FWD Standard (AWD Optional)",
@@ -18206,8 +18469,9 @@
   },
   {
     "code": "2026-tucson-limited",
+    "model_code": "Tucson",
     "manufacturer_code": 20,
-    "trim_name": "Tucson Limited",
+    "trim_name": "Limited",
     "standard_features": [
       "2.5L 4-Cylinder Engine (187 hp)",
       "AWD Standard",
@@ -18232,8 +18496,9 @@
   },
   {
     "code": "2026-tucson-hybrid-se",
+    "model_code": "Tucson Hybrid",
     "manufacturer_code": 20,
-    "trim_name": "Tucson Hybrid SE",
+    "trim_name": "SE",
     "standard_features": [
       "1.6L Turbo 4-Cylinder Hybrid System (226 hp combined)",
       "FWD Standard (AWD Optional)",
@@ -18259,8 +18524,9 @@
   },
   {
     "code": "2026-tucson-hybrid-sel",
+    "model_code": "Tucson Hybrid",
     "manufacturer_code": 20,
-    "trim_name": "Tucson Hybrid SEL",
+    "trim_name": "SEL",
     "standard_features": [
       "1.6L Turbo 4-Cylinder Hybrid System (226 hp combined)",
       "FWD Standard (AWD Optional)",
@@ -18288,8 +18554,9 @@
   },
   {
     "code": "2026-tucson-hybrid-limited",
+    "model_code": "Tucson Hybrid",
     "manufacturer_code": 20,
-    "trim_name": "Tucson Hybrid Limited",
+    "trim_name": "Limited",
     "standard_features": [
       "1.6L Turbo 4-Cylinder Hybrid System (226 hp combined)",
       "AWD Standard",
@@ -18315,8 +18582,9 @@
   },
   {
     "code": "2026-tucson-phev-limited",
+    "model_code": "Tucson Plug-in Hybrid",
     "manufacturer_code": 20,
-    "trim_name": "Tucson Plug-in Hybrid Limited",
+    "trim_name": "Limited",
     "standard_features": [
       "1.6L Turbo 4-Cylinder Plug-in Hybrid System (265 hp combined)",
       "AWD Standard",
@@ -18343,8 +18611,9 @@
   },
   {
     "code": "2026-venue-se",
+    "model_code": "Venue",
     "manufacturer_code": 20,
-    "trim_name": "Venue SE",
+    "trim_name": "SE",
     "standard_features": [
       "1.6L 4-Cylinder Engine (121 hp)",
       "FWD Standard",
@@ -18367,8 +18636,9 @@
   },
   {
     "code": "2026-venue-sel",
+    "model_code": "Venue",
     "manufacturer_code": 20,
-    "trim_name": "Venue SEL",
+    "trim_name": "SEL",
     "standard_features": [
       "1.6L 4-Cylinder Engine (121 hp)",
       "FWD Standard",
@@ -18394,8 +18664,9 @@
   },
   {
     "code": "2026-venue-sel-plus",
+    "model_code": "Venue",
     "manufacturer_code": 20,
-    "trim_name": "Venue SEL Plus",
+    "trim_name": "SEL Plus",
     "standard_features": [
       "1.6L 4-Cylinder Engine (121 hp)",
       "FWD Standard",
@@ -18420,8 +18691,9 @@
   },
   {
     "code": "2026-grenadier-base",
+    "model_code": "Grenadier",
     "manufacturer_code": 21,
-    "trim_name": "Grenadier Base",
+    "trim_name": "Base",
     "standard_features": [
       "3.0L Turbocharged Inline‑6 Engine (282 hp, 331 lb‑ft)",
       "8‑Speed Automatic Transmission",
@@ -18445,8 +18717,9 @@
   },
   {
     "code": "2026-grenadier-fieldmaster",
+    "model_code": "Grenadier",
     "manufacturer_code": 21,
-    "trim_name": "Grenadier Fieldmaster",
+    "trim_name": "Fieldmaster",
     "standard_features": [
       "3.0L Turbocharged Inline‑6 Engine (282 hp, 331 lb‑ft)",
       "8‑Speed Automatic Transmission",
@@ -18469,8 +18742,9 @@
   },
   {
     "code": "2026-grenadier-trialmaster",
+    "model_code": "Grenadier",
     "manufacturer_code": 21,
-    "trim_name": "Grenadier Trialmaster",
+    "trim_name": "Trialmaster",
     "standard_features": [
       "3.0L Turbocharged Inline‑6 Engine (282 hp, 331 lb‑ft)",
       "8‑Speed Automatic Transmission",
@@ -18492,8 +18766,9 @@
   },
   {
     "code": "2026-grenadier-black-edition",
+    "model_code": "Grenadier",
     "manufacturer_code": 21,
-    "trim_name": "Grenadier Black Edition",
+    "trim_name": "Black Edition",
     "standard_features": [
       "3.0L Turbocharged Inline‑6 Engine (282 hp, 331 lb‑ft)",
       "8‑Speed Automatic Transmission",
@@ -18516,8 +18791,9 @@
   },
   {
     "code": "2026-qx50-pure",
+    "model_code": "QX50",
     "manufacturer_code": 22,
-    "trim_name": "QX50 Pure",
+    "trim_name": "Pure",
     "standard_features": [
       "2.0L VC‑Turbo 4‑Cylinder Engine (approx. 268 hp)",
       "AWD Standard",
@@ -18542,8 +18818,9 @@
   },
   {
     "code": "2026-qx50-luxe",
+    "model_code": "QX50",
     "manufacturer_code": 22,
-    "trim_name": "QX50 Luxe",
+    "trim_name": "Luxe",
     "standard_features": [
       "2.0L VC‑Turbo 4‑Cylinder Engine (approx. 268 hp)",
       "AWD Standard",
@@ -18567,8 +18844,9 @@
   },
   {
     "code": "2026-qx50-sport",
+    "model_code": "QX50",
     "manufacturer_code": 22,
-    "trim_name": "QX50 Sport",
+    "trim_name": "Sport",
     "standard_features": [
       "2.0L VC‑Turbo 4‑Cylinder Engine (approx. 268 hp)",
       "AWD Standard",
@@ -18590,8 +18868,9 @@
   },
   {
     "code": "2026-qx55-luxe",
+    "model_code": "QX55",
     "manufacturer_code": 22,
-    "trim_name": "QX55 Luxe",
+    "trim_name": "Luxe",
     "standard_features": [
       "2.0L VC‑Turbo 4‑Cylinder Engine (Approx. 268 hp)",
       "All‑Wheel Drive Standard",
@@ -18616,8 +18895,9 @@
   },
   {
     "code": "2026-qx55-essential",
+    "model_code": "QX55",
     "manufacturer_code": 22,
-    "trim_name": "QX55 Essential",
+    "trim_name": "Essential",
     "standard_features": [
       "2.0L VC‑Turbo 4‑Cylinder Engine (Approx. 268 hp)",
       "All‑Wheel Drive Standard",
@@ -18643,8 +18923,9 @@
   },
   {
     "code": "2026-qx55-sensory",
+    "model_code": "QX55",
     "manufacturer_code": 22,
-    "trim_name": "QX55 Sensory",
+    "trim_name": "Sensory",
     "standard_features": [
       "2.0L VC‑Turbo 4‑Cylinder Engine (Approx. 268 hp)",
       "All‑Wheel Drive Standard",
@@ -18669,8 +18950,9 @@
   },
   {
     "code": "2026-qx60-pure",
+    "model_code": "QX60",
     "manufacturer_code": 22,
-    "trim_name": "QX60 Pure",
+    "trim_name": "Pure",
     "standard_features": [
       "2.0L VC‑Turbo 4‑Cylinder Engine (268 hp / 286 lb‑ft)",
       "9‑Speed Automatic Transmission",
@@ -18694,8 +18976,9 @@
   },
   {
     "code": "2026-qx60-luxe",
+    "model_code": "QX60",
     "manufacturer_code": 22,
-    "trim_name": "QX60 Luxe",
+    "trim_name": "Luxe",
     "standard_features": [
       "2.0L VC‑Turbo 4‑Cylinder Engine (268 hp / 286 lb‑ft)",
       "9‑Speed Automatic Transmission",
@@ -18719,8 +19002,9 @@
   },
   {
     "code": "2026-qx60-sport",
+    "model_code": "QX60",
     "manufacturer_code": 22,
-    "trim_name": "QX60 Sport",
+    "trim_name": "Sport",
     "standard_features": [
       "2.0L VC‑Turbo 4‑Cylinder Engine (268 hp / 286 lb‑ft)",
       "9‑Speed Automatic Transmission",
@@ -18745,8 +19029,9 @@
   },
   {
     "code": "2026-qx60-autograph",
+    "model_code": "QX60",
     "manufacturer_code": 22,
-    "trim_name": "QX60 Autograph",
+    "trim_name": "Autograph",
     "standard_features": [
       "2.0L VC‑Turbo 4‑Cylinder Engine (268 hp / 286 lb‑ft)",
       "9‑Speed Automatic Transmission",
@@ -18770,8 +19055,9 @@
   },
   {
     "code": "2026-qx80-pure",
+    "model_code": "QX80",
     "manufacturer_code": 22,
-    "trim_name": "QX80 Pure",
+    "trim_name": "Pure",
     "standard_features": [
       "3.5L Twin‑Turbo V6 Engine (450 hp / 516 lb‑ft)",
       "9‑Speed Automatic Transmission",
@@ -18799,8 +19085,9 @@
   },
   {
     "code": "2026-qx80-luxe",
+    "model_code": "QX80",
     "manufacturer_code": 22,
-    "trim_name": "QX80 Luxe",
+    "trim_name": "Luxe",
     "standard_features": [
       "3.5L Twin‑Turbo V6 Engine (450 hp / 516 lb‑ft)",
       "9‑Speed Automatic Transmission",
@@ -18826,8 +19113,9 @@
   },
   {
     "code": "2026-qx80-sport",
+    "model_code": "QX80",
     "manufacturer_code": 22,
-    "trim_name": "QX80 Sport",
+    "trim_name": "Sport",
     "standard_features": [
       "3.5L Twin‑Turbo V6 Engine (450 hp / 516 lb‑ft)",
       "9‑Speed Automatic Transmission",
@@ -18853,8 +19141,9 @@
   },
   {
     "code": "2026-qx80-autograph",
+    "model_code": "QX80",
     "manufacturer_code": 22,
-    "trim_name": "QX80 Autograph",
+    "trim_name": "Autograph",
     "standard_features": [
       "3.5L Twin‑Turbo V6 Engine (450 hp / 516 lb‑ft)",
       "9‑Speed Automatic Transmission",
@@ -18877,8 +19166,9 @@
   },
   {
     "code": "2026-e-pace-r-dynamic-s",
+    "model_code": "E-Pace",
     "manufacturer_code": 23,
-    "trim_name": "E‑Pace R‑Dynamic S",
+    "trim_name": "R‑Dynamic S",
     "standard_features": [
       "2.0L Turbocharged Ingenium 4‑Cylinder Engine (Approx. 246 hp)",
       "All‑Wheel Drive Standard",
@@ -18903,8 +19193,9 @@
   },
   {
     "code": "2026-e-pace-r-dynamic-se",
+    "model_code": "E-Pace",
     "manufacturer_code": 23,
-    "trim_name": "E‑Pace R‑Dynamic SE",
+    "trim_name": "R‑Dynamic SE",
     "standard_features": [
       "2.0L Turbocharged Ingenium 4‑Cylinder Engine (Approx. 246 hp)",
       "All‑Wheel Drive Standard",
@@ -18929,8 +19220,9 @@
   },
   {
     "code": "2026-e-pace-r-dynamic-hse",
+    "model_code": "E-Pace",
     "manufacturer_code": 23,
-    "trim_name": "E‑Pace R‑Dynamic HSE",
+    "trim_name": "R‑Dynamic HSE",
     "standard_features": [
       "2.0L Turbocharged Ingenium 4‑Cylinder Engine (Approx. 246 hp)",
       "All‑Wheel Drive Standard",
@@ -18955,8 +19247,9 @@
   },
   {
     "code": "2026-f-pace-p250",
+    "model_code": "F-Pace",
     "manufacturer_code": 23,
-    "trim_name": "F‑Pace P250",
+    "trim_name": "P250",
     "standard_features": [
       "2.0L Turbocharged 4‑Cylinder Engine (246 hp / 269 lb‑ft)",
       "All‑Wheel Drive Standard",
@@ -18981,8 +19274,9 @@
   },
   {
     "code": "2026-f-pace-p340",
+    "model_code": "F-Pace",
     "manufacturer_code": 23,
-    "trim_name": "F‑Pace P340",
+    "trim_name": "P340",
     "standard_features": [
       "3.0L Turbocharged 6‑Cylinder Engine (340 hp)",
       "All‑Wheel Drive Standard",
@@ -19007,8 +19301,9 @@
   },
   {
     "code": "2026-f-pace-r‑dynamic-se",
+    "model_code": "F-Pace",
     "manufacturer_code": 23,
-    "trim_name": "F‑Pace R‑Dynamic SE",
+    "trim_name": "R‑Dynamic SE",
     "standard_features": [
       "3.0L Turbocharged 6‑Cylinder Engine (340 hp)",
       "All‑Wheel Drive Standard",
@@ -19034,8 +19329,9 @@
   },
   {
     "code": "2026-f-pace-svr",
+    "model_code": "F-Pace",
     "manufacturer_code": 23,
-    "trim_name": "F‑Pace SVR",
+    "trim_name": "SVR",
     "standard_features": [
       "5.0L Supercharged V8 Engine (550 hp)",
       "All‑Wheel Drive Standard",
@@ -19062,8 +19358,9 @@
   },
   {
     "code": "2026-i-pace-base",
+    "model_code": "I-Pace",
     "manufacturer_code": 23,
-    "trim_name": "I‑Pace Base",
+    "trim_name": "Base",
     "standard_features": [
       "All‑Electric Dual Motor Powertrain (~400 hp)",
       "All‑Wheel Drive Standard",
@@ -19090,8 +19387,9 @@
   },
   {
     "code": "2026-i-pace-r-dynamic-se",
+    "model_code": "I-Pace",
     "manufacturer_code": 23,
-    "trim_name": "I‑Pace R‑Dynamic SE",
+    "trim_name": "R‑Dynamic SE",
     "standard_features": [
       "All‑Electric Dual Motor Powertrain (~400 hp)",
       "All‑Wheel Drive Standard",
@@ -19115,8 +19413,9 @@
   },
   {
     "code": "2026-i-pace-r-dynamic-hse",
+    "model_code": "I-Pace",
     "manufacturer_code": 23,
-    "trim_name": "I‑Pace R‑Dynamic HSE",
+    "trim_name": "R‑Dynamic HSE",
     "standard_features": [
       "All‑Electric Dual Motor Powertrain (~400 hp)",
       "All‑Wheel Drive Standard",
@@ -19141,8 +19440,9 @@
   },
   {
     "code": "2026-f-type-p250-r-dynamic",
+    "model_code": "F-Type",
     "manufacturer_code": 23,
-    "trim_name": "F‑Type P250 R‑Dynamic",
+    "trim_name": "P250 R‑Dynamic",
     "standard_features": [
       "2.0L Turbocharged 4‑Cylinder Engine (~296 hp)",
       "Rear‑Wheel Drive Standard",
@@ -19167,8 +19467,9 @@
   },
   {
     "code": "2026-f-type-p400-r-dynamic-awd",
+    "model_code": "F-Type",
     "manufacturer_code": 23,
-    "trim_name": "F‑Type P400 R‑Dynamic AWD",
+    "trim_name": "P400 R‑Dynamic AWD",
     "standard_features": [
       "3.0L Inline‑Six Mild‑Hybrid Engine (~394 hp)",
       "All‑Wheel Drive Standard",
@@ -19192,8 +19493,9 @@
   },
   {
     "code": "2026-f-type-r",
+    "model_code": "F-Type",
     "manufacturer_code": 23,
-    "trim_name": "F‑Type R",
+    "trim_name": "R",
     "standard_features": [
       "5.0L Supercharged V8 Engine (~575 hp)",
       "All‑Wheel Drive Standard",
@@ -19218,8 +19520,9 @@
   },
   {
     "code": "2026-f-type-r75-special-edition",
+    "model_code": "F-Type",
     "manufacturer_code": 23,
-    "trim_name": "F‑Type R75 Special Edition",
+    "trim_name": "R75 Special Edition",
     "standard_features": [
       "5.0L Supercharged V8 Engine (~575 hp)",
       "All‑Wheel Drive Standard",
@@ -19244,8 +19547,9 @@
   },
   {
     "code": "2026-xf-p250-r-dynamic-se",
+    "model_code": "XF",
     "manufacturer_code": 23,
-    "trim_name": "XF P250 R‑Dynamic SE",
+    "trim_name": "P250 R‑Dynamic SE",
     "standard_features": [
       "2.0L Turbocharged 4‑Cylinder Mild‑Hybrid Engine (Approx. 250–296 hp)",
       "Rear‑Wheel Drive Standard (AWD Optional)",
@@ -19271,8 +19575,9 @@
   },
   {
     "code": "2026-xf-p300-r-dynamic-se",
+    "model_code": "XF",
     "manufacturer_code": 23,
-    "trim_name": "XF P300 R‑Dynamic SE",
+    "trim_name": "P300 R‑Dynamic SE",
     "standard_features": [
       "2.0L Turbocharged 4‑Cylinder Mild‑Hybrid Engine (Higher Output)",
       "All‑Wheel Drive Standard",
@@ -19296,8 +19601,9 @@
   },
   {
     "code": "2026-xf-r-dynamic-hse",
+    "model_code": "XF",
     "manufacturer_code": 23,
-    "trim_name": "XF R‑Dynamic HSE",
+    "trim_name": "R‑Dynamic HSE",
     "standard_features": [
       "2.0L Turbocharged 4‑Cylinder Mild‑Hybrid Engine (High Output)",
       "All‑Wheel Drive Standard",
@@ -19321,8 +19627,9 @@
   },
   {
     "code": "2026-compass-latitude",
+    "model_code": "Compass",
     "manufacturer_code": 24,
-    "trim_name": "Compass Latitude",
+    "trim_name": "Latitude",
     "standard_features": [
       "2.0L Turbocharged I4 Engine (200 hp, 221 lb‑ft)",
       "8‑Speed Automatic Transmission",
@@ -19347,8 +19654,9 @@
   },
   {
     "code": "2026-compass-latitude-altitude",
+    "model_code": "Compass",
     "manufacturer_code": 24,
-    "trim_name": "Compass Latitude Altitude",
+    "trim_name": "Latitude Altitude",
     "standard_features": [
       "2.0L Turbocharged I4 Engine (200 hp, 221 lb‑ft)",
       "8‑Speed Automatic Transmission",
@@ -19373,8 +19681,9 @@
   },
   {
     "code": "2026-compass-limited",
+    "model_code": "Compass",
     "manufacturer_code": 24,
-    "trim_name": "Compass Limited",
+    "trim_name": "Limited",
     "standard_features": [
       "2.0L Turbocharged I4 Engine (200 hp, 221 lb‑ft)",
       "8‑Speed Automatic Transmission",
@@ -19400,8 +19709,9 @@
   },
   {
     "code": "2026-compass-limited-altitude",
+    "model_code": "Compass",
     "manufacturer_code": 24,
-    "trim_name": "Compass Limited Altitude",
+    "trim_name": "Limited Altitude",
     "standard_features": [
       "2.0L Turbocharged I4 Engine (200 hp, 221 lb‑ft)",
       "8‑Speed Automatic Transmission",
@@ -19426,8 +19736,9 @@
   },
   {
     "code": "2026-compass-trailhawk",
+    "model_code": "Compass",
     "manufacturer_code": 24,
-    "trim_name": "Compass Trailhawk",
+    "trim_name": "Trailhawk",
     "standard_features": [
       "2.0L Turbocharged I4 Engine (200 hp, 221 lb‑ft)",
       "8‑Speed Automatic Transmission",
@@ -19452,8 +19763,9 @@
   },
   {
     "code": "2026-cherokee-base",
+    "model_code": "Cherokee",
     "manufacturer_code": 24,
-    "trim_name": "Cherokee",
+    "trim_name": "Base",
     "standard_features": [
       "1.6 L Turbo Hybrid I4 Engine + Electric Motors (210 hp combined)",
       "AWD Standard",
@@ -19480,8 +19792,9 @@
   },
   {
     "code": "2026-cherokee-laredo",
+    "model_code": "Cherokee",
     "manufacturer_code": 24,
-    "trim_name": "Cherokee Laredo",
+    "trim_name": "Laredo",
     "standard_features": [
       "1.6 L Turbo Hybrid I4 Engine + Electric Motors (210 hp combined)",
       "AWD Standard",
@@ -19508,8 +19821,9 @@
   },
   {
     "code": "2026-cherokee-limited",
+    "model_code": "Cherokee",
     "manufacturer_code": 24,
-    "trim_name": "Cherokee Limited",
+    "trim_name": "Limited",
     "standard_features": [
       "1.6 L Turbo Hybrid I4 Engine + Electric Motors (210 hp combined)",
       "AWD Standard",
@@ -19538,8 +19852,9 @@
   },
   {
     "code": "2026-cherokee-overland",
+    "model_code": "Cherokee",
     "manufacturer_code": 24,
-    "trim_name": "Cherokee Overland",
+    "trim_name": "Overland",
     "standard_features": [
       "1.6 L Turbo Hybrid I4 Engine + Electric Motors (210 hp combined)",
       "AWD Standard",
@@ -19568,8 +19883,9 @@
   },
   {
     "code": "2026‑gladiator‑sport",
+    "model_code": "Gladiator",
     "manufacturer_code": 24,
-    "trim_name": "Gladiator Sport",
+    "trim_name": "Sport",
     "standard_features": [
       "3.6L Pentastar V6 Engine (285 hp, 260 lb‑ft)",
       "8‑Speed Automatic Transmission",
@@ -19591,8 +19907,9 @@
   },
   {
     "code": "2026‑gladiator‑sport‑s",
+    "model_code": "Gladiator",
     "manufacturer_code": 24,
-    "trim_name": "Gladiator Sport S",
+    "trim_name": "Sport S",
     "standard_features": [
       "3.6L Pentastar V6 Engine (285 hp, 260 lb‑ft)",
       "8‑Speed Automatic Transmission",
@@ -19615,8 +19932,9 @@
   },
   {
     "code": "2026‑gladiator‑willys",
+    "model_code": "Gladiator",
     "manufacturer_code": 24,
-    "trim_name": "Gladiator Willys",
+    "trim_name": "Willys",
     "standard_features": [
       "3.6L Pentastar V6 Engine (285 hp, 260 lb‑ft)",
       "8‑Speed Automatic Transmission",
@@ -19639,8 +19957,9 @@
   },
   {
     "code": "2026‑gladiator‑sahara",
+    "model_code": "Gladiator",
     "manufacturer_code": 24,
-    "trim_name": "Gladiator Sahara",
+    "trim_name": "Sahara",
     "standard_features": [
       "3.6L Pentastar V6 Engine (285 hp, 260 lb‑ft)",
       "8‑Speed Automatic Transmission",
@@ -19662,8 +19981,9 @@
   },
   {
     "code": "2026‑gladiator‑mojave",
+    "model_code": "Gladiator",
     "manufacturer_code": 24,
-    "trim_name": "Gladiator Mojave",
+    "trim_name": "Mojave",
     "standard_features": [
       "3.6L Pentastar V6 Engine (285 hp, 260 lb‑ft)",
       "8‑Speed Automatic Transmission",
@@ -19685,8 +20005,9 @@
   },
   {
     "code": "2026‑gladiator‑rubicon",
+    "model_code": "Gladiator",
     "manufacturer_code": 24,
-    "trim_name": "Gladiator Rubicon",
+    "trim_name": "Rubicon",
     "standard_features": [
       "3.6L Pentastar V6 Engine (285 hp, 260 lb‑ft)",
       "8‑Speed Automatic Transmission",
@@ -19708,8 +20029,9 @@
   },
   {
     "code": "2026-grand‑cherokee‑laredo",
+    "model_code": "Grand Cherokee",
     "manufacturer_code": 24,
-    "trim_name": "Grand Cherokee Laredo",
+    "trim_name": "Laredo",
     "standard_features": [
       "3.6L Pentastar V6 Engine (293 hp, 257 lb‑ft)",
       "8‑Speed Automatic Transmission",
@@ -19733,8 +20055,9 @@
   },
   {
     "code": "2026-grand‑cherokee‑laredo‑altitude",
+    "model_code": "Grand Cherokee",
     "manufacturer_code": 24,
-    "trim_name": "Grand Cherokee Laredo Altitude",
+    "trim_name": "Laredo Altitude",
     "standard_features": [
       "2.0L Hurricane Turbo I4 Engine (324 hp, 332 lb‑ft)",
       "8‑Speed Automatic Transmission",
@@ -19758,8 +20081,9 @@
   },
   {
     "code": "2026-grand‑cherokee‑limited",
+    "model_code": "Grand Cherokee",
     "manufacturer_code": 24,
-    "trim_name": "Grand Cherokee Limited",
+    "trim_name": "Limited",
     "standard_features": [
       "2.0L Hurricane Turbo I4 Engine (324 hp, 332 lb‑ft)",
       "8‑Speed Automatic Transmission",
@@ -19783,8 +20107,9 @@
   },
   {
     "code": "2026-grand‑cherokee‑summit",
+    "model_code": "Grand Cherokee",
     "manufacturer_code": 24,
-    "trim_name": "Grand Cherokee Summit",
+    "trim_name": "Summit",
     "standard_features": [
       "2.0L Hurricane Turbo I4 Engine (324 hp, 332 lb‑ft)",
       "8‑Speed Automatic Transmission",
@@ -19808,8 +20133,9 @@
   },
   {
     "code": "2026-grand‑cherokee‑trailhawk‑4xe",
+    "model_code": "Grand Cherokee",
     "manufacturer_code": 24,
-    "trim_name": "Grand Cherokee Trailhawk 4xe",
+    "trim_name": "Trailhawk 4xe",
     "standard_features": [
       "2.0L Turbo Plug‑in Hybrid 4xe System (375 hp, 470 lb‑ft)",
       "8‑Speed Automatic Transmission",
@@ -19830,54 +20156,50 @@
     ],
     "active": true
   },
-  {
-    "code": "2026-grand-wagoneer",
+   {
+    "code": "2026-grand-wagoneer-base",
+    "model_code": "Grand Wagoneer",
     "manufacturer_code": 24,
-    "trim_name": "Grand Wagoneer",
+    "trim_name": "Base",
     "standard_features": [
-      "3.0L Twin‑Turbo Hurricane I‑6 Engine (420 hp / 469 lb‑ft)",
+      "3.0L Hurricane Twin‑Turbo I6 Engine (420 hp / 468 lb‑ft)",
       "8‑Speed Automatic Transmission",
       "AWD Standard",
-      "18\" Alloy Wheels",
-      "Leather Upholstery (Capri)",
+      "20\" Alloy Wheels",
+      "Capri Leather Seating",
       "12.3\" Digital Gauge Cluster",
-      "12\" Touchscreen Uconnect 5 Infotainment",
+      "12\" Uconnect 5 Infotainment System",
       "Wireless Apple CarPlay & Android Auto",
       "Forward Collision‑Avoidance Assist",
       "Blind Spot Monitoring",
       "Lane Keeping Assist",
-      "Rain‑Sensing Wipers",
-      "Premium Climate Control",
-      "Heated Front Seats",
-      "Power Liftgate"
+      "Dual‑Zone Automatic Climate Control"
     ],
     "optional_features": [
       "Panoramic Sunroof",
       "Premium Audio System",
-      "Wireless Charging Pad"
+      "Power Running Boards"
     ],
     "active": true
   },
   {
     "code": "2026-grand-wagoneer-upland",
+    "model_code": "Grand Wagoneer",
     "manufacturer_code": 24,
-    "trim_name": "Grand Wagoneer Upland",
+    "trim_name": "Upland",
     "standard_features": [
-      "3.0L Twin‑Turbo Hurricane I‑6 Engine (420 hp / 469 lb‑ft)",
+      "3.0L Hurricane Twin‑Turbo I6 Engine (420 hp / 468 lb‑ft)",
       "AWD Standard",
-      "Selec‑Terrain Traction Management with Off‑Road Modes",
-      "Air Suspension",
-      "All‑Terrain Tires",
-      "20\" Alloy Wheels",
-      "Roof Rack",
-      "Tow Hooks",
-      "LED Headlights & Taillights",
+      "Off‑Road Oriented Suspension & All‑Terrain Tires",
+      "Selec‑Terrain Traction Management System",
+      "20\" Rugged Alloy Wheels",
+      "Leveled Ride Height",
       "12.3\" Digital Gauge Cluster",
-      "12\" Touchscreen Uconnect 5 Infotainment",
+      "12\" Uconnect 5 Infotainment System",
       "Wireless Apple CarPlay & Android Auto",
-      "Off‑Road Skid Plates",
       "Blind Spot Monitoring",
-      "Adaptive Cruise Control",
+      "Forward Collision‑Avoidance Assist",
+      "Lane Keeping Assist",
       "Heated Front Seats"
     ],
     "optional_features": [
@@ -19888,90 +20210,79 @@
     "active": true
   },
   {
-    "code": "2026-grand-wagoneer-limited",
+    "code": "2026-grand-wagoneer-limited-altitude",
+    "model_code": "Grand Wagoneer",
     "manufacturer_code": 24,
-    "trim_name": "Grand Wagoneer Limited",
+    "trim_name": "Limited Altitude",
     "standard_features": [
-      "3.0L Twin‑Turbo Hurricane I‑6 Engine (420 hp / 469 lb‑ft)",
+      "3.0L Hurricane Twin‑Turbo I6 Engine (420 hp / 468 lb‑ft)",
       "AWD Standard",
       "19\" Premium Alloy Wheels",
       "Nappa Leather Seating",
-      "19‑Speaker McIntosh Premium Audio System",
-      "Tri‑Pane Panoramic Sunroof",
-      "Power Running Boards",
-      "Head‑Up Display",
+      "Altitude Appearance Package",
       "12.3\" Digital Gauge Cluster",
-      "12\" Touchscreen Uconnect 5 Infotainment",
+      "12\" Uconnect 5 Infotainment System",
       "Wireless Apple CarPlay & Android Auto",
       "Blind Spot Monitoring",
       "Adaptive Cruise Control",
-      "Heated & Ventilated Front Seats",
-      "Premium Climate Control",
-      "Surround View Camera"
+      "Forward Collision‑Avoidance Assist",
+      "Power Liftgate"
     ],
     "optional_features": [
-      "Wireless Charging Pad",
-      "Towing Technology Group"
+      "Panoramic Sunroof",
+      "360° Surround View Camera"
     ],
     "active": true
   },
   {
-    "code": "2026-grand-wagoneer-summit",
+    "code": "2026-grand-wagoneer-summit‑obsidian",
+    "model_code": "Grand Wagoneer",
     "manufacturer_code": 24,
-    "trim_name": "Grand Wagoneer Summit",
+    "trim_name": "Summit Obsidian",
     "standard_features": [
-      "3.0L Twin‑Turbo Hurricane I‑6 Engine (420 hp / 469 lb‑ft)",
+      "3.0L Hurricane Twin‑Turbo I6 Engine (420 hp / 468 lb‑ft)",
       "AWD Standard",
-      "21\" Premium Alloy Wheels",
-      "Palermo Leather Quilted Seating",
-      "Dark Waxed Walnut Open‑Pore Wood Interior Trim",
+      "21\" Black Alloy Wheels",
+      "Palermo Leather Seating",
+      "Obsidian Styling Package",
       "23‑Speaker McIntosh Ultra Premium Audio",
-      "Ventilated Rear Seats",
-      "Integrated Front Console Cooler",
-      "Passenger‑Side Display",
-      "Suede Headliner",
       "Head‑Up Display",
-      "Adaptive Cruise Control",
+      "Panoramic Sunroof",
       "Surround View Camera",
-      "Blind Spot Monitoring",
-      "12.3\" Digital Gauge Cluster",
-      "12\" Touchscreen Uconnect 5 Infotainment",
       "Wireless Apple CarPlay & Android Auto",
-      "Panoramic Sunroof"
+      "Blind Spot Monitoring",
+      "Adaptive Cruise Control"
     ],
     "optional_features": [],
     "active": true
   },
   {
-    "code": "2026-grand-wagoneer-summit-reserve",
+    "code": "2026-grand‑wagoneer‑summit‑reserve",
+    "model_code": "Grand Wagoneer",
     "manufacturer_code": 24,
-    "trim_name": "Grand Wagoneer Summit Reserve",
+    "trim_name": "Summit Reserve",
     "standard_features": [
-      "3.0L Twin‑Turbo Hurricane I‑6 Engine (420 hp / 469 lb‑ft or optional EREV powertrain coming later)",
+      "3.0L Hurricane Twin‑Turbo I6 Engine (420 hp / 468 lb‑ft)",
       "AWD Standard",
       "21\" Premium Alloy Wheels",
       "Quilted Palermo Leather Seating with Contrast Stitching",
       "23‑Speaker McIntosh Ultra Premium Audio",
+      "Ventilated Rear Seats",
       "Tri‑Pane Panoramic Sunroof",
-      "Front Console Cooler",
-      "Passenger Side Display",
-      "Suede Headliner",
-      "Ventilated Multi‑Zone Climate Control",
+      "Front Passenger Display",
       "Head‑Up Display",
-      "Adaptive Cruise Control",
       "Surround View Camera",
-      "Blind Spot Monitoring",
-      "12.3\" Digital Gauge Cluster",
-      "12\" Touchscreen Uconnect 5 Infotainment",
-      "Wireless Apple CarPlay & Android Auto"
+      "Wireless Apple CarPlay & Android Auto",
+      "Adaptive Cruise Control"
     ],
     "optional_features": [],
     "active": true
   },
   {
     "code": "2026-recon-moab",
+    "model_code": "Recon",
     "manufacturer_code": 24,
-    "trim_name": "Recon Moab",
+    "trim_name": "Moab",
     "standard_features": [
       "Electric Dual Motor AWD Powertrain (Approx. 650 hp, 620 lb‑ft torque)",
       "All‑Wheel Drive Standard",
@@ -20000,156 +20311,188 @@
     "active": true
   },
   {
-    "code": "2026-grand-wagoneer-base",
-    "manufacturer_code": 24,
-    "trim_name": "Grand Wagoneer",
-    "standard_features": [
-      "3.0L Hurricane Twin‑Turbo I6 Engine (420 hp / 468 lb‑ft)",
-      "8‑Speed Automatic Transmission",
-      "AWD Standard",
-      "20\" Alloy Wheels",
-      "Capri Leather Seating",
-      "12.3\" Digital Gauge Cluster",
-      "12\" Uconnect 5 Infotainment System",
-      "Wireless Apple CarPlay & Android Auto",
-      "Forward Collision‑Avoidance Assist",
-      "Blind Spot Monitoring",
-      "Lane Keeping Assist",
-      "Dual‑Zone Automatic Climate Control"
-    ],
-    "optional_features": [
-      "Panoramic Sunroof",
-      "Premium Audio System",
-      "Power Running Boards"
-    ],
-    "active": true
+  "code": "2026-wagoneer-base",
+  "model_code": "Wagoneer",
+  "manufacturer_code": 24,
+  "trim_name": "Base",
+  "standard_features": [
+    "3.0L Hurricane Twin-Turbo I6 Engine (420 hp / 468 lb-ft)",
+    "8-Speed Automatic Transmission",
+    "RWD Standard",
+    "Available 4x4",
+    "20\" Alloy Wheels",
+    "Cloth Upholstery",
+    "12.3\" Digital Gauge Cluster",
+    "10.1\" Uconnect 5 Infotainment System",
+    "Wireless Apple CarPlay & Android Auto",
+    "Adaptive Cruise Control",
+    "Blind Spot Monitoring",
+    "Forward Collision Warning with Active Braking",
+    "Tri-Zone Automatic Climate Control"
+  ],
+  "optional_features": [
+    "4x4 Drivetrain",
+    "Panoramic Sunroof",
+    "Premium Audio System",
+    "Tow Package"
+  ],
+  "active": true
   },
   {
-    "code": "2026-grand-wagoneer-upland",
-    "manufacturer_code": 24,
-    "trim_name": "Grand Wagoneer Upland",
-    "standard_features": [
-      "3.0L Hurricane Twin‑Turbo I6 Engine (420 hp / 468 lb‑ft)",
-      "AWD Standard",
-      "Off‑Road Oriented Suspension & All‑Terrain Tires",
-      "Selec‑Terrain Traction Management System",
-      "20\" Rugged Alloy Wheels",
-      "Leveled Ride Height",
-      "12.3\" Digital Gauge Cluster",
-      "12\" Uconnect 5 Infotainment System",
-      "Wireless Apple CarPlay & Android Auto",
-      "Blind Spot Monitoring",
-      "Forward Collision‑Avoidance Assist",
-      "Lane Keeping Assist",
-      "Heated Front Seats"
-    ],
-    "optional_features": [
-      "Panoramic Sunroof",
-      "Trailering Package",
-      "Premium Audio System"
-    ],
-    "active": true
+  "code": "2026-wagoneer-series-ii",
+  "model_code": "Wagoneer",
+  "manufacturer_code": 24,
+  "trim_name": "Series II",
+  "standard_features": [
+    "3.0L Hurricane Twin-Turbo I6 Engine (420 hp / 468 lb-ft)",
+    "8-Speed Automatic Transmission",
+    "RWD Standard",
+    "Available 4x4",
+    "20\" Premium Alloy Wheels",
+    "Capri Leather-Trimmed Seating",
+    "Heated & Ventilated Front Seats",
+    "12.3\" Digital Gauge Cluster",
+    "12\" Uconnect 5 Infotainment System",
+    "Wireless Apple CarPlay & Android Auto",
+    "Power Liftgate",
+    "Remote Start",
+    "Adaptive Cruise Control",
+    "Blind Spot Monitoring",
+    "Forward Collision Warning with Active Braking"
+  ],
+  "optional_features": [
+    "4x4 Drivetrain",
+    "Panoramic Sunroof",
+    "Head-Up Display",
+    "Premium Audio System"
+  ],
+  "active": true
   },
   {
-    "code": "2026-grand-wagoneer-limited-altitude",
-    "manufacturer_code": 24,
-    "trim_name": "Grand Wagoneer Limited Altitude",
-    "standard_features": [
-      "3.0L Hurricane Twin‑Turbo I6 Engine (420 hp / 468 lb‑ft)",
-      "AWD Standard",
-      "19\" Premium Alloy Wheels",
-      "Nappa Leather Seating",
-      "Altitude Appearance Package",
-      "12.3\" Digital Gauge Cluster",
-      "12\" Uconnect 5 Infotainment System",
-      "Wireless Apple CarPlay & Android Auto",
-      "Blind Spot Monitoring",
-      "Adaptive Cruise Control",
-      "Forward Collision‑Avoidance Assist",
-      "Power Liftgate"
-    ],
-    "optional_features": [
-      "Panoramic Sunroof",
-      "360° Surround View Camera"
-    ],
-    "active": true
+  "code": "2026-wagoneer-series-ii-carbide",
+  "model_code": "Wagoneer",
+  "manufacturer_code": 24,
+  "trim_name": "Series II Carbide",
+  "standard_features": [
+    "3.0L Hurricane Twin-Turbo I6 Engine (420 hp / 468 lb-ft)",
+    "8-Speed Automatic Transmission",
+    "RWD Standard",
+    "Available 4x4",
+    "20\" Gloss Black Alloy Wheels",
+    "Black Exterior Accents",
+    "Capri Leather-Trimmed Seating",
+    "Heated & Ventilated Front Seats",
+    "12.3\" Digital Gauge Cluster",
+    "12\" Uconnect 5 Infotainment System",
+    "Wireless Apple CarPlay & Android Auto",
+    "Adaptive Cruise Control",
+    "Blind Spot Monitoring",
+    "Forward Collision Warning with Active Braking"
+  ],
+  "optional_features": [
+    "4x4 Drivetrain",
+    "Panoramic Sunroof",
+    "Premium Audio System",
+    "Heavy-Duty Tow Package"
+  ],
+  "active": true
   },
   {
-    "code": "2026-grand-wagoneer-summit‑obsidian",
-    "manufacturer_code": 24,
-    "trim_name": "Grand Wagoneer Summit Obsidian",
-    "standard_features": [
-      "3.0L Hurricane Twin‑Turbo I6 Engine (420 hp / 468 lb‑ft)",
-      "AWD Standard",
-      "21\" Black Alloy Wheels",
-      "Palermo Leather Seating",
-      "Obsidian Styling Package",
-      "23‑Speaker McIntosh Ultra Premium Audio",
-      "Head‑Up Display",
-      "Panoramic Sunroof",
-      "Surround View Camera",
-      "Wireless Apple CarPlay & Android Auto",
-      "Blind Spot Monitoring",
-      "Adaptive Cruise Control"
-    ],
-    "optional_features": [],
-    "active": true
+  "code": "2026-wagoneer-series-iii",
+  "model_code": "Wagoneer",
+  "manufacturer_code": 24,
+  "trim_name": "Series III",
+  "standard_features": [
+    "3.0L Hurricane Twin-Turbo I6 Engine (420 hp / 468 lb-ft)",
+    "8-Speed Automatic Transmission",
+    "RWD Standard",
+    "Available 4x4",
+    "22\" Premium Alloy Wheels",
+    "Nappa Leather Seating",
+    "Heated & Ventilated Front Seats",
+    "Heated Second-Row Seats",
+    "19-Speaker Premium Audio System",
+    "Head-Up Display",
+    "360° Surround View Camera",
+    "12.3\" Digital Gauge Cluster",
+    "12\" Uconnect 5 Infotainment System",
+    "Wireless Apple CarPlay & Android Auto",
+    "Adaptive Cruise Control",
+    "Blind Spot Monitoring",
+    "Forward Collision Warning with Active Braking"
+  ],
+  "optional_features": [
+    "4x4 Drivetrain",
+    "Rear Seat Entertainment System"
+  ],
+  "active": true
   },
   {
-    "code": "2026-grand‑wagoneer‑summit‑reserve",
-    "manufacturer_code": 24,
-    "trim_name": "Grand Wagoneer Summit Reserve",
-    "standard_features": [
-      "3.0L Hurricane Twin‑Turbo I6 Engine (420 hp / 468 lb‑ft)",
-      "AWD Standard",
-      "21\" Premium Alloy Wheels",
-      "Quilted Palermo Leather Seating with Contrast Stitching",
-      "23‑Speaker McIntosh Ultra Premium Audio",
-      "Ventilated Rear Seats",
-      "Tri‑Pane Panoramic Sunroof",
-      "Front Passenger Display",
-      "Head‑Up Display",
-      "Surround View Camera",
-      "Wireless Apple CarPlay & Android Auto",
-      "Adaptive Cruise Control"
-    ],
-    "optional_features": [],
-    "active": true
+  "code": "2026-wagoneer-s-limited",
+  "model_code": "Wagoneer S",
+  "manufacturer_code": 24,
+  "trim_name": "Limited",
+  "standard_features": [
+    "Dual-Motor All-Wheel Drive Electric Powertrain (Approx. 500 hp)",
+    "100+ kWh Battery Pack (Approx. 300+ mile range)",
+    "1-Speed Automatic EV Transmission",
+    "All-Wheel Drive Standard",
+    "20\" Alloy Wheels",
+    "LED Exterior Lighting",
+    "Panoramic Sunroof",
+    "12.3\" Digital Gauge Cluster",
+    "12.3\" Uconnect 5 Infotainment Touchscreen",
+    "Wireless Apple CarPlay & Android Auto",
+    "Heated & Ventilated Front Seats",
+    "Power Liftgate",
+    "Adaptive Cruise Control with Stop & Go",
+    "Blind Spot Monitoring",
+    "Forward Collision Warning with Active Braking",
+    "Lane Keep Assist",
+    "360° Surround View Camera"
+  ],
+  "optional_features": [
+    "Premium Audio System",
+    "Head-Up Display",
+    "Hands-Free Power Liftgate"
+  ],
+  "active": true
   },
   {
-    "code": "2026-wagoneer-s-limited",
-    "manufacturer_code": 24,
-    "trim_name": "Wagoneer S Limited",
-    "standard_features": [
-      "Dual Electric Motors AWD (500 hp, 524 lb‑ft torque)",
-      "1‑Speed Direct Drive Transmission",
-      "Approx. 294 mi EPA Range (Battery EV)",
-      "4‑Wheel Drive Standard",
-      "12.3\" Uconnect Infotainment Touchscreen with Wireless Apple CarPlay & Android Auto",
-      "10.3\" Lower Comfort Touchscreen",
-      "10.0\" Head‑Up Display",
-      "12.3\" Digital Instrument Cluster",
-      "Adaptive Cruise Control with Stop",
-      "Blind Spot Monitoring with Rear Cross‑Path Detection",
-      "360° Surround‑View Camera",
-      "Parking Assist",
-      "LED Headlights & Daytime Running Lights",
-      "Heated & Ventilated Front Seats",
-      "Alpine 9‑Speaker Audio System",
-      "Wireless Charging Pad"
-    ],
-    "optional_features": [
-      "19‑Speaker McIntosh Premium Audio",
-      "Obsidian Appearance Package",
-      "Trailer Tow Group",
-      "Panoramic Dual‑Pane Sunroof"
-    ],
-    "active": true
+  "code": "2026-wagoneer-s-launch-edition",
+  "model_code": "Wagoneer S",
+  "manufacturer_code": 24,
+  "trim_name": "Launch Edition",
+  "standard_features": [
+    "Dual-Motor All-Wheel Drive Electric Powertrain (Approx. 600 hp)",
+    "100+ kWh Battery Pack (Approx. 300+ mile range)",
+    "1-Speed Automatic EV Transmission",
+    "All-Wheel Drive Standard",
+    "20\" Premium Alloy Wheels",
+    "Unique Launch Edition Exterior Accents",
+    "Nappa Leather Seating",
+    "Heated & Ventilated Front Seats",
+    "Heated Rear Seats",
+    "19-Speaker McIntosh Premium Audio System",
+    "Head-Up Display",
+    "Panoramic Sunroof",
+    "12.3\" Digital Gauge Cluster",
+    "12.3\" Uconnect 5 Infotainment Touchscreen",
+    "Wireless Apple CarPlay & Android Auto",
+    "360° Surround View Camera",
+    "Adaptive Cruise Control with Stop & Go",
+    "Blind Spot Monitoring",
+    "Forward Collision Warning with Active Braking",
+    "Lane Keep Assist"
+  ],
+  "optional_features": [],
+  "active": true
   },
   {
     "code": "2026-wrangler-sport",
+    "model_code": "Wrangler",
     "manufacturer_code": 24,
-    "trim_name": "Wrangler Sport",
+    "trim_name": "Sport",
     "standard_features": [
       "3.6L Pentastar V6 Engine (285 hp, 260 lb‑ft)",
       "4x4 Standard",
@@ -20173,8 +20516,9 @@
   },
   {
     "code": "2026-wrangler-sport-s",
+    "model_code": "Wrangler",
     "manufacturer_code": 24,
-    "trim_name": "Wrangler Sport S",
+    "trim_name": "Sport S",
     "standard_features": [
       "3.6L Pentastar V6 Engine (285 hp, 260 lb‑ft)",
       "4x4 Standard",
@@ -20197,8 +20541,9 @@
   },
   {
     "code": "2026-wrangler-willys",
+    "model_code": "Wrangler",
     "manufacturer_code": 24,
-    "trim_name": "Wrangler Willys",
+    "trim_name": "Willys",
     "standard_features": [
       "3.6L Pentastar V6 Engine (285 hp, 260 lb‑ft)",
       "4x4 Standard with Selec‑Trac System",
@@ -20221,8 +20566,9 @@
   },
   {
     "code": "2026-wrangler-sahara",
+    "model_code": "Wrangler",
     "manufacturer_code": 24,
-    "trim_name": "Wrangler Sahara",
+    "trim_name": "Sahara",
     "standard_features": [
       "2.0L Turbocharged I4 Engine (270 hp, 295 lb‑ft)",
       "4x4 Standard",
@@ -20245,8 +20591,9 @@
   },
   {
     "code": "2026-wrangler-rubicon",
+    "model_code": "Wrangler",
     "manufacturer_code": 24,
-    "trim_name": "Wrangler Rubicon",
+    "trim_name": "Rubicon",
     "standard_features": [
       "2.0L Turbocharged I4 Engine (270 hp, 295 lb‑ft)",
       "Rock‑Trac 4x4 System",
@@ -20269,8 +20616,9 @@
   },
   {
     "code": "2026-wrangler-rubicon-x",
+    "model_code": "Wrangler",
     "manufacturer_code": 24,
-    "trim_name": "Wrangler Rubicon X",
+    "trim_name": "Rubicon X",
     "standard_features": [
       "2.0L Turbocharged I4 Engine (270 hp, 295 lb‑ft)",
       "Rock‑Trac 4x4 System",
@@ -20293,8 +20641,9 @@
   },
   {
     "code": "2026-wrangler-moab-392",
+    "model_code": "Wrangler",
     "manufacturer_code": 24,
-    "trim_name": "Wrangler Moab 392",
+    "trim_name": "Moab 392",
     "standard_features": [
       "6.4L HEMI V8 Engine (470 hp, 470 lb‑ft)",
       "4x4 Standard with 4.56 Axle Ratio",
@@ -20317,8 +20666,9 @@
   },
   {
     "code": "2026-amaris-base",
+    "model_code": "Amaris",
     "manufacturer_code": 25,
-    "trim_name": "Amaris",
+    "trim_name": "Standard",
     "standard_features": [
       "Dual Electric Motors Rear Wheel Drive (~708 hp, 676 lb‑ft)",
       "Extended‑Range Electric Vehicle (EREV) Powertrain with Turbocharged Gas Generator",
@@ -20344,8 +20694,9 @@
   },
   {
     "code": "2026-gyesera-luxury",
+    "model_code": "Gyesera",
     "manufacturer_code": 25,
-    "trim_name": "Gyesera Luxury",
+    "trim_name": "Luxury",
     "standard_features": [
       "Hybrid Extended‑Range Electric Vehicle (EREV) Powertrain (~566 hp, 546 lb‑ft torque)",
       "Advanced Hybrid Battery System (~80‑mile EV range with extended total range)",
@@ -20371,35 +20722,10 @@
     "active": true
   },
   {
-    "code": "2026-kaveya-limited",
-    "manufacturer_code": 25,
-    "trim_name": "Kaveya Limited",
-    "standard_features": [
-      "All‑Electric Dual/Triple Motor Powertrain (est. ~1,000+ hp combined)",
-      "All‑Wheel Drive Standard",
-      "Carbon Fiber Body with Butterfly Doors",
-      "120 kWh Battery Pack (est. 250+ mi range)",
-      "14.5\" Infotainment Touchscreen",
-      "12.3\" Digital Instrument Cluster",
-      "Wireless Apple CarPlay & Android Auto",
-      "Adaptive Cruise Control",
-      "Surround View Cameras",
-      "Premium Performance Brakes",
-      "Heated & Ventilated Luxury Seats",
-      "LED Matrix Headlights",
-      "Performance Suspension"
-    ],
-    "optional_features": [
-      "Carbon Ceramic Brakes",
-      "Premium Audio System",
-      "Panoramic Glass Roof"
-    ],
-    "active": false
-  },
-  {
     "code": "2026-invictus-limited",
+    "model_code": "Invictus",
     "manufacturer_code": 25,
-    "trim_name": "Invictus Limited",
+    "trim_name": "Limited",
     "standard_features": [
       "EREV (Extended Range Electric Vehicle) Powertrain (Turbocharged 1.5L + Dual Electric Motors, 536 hp)",
       "Up to ~350 mi total range with ~80 mi electric range",
@@ -20425,8 +20751,9 @@
   },
   {
     "code": "2026-kaveya-ev",
+    "model_code": "Kaveya",
     "manufacturer_code": 25,
-    "trim_name": "Kaveya EV",
+    "trim_name": "EV",
     "standard_features": [
       "All‑Electric Dual Motor Powertrain (Approx. 536 hp, RWD at Launch)",
       "Software‑Defined Vehicle Architecture (SDVA)",
@@ -20452,8 +20779,9 @@
   },
   {
     "code": "2026-revero-erev",
+    "model_code": "Revero",
     "manufacturer_code": 25,
-    "trim_name": "Revero EREV",
+    "trim_name": "EREV",
     "standard_features": [
       "Extended‑Range Electric Vehicle (EREV) Powertrain with 28 kWh Battery Pack",
       "1.5 L Turbocharged Generator Engine with Twin Electric Motors (536 hp, 550 lb‑ft)",
@@ -20482,8 +20810,9 @@
   },
   {
     "code": "2026-carnival-lx",
+    "model_code": "Carnival",
     "manufacturer_code": 26,
-    "trim_name": "Carnival LX",
+    "trim_name": "LX",
     "standard_features": [
       "3.5L V6 Engine with 8‑Speed Automatic Transmission",
       "Front‑Wheel Drive Standard",
@@ -20507,6 +20836,7 @@
   },
   {
     "code": "2026-carnival‑lxs",
+    "model_code": "Carnival",
     "manufacturer_code": 26,
     "trim_name": "Carnival LXS",
     "standard_features": [
@@ -20531,8 +20861,9 @@
   },
   {
     "code": "2026-carnival‑ex",
+    "model_code": "Carnival",
     "manufacturer_code": 26,
-    "trim_name": "Carnival EX",
+    "trim_name": "EX",
     "standard_features": [
       "3.5L V6 Engine with 8‑Speed Automatic Transmission",
       "Front‑Wheel Drive Standard",
@@ -20556,8 +20887,9 @@
   },
   {
     "code": "2026-carnival‑sx",
+    "model_code": "Carnival",
     "manufacturer_code": 26,
-    "trim_name": "Carnival SX",
+    "trim_name": "SX",
     "standard_features": [
       "3.5L V6 Engine with 8‑Speed Automatic Transmission",
       "Front‑Wheel Drive Standard",
@@ -20581,8 +20913,9 @@
   },
   {
     "code": "2026-carnival‑sx‑prestige",
+    "model_code": "Carnival",
     "manufacturer_code": 26,
-    "trim_name": "Carnival SX Prestige",
+    "trim_name": "SX Prestige",
     "standard_features": [
       "3.5L V6 Engine with 8‑Speed Automatic Transmission",
       "Front‑Wheel Drive Standard",
@@ -20605,8 +20938,9 @@
   },
   {
     "code": "2026-carnival-hev-lxs",
+    "model_code": "Carnival Hybrid",
     "manufacturer_code": 26,
-    "trim_name": "Carnival HEV LXS",
+    "trim_name": "LXS",
     "standard_features": [
       "Hybrid Powertrain with 1.6L Turbo‑Hybrid System",
       "Front‑Wheel Drive Standard",
@@ -20627,8 +20961,9 @@
   },
   {
     "code": "2026-carnival-hev-ex",
+    "model_code": "Carnival Hybrid",
     "manufacturer_code": 26,
-    "trim_name": "Carnival HEV EX",
+    "trim_name": "EX",
     "standard_features": [
       "Hybrid Powertrain with 1.6L Turbo‑Hybrid System",
       "Front‑Wheel Drive Standard",
@@ -20649,8 +20984,9 @@
   },
   {
     "code": "2026-carnival-hev-sx",
+    "model_code": "Carnival Hybrid",
     "manufacturer_code": 26,
-    "trim_name": "Carnival HEV SX",
+    "trim_name": "SX",
     "standard_features": [
       "Hybrid Powertrain with 1.6L Turbo‑Hybrid System",
       "Front‑Wheel Drive Standard",
@@ -20672,8 +21008,9 @@
   },
   {
     "code": "2026-carnival-hev-sx-prestige",
+    "model_code": "Carnival Hybrid",
     "manufacturer_code": 26,
-    "trim_name": "Carnival HEV SX Prestige",
+    "trim_name": "SX Prestige",
     "standard_features": [
       "Hybrid Powertrain with 1.6L Turbo‑Hybrid System",
       "Front‑Wheel Drive Standard",
@@ -20695,8 +21032,9 @@
   },
   {
     "code": "2026-ev6-light",
+    "model_code": "EV6",
     "manufacturer_code": 26,
-    "trim_name": "EV6 Light",
+    "trim_name": "Light",
     "standard_features": [
       "Electric Motor RWD (~167 hp)",
       "63 kWh Battery Pack (Standard Range)",
@@ -20718,8 +21056,9 @@
   },
   {
     "code": "2026-ev6-light-long-range",
+    "model_code": "EV6",
     "manufacturer_code": 26,
-    "trim_name": "EV6 Light Long Range",
+    "trim_name": "Light Long Range",
     "standard_features": [
       "Electric Motor RWD (~225 hp)",
       "84 kWh Long‑Range Battery Pack",
@@ -20742,8 +21081,9 @@
   },
   {
     "code": "2026-ev6-wind",
+    "model_code": "EV6",
     "manufacturer_code": 26,
-    "trim_name": "EV6 Wind",
+    "trim_name": "Wind",
     "standard_features": [
       "Electric Motor (RWD or AWD Dual Motor ~320 hp)",
       "84 kWh Long‑Range Battery Pack",
@@ -20763,8 +21103,9 @@
   },
   {
     "code": "2026-ev6-gt-line",
+    "model_code": "EV6",
     "manufacturer_code": 26,
-    "trim_name": "EV6 GT‑Line",
+    "trim_name": "GT‑Line",
     "standard_features": [
       "Electric Motor (RWD or AWD Dual Motor ~320 hp)",
       "84 kWh Long‑Range Battery Pack",
@@ -20784,8 +21125,9 @@
   },
   {
     "code": "2026-ev6-gt",
+    "model_code": "EV6",
     "manufacturer_code": 26,
-    "trim_name": "EV6 GT",
+    "trim_name": "GT",
     "standard_features": [
       "Dual Motor AWD Performance Powertrain (~601 hp)",
       "84 kWh Battery Pack",
@@ -20805,8 +21147,9 @@
   },
   {
     "code": "2026-ev9-light-sr",
+    "model_code": "EV9",
     "manufacturer_code": 26,
-    "trim_name": "EV9 Light SR",
+    "trim_name": "Light SR",
     "standard_features": [
       "Electric RWD Powertrain (~215 hp, 258 lb‑ft)",
       "76.1 kWh Battery Pack (Standard Range)",
@@ -20827,8 +21170,9 @@
   },
   {
     "code": "2026-ev9-light-lr",
+    "model_code": "EV9",
     "manufacturer_code": 26,
-    "trim_name": "EV9 Light Long Range",
+    "trim_name": "Light Long Range",
     "standard_features": [
       "Electric RWD Powertrain (~225 hp)",
       "99.8 kWh Long‑Range Battery Pack",
@@ -20851,8 +21195,9 @@
   },
   {
     "code": "2026-ev9-wind",
+    "model_code": "EV9",
     "manufacturer_code": 26,
-    "trim_name": "EV9 Wind",
+    "trim_name": "Wind",
     "standard_features": [
       "Dual‑Motor AWD Powertrain (~379 hp, 516 lb‑ft)",
       "99.8 kWh Battery Pack",
@@ -20874,8 +21219,9 @@
   },
   {
     "code": "2026-ev9-land",
+    "model_code": "EV9",
     "manufacturer_code": 26,
-    "trim_name": "EV9 Land",
+    "trim_name": "Land",
     "standard_features": [
       "Dual‑Motor AWD Powertrain (~379 hp, 516 lb‑ft)",
       "99.8 kWh Battery Pack",
@@ -20899,8 +21245,9 @@
   },
   {
     "code": "2026-ev9-gt-line",
+    "model_code": "EV9",
     "manufacturer_code": 26,
-    "trim_name": "EV9 GT‑Line",
+    "trim_name": "GT‑Line",
     "standard_features": [
       "Dual‑Motor AWD Powertrain (~379 hp, 516 lb‑ft)",
       "99.8 kWh Battery Pack",
@@ -20924,8 +21271,9 @@
   },
   {
     "code": "2026-k4-sedan-lx",
+    "model_code": "K4",
     "manufacturer_code": 26,
-    "trim_name": "K4 Sedan LX",
+    "trim_name": "LX",
     "standard_features": [
       "2.0L 4-Cylinder Engine (147 hp)",
       "Front-Wheel Drive",
@@ -20946,8 +21294,9 @@
   },
   {
     "code": "2026-k4-sedan-lxs",
+    "model_code": "K4",
     "manufacturer_code": 26,
-    "trim_name": "K4 Sedan LXS",
+    "trim_name": "LXS",
     "standard_features": [
       "2.0L 4-Cylinder Engine (147 hp)",
       "Front-Wheel Drive",
@@ -20969,8 +21318,9 @@
   },
   {
     "code": "2026-k4-sedan-ex",
+    "model_code": "K4",
     "manufacturer_code": 26,
-    "trim_name": "K4 Sedan EX",
+    "trim_name": "EX",
     "standard_features": [
       "1.6L Turbo 4-Cylinder Engine (201 hp)",
       "Front-Wheel Drive",
@@ -20994,8 +21344,9 @@
   },
   {
     "code": "2026-k4-sedan-gt-line",
+    "model_code": "K4",
     "manufacturer_code": 26,
-    "trim_name": "K4 Sedan GT-Line",
+    "trim_name": "GT-Line",
     "standard_features": [
       "1.6L Turbo 4-Cylinder Engine (201 hp)",
       "Front-Wheel Drive",
@@ -21021,8 +21372,9 @@
   },
   {
     "code": "2026-k4-sedan-gt-line-turbo",
+    "model_code": "K4",
     "manufacturer_code": 26,
-    "trim_name": "K4 Sedan GT-Line Turbo",
+    "trim_name": "GT-Line Turbo",
     "standard_features": [
       "1.6L Turbo 4-Cylinder Engine (201 hp)",
       "Front-Wheel Drive",
@@ -21049,8 +21401,9 @@
   },
   {
     "code": "2026-k4-hatch-ex",
+    "model_code": "K4",
     "manufacturer_code": 26,
-    "trim_name": "K4 Hatchback EX",
+    "trim_name": "EX",
     "standard_features": [
       "1.6L Turbo 4-Cylinder Engine (201 hp)",
       "Front-Wheel Drive",
@@ -21074,8 +21427,9 @@
   },
   {
     "code": "2026-k4-hatch-gt-line",
+    "model_code": "K4",
     "manufacturer_code": 26,
-    "trim_name": "K4 Hatchback GT-Line",
+    "trim_name": "GT-Line",
     "standard_features": [
       "1.6L Turbo 4-Cylinder Engine (201 hp)",
       "Front-Wheel Drive",
@@ -21101,8 +21455,9 @@
   },
   {
     "code": "2026-k4-hatch-gt-line-turbo",
+    "model_code": "K4",
     "manufacturer_code": 26,
-    "trim_name": "K4 Hatchback GT-Line Turbo",
+    "trim_name": "GT-Line Turbo",
     "standard_features": [
       "1.6L Turbo 4-Cylinder Engine (201 hp)",
       "Front-Wheel Drive",
@@ -21129,8 +21484,9 @@
   },
   {
     "code": "2026-k5-lx",
+    "model_code": "K5",
     "manufacturer_code": 26,
-    "trim_name": "K5 LX",
+    "trim_name": "LX",
     "standard_features": [
       "1.6L Turbo 4-Cylinder Engine (180 hp)",
       "Front-Wheel Drive",
@@ -21151,8 +21507,9 @@
   },
   {
     "code": "2026-k5-lxs",
+    "model_code": "K5",
     "manufacturer_code": 26,
-    "trim_name": "K5 LXS",
+    "trim_name": "LXS",
     "standard_features": [
       "1.6L Turbo 4-Cylinder Engine (180 hp)",
       "Front-Wheel Drive",
@@ -21174,8 +21531,9 @@
   },
   {
     "code": "2026-k5-gt-line",
+    "model_code": "K5",
     "manufacturer_code": 26,
-    "trim_name": "K5 GT-Line",
+    "trim_name": "GT-Line",
     "standard_features": [
       "1.6L Turbo 4-Cylinder Engine (180 hp)",
       "Front-Wheel Drive",
@@ -21201,8 +21559,9 @@
   },
   {
     "code": "2026-k5-ex",
+    "model_code": "K5",
     "manufacturer_code": 26,
-    "trim_name": "K5 EX",
+    "trim_name": "EX",
     "standard_features": [
       "1.6L Turbo 4-Cylinder Engine (180 hp)",
       "Front-Wheel Drive",
@@ -21226,8 +21585,9 @@
   },
   {
     "code": "2026-k5-gt",
+    "model_code": "K5",
     "manufacturer_code": 26,
-    "trim_name": "K5 GT",
+    "trim_name": "GT",
     "standard_features": [
       "2.5L Turbo 4-Cylinder Engine (290 hp)",
       "Front-Wheel Drive",
@@ -21255,8 +21615,9 @@
   },
   {
     "code": "2026-niro-lx",
+    "model_code": "Niro",
     "manufacturer_code": 26,
-    "trim_name": "Niro LX",
+    "trim_name": "LX",
     "standard_features": [
       "1.6L 4-Cylinder Engine + Electric Motor (139 hp combined)",
       "Front-Wheel Drive",
@@ -21278,8 +21639,9 @@
   },
   {
     "code": "2026-niro-lxs",
+    "model_code": "Niro",
     "manufacturer_code": 26,
-    "trim_name": "Niro LXS",
+    "trim_name": "LXS",
     "standard_features": [
       "1.6L 4-Cylinder Engine + Electric Motor (139 hp combined)",
       "Front-Wheel Drive",
@@ -21302,8 +21664,9 @@
   },
   {
     "code": "2026-niro-ex",
+    "model_code": "Niro",
     "manufacturer_code": 26,
-    "trim_name": "Niro EX",
+    "trim_name": "EX",
     "standard_features": [
       "1.6L 4-Cylinder Engine + Electric Motor (139 hp combined)",
       "Front-Wheel Drive",
@@ -21328,8 +21691,9 @@
   },
   {
     "code": "2026-niro-fe",
+    "model_code": "Niro",
     "manufacturer_code": 26,
-    "trim_name": "Niro FE",
+    "trim_name": "FE",
     "standard_features": [
       "1.6L 4-Cylinder Engine + Electric Motor (139 hp combined)",
       "Front-Wheel Drive",
@@ -21351,131 +21715,9 @@
   },
   {
     "code": "2026-niro-plug-in",
+    "model_code": "Niro",
     "manufacturer_code": 26,
-    "trim_name": "Niro Plug-In Hybrid EX",
-    "standard_features": [
-      "1.6L 4-Cylinder Engine + Electric Motor (201 hp combined)",
-      "Front-Wheel Drive",
-      "17\" Alloy Wheels",
-      "LED Headlights & Taillights",
-      "Navigation System",
-      "12.3\" Touchscreen Infotainment",
-      "Apple CarPlay & Android Auto",
-      "Leather Interior",
-      "Heated & Ventilated Front Seats",
-      "Power-Adjustable Driver & Passenger Seats",
-      "Forward Collision-Avoidance Assist",
-      "Lane Keeping Assist",
-      "Rearview Camera",
-      "Regenerative Braking System",
-      "Plug-In Charging Capability"
-    ],
-    "optional_features": [
-      "Sunroof / Moonroof",
-      "Premium Audio System"
-    ],
-    "active": true
-  },
-  {
-    "code": "2026-niro-lx",
-    "manufacturer_code": 26,
-    "trim_name": "Niro LX",
-    "standard_features": [
-      "1.6L 4-Cylinder Engine + Electric Motor (139 hp combined)",
-      "Front-Wheel Drive",
-      "16\" Alloy Wheels",
-      "LED Daytime Running Lights",
-      "8\" Touchscreen Infotainment",
-      "Apple CarPlay & Android Auto",
-      "Forward Collision-Avoidance Assist",
-      "Lane Keeping Assist",
-      "Rearview Camera",
-      "Regenerative Braking System",
-      "Cloth Interior"
-    ],
-    "optional_features": [
-      "Sunroof / Moonroof",
-      "Premium Audio System"
-    ],
-    "active": true
-  },
-  {
-    "code": "2026-niro-lxs",
-    "manufacturer_code": 26,
-    "trim_name": "Niro LXS",
-    "standard_features": [
-      "1.6L 4-Cylinder Engine + Electric Motor (139 hp combined)",
-      "Front-Wheel Drive",
-      "17\" Alloy Wheels",
-      "LED Headlights & Taillights",
-      "8\" Touchscreen Infotainment",
-      "Apple CarPlay & Android Auto",
-      "Heated Front Seats",
-      "Power-Adjustable Driver Seat",
-      "Forward Collision-Avoidance Assist",
-      "Lane Keeping Assist",
-      "Rearview Camera",
-      "Regenerative Braking System"
-    ],
-    "optional_features": [
-      "Sunroof / Moonroof",
-      "Premium Audio System"
-    ],
-    "active": true
-  },
-  {
-    "code": "2026-niro-ex",
-    "manufacturer_code": 26,
-    "trim_name": "Niro EX",
-    "standard_features": [
-      "1.6L 4-Cylinder Engine + Electric Motor (139 hp combined)",
-      "Front-Wheel Drive",
-      "18\" Alloy Wheels",
-      "LED Headlights & Taillights",
-      "Navigation System",
-      "12.3\" Touchscreen Infotainment",
-      "Apple CarPlay & Android Auto",
-      "Leather Interior",
-      "Heated & Ventilated Front Seats",
-      "Power-Adjustable Driver & Passenger Seats",
-      "Forward Collision-Avoidance Assist",
-      "Lane Keeping Assist",
-      "Rearview Camera",
-      "Regenerative Braking System"
-    ],
-    "optional_features": [
-      "Sunroof / Moonroof",
-      "Premium Audio System"
-    ],
-    "active": true
-  },
-  {
-    "code": "2026-niro-fe",
-    "manufacturer_code": 26,
-    "trim_name": "Niro FE",
-    "standard_features": [
-      "1.6L 4-Cylinder Engine + Electric Motor (139 hp combined)",
-      "Front-Wheel Drive",
-      "16\" Aero Wheels",
-      "LED Daytime Running Lights",
-      "8\" Touchscreen Infotainment",
-      "Apple CarPlay & Android Auto",
-      "Cloth Interior",
-      "Forward Collision-Avoidance Assist",
-      "Lane Keeping Assist",
-      "Rearview Camera",
-      "Regenerative Braking System"
-    ],
-    "optional_features": [
-      "Sunroof / Moonroof",
-      "Premium Audio System"
-    ],
-    "active": true
-  },
-  {
-    "code": "2026-niro-plug-in-ex",
-    "manufacturer_code": 26,
-    "trim_name": "Niro Plug-In Hybrid EX",
+    "trim_name": "Plug-In Hybrid EX",
     "standard_features": [
       "1.6L 4-Cylinder Engine + Electric Motor (201 hp combined)",
       "Front-Wheel Drive",
@@ -21501,8 +21743,9 @@
   },
   {
     "code": "2026-niro-ev-lx",
+    "model_code": "Niro EV",
     "manufacturer_code": 26,
-    "trim_name": "Niro EV LX",
+    "trim_name": "LX",
     "standard_features": [
       "Electric Motor (201 hp, FWD)",
       "64 kWh Battery Pack",
@@ -21524,8 +21767,9 @@
   },
   {
     "code": "2026-niro-ev-ex",
+    "model_code": "Niro EV",
     "manufacturer_code": 26,
-    "trim_name": "Niro EV EX",
+    "trim_name": "EX",
     "standard_features": [
       "Electric Motor (201 hp, FWD)",
       "64 kWh Battery Pack",
@@ -21551,8 +21795,9 @@
   },
   {
     "code": "2026-niro-ev-gt-line",
+    "model_code": "Niro EV",
     "manufacturer_code": 26,
-    "trim_name": "Niro EV GT-Line",
+    "trim_name": "GT-Line",
     "standard_features": [
       "Electric Motor (201 hp, AWD optional)",
       "64 kWh Battery Pack",
@@ -21578,8 +21823,9 @@
   },
   {
     "code": "2026-seltos-lx",
+    "model_code": "Seltos",
     "manufacturer_code": 26,
-    "trim_name": "Seltos LX",
+    "trim_name": "LX",
     "standard_features": [
       "2.0L 4-Cylinder Engine (146 hp)",
       "Front-Wheel Drive",
@@ -21601,8 +21847,9 @@
   },
   {
     "code": "2026-seltos-lx-plus",
+    "model_code": "Seltos",
     "manufacturer_code": 26,
-    "trim_name": "Seltos LX Plus",
+    "trim_name": "LX Plus",
     "standard_features": [
       "2.0L 4-Cylinder Engine (146 hp)",
       "Front-Wheel Drive",
@@ -21626,8 +21873,9 @@
   },
   {
     "code": "2026-seltos-s",
+    "model_code": "Seltos",
     "manufacturer_code": 26,
-    "trim_name": "Seltos S",
+    "trim_name": "S",
     "standard_features": [
       "1.6L Turbo 4-Cylinder Engine (175 hp)",
       "Front-Wheel Drive",
@@ -21652,8 +21900,9 @@
   },
   {
     "code": "2026-seltos-ex",
+    "model_code": "Seltos",
     "manufacturer_code": 26,
-    "trim_name": "Seltos EX",
+    "trim_name": "EX",
     "standard_features": [
       "1.6L Turbo 4-Cylinder Engine (175 hp)",
       "Front-Wheel Drive",
@@ -21678,8 +21927,9 @@
   },
   {
     "code": "2026-seltos-sx",
+    "model_code": "Seltos",
     "manufacturer_code": 26,
-    "trim_name": "Seltos SX",
+    "trim_name": "SX",
     "standard_features": [
       "1.6L Turbo 4-Cylinder Engine (175 hp)",
       "All-Wheel Drive Standard",
@@ -21703,8 +21953,9 @@
   },
   {
     "code": "2026-sorento-lx",
+    "model_code": "Sorento",
     "manufacturer_code": 26,
-    "trim_name": "Sorento LX",
+    "trim_name": "LX",
     "standard_features": [
       "2.5L 4-Cylinder Engine (191 hp)",
       "Front-Wheel Drive",
@@ -21726,8 +21977,9 @@
   },
   {
     "code": "2026-sorento-lx-premium",
+    "model_code": "Sorento",
     "manufacturer_code": 26,
-    "trim_name": "Sorento LX Premium",
+    "trim_name": "LX Premium",
     "standard_features": [
       "2.5L 4-Cylinder Engine (191 hp)",
       "Front-Wheel Drive",
@@ -21751,8 +22003,9 @@
   },
   {
     "code": "2026-sorento-ex",
+    "model_code": "Sorento",
     "manufacturer_code": 26,
-    "trim_name": "Sorento EX",
+    "trim_name": "EX",
     "standard_features": [
       "2.5L 4-Cylinder Engine (191 hp)",
       "Front-Wheel Drive",
@@ -21777,8 +22030,9 @@
   },
   {
     "code": "2026-sorento-sx",
+    "model_code": "Sorento",
     "manufacturer_code": 26,
-    "trim_name": "Sorento SX",
+    "trim_name": "SX",
     "standard_features": [
       "2.5L 4-Cylinder Engine (191 hp)",
       "All-Wheel Drive Standard",
@@ -21802,8 +22056,9 @@
   },
   {
     "code": "2026-sorento-phev-ex",
+    "model_code": "Sorento Plug-in Hybrid",
     "manufacturer_code": 26,
-    "trim_name": "Sorento Plug-in Hybrid EX",
+    "trim_name": "EX",
     "standard_features": [
       "1.6L Turbo 4-Cylinder + Electric Motor (261 hp combined)",
       "Front-Wheel Drive",
@@ -21830,8 +22085,9 @@
   },
   {
     "code": "2026-sorento-phev-sx",
+    "model_code": "Sorento Plug-in Hybrid",
     "manufacturer_code": 26,
-    "trim_name": "Sorento Plug-in Hybrid SX",
+    "trim_name": "SX",
     "standard_features": [
       "1.6L Turbo 4-Cylinder + Electric Motor (261 hp combined)",
       "All-Wheel Drive Standard",
@@ -21857,8 +22113,9 @@
   },
   {
     "code": "2026-sorento-hybrid-ex",
+    "model_code": "Sorento Hybrid",
     "manufacturer_code": 26,
-    "trim_name": "Sorento Hybrid EX",
+    "trim_name": "EX",
     "standard_features": [
       "1.6L Turbo 4-Cylinder + Electric Motor (227 hp combined)",
       "Front-Wheel Drive",
@@ -21884,8 +22141,9 @@
   },
   {
     "code": "2026-sorento-hybrid-sx",
+    "model_code": "Sorento Hybrid",
     "manufacturer_code": 26,
-    "trim_name": "Sorento Hybrid SX",
+    "trim_name": "SX",
     "standard_features": [
       "1.6L Turbo 4-Cylinder + Electric Motor (227 hp combined)",
       "All-Wheel Drive Standard",
@@ -21910,8 +22168,9 @@
   },
   {
     "code": "2026-soul-lx",
+    "model_code": "Soul",
     "manufacturer_code": 26,
-    "trim_name": "Soul LX",
+    "trim_name": "LX",
     "standard_features": [
       "2.0L 4-Cylinder Engine (147 hp)",
       "Front-Wheel Drive",
@@ -21932,8 +22191,9 @@
   },
   {
     "code": "2026-soul-lx-plus",
+    "model_code": "Soul",
     "manufacturer_code": 26,
-    "trim_name": "Soul LX Plus",
+    "trim_name": "LX Plus",
     "standard_features": [
       "2.0L 4-Cylinder Engine (147 hp)",
       "Front-Wheel Drive",
@@ -21956,8 +22216,9 @@
   },
   {
     "code": "2026-soul-ex",
+    "model_code": "Soul",
     "manufacturer_code": 26,
-    "trim_name": "Soul EX",
+    "trim_name": "EX",
     "standard_features": [
       "2.0L 4-Cylinder Engine (147 hp)",
       "Front-Wheel Drive",
@@ -21981,8 +22242,9 @@
   },
   {
     "code": "2026-soul-gt-line",
+    "model_code": "Soul",
     "manufacturer_code": 26,
-    "trim_name": "Soul GT-Line",
+    "trim_name": "GT-Line",
     "standard_features": [
       "1.6L Turbo 4-Cylinder Engine (201 hp)",
       "Front-Wheel Drive",
@@ -22007,8 +22269,9 @@
   },
   {
     "code": "2026-soul-ev-lx",
+    "model_code": "Soul EV",
     "manufacturer_code": 26,
-    "trim_name": "Soul EV LX",
+    "trim_name": "LX",
     "standard_features": [
       "Electric Motor (201 hp, FWD)",
       "64 kWh Battery Pack",
@@ -22030,8 +22293,9 @@
   },
   {
     "code": "2026-soul-ev-ex",
+    "model_code": "Soul EV",
     "manufacturer_code": 26,
-    "trim_name": "Soul EV EX",
+    "trim_name": "EX",
     "standard_features": [
       "Electric Motor (201 hp, FWD)",
       "64 kWh Battery Pack",
@@ -22057,8 +22321,9 @@
   },
   {
     "code": "2026-sportage-lx",
+    "model_code": "Sportage",
     "manufacturer_code": 26,
-    "trim_name": "Sportage LX",
+    "trim_name": "LX",
     "standard_features": [
       "2.5L 4-Cylinder Engine (187 hp)",
       "Front-Wheel Drive",
@@ -22080,8 +22345,9 @@
   },
   {
     "code": "2026-sportage-ex",
+    "model_code": "Sportage",
     "manufacturer_code": 26,
-    "trim_name": "Sportage EX",
+    "trim_name": "EX",
     "standard_features": [
       "2.5L 4-Cylinder Engine (187 hp)",
       "Front-Wheel Drive",
@@ -22106,8 +22372,9 @@
   },
   {
     "code": "2026-sportage-sx",
+    "model_code": "Sportage",
     "manufacturer_code": 26,
-    "trim_name": "Sportage SX",
+    "trim_name": "SX",
     "standard_features": [
       "2.5L 4-Cylinder Engine (187 hp)",
       "All-Wheel Drive Standard",
@@ -22131,8 +22398,9 @@
   },
   {
     "code": "2026-sportage-hybrid-ex",
+    "model_code": "Sportage Hybrid",
     "manufacturer_code": 26,
-    "trim_name": "Sportage Hybrid EX",
+    "trim_name": "EX",
     "standard_features": [
       "1.6L Turbo 4-Cylinder + Electric Motor (226 hp combined)",
       "Front-Wheel Drive",
@@ -22158,8 +22426,9 @@
   },
   {
     "code": "2026-sportage-hybrid-sx",
+    "model_code": "Sportage Hybrid",
     "manufacturer_code": 26,
-    "trim_name": "Sportage Hybrid SX",
+    "trim_name": "SX",
     "standard_features": [
       "1.6L Turbo 4-Cylinder + Electric Motor (226 hp combined)",
       "All-Wheel Drive Standard",
@@ -22184,8 +22453,9 @@
   },
   {
     "code": "2026-sportage-phev-ex",
+    "model_code": "Sportage Plug-in Hybrid",
     "manufacturer_code": 26,
-    "trim_name": "Sportage Plug-in Hybrid EX",
+    "trim_name": "EX",
     "standard_features": [
       "1.6L Turbo 4-Cylinder + Electric Motor (261 hp combined)",
       "Front-Wheel Drive",
@@ -22212,8 +22482,9 @@
   },
   {
     "code": "2026-sportage-phev-sx",
+    "model_code": "Sportage Plug-in Hybrid",
     "manufacturer_code": 26,
-    "trim_name": "Sportage Plug-in Hybrid SX",
+    "trim_name": "SX",
     "standard_features": [
       "1.6L Turbo 4-Cylinder + Electric Motor (261 hp combined)",
       "All-Wheel Drive Standard",
@@ -22239,8 +22510,9 @@
   },
   {
     "code": "2026-telluride-lx",
+    "model_code": "Telluride",
     "manufacturer_code": 26,
-    "trim_name": "Telluride LX",
+    "trim_name": "LX",
     "standard_features": [
       "3.8L V6 Engine (291 hp)",
       "Front-Wheel Drive",
@@ -22263,8 +22535,9 @@
   },
   {
     "code": "2026-telluride-ex",
+    "model_code": "Telluride",
     "manufacturer_code": 26,
-    "trim_name": "Telluride EX",
+    "trim_name": "EX",
     "standard_features": [
       "3.8L V6 Engine (291 hp)",
       "Front-Wheel Drive",
@@ -22290,8 +22563,9 @@
   },
   {
     "code": "2026-telluride-sx",
+    "model_code": "Telluride",
     "manufacturer_code": 26,
-    "trim_name": "Telluride SX",
+    "trim_name": "SX",
     "standard_features": [
       "3.8L V6 Engine (291 hp)",
       "All-Wheel Drive Standard",
@@ -22317,8 +22591,9 @@
   },
   {
     "code": "2026-telluride-sx-premium",
+    "model_code": "Telluride",
     "manufacturer_code": 26,
-    "trim_name": "Telluride SX Premium",
+    "trim_name": "SX Premium",
     "standard_features": [
       "3.8L V6 Engine (291 hp)",
       "All-Wheel Drive Standard",
@@ -22344,8 +22619,9 @@
   },
   {
     "code": "2026-cc850-base",
+    "model_code": "CC850",
     "manufacturer_code": 27,
-    "trim_name": "CC850 Base",
+    "trim_name": "Base",
     "standard_features": [
       "5.0L V8 Engine (700 hp)",
       "Rear-Wheel Drive",
@@ -22372,8 +22648,9 @@
   },
   {
     "code": "2026-cc850-performance",
+    "model_code": "CC850",
     "manufacturer_code": 27,
-    "trim_name": "CC850 Performance",
+    "trim_name": "Performance",
     "standard_features": [
       "5.0L V8 Engine (750 hp)",
       "All-Wheel Drive Standard",
@@ -22402,8 +22679,9 @@
   },
   {
     "code": "2026-gemera-base",
+    "model_code": "Gemera",
     "manufacturer_code": 27,
-    "trim_name": "Gemera Base",
+    "trim_name": "Base",
     "standard_features": [
       "3.0L Twin-Turbocharged Inline-3 + Electric Motors (1,700 hp combined)",
       "All-Wheel Drive",
@@ -22432,8 +22710,9 @@
   },
   {
     "code": "2026-gemera-performance",
+    "model_code": "Gemera",
     "manufacturer_code": 27,
-    "trim_name": "Gemera Performance",
+    "trim_name": "Performance",
     "standard_features": [
       "3.0L Twin-Turbocharged Inline-3 + Electric Motors (1,700 hp combined)",
       "All-Wheel Drive",
@@ -22463,9 +22742,10 @@
     "active": true
   },
   {
-    "code": "2026-jesko-absolut-base",
+    "code": "2026-jesko-absolut-standard",
+    "model_code": "Jesko Absolut",
     "manufacturer_code": 27,
-    "trim_name": "Jesko Absolut",
+    "trim_name": "Standard",
     "standard_features": [
       "5.0L Twin-Turbo V8 Engine (1,600 hp with E85)",
       "All-Wheel Drive",
@@ -22493,9 +22773,10 @@
     "active": true
   },
   {
-    "code": "2026-jesko-attack-base",
+    "code": "2026-jesko-attack-standard",
+    "model_code": "Jesko Attack",
     "manufacturer_code": 27,
-    "trim_name": "Jesko Attack",
+    "trim_name": "Standard",
     "standard_features": [
       "5.0L Twin-Turbo V8 Engine (1,600 hp with E85)",
       "All-Wheel Drive",
@@ -22524,9 +22805,10 @@
     "active": true
   },
   {
-    "code": "2026-countach-lp800-4-base",
+    "code": "2026-countach-lp800-4-standard",
+    "model_code": "Countach LP 800-4",
     "manufacturer_code": 28,
-    "trim_name": "Countach LP 800-4",
+    "trim_name": "Standard",
     "standard_features": [
       "6.5L V12 Engine (814 hp)",
       "All-Wheel Drive",
@@ -22555,9 +22837,10 @@
     "active": true
   },
   {
-    "code": "2026-fenomeno-base",
+    "code": "2026-fenomeno-standard",
+    "model_code": "Fenomeno",
     "manufacturer_code": 28,
-    "trim_name": "Fenomeno",
+    "trim_name": "Standard",
     "standard_features": [
       "6.3L V12 Engine (810 hp)",
       "Rear-Wheel Drive",
@@ -22586,9 +22869,10 @@
     "active": true
   },
   {
-    "code": "2026-huracan-base",
+    "code": "2026-huracan-evo-rwd",
+    "model_code": "Huracan",
     "manufacturer_code": 28,
-    "trim_name": "Huracan EVO RWD",
+    "trim_name": "EVO RWD",
     "standard_features": [
       "5.2L V10 Engine (640 hp)",
       "Rear-Wheel Drive",
@@ -22617,9 +22901,10 @@
     "active": true
   },
   {
-    "code": "2026-huracan-awd",
+    "code": "2026-huracan-evo-awd",
+    "model_code": "Huracan",
     "manufacturer_code": 28,
-    "trim_name": "Huracan EVO AWD",
+    "trim_name": "EVO AWD",
     "standard_features": [
       "5.2L V10 Engine (640 hp)",
       "All-Wheel Drive",
@@ -22648,9 +22933,10 @@
     "active": true
   },
   {
-    "code": "2026-revuelto-base",
+    "code": "2026-revuelto-standard",
+    "model_code": "Revuelto",
     "manufacturer_code": 28,
-    "trim_name": "Revuelto",
+    "trim_name": "Standard",
     "standard_features": [
       "6.5L V12 Hybrid Engine (950 hp combined)",
       "All-Wheel Drive",
@@ -22679,9 +22965,10 @@
     "active": true
   },
   {
-    "code": "2026-sian-fkp37-base",
+    "code": "2026-sian-fkp37-standard",
+    "model_code": "Sian FKP 37",
     "manufacturer_code": 28,
-    "trim_name": "Sian FKP 37",
+    "trim_name": "Standard",
     "standard_features": [
       "6.5L V12 Hybrid Engine (819 hp combined)",
       "Rear-Wheel Drive",
@@ -22710,9 +22997,10 @@
     "active": true
   },
   {
-    "code": "2026-sian-roadster-base",
+    "code": "2026-sian-roadster-standard",
+    "model_code": "Sian Roadster",
     "manufacturer_code": 28,
-    "trim_name": "Sian Roadster",
+    "trim_name": "Standard",
     "standard_features": [
       "6.5L V12 Hybrid Engine (819 hp combined)",
       "Rear-Wheel Drive",
@@ -22742,8 +23030,9 @@
   },
   {
     "code": "2026-temerario-base",
+    "model_code": "Temerario",
     "manufacturer_code": 28,
-    "trim_name": "Temerario",
+    "trim_name": "Standard",
     "standard_features": [
       "6.5L V12 Engine (850 hp)",
       "All-Wheel Drive",
@@ -22772,9 +23061,10 @@
     "active": true
   },
   {
-    "code": "2026-urus-base",
+    "code": "2026-urus-standard",
+    "model_code": "Urus",
     "manufacturer_code": 28,
-    "trim_name": "Urus",
+    "trim_name": "Standard",
     "standard_features": [
       "4.0L Twin-Turbo V8 Engine (650 hp)",
       "All-Wheel Drive",
@@ -22803,8 +23093,9 @@
   },
   {
     "code": "2026-defender-base",
+    "model_code": "Defender",
     "manufacturer_code": 29,
-    "trim_name": "Defender",
+    "trim_name": "Base",
     "standard_features": [
       "3.0L Inline-6 Mild Hybrid Engine (395 hp)",
       "All-Wheel Drive",
@@ -22833,8 +23124,9 @@
   },
   {
     "code": "2026-defender-x",
+    "model_code": "Defender",
     "manufacturer_code": 29,
-    "trim_name": "Defender X",
+    "trim_name": "X",
     "standard_features": [
       "3.0L Inline-6 Mild Hybrid Engine (395 hp)",
       "All-Wheel Drive",
@@ -22864,8 +23156,9 @@
   },
   {
     "code": "2026-defender-se",
+    "model_code": "Defender",
     "manufacturer_code": 29,
-    "trim_name": "Defender SE",
+    "trim_name": "SE",
     "standard_features": [
       "3.0L Inline-6 Mild Hybrid Engine (395 hp)",
       "All-Wheel Drive",
@@ -22895,8 +23188,9 @@
   },
   {
     "code": "2026-discovery-s",
+    "model_code": "Discovery",
     "manufacturer_code": 29,
-    "trim_name": "Discovery S",
+    "trim_name": "S",
     "standard_features": [
       "3.0L Inline-6 Mild Hybrid Engine (395 hp)",
       "All-Wheel Drive",
@@ -22925,8 +23219,9 @@
   },
   {
     "code": "2026-discovery-se",
+    "model_code": "Discovery",
     "manufacturer_code": 29,
-    "trim_name": "Discovery SE",
+    "trim_name": "SE",
     "standard_features": [
       "3.0L Inline-6 Mild Hybrid Engine (395 hp)",
       "All-Wheel Drive",
@@ -22956,8 +23251,9 @@
   },
   {
     "code": "2026-discovery-hse",
+    "model_code": "Discovery",
     "manufacturer_code": 29,
-    "trim_name": "Discovery HSE",
+    "trim_name": "HSE",
     "standard_features": [
       "3.0L Inline-6 Mild Hybrid Engine (395 hp)",
       "All-Wheel Drive",
@@ -22987,8 +23283,9 @@
   },
   {
     "code": "2026-range-rover-se",
+    "model_code": "Range Rover",
     "manufacturer_code": 29,
-    "trim_name": "Range Rover SE",
+    "trim_name": "SE",
     "standard_features": [
       "3.0L Inline-6 Mild Hybrid Engine (395 hp)",
       "All-Wheel Drive",
@@ -23018,8 +23315,9 @@
   },
   {
     "code": "2026-range-rover-hse",
+    "model_code": "Range Rover",
     "manufacturer_code": 29,
-    "trim_name": "Range Rover HSE",
+    "trim_name": "HSE",
     "standard_features": [
       "3.0L Inline-6 Mild Hybrid Engine (395 hp)",
       "All-Wheel Drive",
@@ -23050,8 +23348,9 @@
   },
   {
     "code": "2026-range-rover-autobiography",
+    "model_code": "Range Rover",
     "manufacturer_code": 29,
-    "trim_name": "Range Rover Autobiography",
+    "trim_name": "Autobiography",
     "standard_features": [
       "4.4L V8 Mild Hybrid Engine (523 hp)",
       "All-Wheel Drive",
@@ -23082,8 +23381,9 @@
   },
   {
     "code": "2026-range-rover-sentinel",
+    "model_code": "Range Rover",
     "manufacturer_code": 29,
-    "trim_name": "Range Rover Sentinel",
+    "trim_name": "Sentinel",
     "standard_features": [
       "3.0L Inline-6 Mild Hybrid Engine (395 hp) Armored",
       "All-Wheel Drive",
@@ -23112,8 +23412,9 @@
   },
   {
     "code": "2026-es-350",
+    "model_code": "ES",
     "manufacturer_code": 30,
-    "trim_name": "ES 350",
+    "trim_name": "350",
     "standard_features": [
       "3.5L V6 Engine (302 hp)",
       "Front-Wheel Drive",
@@ -23140,8 +23441,9 @@
   },
   {
     "code": "2026-es-250",
+    "model_code": "ES",
     "manufacturer_code": 30,
-    "trim_name": "ES 250",
+    "trim_name": "250",
     "standard_features": [
       "2.5L Inline-4 Engine (203 hp)",
       "Front-Wheel Drive",
@@ -23167,8 +23469,9 @@
   },
   {
     "code": "2026-es-300h",
+    "model_code": "ES",
     "manufacturer_code": 30,
-    "trim_name": "ES 300h Hybrid",
+    "trim_name": "300h Hybrid",
     "standard_features": [
       "2.5L Inline-4 Hybrid Engine (215 hp combined)",
       "Front-Wheel Drive",
@@ -23196,8 +23499,9 @@
   },
   {
     "code": "2026-gx-460",
+    "model_code": "GX",
     "manufacturer_code": 30,
-    "trim_name": "GX 460",
+    "trim_name": "460",
     "standard_features": [
       "4.6L V8 Engine (301 hp)",
       "Full-Time Four-Wheel Drive",
@@ -23227,8 +23531,9 @@
   },
   {
     "code": "2026-gx-460-premium",
+    "model_code": "GX",
     "manufacturer_code": 30,
-    "trim_name": "GX 460 Premium",
+    "trim_name": "460 Premium",
     "standard_features": [
       "4.6L V8 Engine (301 hp)",
       "Full-Time Four-Wheel Drive",
@@ -23259,8 +23564,9 @@
   },
   {
     "code": "2026-is-300",
+    "model_code": "IS",
     "manufacturer_code": 30,
-    "trim_name": "IS 300",
+    "trim_name": "300",
     "standard_features": [
       "2.0L Turbo Inline-4 Engine (241 hp)",
       "Rear-Wheel Drive (AWD optional)",
@@ -23288,8 +23594,9 @@
   },
   {
     "code": "2026-is-500",
+    "model_code": "IS",
     "manufacturer_code": 30,
-    "trim_name": "IS 500",
+    "trim_name": "500",
     "standard_features": [
       "5.0L V8 Engine (472 hp)",
       "Rear-Wheel Drive (AWD optional)",
@@ -23318,8 +23625,9 @@
   },
   {
     "code": "2026-lc-500",
+    "model_code": "LC",
     "manufacturer_code": 30,
-    "trim_name": "LC 500",
+    "trim_name": "500",
     "standard_features": [
       "5.0L V8 Engine (471 hp)",
       "Rear-Wheel Drive",
@@ -23348,8 +23656,9 @@
   },
   {
     "code": "2026-lc-500h",
+    "model_code": "LC",
     "manufacturer_code": 30,
-    "trim_name": "LC 500h Hybrid",
+    "trim_name": "500h Hybrid",
     "standard_features": [
       "3.5L V6 + Electric Motor Hybrid Engine (354 hp combined)",
       "Rear-Wheel Drive",
@@ -23379,8 +23688,9 @@
   },
   {
     "code": "2026-ls-500",
+    "model_code": "LS",
     "manufacturer_code": 30,
-    "trim_name": "LS 500",
+    "trim_name": "500",
     "standard_features": [
       "3.5L Twin-Turbo V6 Engine (416 hp)",
       "Rear-Wheel Drive (AWD optional)",
@@ -23410,8 +23720,9 @@
   },
   {
     "code": "2026-ls-500h",
+    "model_code": "LS",
     "manufacturer_code": 30,
-    "trim_name": "LS 500h Hybrid",
+    "trim_name": "500h Hybrid",
     "standard_features": [
       "3.5L V6 + Electric Motor Hybrid Engine (354 hp combined)",
       "Rear-Wheel Drive (AWD optional)",
@@ -23442,8 +23753,9 @@
   },
   {
     "code": "2026-ls-f-sport",
+    "model_code": "LS",
     "manufacturer_code": 30,
-    "trim_name": "LS F Sport",
+    "trim_name": "F Sport",
     "standard_features": [
       "3.5L Twin-Turbo V6 Engine (416 hp)",
       "Rear-Wheel Drive (AWD optional)",
@@ -23473,8 +23785,9 @@
   },
   {
     "code": "2026-lx-600",
+    "model_code": "LX",
     "manufacturer_code": 30,
-    "trim_name": "LX 600",
+    "trim_name": "600",
     "standard_features": [
       "3.5L Twin-Turbo V6 Engine (409 hp)",
       "Full-Time Four-Wheel Drive",
@@ -23508,8 +23821,9 @@
   },
   {
     "code": "2026-lx-600-f-sport",
+    "model_code": "LX",
     "manufacturer_code": 30,
-    "trim_name": "LX 600 F Sport",
+    "trim_name": "600 F Sport",
     "standard_features": [
       "3.5L Twin-Turbo V6 Engine (409 hp)",
       "Full-Time Four-Wheel Drive",
@@ -23543,8 +23857,9 @@
   },
   {
     "code": "2026-nx-250",
+    "model_code": "NX",
     "manufacturer_code": 30,
-    "trim_name": "NX 250",
+    "trim_name": "250",
     "standard_features": [
       "2.5L Inline-4 Engine (203 hp)",
       "Front-Wheel Drive (AWD optional)",
@@ -23571,8 +23886,9 @@
   },
   {
     "code": "2026-nx-350",
+    "model_code": "NX",
     "manufacturer_code": 30,
-    "trim_name": "NX 350",
+    "trim_name": "350",
     "standard_features": [
       "2.4L Turbo Inline-4 Engine (275 hp)",
       "Front-Wheel Drive (AWD optional)",
@@ -23600,8 +23916,9 @@
   },
   {
     "code": "2026-nx-350h",
+    "model_code": "NX",
     "manufacturer_code": 30,
-    "trim_name": "NX 350h Hybrid",
+    "trim_name": "350h Hybrid",
     "standard_features": [
       "2.5L Inline-4 + Electric Motor Hybrid Engine (240 hp combined)",
       "Front-Wheel Drive (AWD optional)",
@@ -23630,8 +23947,9 @@
   },
   {
     "code": "2026-nx-450h-plus",
+    "model_code": "NX",
     "manufacturer_code": 30,
-    "trim_name": "NX 450h+ Plug-in Hybrid",
+    "trim_name": "450h+ Plug-in Hybrid",
     "standard_features": [
       "2.5L Inline-4 + Electric Motor Plug-in Hybrid Engine (302 hp combined)",
       "All-Wheel Drive",
@@ -23660,8 +23978,9 @@
   },
   {
     "code": "2026-rx-350",
+    "model_code": "RX",
     "manufacturer_code": 30,
-    "trim_name": "RX 350",
+    "trim_name": "350",
     "standard_features": [
       "2.4L Turbo Inline-4 Engine (275 hp)",
       "Front-Wheel Drive (AWD optional)",
@@ -23690,8 +24009,9 @@
   },
   {
     "code": "2026-rx-350h",
+    "model_code": "RX",
     "manufacturer_code": 30,
-    "trim_name": "RX 350h Hybrid",
+    "trim_name": "350h Hybrid",
     "standard_features": [
       "2.5L Inline-4 + Electric Motor Hybrid Engine (246 hp combined)",
       "Front-Wheel Drive (AWD optional)",
@@ -23721,8 +24041,9 @@
   },
   {
     "code": "2026-rx-500h-f-sport",
+    "model_code": "RX",
     "manufacturer_code": 30,
-    "trim_name": "RX 500h F Sport Performance",
+    "trim_name": "500h F Sport Performance",
     "standard_features": [
       "2.4L Turbo Inline-4 + Electric Motor Hybrid Engine (366 hp combined)",
       "All-Wheel Drive",
@@ -23753,8 +24074,9 @@
   },
   {
     "code": "2026-rz-450e",
+    "model_code": "RZ",
     "manufacturer_code": 30,
-    "trim_name": "RZ 450e",
+    "trim_name": "450e",
     "standard_features": [
       "Electric Motor (308 hp, AWD standard)",
       "Battery Pack (71.4 kWh usable)",
@@ -23785,8 +24107,9 @@
   },
   {
     "code": "2026-rz-450e-f-sport",
+    "model_code": "RZ",
     "manufacturer_code": 30,
-    "trim_name": "RZ 450e F Sport",
+    "trim_name": "450e F Sport",
     "standard_features": [
       "Electric Motor (308 hp, AWD standard)",
       "Battery Pack (71.4 kWh usable)",
@@ -23817,8 +24140,9 @@
   },
   {
     "code": "2026-tx-350",
+    "model_code": "TX",
     "manufacturer_code": 30,
-    "trim_name": "TX 350",
+    "trim_name": "350",
     "standard_features": [
       "2.4L Turbo Inline-4 Engine (275 hp)",
       "Front-Wheel Drive (AWD optional)",
@@ -23847,8 +24171,9 @@
   },
   {
     "code": "2026-tx-500h-f-sport",
+    "model_code": "TX",
     "manufacturer_code": 30,
-    "trim_name": "TX 500h F Sport Performance",
+    "trim_name": "500h F Sport Performance",
     "standard_features": [
       "2.4L Turbo Inline-4 + Electric Motor Hybrid Engine (366 hp combined)",
       "All-Wheel Drive",
@@ -23879,8 +24204,9 @@
   },
   {
     "code": "2026-ux-250h",
+    "model_code": "UX",
     "manufacturer_code": 30,
-    "trim_name": "UX 250h",
+    "trim_name": "250h",
     "standard_features": [
       "2.0L Inline-4 + Electric Motor Hybrid Engine (181 hp combined)",
       "Front-Wheel Drive (AWD optional)",
@@ -23910,8 +24236,9 @@
   },
   {
     "code": "2026-ux-250h-f-sport",
+    "model_code": "UX",
     "manufacturer_code": 30,
-    "trim_name": "UX 250h F Sport",
+    "trim_name": "250h F Sport",
     "standard_features": [
       "2.0L Inline-4 + Electric Motor Hybrid Engine (181 hp combined)",
       "All-Wheel Drive optional",
@@ -23941,8 +24268,9 @@
   },
   {
     "code": "2026-aviator-standard",
+    "model_code": "Aviator",
     "manufacturer_code": 31,
-    "trim_name": "Aviator Standard",
+    "trim_name": "Standard",
     "standard_features": [
       "3.0L Twin-Turbo V6 Engine (400 hp)",
       "Rear-Wheel Drive (AWD optional)",
@@ -23971,8 +24299,9 @@
   },
   {
     "code": "2026-aviator-reserve",
+    "model_code": "Aviator",
     "manufacturer_code": 31,
-    "trim_name": "Aviator Reserve",
+    "trim_name": "Reserve",
     "standard_features": [
       "3.0L Twin-Turbo V6 Engine (400 hp)",
       "All-Wheel Drive standard",
@@ -24001,8 +24330,9 @@
   },
   {
     "code": "2026-aviator-black-label",
+    "model_code": "Aviator",
     "manufacturer_code": 31,
-    "trim_name": "Aviator Black Label",
+    "trim_name": "Black Label",
     "standard_features": [
       "3.0L Twin-Turbo V6 Engine (400 hp)",
       "All-Wheel Drive standard",
@@ -24030,8 +24360,9 @@
   },
   {
     "code": "2026-corsair-standard",
+    "model_code": "Corsair",
     "manufacturer_code": 31,
-    "trim_name": "Corsair Standard",
+    "trim_name": "Standard",
     "standard_features": [
       "2.0L Turbo Inline-4 Engine (250 hp)",
       "Front-Wheel Drive (AWD optional)",
@@ -24060,8 +24391,9 @@
   },
   {
     "code": "2026-corsair-reserve",
+    "model_code": "Corsair",
     "manufacturer_code": 31,
-    "trim_name": "Corsair Reserve",
+    "trim_name": "Reserve",
     "standard_features": [
       "2.0L Turbo Inline-4 Engine (250 hp)",
       "All-Wheel Drive standard",
@@ -24090,8 +24422,9 @@
   },
   {
     "code": "2026-corsair-black-label",
+    "model_code": "Corsair",
     "manufacturer_code": 31,
-    "trim_name": "Corsair Black Label",
+    "trim_name": "Black Label",
     "standard_features": [
       "2.0L Turbo Inline-4 Engine (250 hp)",
       "All-Wheel Drive standard",
@@ -24119,8 +24452,9 @@
   },
   {
     "code": "2026-navigator-standard",
+    "model_code": "Navigator",
     "manufacturer_code": 31,
-    "trim_name": "Navigator Standard",
+    "trim_name": "Standard",
     "standard_features": [
       "3.5L Twin-Turbo V6 Engine (440 hp)",
       "Rear-Wheel Drive (4WD optional)",
@@ -24149,8 +24483,9 @@
   },
   {
     "code": "2026-navigator-reserve",
+    "model_code": "Navigator",
     "manufacturer_code": 31,
-    "trim_name": "Navigator Reserve",
+    "trim_name": "Reserve",
     "standard_features": [
       "3.5L Twin-Turbo V6 Engine (440 hp)",
       "Four-Wheel Drive standard",
@@ -24179,8 +24514,9 @@
   },
   {
     "code": "2026-navigator-black-label",
+    "model_code": "Navigator",
     "manufacturer_code": 31,
-    "trim_name": "Navigator Black Label",
+    "trim_name": "Black Label",
     "standard_features": [
       "3.5L Twin-Turbo V6 Engine (440 hp)",
       "Four-Wheel Drive standard",
@@ -24208,8 +24544,9 @@
   },
   {
     "code": "2026-nautilus-standard",
+    "model_code": "Nautilus",
     "manufacturer_code": 31,
-    "trim_name": "Nautilus Standard",
+    "trim_name": "Standard",
     "standard_features": [
       "2.0L Turbo Inline-4 Engine (250 hp)",
       "Front-Wheel Drive (AWD optional)",
@@ -24238,8 +24575,9 @@
   },
   {
     "code": "2026-nautilus-reserve",
+    "model_code": "Nautilus",
     "manufacturer_code": 31,
-    "trim_name": "Nautilus Reserve",
+    "trim_name": "Reserve",
     "standard_features": [
       "2.0L Turbo Inline-4 Engine (250 hp)",
       "All-Wheel Drive standard",
@@ -24268,8 +24606,9 @@
   },
   {
     "code": "2026-nautilus-black-label",
+    "model_code": "Nautilus",
     "manufacturer_code": 31,
-    "trim_name": "Nautilus Black Label",
+    "trim_name": "Black Label",
     "standard_features": [
       "2.0L Turbo Inline-4 Engine (250 hp)",
       "All-Wheel Drive standard",
@@ -24297,8 +24636,9 @@
   },
   {
     "code": "2026-eletre-standard",
+    "model_code": "Eletre",
     "manufacturer_code": 32,
-    "trim_name": "Eletre Standard",
+    "trim_name": "Standard",
     "standard_features": [
       "Electric Dual Motor (approx. 600 hp)",
       "All-Wheel Drive standard",
@@ -24326,8 +24666,9 @@
   },
   {
     "code": "2026-eletre-performance",
+    "model_code": "Eletre",
     "manufacturer_code": 32,
-    "trim_name": "Eletre Performance",
+    "trim_name": "Performance",
     "standard_features": [
       "Electric Dual Motor (approx. 800 hp)",
       "All-Wheel Drive standard",
@@ -24356,8 +24697,9 @@
   },
   {
     "code": "2026-emira-base",
+    "model_code": "Emira",
     "manufacturer_code": 32,
-    "trim_name": "Emira Base",
+    "trim_name": "Base",
     "standard_features": [
       "3.5L Supercharged V6 Engine (400 hp)",
       "Rear-Wheel Drive standard",
@@ -24384,8 +24726,9 @@
   },
   {
     "code": "2026-emira-performance",
+    "model_code": "Emira",
     "manufacturer_code": 32,
-    "trim_name": "Emira Performance",
+    "trim_name": "Performance",
     "standard_features": [
       "3.5L Supercharged V6 Engine (430 hp)",
       "Rear-Wheel Drive standard",
@@ -24413,8 +24756,9 @@
   },
   {
     "code": "2026-air-pure",
+    "model_code": "Air",
     "manufacturer_code": 33,
-    "trim_name": "Air Pure",
+    "trim_name": "Pure",
     "standard_features": [
       "Electric Dual Motor (approx. 480 hp)",
       "All-Wheel Drive standard",
@@ -24443,8 +24787,9 @@
   },
   {
     "code": "2026-air-touring",
+    "model_code": "Air",
     "manufacturer_code": 33,
-    "trim_name": "Air Touring",
+    "trim_name": "Touring",
     "standard_features": [
       "Electric Dual Motor (approx. 620 hp)",
       "All-Wheel Drive standard",
@@ -24473,8 +24818,9 @@
   },
   {
     "code": "2026-air-grande-touring",
+    "model_code": "Air",
     "manufacturer_code": 33,
-    "trim_name": "Air Grand Touring",
+    "trim_name": "Grand Touring",
     "standard_features": [
       "Electric Dual Motor (approx. 800 hp)",
       "All-Wheel Drive standard",
@@ -24504,8 +24850,9 @@
   },
   {
     "code": "2026-air-ghost",
+    "model_code": "Air",
     "manufacturer_code": 33,
-    "trim_name": "Air Ghost Edition",
+    "trim_name": "Ghost Edition",
     "standard_features": [
       "Electric Dual Motor (approx. 1,050 hp)",
       "All-Wheel Drive standard",
@@ -24535,8 +24882,9 @@
   },
   {
     "code": "2026-gravity-pure",
+    "model_code": "Gravity",
     "manufacturer_code": 33,
-    "trim_name": "Gravity Pure",
+    "trim_name": "Pure",
     "standard_features": [
       "Electric Dual Motor (approx. 620 hp)",
       "All-Wheel Drive standard",
@@ -24565,8 +24913,9 @@
   },
   {
     "code": "2026-gravity-touring",
+    "model_code": "Gravity",
     "manufacturer_code": 33,
-    "trim_name": "Gravity Touring",
+    "trim_name": "Touring",
     "standard_features": [
       "Electric Dual Motor (approx. 800 hp)",
       "All-Wheel Drive standard",
@@ -24596,8 +24945,9 @@
   },
   {
     "code": "2026-gravity-grand-touring",
+    "model_code": "Gravity",
     "manufacturer_code": 33,
-    "trim_name": "Gravity Grand Touring",
+    "trim_name": "Grand Touring",
     "standard_features": [
       "Electric Dual Motor (approx. 1,050 hp)",
       "All-Wheel Drive standard",
@@ -24627,8 +24977,9 @@
   },
   {
     "code": "2026-granturismo-modena",
+    "model_code": "Granturismo",
     "manufacturer_code": 34,
-    "trim_name": "Granturismo Modena",
+    "trim_name": "Modena",
     "standard_features": [
       "4.2L V8 Engine (460 hp)",
       "Rear-Wheel Drive standard",
@@ -24655,8 +25006,9 @@
   },
   {
     "code": "2026-granturismo-trofeo",
+    "model_code": "Granturismo",
     "manufacturer_code": 34,
-    "trim_name": "Granturismo Trofeo",
+    "trim_name": "Trofeo",
     "standard_features": [
       "4.7L V8 Engine (520 hp)",
       "Rear-Wheel Drive standard",
@@ -24683,8 +25035,9 @@
   },
   {
     "code": "2026-grancabrio-modena",
+    "model_code": "Grancabrio",
     "manufacturer_code": 34,
-    "trim_name": "Grancabrio Modena",
+    "trim_name": "Modena",
     "standard_features": [
       "4.2L V8 Engine (460 hp)",
       "Rear-Wheel Drive standard",
@@ -24711,8 +25064,9 @@
   },
   {
     "code": "2026-grancabrio-trofeo",
+    "model_code": "Grancabrio",
     "manufacturer_code": 34,
-    "trim_name": "Grancabrio Trofeo",
+    "trim_name": "Trofeo",
     "standard_features": [
       "4.7L V8 Engine (520 hp)",
       "Rear-Wheel Drive standard",
@@ -24739,8 +25093,9 @@
   },
   {
     "code": "2026-grecale-modena",
+    "model_code": "Greciale",
     "manufacturer_code": 34,
-    "trim_name": "Grecale Modena",
+    "trim_name": "Modena",
     "standard_features": [
       "2.0L Turbo Inline-4 Engine (300 hp)",
       "All-Wheel Drive optional",
@@ -24767,8 +25122,9 @@
   },
   {
     "code": "2026-grecale-trofeo",
+    "model_code": "Greciale",
     "manufacturer_code": 34,
-    "trim_name": "Grecale Trofeo",
+    "trim_name": "Trofeo",
     "standard_features": [
       "3.0L Twin-Turbo V6 Engine (523 hp)",
       "All-Wheel Drive standard",
@@ -24796,8 +25152,9 @@
   },
   {
     "code": "2026-gt2-stradale",
+    "model_code": "GT2 Stradale",
     "manufacturer_code": 34,
-    "trim_name": "GT2 Stradale",
+    "trim_name": "Standard",
     "standard_features": [
       "Twin-Turbo V6 Engine (630 hp)",
       "Rear-Wheel Drive standard",
@@ -24826,8 +25183,9 @@
   },
   {
     "code": "2026-mcpura",
+    "model_code": "MCPura",
     "manufacturer_code": 34,
-    "trim_name": "MCPura",
+    "trim_name": "Standard",
     "standard_features": [
       "3.8L Twin-Turbo V8 Engine (620 hp)",
       "Rear-Wheel Drive standard",
@@ -24855,9 +25213,10 @@
     "active": true
   },
   {
-    "code": "2026-3-s",
+    "code": "2026-3-hatch-sedan-s",
+    "model_code": "3",
     "manufacturer_code": 35,
-    "trim_name": "3 Sedan / Hatchback S",
+    "trim_name": "S",
     "standard_features": [
       "2.0L 4-Cylinder Engine (155 hp)",
       "Front-Wheel Drive standard",
@@ -24878,9 +25237,10 @@
     "active": true
   },
   {
-    "code": "2026-3-p",
+    "code": "2026-3-hatch-sedan-preferred",
+    "model_code": "3",
     "manufacturer_code": 35,
-    "trim_name": "3 Sedan / Hatchback Preferred",
+    "trim_name": "Preferred",
     "standard_features": [
       "2.5L 4-Cylinder Engine (186 hp)",
       "Front-Wheel Drive standard",
@@ -24902,9 +25262,10 @@
     "active": true
   },
   {
-    "code": "2026-3-turbo",
+    "code": "2026-3-hatch-turbo",
+    "model_code": "3",
     "manufacturer_code": 35,
-    "trim_name": "3 Hatchback Turbo",
+    "trim_name": "Turbo",
     "standard_features": [
       "2.5L Turbocharged 4-Cylinder Engine (227 hp / 250 hp with Premium Fuel)",
       "All-Wheel Drive standard",
@@ -24928,8 +25289,9 @@
   },
   {
     "code": "2026-cx30-s",
+    "model_code": "CX-30",
     "manufacturer_code": 35,
-    "trim_name": "CX-30 S",
+    "trim_name": "S",
     "standard_features": [
       "2.5L 4-Cylinder Engine (186 hp)",
       "Front-Wheel Drive standard",
@@ -24951,9 +25313,10 @@
     "active": true
   },
   {
-    "code": "2026-cx30-p",
+    "code": "2026-cx30-preferred",
+    "model_code": "CX-30",
     "manufacturer_code": 35,
-    "trim_name": "CX-30 Preferred",
+    "trim_name": "Preferred",
     "standard_features": [
       "2.5L 4-Cylinder Engine (186 hp)",
       "All-Wheel Drive optional",
@@ -24976,8 +25339,9 @@
   },
   {
     "code": "2026-cx30-turbo",
+    "model_code": "CX-30",
     "manufacturer_code": 35,
-    "trim_name": "CX-30 Turbo",
+    "trim_name": "Turbo",
     "standard_features": [
       "2.5L Turbocharged 4-Cylinder Engine (250 hp with Premium Fuel)",
       "All-Wheel Drive standard",
@@ -25001,8 +25365,9 @@
   },
   {
     "code": "2026-cx5-sport",
+    "model_code": "CX-5",
     "manufacturer_code": 35,
-    "trim_name": "CX-5 Sport",
+    "trim_name": "Sport",
     "standard_features": [
       "2.5L 4-Cylinder Engine (187 hp)",
       "Front-Wheel Drive standard",
@@ -25025,8 +25390,9 @@
   },
   {
     "code": "2026-cx5-preferred",
+    "model_code": "CX-5",
     "manufacturer_code": 35,
-    "trim_name": "CX-5 Preferred",
+    "trim_name": "Preferred",
     "standard_features": [
       "2.5L 4-Cylinder Engine (187 hp)",
       "All-Wheel Drive optional",
@@ -25049,8 +25415,9 @@
   },
   {
     "code": "2026-cx5-carbon-edition",
+    "model_code": "CX-5",
     "manufacturer_code": 35,
-    "trim_name": "CX-5 Carbon Edition",
+    "trim_name": "Carbon Edition",
     "standard_features": [
       "2.5L 4-Cylinder Engine (187 hp)",
       "All-Wheel Drive standard",
@@ -25073,8 +25440,9 @@
   },
   {
     "code": "2026-cx5-turbo",
+    "model_code": "CX-5",
     "manufacturer_code": 35,
-    "trim_name": "CX-5 Turbo",
+    "trim_name": "Turbo",
     "standard_features": [
       "2.5L Turbocharged 4-Cylinder Engine (256 hp with Premium Fuel)",
       "All-Wheel Drive standard",
@@ -25098,8 +25466,9 @@
   },
   {
     "code": "2026-cx50-2.5",
+    "model_code": "CX-50",
     "manufacturer_code": 35,
-    "trim_name": "CX-50 2.5",
+    "trim_name": "2.5",
     "standard_features": [
       "2.5L 4-Cylinder Engine (187 hp)",
       "All-Wheel Drive standard",
@@ -25121,8 +25490,9 @@
   },
   {
     "code": "2026-cx50-preferred",
+    "model_code": "CX-50",
     "manufacturer_code": 35,
-    "trim_name": "CX-50 Preferred",
+    "trim_name": "Preferred",
     "standard_features": [
       "2.5L 4-Cylinder Engine (187 hp)",
       "All-Wheel Drive standard",
@@ -25145,8 +25515,9 @@
   },
   {
     "code": "2026-cx50-prestige",
+    "model_code": "CX-50",
     "manufacturer_code": 35,
-    "trim_name": "CX-50 Prestige",
+    "trim_name": "Prestige",
     "standard_features": [
       "2.5L 4-Cylinder Engine (187 hp)",
       "All-Wheel Drive standard",
@@ -25169,8 +25540,9 @@
   },
   {
     "code": "2026-cx50-turbo",
+    "model_code": "CX-50",
     "manufacturer_code": 35,
-    "trim_name": "CX-50 Turbo",
+    "trim_name": "Turbo",
     "standard_features": [
       "2.5L Turbocharged 4-Cylinder Engine (256 hp with Premium Fuel)",
       "All-Wheel Drive standard",
@@ -25194,8 +25566,9 @@
   },
   {
     "code": "2026-cx50-hybrid",
+    "model_code": "CX-50",
     "manufacturer_code": 35,
-    "trim_name": "CX-50 Hybrid",
+    "trim_name": "Hybrid",
     "standard_features": [
       "2.5L 4-Cylinder Engine with Electric Motor (Combined 323 hp)",
       "All-Wheel Drive standard",
@@ -25221,8 +25594,9 @@
   },
   {
     "code": "2026-cx70-s",
+    "model_code": "CX-70",
     "manufacturer_code": 35,
-    "trim_name": "CX-70 S",
+    "trim_name": "S",
     "standard_features": [
       "2.5L Turbocharged 4-Cylinder Engine (300 hp)",
       "Rear-Wheel Drive standard, All-Wheel Drive optional",
@@ -25246,8 +25620,9 @@
   },
   {
     "code": "2026-cx70-prestige",
+    "model_code": "CX-70",
     "manufacturer_code": 35,
-    "trim_name": "CX-70 Prestige",
+    "trim_name": "Prestige",
     "standard_features": [
       "2.5L Turbocharged 4-Cylinder Engine (300 hp)",
       "All-Wheel Drive standard",
@@ -25271,8 +25646,9 @@
   },
   {
     "code": "2026-cx70-phev",
+    "model_code": "CX-70",
     "manufacturer_code": 35,
-    "trim_name": "CX-70 PHEV",
+    "trim_name": "PHEV",
     "standard_features": [
       "2.5L 4-Cylinder Engine with Plug-in Hybrid Motor (Combined 323 hp)",
       "All-Wheel Drive standard",
@@ -25299,8 +25675,9 @@
   },
   {
     "code": "2026-cx90-30p",
+    "model_code": "CX-90",
     "manufacturer_code": 35,
-    "trim_name": "CX-90 3.0 Premium",
+    "trim_name": "3.0 Premium",
     "standard_features": [
       "3.0L Inline-6 Turbocharged Engine (355 hp)",
       "All-Wheel Drive standard",
@@ -25325,8 +25702,9 @@
   },
   {
     "code": "2026-cx90-30t",
+    "model_code": "CX-90",
     "manufacturer_code": 35,
-    "trim_name": "CX-90 Turbo",
+    "trim_name": "3.0 Turbo",
     "standard_features": [
       "3.0L Inline-6 Turbocharged Engine (355-400 hp depending on fuel)",
       "All-Wheel Drive standard",
@@ -25351,8 +25729,9 @@
   },
   {
     "code": "2026-cx90-phev",
+    "model_code": "CX-90",
     "manufacturer_code": 35,
-    "trim_name": "CX-90 PHEV",
+    "trim_name": "PHEV",
     "standard_features": [
       "3.3L Inline-6 Turbocharged Engine with Plug-in Hybrid Motor (Combined 455 hp)",
       "All-Wheel Drive standard",
@@ -25379,8 +25758,9 @@
   },
   {
     "code": "2026-mx5-miata-sport",
+    "model_code": "MX-5 Miata",
     "manufacturer_code": 35,
-    "trim_name": "MX-5 Miata Sport",
+    "trim_name": "Sport",
     "standard_features": [
       "2.0L 4-Cylinder Engine (181 hp)",
       "Rear-Wheel Drive standard",
@@ -25403,8 +25783,9 @@
   },
   {
     "code": "2026-mx5-miata-premium",
+    "model_code": "MX-5 Miata",
     "manufacturer_code": 35,
-    "trim_name": "MX-5 Miata Premium",
+    "trim_name": "Premium",
     "standard_features": [
       "2.0L 4-Cylinder Engine (181 hp)",
       "Rear-Wheel Drive standard",
@@ -25427,8 +25808,9 @@
   },
   {
     "code": "2026-mx5-miata-rf-sport",
+    "model_code": "MX-5 Miata RF",
     "manufacturer_code": 35,
-    "trim_name": "MX-5 Miata RF Sport",
+    "trim_name": "Sport",
     "standard_features": [
       "2.0L 4-Cylinder Engine (181 hp)",
       "Rear-Wheel Drive standard",
@@ -25451,8 +25833,9 @@
   },
   {
     "code": "2026-mx5-miata-rf-premium",
+    "model_code": "MX-5 Miata RF",
     "manufacturer_code": 35,
-    "trim_name": "MX-5 Miata RF Premium",
+    "trim_name": "Premium",
     "standard_features": [
       "2.0L 4-Cylinder Engine (181 hp)",
       "Rear-Wheel Drive standard",
@@ -25475,8 +25858,9 @@
   },
   {
     "code": "2026-750s-coupe",
+    "model_code": "750S",
     "manufacturer_code": 36,
-    "trim_name": "750S Coupe",
+    "trim_name": "Standard",
     "standard_features": [
       "4.0L Twin-Turbo V8 Engine (750 hp)",
       "Rear-Wheel Drive",
@@ -25501,8 +25885,9 @@
   },
   {
     "code": "2026-750s-spider",
+    "model_code": "7500S Spider",
     "manufacturer_code": 36,
-    "trim_name": "750S Spider",
+    "trim_name": "Standard",
     "standard_features": [
       "4.0L Twin-Turbo V8 Engine (750 hp)",
       "Rear-Wheel Drive",
@@ -25528,8 +25913,9 @@
   },
   {
     "code": "2026-artura-coupe",
+    "model_code": "Artura",
     "manufacturer_code": 36,
-    "trim_name": "Artura Coupe",
+    "trim_name": "Standard",
     "standard_features": [
       "3.0L Twin-Turbo V6 + Electric Motor Hybrid (Combined 671 hp)",
       "Rear-Wheel Drive",
@@ -25555,8 +25941,9 @@
   },
   {
     "code": "2026-artura-spider",
+    "model_code": "Artura Spider",
     "manufacturer_code": 36,
-    "trim_name": "Artura Spider",
+    "trim_name": "Standard",
     "standard_features": [
       "3.0L Twin-Turbo V6 + Electric Motor Hybrid (Combined 671 hp)",
       "Rear-Wheel Drive",
@@ -25583,8 +25970,9 @@
   },
   {
     "code": "2026-gts-coupe",
+    "model_code": "GTS",
     "manufacturer_code": 36,
-    "trim_name": "GTS Coupe",
+    "trim_name": "Standard",
     "standard_features": [
       "4.0L Twin-Turbo V8 Engine (720 hp)",
       "Rear-Wheel Drive",
@@ -25609,8 +25997,9 @@
   },
   {
     "code": "2026-w1-coupe",
+    "model_code": "W1",
     "manufacturer_code": 36,
-    "trim_name": "W1 Coupe",
+    "trim_name": "Standard",
     "standard_features": [
       "4.0L Twin-Turbo V8 Engine (1000+ hp, track-focused)",
       "Rear-Wheel Drive",

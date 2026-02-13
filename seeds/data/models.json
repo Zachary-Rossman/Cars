@@ -642,14 +642,7 @@
     {
       "style": "Coupe",
       "doors": 2
-    }
-  ]
-  },
-  {
-  "model_code": "4 Series Gran Coupe",
-  "manufacturer_code": 7,
-  "years": [2026],
-  "body_styles": [
+    },
     {
       "style": "Sedan",
       "doors": 4
@@ -690,14 +683,7 @@
     {
       "style": "Coupe",
       "doors": 2
-    }
-  ]
-  },
-  {
-  "model_code": "8 Series Gran Coupe",
-  "manufacturer_code": 7,
-  "years": [2026],
-  "body_styles": [
+    },
     {
       "style": "Sedan",
       "doors": 4
@@ -800,14 +786,7 @@
     {
       "style": "Convertible",
       "doors": 2
-    }
-  ]
-  },
-  {
-  "model_code": "M8 Gran Coupe",
-  "manufacturer_code": 7,
-  "years": [2026],
-  "body_styles": [
+    },
     {
       "style": "Sedan",
       "doors": 4
@@ -1157,17 +1136,6 @@
   },
   {
   "model_code": "Blazer",
-  "manufacturer_code": 10,
-  "years": [2026],
-  "body_styles": [
-    {
-      "style": "SUV",
-      "doors": 4
-    }
-  ]
-  },
-  {
-  "model_code": "Blazer EV",
   "manufacturer_code": 10,
   "years": [2026],
   "body_styles": [
@@ -1637,17 +1605,6 @@
   ]
   },
   {
-  "model_code": "Explorer ST",
-  "manufacturer_code": 16,
-  "years": [2026],
-  "body_styles": [
-    {
-      "style": "SUV",
-      "doors": 4
-    }
-  ]
-  },
-  {
   "model_code": "F-150",
   "manufacturer_code": 16,
   "years": [2026],
@@ -2004,7 +1961,7 @@
   ]
   },
   {
-  "model_code": "Civic SI Sedan",
+  "model_code": "Civic SI",
   "manufacturer_code": 19,
   "years": [2026],
   "body_styles": [
@@ -2547,17 +2504,6 @@
   ]
   },
   {
-  "model_code": "Kaveya",
-  "manufacturer_code": 25,
-  "years": [2026],
-  "body_styles": [
-    {
-      "style": "Coupe",
-      "doors": 2
-    }
-  ]
-  },
-  {
   "model_code": "Invictus",
   "manufacturer_code": 25,
   "years": [2026],
@@ -2591,7 +2537,7 @@
   ]
   },
   {
-  "model_code": "Carnival MPV",
+  "model_code": "Carnival",
   "manufacturer_code": 26,
   "years": [2026],
   "body_styles": [
