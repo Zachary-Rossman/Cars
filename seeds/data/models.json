@@ -2548,7 +2548,7 @@
   ]
   },
   {
-  "model_code": "Carnival MPV Hybrid",
+  "model_code": "Carnival Hybrid",
   "manufacturer_code": 26,
   "years": [2026],
   "body_styles": [
@@ -3018,7 +3018,7 @@
   ]
   },
   {
-  "model_code": "UX Hybrid",
+  "model_code": "UX",
   "manufacturer_code": 30,
   "years": [2026],
   "body_styles": [
@@ -3220,17 +3220,6 @@
   ]
   },
   {
-  "model_code": "CX-50 Hybrid",
-  "manufacturer_code": 35,
-  "years": [2026],
-  "body_styles": [
-    {
-      "style": "SUV",
-      "doors": 4
-    }
-  ]
-  },
-  {
   "model_code": "CX-70",
   "manufacturer_code": 35,
   "years": [2026],
@@ -3242,29 +3231,7 @@
   ]
   },
   {
-  "model_code": "CX-70 PHEV",
-  "manufacturer_code": 35,
-  "years": [2026],
-  "body_styles": [
-    {
-      "style": "SUV",
-      "doors": 4
-    }
-  ]
-  },
-  {
   "model_code": "CX-90",
-  "manufacturer_code": 35,
-  "years": [2026],
-  "body_styles": [
-    {
-      "style": "SUV",
-      "doors": 4
-    }
-  ]
-  },
-  {
-  "model_code": "CX-90 PHEV",
   "manufacturer_code": 35,
   "years": [2026],
   "body_styles": [
