@@ -26023,8 +26023,9 @@
   },
   {
     "code": "2026-amg-gt43-4door",
+    "model_code": "AMG GT",
     "manufacturer_code": 37,
-    "trim_name": "AMG GT 43 4-Door Coupe",
+    "trim_name": "43 4-door Coupe",
     "standard_features": [
       "3.0L Turbocharged Inline-6 Engine with Mild Hybrid EQ Boost (362 hp)",
       "AMG Performance 4MATIC+ All-Wheel Drive",
@@ -26055,8 +26056,9 @@
   },
   {
     "code": "2026-amg-gt43-coupe",
+    "model_code": "AMG GT",
     "manufacturer_code": 37,
-    "trim_name": "AMG GT 43 Coupe",
+    "trim_name": "43 Coupe",
     "standard_features": [
       "2.0L Turbocharged Inline-4 Engine with Mild Hybrid EQ Boost (416 hp)",
       "AMG Performance 4MATIC+ All-Wheel Drive",
@@ -26088,8 +26090,9 @@
   },
   {
     "code": "2026-amg-gt53-4door",
+    "model_code": "AMG GT",
     "manufacturer_code": 37,
-    "trim_name": "AMG GT 53 4-Door Coupe",
+    "trim_name": "53 4-Door Coupe",
     "standard_features": [
       "3.0L Turbocharged Inline-6 Engine with EQ Boost Mild Hybrid (429 hp)",
       "AMG Performance 4MATIC+ All-Wheel Drive",
@@ -26122,8 +26125,9 @@
   },
   {
     "code": "2026-amg-gt55-coupe",
+    "model_code": "AMG GT",
     "manufacturer_code": 37,
-    "trim_name": "AMG GT 55 Coupe",
+    "trim_name": "55 Coupe",
     "standard_features": [
       "4.0L Twin-Turbocharged V8 Engine (469 hp)",
       "AMG Performance 4MATIC+ All-Wheel Drive",
@@ -26158,8 +26162,9 @@
   },
   {
     "code": "2026-amg-gt63-coupe",
+    "model_code": "AMG GT",
     "manufacturer_code": 37,
-    "trim_name": "AMG GT 63 Coupe",
+    "trim_name": "63 Coupe",
     "standard_features": [
       "4.0L Twin-Turbocharged V8 Engine (577 hp)",
       "AMG Performance 4MATIC+ All-Wheel Drive",
@@ -26196,8 +26201,9 @@
   },
   {
     "code": "2026-amg-gt63-4door",
+    "model_code": "AMG GT",
     "manufacturer_code": 37,
-    "trim_name": "AMG GT 63 4-Door Coupe",
+    "trim_name": "63 4-Door Coupe",
     "standard_features": [
       "4.0L Twin-Turbocharged V8 Engine (577 hp)",
       "AMG Performance 4MATIC+ All-Wheel Drive",
@@ -26235,8 +26241,9 @@
   },
   {
     "code": "2026-amg-gt63s-e-performance-4door",
+    "model_code": "AMG GT",
     "manufacturer_code": 37,
-    "trim_name": "AMG GT 63 S E PERFORMANCE 4-Door Coupe",
+    "trim_name": "63 S E PERFORMANCE 4-Door Coupe",
     "standard_features": [
       "4.0L Twin-Turbocharged V8 Engine with AMG Electric Drive Unit",
       "AMG Performance Hybrid System (843 hp combined)",
@@ -26279,8 +26286,9 @@
   },
   {
     "code": "2026-amg-gt63s-e-performance-coupe",
+    "model_code": "AMG GT",
     "manufacturer_code": 37,
-    "trim_name": "AMG GT 63 S E PERFORMANCE Coupe",
+    "trim_name": "63 S E PERFORMANCE Coupe",
     "standard_features": [
       "4.0L Twin-Turbocharged V8 Engine with AMG Electric Drive Unit",
       "AMG Performance Hybrid System (843 hp combined)",
@@ -26322,9 +26330,10 @@
     "active": true
   },
   {
-    "code": "2026-amg-gt63-pro-4matic-plus",
+    "code": "2026-amg-gt63-coupe-pro-4matic-plus",
+    "model_code": "AMG GT",
     "manufacturer_code": 37,
-    "trim_name": "AMG GT 63 Pro 4MATIC+",
+    "trim_name": "63 Pro 4MATIC+",
     "standard_features": [
       "4.0L Twin-Turbocharged V8 Engine",
       "AMG Performance 4MATIC+ All-Wheel Drive",
@@ -26365,8 +26374,9 @@
   },
   {
     "code": "2026-amg-one",
+    "model_code": "AMG ONE",
     "manufacturer_code": 37,
-    "trim_name": "AMG ONE",
+    "trim_name": "Standard",
     "standard_features": [
       "1.6L Turbocharged V6 F1 Hybrid Engine with Four Electric Motors",
       "Total System Output: 1000+ hp",
@@ -26404,8 +26414,9 @@
   },
   {
     "code": "2026-c-300",
+    "model_code": "C Class",
     "manufacturer_code": 37,
-    "trim_name": "C 300",
+    "trim_name": "C300",
     "standard_features": [
       "2.0L Turbocharged Inline-4 Engine (255 hp)",
       "9-Speed Automatic Transmission",
@@ -26437,6 +26448,7 @@
   },
   {
     "code": "2026-c-300-4matic",
+    "model_code": "C Class",
     "manufacturer_code": 37,
     "trim_name": "C 300 4MATIC",
     "standard_features": [
@@ -26469,8 +26481,9 @@
   },
   {
     "code": "2026-c-43-amg",
+    "model_code": "C 43 AMG",
     "manufacturer_code": 37,
-    "trim_name": "C 43 AMG",
+    "trim_name": "Standard",
     "standard_features": [
       "3.0L Biturbo V6 Engine (385 hp)",
       "9-Speed AMG SPEEDSHIFT TCT Automatic Transmission",
@@ -26505,8 +26518,9 @@
   },
   {
     "code": "2026-c-63s-e-performance-amg",
+    "model_code": "C 63 S E Performance AMG",
     "manufacturer_code": 37,
-    "trim_name": "C 63 S E Performance AMG",
+    "trim_name": "Standard",
     "standard_features": [
       "4.0L Twin-Turbo V8 Engine + AMG Electric Rear-Axle Motor",
       "Total System Output: 670+ hp",
@@ -26546,8 +26560,9 @@
   },
   {
     "code": "2026-cla-250-coupe",
+    "model_code": "CLA Class",
     "manufacturer_code": 37,
-    "trim_name": "CLA 250 Coupe",
+    "trim_name": "CLA250 Coupe",
     "standard_features": [
       "2.0L Turbocharged Inline-4 Engine (302 hp)",
       "8-Speed Dual-Clutch Automatic Transmission",
@@ -26579,8 +26594,9 @@
   },
   {
     "code": "2026-cla-250-4matic-coupe",
+    "model_code": "CLA Class",
     "manufacturer_code": 37,
-    "trim_name": "CLA 250 4MATIC Coupe",
+    "trim_name": "CLA250 4MATIC Coupe",
     "standard_features": [
       "2.0L Turbocharged Inline-4 Engine (302 hp)",
       "8-Speed Dual-Clutch Automatic Transmission",
@@ -26611,8 +26627,9 @@
   },
   {
     "code": "2026-cla-250-eq-technology",
+    "model_code": "CLA Class",
     "manufacturer_code": 37,
-    "trim_name": "CLA 250+ with EQ Technology",
+    "trim_name": "CLA250+ with EQ Technology",
     "standard_features": [
       "2.0L Turbocharged Inline-4 Engine (302 hp) with EQ Boost Mild Hybrid",
       "48V Electric Assist Motor",
@@ -26645,8 +26662,9 @@
   },
   {
     "code": "2026-cla-35-amg-coupe",
+    "model_code": "CLA 35 AMG Coupe",
     "manufacturer_code": 37,
-    "trim_name": "CLA 35 AMG Coupe",
+    "trim_name": "Standard",
     "standard_features": [
       "2.0L Turbocharged Inline-4 Engine (302–315 hp AMG Tuned)",
       "AMG Performance 4MATIC All-Wheel Drive",
@@ -26680,8 +26698,9 @@
   },
   {
     "code": "2026-cla-350-4matic-eq-technology",
+    "model_code": "CLA Class",
     "manufacturer_code": 37,
-    "trim_name": "CLA 350 4MATIC with EQ Technology",
+    "trim_name": "Standard",
     "standard_features": [
       "2.0L Turbocharged Inline-4 Engine (302–315 hp) with EQ Boost Mild Hybrid",
       "48V Electric Assist Motor",
@@ -26713,8 +26732,9 @@
   },
   {
     "code": "2026-cla-45s-amg-coupe",
+    "model_code": "CLA 45 S AMG Coupe",
     "manufacturer_code": 37,
-    "trim_name": "CLA 45 S AMG Coupe",
+    "trim_name": "Standard",
     "standard_features": [
       "2.0L Turbocharged Inline-4 AMG M139 Engine (416–421 hp)",
       "AMG Performance 4MATIC+ All-Wheel Drive",
@@ -26749,9 +26769,10 @@
     "active": true
   },
   {
-    "code": "2026-cle-300-4matic",
+    "code": "2026-cle-300-4matic-coupe",
+    "model_code": "CLE Class",
     "manufacturer_code": 37,
-    "trim_name": "CLE 300 4MATIC",
+    "trim_name": "CLE300 4MATIC",
     "standard_features": [
       "2.0L Turbocharged Inline-4 Engine (255–265 hp)",
       "48V Mild Hybrid System (EQ Boost)",
@@ -26783,8 +26804,9 @@
   },
   {
     "code": "2026-cle-300-4matic-cabriolet",
+    "model_code": "CLE Class",
     "manufacturer_code": 37,
-    "trim_name": "CLE 300 4MATIC Cabriolet",
+    "trim_name": "CLE300 4MATIC Cabriolet",
     "standard_features": [
       "2.0L Turbocharged Inline-4 Engine (255–265 hp)",
       "48V Mild Hybrid System (EQ Boost)",
@@ -26816,9 +26838,10 @@
     "active": true
   },
   {
-    "code": "2026-cle-450-4matic",
+    "code": "2026-cle-450-4matic-coupe",
+    "model_code": "CLE Class",
     "manufacturer_code": 37,
-    "trim_name": "CLE 450 4MATIC",
+    "trim_name": "CLE450 4MATIC",
     "standard_features": [
       "3.0L Turbocharged Inline-6 Engine with EQ Boost Mild Hybrid (362–367 hp)",
       "48V Mild Hybrid System for Torque Assist",
@@ -26851,8 +26874,9 @@
   },
   {
     "code": "2026-cle-450-4matic-cabriolet",
+    "model_code": "CLE Class",
     "manufacturer_code": 37,
-    "trim_name": "CLE 450 4MATIC Cabriolet",
+    "trim_name": "CLE450 4MATIC Cabriolet",
     "standard_features": [
       "3.0L Turbocharged Inline-6 Engine with EQ Boost Mild Hybrid (362–367 hp)",
       "48V Mild Hybrid System for Torque Assist",
@@ -26886,8 +26910,9 @@
   },
   {
     "code": "2026-cle-53-amg-coupe",
+    "model_code": "CLE 53 AMG",
     "manufacturer_code": 37,
-    "trim_name": "CLE 53 AMG",
+    "trim_name": "Standard",
     "standard_features": [
       "3.0L Turbocharged Inline-6 Engine with EQ Boost Mild Hybrid (429 hp)",
       "AMG-Enhanced 4MATIC+ All-Wheel Drive",
@@ -26922,8 +26947,9 @@
   },
   {
     "code": "2026-cle-53-amg-cabriolet",
+    "model_code": "CLE 53 AMG Cabriolet",
     "manufacturer_code": 37,
-    "trim_name": "CLE 53 AMG Cabriolet",
+    "trim_name": "Standard",
     "standard_features": [
       "3.0L Turbocharged Inline-6 Engine with EQ Boost Mild Hybrid (429 hp)",
       "AMG-Enhanced 4MATIC+ All-Wheel Drive",
@@ -26959,8 +26985,9 @@
   },
   {
     "code": "2026-e-350",
+    "model_code": "E Class",
     "manufacturer_code": 37,
-    "trim_name": "E 350",
+    "trim_name": "E350",
     "standard_features": [
       "2.0L Turbo Inline-4 Engine (255–265 hp)",
       "Rear-Wheel Drive",
@@ -26990,8 +27017,9 @@
   },
   {
     "code": "2026-e-350-4matic",
+    "model_code": "E Class",
     "manufacturer_code": 37,
-    "trim_name": "E 350 4MATIC",
+    "trim_name": "E350 4MATIC",
     "standard_features": [
       "2.0L Turbo Inline-4 Engine (255–265 hp)",
       "AMG-Enhanced 4MATIC All-Wheel Drive",
@@ -27021,8 +27049,9 @@
   },
   {
     "code": "2026-e-450-4matic",
+    "model_code": "E Class",
     "manufacturer_code": 37,
-    "trim_name": "E 450 4MATIC",
+    "trim_name": "E450 4MATIC",
     "standard_features": [
       "3.0L Turbocharged Inline-6 Engine with EQ Boost Mild Hybrid (362–367 hp)",
       "AMG-Enhanced 4MATIC All-Wheel Drive",
@@ -27054,8 +27083,9 @@
   },
   {
     "code": "2026-e-450-4matic-all-terrain",
+    "model_code": "E Class",
     "manufacturer_code": 37,
-    "trim_name": "E 450 4MATIC All-Terrain",
+    "trim_name": "E450 4MATIC All-Terrain",
     "standard_features": [
       "3.0L Turbocharged Inline-6 Engine with EQ Boost Mild Hybrid (362–367 hp)",
       "AMG-Enhanced 4MATIC All-Wheel Drive",
@@ -27089,8 +27119,9 @@
   },
   {
     "code": "2026-e-53-amg-sedan",
+    "model_code": "E 53 Hybrid AMG",
     "manufacturer_code": 37,
-    "trim_name": "E 53 Hybrid AMG Sedan",
+    "trim_name": "Sedan",
     "standard_features": [
       "3.0L Turbocharged Inline-6 Engine with EQ Boost Mild Hybrid (429 hp)",
       "AMG-Enhanced 4MATIC+ All-Wheel Drive",
@@ -27125,8 +27156,9 @@
   },
   {
     "code": "2026-e-53-amg-wagon",
+    "model_code": "E 53 Hybrid AMG",
     "manufacturer_code": 37,
-    "trim_name": "E 53 Hybrid AMG Wagon",
+    "trim_name": "Wagon",
     "standard_features": [
       "3.0L Turbocharged Inline-6 Engine with EQ Boost Mild Hybrid (429 hp)",
       "AMG-Enhanced 4MATIC+ All-Wheel Drive",
@@ -27163,8 +27195,9 @@
   },
   {
     "code": "2026-eqb-250-plus",
+    "model_code": "EQB Class",
     "manufacturer_code": 37,
-    "trim_name": "EQB 250+",
+    "trim_name": "EQB250+",
     "standard_features": [
       "Electric Motor (200–215 hp, front-wheel drive)",
       "All-Electric Range: ~250–260 miles",
@@ -27197,8 +27230,9 @@
   },
   {
     "code": "2026-eqb-300-4matic",
+    "model_code": "EQB Class",
     "manufacturer_code": 37,
-    "trim_name": "EQB 300 4MATIC",
+    "trim_name": "EQB300 4MATIC",
     "standard_features": [
       "Dual Electric Motors with AMG-Enhanced 4MATIC All-Wheel Drive (~288–290 hp)",
       "All-Electric Range: ~250–260 miles",
@@ -27230,8 +27264,9 @@
   },
   {
     "code": "2026-eqb-350-4matic",
+    "model_code": "EQB Class",
     "manufacturer_code": 37,
-    "trim_name": "EQB 350 4MATIC",
+    "trim_name": "EQB350 4MATIC",
     "standard_features": [
       "Dual Electric Motors with AMG-Enhanced 4MATIC All-Wheel Drive (~288–300 hp)",
       "All-Electric Range: ~250–260 miles",
@@ -27265,8 +27300,9 @@
   },
   {
     "code": "2026-eqe-320-plus",
+    "model_code": "EQE Class",
     "manufacturer_code": 37,
-    "trim_name": "EQE 320+",
+    "trim_name": "EQE320+",
     "standard_features": [
       "Single Electric Motor, Rear-Wheel Drive (~288 hp)",
       "All-Electric Range: ~280–300 miles",
@@ -27299,8 +27335,9 @@
   },
   {
     "code": "2026-eqe-320-4matic",
+    "model_code": "EQE Class",
     "manufacturer_code": 37,
-    "trim_name": "EQE 320 4MATIC",
+    "trim_name": "EQE320 4MATIC",
     "standard_features": [
       "Dual Electric Motors with AMG-Enhanced 4MATIC All-Wheel Drive (~288–295 hp)",
       "All-Electric Range: ~270–290 miles",
@@ -27334,8 +27371,9 @@
   },
   {
     "code": "2026-eqe-amg",
+    "model_code": "EQE AMG",
     "manufacturer_code": 37,
-    "trim_name": "EQE AMG",
+    "trim_name": "Standard",
     "standard_features": [
       "Dual Electric Motors with AMG-Enhanced 4MATIC+ All-Wheel Drive (~500–617 hp depending on variant)",
       "All-Electric Range: ~265–300 miles",
@@ -27372,8 +27410,9 @@
   },
   {
     "code": "2026-eqs-400-4matic",
+    "model_code": "EQS Class",
     "manufacturer_code": 37,
-    "trim_name": "EQS 400 4MATIC",
+    "trim_name": "EQS400 4MATIC",
     "standard_features": [
       "Dual Electric Motors with AMG-Enhanced 4MATIC All-Wheel Drive (~329–340 hp)",
       "All-Electric Range: ~300 miles",
@@ -27408,8 +27447,9 @@
   },
   {
     "code": "2026-eqs-450-plus",
+    "model_code": "EQS Class",
     "manufacturer_code": 37,
-    "trim_name": "EQS 450+",
+    "trim_name": "EQS450+",
     "standard_features": [
       "Single Electric Motor, Rear-Wheel Drive (~329–330 hp)",
       "All-Electric Range: ~350 miles",
@@ -27442,8 +27482,9 @@
   },
   {
     "code": "2026-eqs-450-4matic",
+    "model_code": "EQS Class",
     "manufacturer_code": 37,
-    "trim_name": "EQS 450 4MATIC",
+    "trim_name": "EQS450 4MATIC",
     "standard_features": [
       "Dual Electric Motors with AMG-Enhanced 4MATIC All-Wheel Drive (~400 hp)",
       "All-Electric Range: ~340–350 miles",
@@ -27478,8 +27519,9 @@
   },
   {
     "code": "2026-eqs-550-4matic",
+    "model_code": "EQS Class",
     "manufacturer_code": 37,
-    "trim_name": "EQS 550 4MATIC",
+    "trim_name": "EQS550 4MATIC",
     "standard_features": [
       "Dual Electric Motors with AMG-Enhanced 4MATIC All-Wheel Drive (~523 hp)",
       "All-Electric Range: ~300 miles",
@@ -27514,8 +27556,9 @@
   },
   {
     "code": "2026-eqs-580-4matic",
+    "model_code": "EQS Class",
     "manufacturer_code": 37,
-    "trim_name": "EQS 580 4MATIC",
+    "trim_name": "EQS580 4MATIC",
     "standard_features": [
       "Dual Electric Motors with AMG-Enhanced 4MATIC All-Wheel Drive (~516–523 hp)",
       "All-Electric Range: ~340–350 miles",
@@ -27550,8 +27593,9 @@
   },
   {
     "code": "2026-g-550",
+    "model_code": "G Class",
     "manufacturer_code": 37,
-    "trim_name": "G 550",
+    "trim_name": "G550",
     "standard_features": [
       "4.0L Twin-Turbo V8 Engine (~416 hp, 450 lb-ft torque)",
       "9-Speed Automatic Transmission",
@@ -27587,8 +27631,9 @@
   },
   {
     "code": "2026-g-580-eq-technology",
+    "model_code": "G Class",
     "manufacturer_code": 37,
-    "trim_name": "G 580 with EQ Technology",
+    "trim_name": "G580 with EQ Technology",
     "standard_features": [
       "4.0L Twin-Turbo V8 with EQ Boost (~483 hp, 516 lb-ft torque)",
       "Mild-Hybrid 48V System",
@@ -27623,8 +27668,9 @@
   },
   {
     "code": "2026-g-63-amg",
+    "model_code": "G 63 AMG",
     "manufacturer_code": 37,
-    "trim_name": "G 63 AMG",
+    "trim_name": "Standard",
     "standard_features": [
       "4.0L Handcrafted AMG Twin-Turbo V8 (~577 hp, 627 lb-ft torque)",
       "AMG Performance 9-Speed Automatic Transmission",
@@ -27660,8 +27706,9 @@
   },
   {
     "code": "2026-gla-250",
+    "model_code": "GLA Class",
     "manufacturer_code": 37,
-    "trim_name": "GLA 250",
+    "trim_name": "GLA250",
     "standard_features": [
       "2.0L Inline-4 Turbo Engine (~221 hp, 258 lb-ft torque)",
       "8-Speed Automatic Transmission",
@@ -27692,8 +27739,9 @@
   },
   {
     "code": "2026-gla-250-4matic",
+    "model_code": "GLA Class",
     "manufacturer_code": 37,
-    "trim_name": "GLA 250 4MATIC",
+    "trim_name": "GLA250 4MATIC",
     "standard_features": [
       "2.0L Inline-4 Turbo Engine (~221 hp, 258 lb-ft torque)",
       "8-Speed Automatic Transmission",
@@ -27724,8 +27772,9 @@
   },
   {
     "code": "2026-gla-35-amg",
+    "model_code": "GLA 35 AMG",
     "manufacturer_code": 37,
-    "trim_name": "GLA 35 AMG",
+    "trim_name": "GLA35 AMG",
     "standard_features": [
       "2.0L Inline-4 Turbo Engine (~302 hp, 295 lb-ft torque)",
       "AMG-Enhanced 4MATIC All-Wheel Drive",
@@ -27758,8 +27807,9 @@
   },
   {
     "code": "2026-glb-250",
+    "model_code": "GLB Class",
     "manufacturer_code": 37,
-    "trim_name": "GLB 250",
+    "trim_name": "GLB250",
     "standard_features": [
       "2.0L Inline-4 Turbo Engine (~221 hp, 258 lb-ft torque)",
       "8-Speed Automatic Transmission",
@@ -27791,8 +27841,9 @@
   },
   {
     "code": "2026-glb-250-4matic",
+    "model_code": "GLB Class",
     "manufacturer_code": 37,
-    "trim_name": "GLB 250 4MATIC",
+    "trim_name": "GLB250 4MATIC",
     "standard_features": [
       "2.0L Inline-4 Turbo Engine (~221 hp, 258 lb-ft torque)",
       "8-Speed Automatic Transmission",
@@ -27824,8 +27875,9 @@
   },
   {
     "code": "2026-glb-35-amg",
+    "model_code": "GLB 35 AMG",
     "manufacturer_code": 37,
-    "trim_name": "GLB 35 AMG",
+    "trim_name": "GLB35 AMG",
     "standard_features": [
       "2.0L Inline-4 Turbo Engine (~302 hp, 295 lb-ft torque)",
       "AMG 4MATIC All-Wheel Drive",
@@ -27858,8 +27910,9 @@
   },
   {
     "code": "2026-glc-300",
+    "model_code": "GLC Class",
     "manufacturer_code": 37,
-    "trim_name": "GLC 300",
+    "trim_name": "GLC300",
     "standard_features": [
       "2.0L Inline-4 Turbo Engine (~255 hp, 273 lb-ft torque)",
       "9-Speed Automatic Transmission",
@@ -27889,8 +27942,9 @@
   },
   {
     "code": "2026-glc-300-4matic",
+    "model_code": "GLC Class",
     "manufacturer_code": 37,
-    "trim_name": "GLC 300 4MATIC",
+    "trim_name": "GLC300 4MATIC",
     "standard_features": [
       "2.0L Inline-4 Turbo Engine (~255 hp, 273 lb-ft torque)",
       "9-Speed Automatic Transmission",
@@ -27920,8 +27974,9 @@
   },
   {
     "code": "2026-glc-300-4matic-coupe",
+    "model_code": "GLC Class",
     "manufacturer_code": 37,
-    "trim_name": "GLC 300 4MATIC Coupe",
+    "trim_name": "GLC300 4MATIC Coupe",
     "standard_features": [
       "2.0L Inline-4 Turbo Engine (~255 hp, 273 lb-ft torque)",
       "9-Speed Automatic Transmission",
@@ -27953,8 +28008,9 @@
   },
   {
     "code": "2026-glc-350e-4matic",
+    "model_code": "GLC Class",
     "manufacturer_code": 37,
-    "trim_name": "GLC 350e 4MATIC",
+    "trim_name": "GLC350e 4MATIC",
     "standard_features": [
       "2.0L Inline-4 Turbo Engine + Electric Motor (~315 hp combined)",
       "AMG-Enhanced 4MATIC All-Wheel Drive",
@@ -27987,8 +28043,9 @@
   },
   {
     "code": "2026-glc-43-amg",
+    "model_code": "GLC 43 AMG",
     "manufacturer_code": 37,
-    "trim_name": "GLC 43 AMG",
+    "trim_name": "Standard",
     "standard_features": [
       "3.0L Inline-6 Twin-Turbo Engine (~385 hp, 384 lb-ft torque)",
       "AMG 4MATIC All-Wheel Drive",
@@ -28021,8 +28078,9 @@
   },
   {
     "code": "2026-glc-43-amg-coupe",
+    "model_code": "GLC 43 AMG Coupe",
     "manufacturer_code": 37,
-    "trim_name": "GLC 43 AMG Coupe",
+    "trim_name": "Standard",
     "standard_features": [
       "3.0L Inline-6 Twin-Turbo Engine (~385 hp, 384 lb-ft torque)",
       "AMG 4MATIC All-Wheel Drive",
@@ -28056,8 +28114,9 @@
   },
   {
     "code": "2026-glc-63-s-amg",
+    "model_code": "GLC 63 S AMG",
     "manufacturer_code": 37,
-    "trim_name": "GLC 63 S AMG",
+    "trim_name": "Standard",
     "standard_features": [
       "4.0L V8 Twin-Turbo Engine (~503 hp, 516 lb-ft torque)",
       "AMG 4MATIC+ Fully Variable All-Wheel Drive",
@@ -28091,8 +28150,9 @@
   },
   {
     "code": "2026-glc-63-s-amg-coupe",
+    "model_code": "GLC 63 S AMG Coupe",
     "manufacturer_code": 37,
-    "trim_name": "GLC 63 S AMG Coupe",
+    "trim_name": "Standard",
     "standard_features": [
       "4.0L V8 Twin-Turbo Engine (~503 hp, 516 lb-ft torque)",
       "AMG 4MATIC+ Fully Variable All-Wheel Drive",
@@ -28127,8 +28187,9 @@
   },
   {
     "code": "2026-gle-350",
+    "model_code": "GLE Class",
     "manufacturer_code": 37,
-    "trim_name": "GLE 350",
+    "trim_name": "GLE350",
     "standard_features": [
       "2.0L Inline-4 Turbo Engine (~255 hp, 273 lb-ft torque)",
       "9-Speed Automatic Transmission",
@@ -28158,8 +28219,9 @@
   },
   {
     "code": "2026-gle-350-4matic",
+    "model_code": "GLE Class",
     "manufacturer_code": 37,
-    "trim_name": "GLE 350 4MATIC",
+    "trim_name": "GLE350 4MATIC",
     "standard_features": [
       "2.0L Inline-4 Turbo Engine (~255 hp, 273 lb-ft torque)",
       "9-Speed Automatic Transmission",
@@ -28189,8 +28251,9 @@
   },
   {
     "code": "2026-gle-450-4matic",
+    "model_code": "GLE Class",
     "manufacturer_code": 37,
-    "trim_name": "GLE 450 4MATIC",
+    "trim_name": "GLE450 4MATIC",
     "standard_features": [
       "3.0L Inline-6 Turbo Engine with EQ Boost (~362 hp, 369 lb-ft torque)",
       "AMG-Enhanced 4MATIC All-Wheel Drive",
@@ -28221,8 +28284,9 @@
   },
   {
     "code": "2026-gle-450-4matic-coupe",
+    "model_code": "GLE Class",
     "manufacturer_code": 37,
-    "trim_name": "GLE 450 4MATIC Coupe",
+    "trim_name": "GLE450 4MATIC Coupe",
     "standard_features": [
       "3.0L Inline-6 Turbo Engine with EQ Boost (~362 hp, 369 lb-ft torque)",
       "AMG-Enhanced 4MATIC All-Wheel Drive",
@@ -28254,8 +28318,9 @@
   },
   {
     "code": "2026-gle-450e-4matic",
+    "model_code": "GLE Class",
     "manufacturer_code": 37,
-    "trim_name": "GLE 450e 4MATIC",
+    "trim_name": "GLE450e 4MATIC",
     "standard_features": [
       "3.0L Inline-6 Turbo Engine with EQ Boost + Electric Motor (~450 hp combined)",
       "AMG-Enhanced 4MATIC All-Wheel Drive",
@@ -28289,8 +28354,9 @@
   },
   {
     "code": "2026-gle-580-4matic",
+    "model_code": "GLE Class",
     "manufacturer_code": 37,
-    "trim_name": "GLE 580 4MATIC",
+    "trim_name": "GLE580 4MATIC",
     "standard_features": [
       "4.0L V8 Twin-Turbo Engine with EQ Boost (~483 hp, 516 lb-ft torque)",
       "AMG-Enhanced 4MATIC All-Wheel Drive",
@@ -28324,8 +28390,9 @@
   },
   {
     "code": "2026-gle-53-4matic-amg",
+    "model_code": "GLE 53 4MATIC+ AMG",
     "manufacturer_code": 37,
-    "trim_name": "GLE 53 4MATIC+ AMG",
+    "trim_name": "Standard",
     "standard_features": [
       "3.0L Inline-6 Turbo Engine with EQ Boost (~429 hp, 384 lb-ft torque)",
       "AMG 4MATIC+ Fully Variable All-Wheel Drive",
@@ -28359,8 +28426,9 @@
   },
   {
     "code": "2026-gle-53-amg-coupe",
+    "model_code": "GLE 53 AMG Coupe",
     "manufacturer_code": 37,
-    "trim_name": "GLE 53 AMG Coupe",
+    "trim_name": "Standard",
     "standard_features": [
       "3.0L Inline-6 Turbo Engine with EQ Boost (~429 hp, 384 lb-ft torque)",
       "AMG 4MATIC+ Fully Variable All-Wheel Drive",
@@ -28395,8 +28463,9 @@
   },
   {
     "code": "2026-gle-63s-4matic-amg",
+    "model_code": "GLE 63 S 4MATIC AMG",
     "manufacturer_code": 37,
-    "trim_name": "GLE 63 S 4MATIC AMG",
+    "trim_name": "Standard",
     "standard_features": [
       "4.0L V8 Biturbo Engine with EQ Boost (~603 hp, 627 lb-ft torque)",
       "AMG 4MATIC+ Fully Variable All-Wheel Drive",
@@ -28432,8 +28501,9 @@
   },
   {
     "code": "2026-gle-63s-amg-coupe",
+    "model_code": "GLE 63 S AMG Coupe",
     "manufacturer_code": 37,
-    "trim_name": "GLE 63 S AMG Coupe",
+    "trim_name": "Standard",
     "standard_features": [
       "4.0L V8 Biturbo Engine with EQ Boost (~603 hp, 627 lb-ft torque)",
       "AMG 4MATIC+ Fully Variable All-Wheel Drive",
@@ -28470,8 +28540,9 @@
   },
   {
     "code": "2026-gls-450-4matic",
+    "model_code": "GLS Class",
     "manufacturer_code": 37,
-    "trim_name": "GLS 450 4MATIC",
+    "trim_name": "GLS450 4MATIC",
     "standard_features": [
       "3.0L Inline-6 Turbo Engine with EQ Boost (~362 hp, 369 lb-ft torque)",
       "4MATIC All-Wheel Drive",
@@ -28506,8 +28577,9 @@
   },
   {
     "code": "2026-gls-580-4matic",
+    "model_code": "GLS Class",
     "manufacturer_code": 37,
-    "trim_name": "GLS 580 4MATIC",
+    "trim_name": "GLS580 4MATIC",
     "standard_features": [
       "4.0L V8 Biturbo Engine with EQ Boost (~483 hp, 516 lb-ft torque)",
       "4MATIC All-Wheel Drive",
@@ -28543,8 +28615,9 @@
   },
   {
     "code": "2026-gls-63-amg",
+    "model_code": "GLS 63 AMG",
     "manufacturer_code": 37,
-    "trim_name": "GLS 63 AMG",
+    "trim_name": "Standard",
     "standard_features": [
       "4.0L V8 Biturbo Engine with EQ Boost (~603 hp, 627 lb-ft torque)",
       "AMG 4MATIC+ Fully Variable All-Wheel Drive",
@@ -28582,8 +28655,9 @@
   },
   {
     "code": "2026-maybach-eqs-680",
+    "model_code": "Maybach EQS",
     "manufacturer_code": 37,
-    "trim_name": "Maybach EQS 680",
+    "trim_name": "680",
     "standard_features": [
       "Dual Electric Motors (~649 hp, ~612 lb-ft torque)",
       "All-Wheel Drive (AWD)",
@@ -28617,8 +28691,9 @@
   },
   {
     "code": "2026-maybach-gls-600",
+    "model_code": "Maybach GLS",
     "manufacturer_code": 37,
-    "trim_name": "Maybach GLS 600",
+    "trim_name": "600",
     "standard_features": [
       "4.0L V8 Biturbo Engine with EQ Boost (~550 hp, 538 lb-ft torque)",
       "AMG 4MATIC+ Fully Variable All-Wheel Drive",
@@ -28654,8 +28729,9 @@
   },
   {
     "code": "2026-maybach-s-580-4matic",
+    "model_code": "Maybach S",
     "manufacturer_code": 37,
-    "trim_name": "Maybach S 580 4MATIC",
+    "trim_name": "580 4MATIC",
     "standard_features": [
       "4.0L V8 Biturbo Engine with EQ Boost (~496 hp, 516 lb-ft torque)",
       "4MATIC All-Wheel Drive",
@@ -28688,8 +28764,9 @@
   },
   {
     "code": "2026-maybach-s-680-4matic",
+    "model_code": "Maybach S",
     "manufacturer_code": 37,
-    "trim_name": "Maybach S 680 4MATIC",
+    "trim_name": "680 4MATIC",
     "standard_features": [
       "4.0L V8 Biturbo Engine with EQ Boost (~612 hp, 663 lb-ft torque)",
       "4MATIC All-Wheel Drive",
@@ -28722,8 +28799,9 @@
   },
   {
     "code": "2026-s-500-4matic",
+    "model_code": "S Class",
     "manufacturer_code": 37,
-    "trim_name": "S 500 4MATIC",
+    "trim_name": "S500 4MATIC",
     "standard_features": [
       "3.0L Inline-6 Turbo with EQ Boost (~429 hp, 384 lb-ft torque)",
       "4MATIC All-Wheel Drive",
@@ -28756,8 +28834,9 @@
   },
   {
     "code": "2026-s-580-4matic",
+    "model_code": "S Class",
     "manufacturer_code": 37,
-    "trim_name": "S 580 4MATIC",
+    "trim_name": "S580 4MATIC",
     "standard_features": [
       "4.0L V8 Biturbo with EQ Boost (~496 hp, 516 lb-ft torque)",
       "4MATIC All-Wheel Drive",
@@ -28790,8 +28869,9 @@
   },
   {
     "code": "2026-s-580e-4matic",
+    "model_code": "S Class",
     "manufacturer_code": 37,
-    "trim_name": "S 580e 4MATIC",
+    "trim_name": "S580e 4MATIC",
     "standard_features": [
       "3.0L Inline-6 Turbo with EQ Boost + Plug-in Hybrid (~510 hp, 502 lb-ft torque)",
       "4MATIC All-Wheel Drive",
@@ -28824,8 +28904,9 @@
   },
   {
     "code": "2026-s-63-se-performance-amg",
+    "model_code": "S 63 S E Performance AMG",
     "manufacturer_code": 37,
-    "trim_name": "S 63 S E Performance AMG",
+    "trim_name": "Standard",
     "standard_features": [
       "4.0L V8 Biturbo with EQ Boost Plug-in Hybrid (~800 hp, 774 lb-ft torque)",
       "AMG Performance 4MATIC+ All-Wheel Drive",
@@ -28857,8 +28938,9 @@
   },
   {
     "code": "2026-sl-43-amg",
+    "model_code": "SL 43 AMG",
     "manufacturer_code": 37,
-    "trim_name": "SL 43 AMG",
+    "trim_name": "Standard",
     "standard_features": [
       "3.0L Inline-6 Turbo with EQ Boost (~385 hp, 369 lb-ft torque)",
       "AMG Performance Rear-Wheel Drive",
@@ -28889,8 +28971,9 @@
   },
   {
     "code": "2026-sl-55-amg",
+    "model_code": "SL 55 AMG",
     "manufacturer_code": 37,
-    "trim_name": "SL 55 AMG",
+    "trim_name": "Standard",
     "standard_features": [
       "4.0L V8 Biturbo Engine (~469 hp, 516 lb-ft torque)",
       "AMG Performance Rear-Wheel Drive",
@@ -28921,8 +29004,9 @@
   },
   {
     "code": "2026-sl-63-amg",
+    "model_code": "SL 63 AMG",
     "manufacturer_code": 37,
-    "trim_name": "SL 63 AMG",
+    "trim_name": "Standard",
     "standard_features": [
       "4.0L V8 Biturbo Engine (~603 hp, 627 lb-ft torque)",
       "AMG Performance Rear-Wheel Drive",
@@ -28953,8 +29037,9 @@
   },
   {
     "code": "2026-sl-63-se-performance-amg",
+    "model_code": "SL 63 S E Performance AMG",
     "manufacturer_code": 37,
-    "trim_name": "SL 63 S E Performance AMG",
+    "trim_name": "Standard",
     "standard_features": [
       "4.0L V8 Biturbo + EQ Boost Plug-in Hybrid (~805 hp, 774 lb-ft torque)",
       "AMG Performance Rear-Wheel Drive",
@@ -28984,8 +29069,9 @@
   },
   {
     "code": "2026-mini-cooper",
+    "model_code": "Cooper",
     "manufacturer_code": 38,
-    "trim_name": "Cooper",
+    "trim_name": "Base",
     "standard_features": [
       "1.5L 3-Cylinder Turbo Engine (~161 hp, 170 lb-ft torque)",
       "Front-Wheel Drive",
@@ -29011,8 +29097,9 @@
   },
   {
     "code": "2026-mini-cooper-s",
+    "model_code": "Cooper",
     "manufacturer_code": 38,
-    "trim_name": "Cooper S",
+    "trim_name": "S",
     "standard_features": [
       "2.0L 4-Cylinder Turbo Engine (~201 hp, 221 lb-ft torque)",
       "Front-Wheel Drive",
@@ -29039,6 +29126,7 @@
   },
   {
     "code": "2026-mini-john-cooper-works",
+    "model_code": "Cooper",
     "manufacturer_code": 38,
     "trim_name": "John Cooper Works",
     "standard_features": [
@@ -29067,6 +29155,7 @@
   },
   {
     "code": "2026-mini-countryman-cooper",
+    "model_code": "Countryman",
     "manufacturer_code": 38,
     "trim_name": "Cooper",
     "standard_features": [
@@ -29094,6 +29183,7 @@
   },
   {
     "code": "2026-mini-countryman-cooper-s",
+    "model_code": "Countryman",
     "manufacturer_code": 38,
     "trim_name": "Cooper S",
     "standard_features": [
@@ -29122,6 +29212,7 @@
   },
   {
     "code": "2026-mini-countryman-cooper-se",
+    "model_code": "Countryman",
     "manufacturer_code": 38,
     "trim_name": "Cooper SE Plug-In Hybrid",
     "standard_features": [
@@ -29150,6 +29241,7 @@
   },
   {
     "code": "2026-mini-countryman-jcw",
+    "model_code": "Countryman",
     "manufacturer_code": 38,
     "trim_name": "John Cooper Works",
     "standard_features": [
@@ -29178,6 +29270,7 @@
   },
   {
     "code": "2026-mitsubishi-eclipse-cross-es",
+    "model_code": "Eclipse Cross",
     "manufacturer_code": 39,
     "trim_name": "ES",
     "standard_features": [
@@ -29201,6 +29294,7 @@
   },
   {
     "code": "2026-mitsubishi-eclipse-cross-se",
+    "model_code": "Eclipse Cross",
     "manufacturer_code": 39,
     "trim_name": "SE",
     "standard_features": [
@@ -29225,6 +29319,7 @@
   },
   {
     "code": "2026-mitsubishi-eclipse-cross-sel",
+    "model_code": "Eclipse Cross",
     "manufacturer_code": 39,
     "trim_name": "SEL",
     "standard_features": [
@@ -29251,6 +29346,7 @@
   },
   {
     "code": "2026-mitsubishi-eclipse-cross-gt",
+    "model_code": "Eclipse Cross",
     "manufacturer_code": 39,
     "trim_name": "GT",
     "standard_features": [
@@ -29278,6 +29374,7 @@
   },
   {
     "code": "2026-mitsubishi-outlander-es",
+    "model_code": "Outlander",
     "manufacturer_code": 39,
     "trim_name": "ES",
     "standard_features": [
@@ -29301,6 +29398,7 @@
   },
   {
     "code": "2026-mitsubishi-outlander-se",
+    "model_code": "Outlander",
     "manufacturer_code": 39,
     "trim_name": "SE",
     "standard_features": [
@@ -29325,6 +29423,7 @@
   },
   {
     "code": "2026-mitsubishi-outlander-sel",
+    "model_code": "Outlander",
     "manufacturer_code": 39,
     "trim_name": "SEL",
     "standard_features": [
@@ -29351,6 +29450,7 @@
   },
   {
     "code": "2026-mitsubishi-outlander-gt",
+    "model_code": "Outlander",
     "manufacturer_code": 39,
     "trim_name": "GT",
     "standard_features": [
@@ -29377,108 +29477,10 @@
     "active": true
   },
   {
-    "code": "2026-mitsubishi-outlander-sport-es",
-    "manufacturer_code": 39,
-    "trim_name": "ES",
-    "standard_features": [
-      "2.0L 4-Cylinder Engine (~148 hp, 145 lb-ft torque)",
-      "Front-Wheel Drive",
-      "CVT Automatic Transmission",
-      "Mitsubishi Connect Infotainment with 7\" Touchscreen",
-      "Apple CarPlay & Android Auto",
-      "Cloth Interior",
-      "Manual Air Conditioning",
-      "LED Daytime Running Lights",
-      "Rearview Camera",
-      "16–17\" Alloy Wheels"
-    ],
-    "optional_features": [
-      "All-Wheel Drive (AWC)",
-      "Sunroof / Panoramic Roof",
-      "Convenience Package (blind spot monitoring, rear cross traffic alert)"
-    ],
-    "active": true
-  },
-  {
-    "code": "2026-mitsubishi-outlander-sport-se",
-    "manufacturer_code": 39,
-    "trim_name": "SE",
-    "standard_features": [
-      "2.0L 4-Cylinder Engine (~148 hp, 145 lb-ft torque)",
-      "All-Wheel Drive (AWC)",
-      "CVT Automatic Transmission",
-      "Mitsubishi Connect Infotainment with 7\" Touchscreen",
-      "Apple CarPlay & Android Auto",
-      "Cloth / Leatherette Interior",
-      "Dual-Zone Automatic Climate Control",
-      "Power-Adjustable Driver Seat",
-      "LED Headlights & Fog Lights",
-      "Rearview Camera",
-      "17\" Alloy Wheels"
-    ],
-    "optional_features": [
-      "Sunroof / Panoramic Roof",
-      "Safety & Driver Assistance Package",
-      "Premium Audio Upgrade"
-    ],
-    "active": true
-  },
-  {
-    "code": "2026-mitsubishi-outlander-sport-sel",
-    "manufacturer_code": 39,
-    "trim_name": "SEL",
-    "standard_features": [
-      "2.0L 4-Cylinder Engine (~148 hp, 145 lb-ft torque)",
-      "All-Wheel Drive (AWC)",
-      "CVT Automatic Transmission",
-      "Mitsubishi Connect Infotainment with 7\" Touchscreen",
-      "Apple CarPlay & Android Auto",
-      "Leather Seats",
-      "Heated Front Seats",
-      "Power-Adjustable Driver & Passenger Seats",
-      "Dual-Zone Automatic Climate Control",
-      "LED Headlights & Fog Lights",
-      "Advanced Safety Features (blind spot, rear cross traffic, lane assist)",
-      "Rearview Camera",
-      "17–18\" Alloy Wheels"
-    ],
-    "optional_features": [
-      "Panoramic Sunroof",
-      "Premium Audio Package",
-      "Driver Assistance Plus Package"
-    ],
-    "active": true
-  },
-  {
-    "code": "2026-mitsubishi-outlander-sport-gt",
-    "manufacturer_code": 39,
-    "trim_name": "GT",
-    "standard_features": [
-      "2.0L 4-Cylinder Engine (~148 hp, 145 lb-ft torque)",
-      "All-Wheel Drive (AWC)",
-      "CVT Automatic Transmission",
-      "Mitsubishi Connect Infotainment with 7\" Touchscreen",
-      "Apple CarPlay & Android Auto",
-      "Leather Seats with GT Styling",
-      "Heated Front Seats",
-      "Power-Adjustable Driver & Passenger Seats",
-      "Dual-Zone Automatic Climate Control",
-      "LED Headlights & Fog Lights",
-      "Advanced Safety Suite (adaptive cruise, lane assist, blind spot monitoring)",
-      "17–18\" Alloy Wheels",
-      "Sunroof / Panoramic Roof"
-    ],
-    "optional_features": [
-      "Premium Audio Upgrade",
-      "Navigation Package",
-      "Driver Assistance Plus Package"
-    ],
-    "active": true
-  },
-  {
     "code": "2026-mitsubishi-outlander-phev",
+    "model_code": "Outlander",
     "manufacturer_code": 39,
-    "trim_name": "PHEV",
+    "trim_name": "Standard",
     "standard_features": [
       "2.4L 4-Cylinder Gas Engine + Dual Electric Motors (~221 hp combined)",
       "Plug-In Hybrid All-Wheel Drive",
@@ -29502,6 +29504,7 @@
   },
   {
     "code": "2026-mitsubishi-outlander-trail-edition",
+    "model_code": "Outlander",
     "manufacturer_code": 39,
     "trim_name": "Trail Edition",
     "standard_features": [
@@ -29529,7 +29532,111 @@
     "active": true
   },
   {
+    "code": "2026-mitsubishi-outlander-sport-es",
+    "model_code": "Outlander Sport",
+    "manufacturer_code": 39,
+    "trim_name": "ES",
+    "standard_features": [
+      "2.0L 4-Cylinder Engine (~148 hp, 145 lb-ft torque)",
+      "Front-Wheel Drive",
+      "CVT Automatic Transmission",
+      "Mitsubishi Connect Infotainment with 7\" Touchscreen",
+      "Apple CarPlay & Android Auto",
+      "Cloth Interior",
+      "Manual Air Conditioning",
+      "LED Daytime Running Lights",
+      "Rearview Camera",
+      "16–17\" Alloy Wheels"
+    ],
+    "optional_features": [
+      "All-Wheel Drive (AWC)",
+      "Sunroof / Panoramic Roof",
+      "Convenience Package (blind spot monitoring, rear cross traffic alert)"
+    ],
+    "active": true
+  },
+  {
+    "code": "2026-mitsubishi-outlander-sport-se",
+    "model_code": "Outlander Sport",
+    "manufacturer_code": 39,
+    "trim_name": "SE",
+    "standard_features": [
+      "2.0L 4-Cylinder Engine (~148 hp, 145 lb-ft torque)",
+      "All-Wheel Drive (AWC)",
+      "CVT Automatic Transmission",
+      "Mitsubishi Connect Infotainment with 7\" Touchscreen",
+      "Apple CarPlay & Android Auto",
+      "Cloth / Leatherette Interior",
+      "Dual-Zone Automatic Climate Control",
+      "Power-Adjustable Driver Seat",
+      "LED Headlights & Fog Lights",
+      "Rearview Camera",
+      "17\" Alloy Wheels"
+    ],
+    "optional_features": [
+      "Sunroof / Panoramic Roof",
+      "Safety & Driver Assistance Package",
+      "Premium Audio Upgrade"
+    ],
+    "active": true
+  },
+  {
+    "code": "2026-mitsubishi-outlander-sport-sel",
+    "model_code": "Outlander Sport",
+    "manufacturer_code": 39,
+    "trim_name": "SEL",
+    "standard_features": [
+      "2.0L 4-Cylinder Engine (~148 hp, 145 lb-ft torque)",
+      "All-Wheel Drive (AWC)",
+      "CVT Automatic Transmission",
+      "Mitsubishi Connect Infotainment with 7\" Touchscreen",
+      "Apple CarPlay & Android Auto",
+      "Leather Seats",
+      "Heated Front Seats",
+      "Power-Adjustable Driver & Passenger Seats",
+      "Dual-Zone Automatic Climate Control",
+      "LED Headlights & Fog Lights",
+      "Advanced Safety Features (blind spot, rear cross traffic, lane assist)",
+      "Rearview Camera",
+      "17–18\" Alloy Wheels"
+    ],
+    "optional_features": [
+      "Panoramic Sunroof",
+      "Premium Audio Package",
+      "Driver Assistance Plus Package"
+    ],
+    "active": true
+  },
+  {
+    "code": "2026-mitsubishi-outlander-sport-gt",
+    "model_code": "Outlander Sport",
+    "manufacturer_code": 39,
+    "trim_name": "GT",
+    "standard_features": [
+      "2.0L 4-Cylinder Engine (~148 hp, 145 lb-ft torque)",
+      "All-Wheel Drive (AWC)",
+      "CVT Automatic Transmission",
+      "Mitsubishi Connect Infotainment with 7\" Touchscreen",
+      "Apple CarPlay & Android Auto",
+      "Leather Seats with GT Styling",
+      "Heated Front Seats",
+      "Power-Adjustable Driver & Passenger Seats",
+      "Dual-Zone Automatic Climate Control",
+      "LED Headlights & Fog Lights",
+      "Advanced Safety Suite (adaptive cruise, lane assist, blind spot monitoring)",
+      "17–18\" Alloy Wheels",
+      "Sunroof / Panoramic Roof"
+    ],
+    "optional_features": [
+      "Premium Audio Upgrade",
+      "Navigation Package",
+      "Driver Assistance Plus Package"
+    ],
+    "active": true
+  },
+  {
     "code": "2026-nissan-altima-s",
+    "model_code": "Altima",
     "manufacturer_code": 40,
     "trim_name": "S",
     "standard_features": [
@@ -29553,6 +29660,7 @@
   },
   {
     "code": "2026-nissan-altima-sv",
+    "model_code": "Altima",
     "manufacturer_code": 40,
     "trim_name": "SV",
     "standard_features": [
@@ -29577,6 +29685,7 @@
   },
   {
     "code": "2026-nissan-altima-sl",
+    "model_code": "Altima",
     "manufacturer_code": 40,
     "trim_name": "SL",
     "standard_features": [
@@ -29604,6 +29713,7 @@
   },
   {
     "code": "2026-nissan-altima-sr",
+    "model_code": "Altima",
     "manufacturer_code": 40,
     "trim_name": "SR",
     "standard_features": [
@@ -29629,6 +29739,7 @@
   },
   {
     "code": "2026-nissan-altima-platinum",
+    "model_code": "Altima",
     "manufacturer_code": 40,
     "trim_name": "Platinum",
     "standard_features": [
@@ -29656,6 +29767,7 @@
   },
   {
     "code": "2026-nissan-altima-platinum-vc-turbo",
+    "model_code": "Altima",
     "manufacturer_code": 40,
     "trim_name": "Platinum VC-Turbo",
     "standard_features": [
@@ -29684,6 +29796,7 @@
   },
   {
     "code": "2026-nissan-armada-sv",
+    "model_code": "Armada",
     "manufacturer_code": 40,
     "trim_name": "SV",
     "standard_features": [
@@ -29709,6 +29822,7 @@
   },
   {
     "code": "2026-nissan-armada-sl",
+    "model_code": "Armada",
     "manufacturer_code": 40,
     "trim_name": "SL",
     "standard_features": [
@@ -29736,6 +29850,7 @@
   },
   {
     "code": "2026-nissan-armada-platinum",
+    "model_code": "Armada",
     "manufacturer_code": 40,
     "trim_name": "Platinum",
     "standard_features": [
@@ -29763,6 +29878,7 @@
   },
   {
     "code": "2026-nissan-armada-platinum-reserve",
+    "model_code": "Armada",
     "manufacturer_code": 40,
     "trim_name": "Platinum Reserve",
     "standard_features": [
@@ -29791,6 +29907,7 @@
   },
   {
     "code": "2026-nissan-frontier-s",
+    "model_code": "Frontier",
     "manufacturer_code": 40,
     "trim_name": "S",
     "standard_features": [
@@ -29815,6 +29932,7 @@
   },
   {
     "code": "2026-nissan-frontier-sv",
+    "model_code": "Frontier",
     "manufacturer_code": 40,
     "trim_name": "SV",
     "standard_features": [
@@ -29841,6 +29959,7 @@
   },
   {
     "code": "2026-nissan-frontier-pro-x",
+    "model_code": "Frontier",
     "manufacturer_code": 40,
     "trim_name": "Pro-X",
     "standard_features": [
@@ -29867,6 +29986,7 @@
   },
   {
     "code": "2026-nissan-frontier-pro-4x",
+    "model_code": "Frontier",
     "manufacturer_code": 40,
     "trim_name": "PRO-4X / Desert Runner",
     "standard_features": [
@@ -29894,6 +30014,7 @@
   },
   {
     "code": "2026-nissan-kicks-s",
+    "model_code": "Kicks",
     "manufacturer_code": 40,
     "trim_name": "S",
     "standard_features": [
@@ -29917,6 +30038,7 @@
   },
   {
     "code": "2026-nissan-kicks-sv",
+    "model_code": "Kicks",
     "manufacturer_code": 40,
     "trim_name": "SV",
     "standard_features": [
@@ -29941,6 +30063,7 @@
   },
   {
     "code": "2026-nissan-kicks-sr",
+    "model_code": "Kicks",
     "manufacturer_code": 40,
     "trim_name": "SR",
     "standard_features": [
@@ -29966,6 +30089,7 @@
   },
   {
     "code": "2026-nissan-kicks-play-s",
+    "model_code": "Kicks Play",
     "manufacturer_code": 40,
     "trim_name": "S",
     "standard_features": [
@@ -29989,6 +30113,7 @@
   },
   {
     "code": "2026-nissan-kicks-play-sv",
+    "model_code": "Kicks Play",
     "manufacturer_code": 40,
     "trim_name": "SV",
     "standard_features": [
@@ -30013,6 +30138,7 @@
   },
   {
     "code": "2026-nissan-kicks-play-sr",
+    "model_code": "Kicks Play",
     "manufacturer_code": 40,
     "trim_name": "SR",
     "standard_features": [
@@ -30038,6 +30164,7 @@
   },
   {
     "code": "2026-nissan-leaf-s",
+    "model_code": "LEAF",
     "manufacturer_code": 40,
     "trim_name": "S",
     "standard_features": [
@@ -30063,6 +30190,7 @@
   },
   {
     "code": "2026-nissan-leaf-sv",
+    "model_code": "LEAF",
     "manufacturer_code": 40,
     "trim_name": "SV",
     "standard_features": [
@@ -30089,6 +30217,7 @@
   },
   {
     "code": "2026-nissan-leaf-sl",
+    "model_code": "LEAF",
     "manufacturer_code": 40,
     "trim_name": "SL",
     "standard_features": [
@@ -30117,6 +30246,7 @@
   },
   {
     "code": "2026-nissan-murano-s",
+    "model_code": "Murano",
     "manufacturer_code": 40,
     "trim_name": "S",
     "standard_features": [
@@ -30141,6 +30271,7 @@
   },
   {
     "code": "2026-nissan-murano-sv",
+    "model_code": "Murano",
     "manufacturer_code": 40,
     "trim_name": "SV",
     "standard_features": [
@@ -30167,6 +30298,7 @@
   },
   {
     "code": "2026-nissan-murano-sl",
+    "model_code": "Murano",
     "manufacturer_code": 40,
     "trim_name": "SL",
     "standard_features": [
@@ -30193,6 +30325,7 @@
   },
   {
     "code": "2026-nissan-murano-platinum",
+    "model_code": "Murano",
     "manufacturer_code": 40,
     "trim_name": "Platinum",
     "standard_features": [
@@ -30221,6 +30354,7 @@
   },
   {
     "code": "2026-nissan-pathfinder-s",
+    "model_code": "Pathfinder",
     "manufacturer_code": 40,
     "trim_name": "S",
     "standard_features": [
@@ -30245,6 +30379,7 @@
   },
   {
     "code": "2026-nissan-pathfinder-sv",
+    "model_code": "Pathfinder",
     "manufacturer_code": 40,
     "trim_name": "SV",
     "standard_features": [
@@ -30272,6 +30407,7 @@
   },
   {
     "code": "2026-nissan-pathfinder-sl",
+    "model_code": "Pathfinder",
     "manufacturer_code": 40,
     "trim_name": "SL",
     "standard_features": [
@@ -30299,6 +30435,7 @@
   },
   {
     "code": "2026-nissan-pathfinder-platinum",
+    "model_code": "Pathfinder",
     "manufacturer_code": 40,
     "trim_name": "Platinum",
     "standard_features": [
@@ -30328,6 +30465,7 @@
   },
   {
     "code": "2026-nissan-pathfinder-rock-creek",
+    "model_code": "Pathfinder",
     "manufacturer_code": 40,
     "trim_name": "Rock Creek Edition",
     "standard_features": [
@@ -30355,6 +30493,7 @@
   },
   {
     "code": "2026-nissan-rogue-s",
+    "model_code": "Rogue",
     "manufacturer_code": 40,
     "trim_name": "S",
     "standard_features": [
@@ -30379,6 +30518,7 @@
   },
   {
     "code": "2026-nissan-rogue-sv",
+    "model_code": "Rogue",
     "manufacturer_code": 40,
     "trim_name": "SV",
     "standard_features": [
@@ -30406,6 +30546,7 @@
   },
   {
     "code": "2026-nissan-rogue-sl",
+    "model_code": "Rogue",
     "manufacturer_code": 40,
     "trim_name": "SL",
     "standard_features": [
@@ -30434,6 +30575,7 @@
   },
   {
     "code": "2026-nissan-sentra-s",
+    "model_code": "Sentra",
     "manufacturer_code": 40,
     "trim_name": "S",
     "standard_features": [
@@ -30457,6 +30599,7 @@
   },
   {
     "code": "2026-nissan-sentra-sv",
+    "model_code": "Sentra",
     "manufacturer_code": 40,
     "trim_name": "SV",
     "standard_features": [
@@ -30482,6 +30625,7 @@
   },
   {
     "code": "2026-nissan-sentra-sr",
+    "model_code": "Sentra",
     "manufacturer_code": 40,
     "trim_name": "SR",
     "standard_features": [
@@ -30507,6 +30651,7 @@
   },
   {
     "code": "2026-nissan-sentra-sl",
+    "model_code": "Sentra",
     "manufacturer_code": 40,
     "trim_name": "SL",
     "standard_features": [
@@ -30534,6 +30679,7 @@
   },
   {
     "code": "2026-nissan-versa-s",
+    "model_code": "Versa",
     "manufacturer_code": 40,
     "trim_name": "S",
     "standard_features": [
@@ -30557,6 +30703,7 @@
   },
   {
     "code": "2026-nissan-versa-sv",
+    "model_code": "Versa",
     "manufacturer_code": 40,
     "trim_name": "SV",
     "standard_features": [
@@ -30583,6 +30730,7 @@
   },
   {
     "code": "2026-nissan-versa-sr",
+    "model_code": "Versa",
     "manufacturer_code": 40,
     "trim_name": "SR",
     "standard_features": [
@@ -30608,8 +30756,9 @@
   },
   {
     "code": "2026-nissan-z",
+    "model_code": "Z",
     "manufacturer_code": 40,
-    "trim_name": "Z",
+    "trim_name": "Base",
     "standard_features": [
       "3.0L V6 Twin-Turbo Engine (~400 hp, 350 lb-ft torque)",
       "Rear-Wheel Drive (All-Wheel Drive not available)",
@@ -30633,8 +30782,9 @@
   },
   {
     "code": "2026-nissan-z-performance",
+    "model_code": "Z",
     "manufacturer_code": 40,
-    "trim_name": "Z Performance",
+    "trim_name": "Performance",
     "standard_features": [
       "3.0L V6 Twin-Turbo Engine (~400 hp, 350 lb-ft torque)",
       "Rear-Wheel Drive",
@@ -30658,8 +30808,9 @@
   },
   {
     "code": "2026-nissan-z-nismo",
+    "model_code": "Z",
     "manufacturer_code": 40,
-    "trim_name": "Z Nismo",
+    "trim_name": "Nismo",
     "standard_features": [
       "3.0L V6 Twin-Turbo Engine (~405 hp, 350 lb-ft torque)",
       "Rear-Wheel Drive",
@@ -30683,8 +30834,9 @@
   },
   {
     "code": "2026-pagani-huayra-codalunga-speedster",
+    "model_code": "Huayra Codalunga Speedster",
     "manufacturer_code": 41,
-    "trim_name": "Huayra Codalunga Speedster",
+    "trim_name": "Standard",
     "standard_features": [
       "6.0L V12 Twin-Turbo AMG Engine (~850 hp, 811 lb-ft torque)",
       "Rear-Wheel Drive",
@@ -30709,8 +30861,9 @@
   },
   {
     "code": "2026-pagani-huayra-r-evo-roadster",
+    "model_code": "Huayra R Evo Roadster",
     "manufacturer_code": 41,
-    "trim_name": "Huayra R Evo Roadster",
+    "trim_name": "Standard",
     "standard_features": [
       "6.0L V12 Naturally Aspirated Engine (~850 hp, 811 lb-ft torque)",
       "Rear-Wheel Drive",
@@ -30735,8 +30888,9 @@
   },
   {
     "code": "2026-pagani-utopia-roadster",
+    "model_code": "Utopia Roadster",
     "manufacturer_code": 41,
-    "trim_name": "Utopia Roadster",
+    "trim_name": "Standard",
     "standard_features": [
       "6.0L V12 Twin-Turbo AMG Engine (~900 hp, 811 lb-ft torque)",
       "Rear-Wheel Drive",
@@ -30762,8 +30916,9 @@
   },
   {
     "code": "2026-pagani-zonda-unico",
+    "model_code": "Zonda Unico",
     "manufacturer_code": 41,
-    "trim_name": "Zonda Unico",
+    "trim_name": "Standard",
     "standard_features": [
       "7.3L V12 Naturally Aspirated AMG Engine (~800 hp, 780 lb-ft torque)",
       "Rear-Wheel Drive",
@@ -30788,9 +30943,10 @@
     "active": true
   },
   {
-    "code": "2026-polestar-2-standard",
+    "code": "2026-polestar-2-base",
+    "model_code": "2",
     "manufacturer_code": 42,
-    "trim_name": "Standard",
+    "trim_name": "Base",
     "standard_features": [
       "Electric Dual Motor (~336 hp, 502 lb-ft torque)",
       "All-Wheel Drive",
@@ -30815,6 +30971,7 @@
   },
   {
     "code": "2026-polestar-2-long-range",
+    "model_code": "2",
     "manufacturer_code": 42,
     "trim_name": "Long Range",
     "standard_features": [
@@ -30840,6 +30997,7 @@
   },
   {
     "code": "2026-polestar-2-performance",
+    "model_code": "2",
     "manufacturer_code": 42,
     "trim_name": "Performance",
     "standard_features": [
@@ -30866,6 +31024,7 @@
   },
   {
     "code": "2026-polestar-3-standard",
+    "model_code": "2",
     "manufacturer_code": 42,
     "trim_name": "Standard",
     "standard_features": [
@@ -30892,6 +31051,7 @@
   },
   {
     "code": "2026-polestar-3-long-range",
+    "model_code": "3",
     "manufacturer_code": 42,
     "trim_name": "Long Range",
     "standard_features": [
@@ -30917,6 +31077,7 @@
   },
   {
     "code": "2026-polestar-3-performance",
+    "model_code": "3",
     "manufacturer_code": 42,
     "trim_name": "Performance",
     "standard_features": [
@@ -30942,9 +31103,10 @@
     "active": true
   },
   {
-    "code": "2026-polestar-4-standard",
+    "code": "2026-polestar-4-base",
+    "model_code": "4",
     "manufacturer_code": 42,
-    "trim_name": "Standard",
+    "trim_name": "Base",
     "standard_features": [
       "Electric Dual Motor (~335 hp, 502 lb-ft torque)",
       "All-Wheel Drive",
@@ -30969,6 +31131,7 @@
   },
   {
     "code": "2026-polestar-4-long-range",
+    "model_code": "4",
     "manufacturer_code": 42,
     "trim_name": "Long Range",
     "standard_features": [
@@ -30994,6 +31157,7 @@
   },
   {
     "code": "2026-polestar-4-performance",
+    "model_code": "4",
     "manufacturer_code": 42,
     "trim_name": "Performance",
     "standard_features": [
@@ -31019,9 +31183,10 @@
     "active": true
   },
   {
-    "code": "2026-718-boxster",
+    "code": "2026-718-boxster-base",
+    "model_code": "718 Boxster",
     "manufacturer_code": 43,
-    "trim_name": "718 Boxster",
+    "trim_name": "Base",
     "standard_features": [
       "2.0L Turbocharged Flat-4 Engine (~300 hp, 280 lb-ft torque)",
       "Rear-Wheel Drive",
@@ -31046,8 +31211,9 @@
   },
   {
   "code": "2026-718-boxster-gts-40",
+  "model_code": "718 Boxster",
   "manufacturer_code": 43,
-  "trim_name": "718 Boxster GTS 4.0",
+  "trim_name": "GTS 4.0",
   "standard_features": [
     "4.0L Naturally Aspirated Flat-6 Engine (~394 hp, 309 lb-ft torque)",
     "Rear-Wheel Drive",
@@ -31070,8 +31236,9 @@
   },
   {
   "code": "2026-718-boxster-s",
+  "model_code": "718 Boxster",
   "manufacturer_code": 43,
-  "trim_name": "718 Boxster S",
+  "trim_name": "S",
   "standard_features": [
     "2.5L Turbocharged Flat-4 Engine (~365 hp, 317 lb-ft torque)",
     "Rear-Wheel Drive",
@@ -31098,8 +31265,9 @@
   },
   {
     "code": "2026-718-boxster-style-edition",
+    "model_code": "718 Boxster",
     "manufacturer_code": 43,
-    "trim_name": "718 Boxster Style Edition",
+    "trim_name": "Style Edition",
     "standard_features": [
       "2.5L Turbocharged Flat-4 Engine (~365 hp, 317 lb-ft torque)",
       "Rear-Wheel Drive",
@@ -31124,9 +31292,10 @@
     "active": true
   },
   {
-    "code": "2026-718-cayman",
+    "code": "2026-718-cayman-base",
+    "model_code": "718 Cayman",
     "manufacturer_code": 43,
-    "trim_name": "718 Cayman",
+    "trim_name": "Base",
     "standard_features": [
       "2.0L Turbocharged Flat-4 Engine (~300 hp, 280 lb-ft torque)",
       "Rear-Wheel Drive",
@@ -31151,8 +31320,9 @@
   },
   {
     "code": "2026-718-cayman-s",
+    "model_code": "718 Cayman",
     "manufacturer_code": 43,
-    "trim_name": "718 Cayman S",
+    "trim_name": "S",
     "standard_features": [
       "2.5L Turbocharged Flat-4 Engine (~365 hp, 317 lb-ft torque)",
       "Rear-Wheel Drive",
@@ -31178,8 +31348,9 @@
   },
   {
     "code": "2026-718-cayman-gts-40",
+    "model_code": "718 Cayman",
     "manufacturer_code": 43,
-    "trim_name": "718 Cayman GTS 4.0",
+    "trim_name": "GTS 4.0",
     "standard_features": [
       "4.0L Naturally Aspirated Flat-6 Engine (~394 hp, 309 lb-ft torque)",
       "Rear-Wheel Drive",
@@ -31202,8 +31373,9 @@
   },
   {
     "code": "2026-718-cayman-gt4-rs",
+    "model_code": "718 Cayman",
     "manufacturer_code": 43,
-    "trim_name": "718 Cayman GT4 RS",
+    "trim_name": "GT4 RS",
     "standard_features": [
       "4.0L Naturally Aspirated Flat-6 Engine (~493 hp, 331 lb-ft torque)",
       "Rear-Wheel Drive",
@@ -31228,8 +31400,9 @@
   },
   {
     "code": "2026-718-cayman-style-edition",
+    "model_code": "718 Cayman",
     "manufacturer_code": 43,
-    "trim_name": "718 Cayman Style Edition",
+    "trim_name": "Style Edition",
     "standard_features": [
       "2.5L Turbocharged Flat-4 Engine (~365 hp, 317 lb-ft torque)",
       "Rear-Wheel Drive",
@@ -31255,8 +31428,9 @@
   },
   {
     "code": "2026-718-spyder-rs",
+    "model_code": "718 Spyder RS",
     "manufacturer_code": 43,
-    "trim_name": "718 Spyder RS",
+    "trim_name": "Standard",
     "standard_features": [
       "4.0L Naturally Aspirated Flat-6 Engine (~518 hp, 347 lb-ft torque)",
       "Rear-Wheel Drive",
@@ -31279,9 +31453,10 @@
     "active": true
   },
   {
-    "code": "2026-911-carrera",
+    "code": "2026-911-carrera-base",
+    "model_code": "911 Carrera",
     "manufacturer_code": 43,
-    "trim_name": "911 Carrera",
+    "trim_name": "Base Coupe",
     "standard_features": [
       "3.0L Twin-Turbo Flat-6 Engine (~379 hp, 331 lb-ft torque)",
       "Rear-Wheel Drive",
@@ -31307,8 +31482,9 @@
   },
   {
     "code": "2026-911-carrera-cabriolet",
+    "model_code": "911 Carrera",
     "manufacturer_code": 43,
-    "trim_name": "911 Carrera Cabriolet",
+    "trim_name": "Base Cabriolet",
     "standard_features": [
       "3.0L Twin-Turbo Flat-6 Engine (~379 hp, 331 lb-ft torque)",
       "Rear-Wheel Drive",
@@ -31334,9 +31510,10 @@
     "active": true
   },
   {
-    "code": "2026-911-carrera-s",
+    "code": "2026-911-carrera-s-coupe",
+    "model_code": "911 Carrera",
     "manufacturer_code": 43,
-    "trim_name": "911 Carrera S",
+    "trim_name": "S Coupe",
     "standard_features": [
       "3.0L Twin-Turbo Flat-6 Engine (~443 hp, 390 lb-ft torque)",
       "Rear-Wheel Drive",
@@ -31363,8 +31540,9 @@
   },
   {
     "code": "2026-911-carrera-s-cabriolet",
+    "model_code": "911 Carrera",
     "manufacturer_code": 43,
-    "trim_name": "911 Carrera S Cabriolet",
+    "trim_name": "S Cabriolet",
     "standard_features": [
       "3.0L Twin-Turbo Flat-6 Engine (~443 hp, 390 lb-ft torque)",
       "Rear-Wheel Drive",
@@ -31391,9 +31569,10 @@
     "active": true
   },
   {
-    "code": "2026-911-carrera-gts",
+    "code": "2026-911-carrera-gts-coupe",
+    "model_code": "911 Carrera",
     "manufacturer_code": 43,
-    "trim_name": "911 Carrera GTS",
+    "trim_name": "GTS Coupe",
     "standard_features": [
       "3.0L Twin-Turbo Flat-6 Engine (~473 hp, 420 lb-ft torque)",
       "Rear-Wheel Drive",
@@ -31420,8 +31599,9 @@
   },
   {
     "code": "2026-911-carrera-gts-cabriolet",
+    "model_code": "911 Carrera",
     "manufacturer_code": 43,
-    "trim_name": "911 Carrera GTS Cabriolet",
+    "trim_name": "GTS Cabriolet",
     "standard_features": [
       "3.0L Twin-Turbo Flat-6 Engine (~473 hp, 420 lb-ft torque)",
       "Rear-Wheel Drive",
@@ -31448,9 +31628,10 @@
     "active": true
   },
   {
-    "code": "2026-911-carrera-4s",
+    "code": "2026-911-carrera-4s-coupe",
+    "model_code": "911 Carrera",
     "manufacturer_code": 43,
-    "trim_name": "911 Carrera 4S",
+    "trim_name": "4S Coupe",
     "standard_features": [
       "3.0L Twin-Turbo Flat-6 Engine (~443 hp, 390 lb-ft torque)",
       "All-Wheel Drive",
@@ -31477,8 +31658,9 @@
   },
   {
     "code": "2026-911-carrera-4s-cabriolet",
+    "model_code": "911 Carrera",
     "manufacturer_code": 43,
-    "trim_name": "911 Carrera 4S Cabriolet",
+    "trim_name": "4S Cabriolet",
     "standard_features": [
       "3.0L Twin-Turbo Flat-6 Engine (~443 hp, 390 lb-ft torque)",
       "All-Wheel Drive",
@@ -31505,9 +31687,10 @@
     "active": true
   },
   {
-    "code": "2026-911-carrera-t",
+    "code": "2026-911-carrera-t-coupe",
+    "model_code": "911 Carrera",
     "manufacturer_code": 43,
-    "trim_name": "911 Carrera T",
+    "trim_name": "T Coupe",
     "standard_features": [
       "3.0L Twin-Turbo Flat-6 Engine (~379 hp, 331 lb-ft torque)",
       "Rear-Wheel Drive",
@@ -31533,8 +31716,9 @@
   },
   {
     "code": "2026-911-carrera-t-cabriolet",
+    "model_code": "911 Carrera",
     "manufacturer_code": 43,
-    "trim_name": "911 Carrera T Cabriolet",
+    "trim_name": "T Cabriolet",
     "standard_features": [
       "3.0L Twin-Turbo Flat-6 Engine (~379 hp, 331 lb-ft torque)",
       "Rear-Wheel Drive",
@@ -31560,9 +31744,10 @@
     "active": true
   },
   {
-    "code": "2026-911-gt3",
+    "code": "2026-911-gt3-base",
+    "model_code": "911 GT3",
     "manufacturer_code": 43,
-    "trim_name": "911 GT3",
+    "trim_name": "Base",
     "standard_features": [
       "4.0L Naturally Aspirated Flat-6 Engine (~502 hp, 346 lb-ft torque)",
       "Rear-Wheel Drive",
@@ -31590,8 +31775,9 @@
   },
   {
     "code": "2026-911-gt3-90-fa-porsche",
+    "model_code": "911 GT3",
     "manufacturer_code": 43,
-    "trim_name": "911 GT3 90 f.A. Porsche",
+    "trim_name": "90 f.A. Porsche",
     "standard_features": [
       "4.0L Naturally Aspirated Flat-6 Engine (~502 hp, 346 lb-ft torque)",
       "Rear-Wheel Drive",
@@ -31620,8 +31806,9 @@
   },
   {
     "code": "2026-911-gt3-rs",
+    "model_code": "911 GT3",
     "manufacturer_code": 43,
-    "trim_name": "911 GT3 RS",
+    "trim_name": "RS",
     "standard_features": [
       "4.0L Naturally Aspirated Flat-6 Engine (~518 hp, 346 lb-ft torque)",
       "Rear-Wheel Drive",
@@ -31650,8 +31837,9 @@
   },
   {
     "code": "2026-911-spirit-70",
+    "model_code": "911 Spirit 70",
     "manufacturer_code": 43,
-    "trim_name": "911 Spirit 70",
+    "trim_name": "Spirit 70",
     "standard_features": [
       "4.0L Naturally Aspirated Flat-6 Engine (~502 hp, 346 lb-ft torque)",
       "Rear-Wheel Drive",
@@ -31681,8 +31869,9 @@
   },
   {
     "code": "2026-911-targa-4s",
+    "model_code": "911 Targa",
     "manufacturer_code": 43,
-    "trim_name": "911 Targa 4S",
+    "trim_name": "4S",
     "standard_features": [
       "3.0L Twin-Turbo Flat-6 Engine (~443 hp, 390 lb-ft torque)",
       "All-Wheel Drive (AWD)",
@@ -31710,8 +31899,9 @@
   },
   {
     "code": "2026-911-targa-4-gts",
+    "model_code": "911 Targa",
     "manufacturer_code": 43,
-    "trim_name": "911 Targa 4 GTS",
+    "trim_name": "4 GTS",
     "standard_features": [
       "3.0L Twin-Turbo Flat-6 Engine (~473 hp, 420 lb-ft torque)",
       "All-Wheel Drive (AWD)",
@@ -31740,8 +31930,9 @@
   },
   {
     "code": "2026-911-turbo-s",
+    "model_code": "911 Turbo",
     "manufacturer_code": 43,
-    "trim_name": "911 Turbo S",
+    "trim_name": "S Coupe",
     "standard_features": [
       "3.8L Twin-Turbo Flat-6 Engine (~641 hp, 590 lb-ft torque)",
       "All-Wheel Drive (AWD)",
@@ -31771,8 +31962,9 @@
   },
   {
     "code": "2026-911-turbo-s-cabriolet",
+    "model_code": "911 Turbo",
     "manufacturer_code": 43,
-    "trim_name": "911 Turbo S Cabriolet",
+    "trim_name": "S Cabriolet",
     "standard_features": [
       "3.8L Twin-Turbo Flat-6 Engine (~641 hp, 590 lb-ft torque)",
       "All-Wheel Drive (AWD)",
@@ -31802,9 +31994,10 @@
     "active": true
   },
   {
-    "code": "2026-cayenne",
+    "code": "2026-cayenne-base",
+    "model_code": "Cayenne",
     "manufacturer_code": 43,
-    "trim_name": "Cayenne",
+    "trim_name": "Base",
     "standard_features": [
       "3.0L Turbo V6 Engine (~335 hp, 332 lb-ft torque)",
       "All-Wheel Drive (AWD)",
@@ -31830,8 +32023,9 @@
   },
   {
     "code": "2026-cayenne-coupe",
+    "model_code": "Cayenne Coupe",
     "manufacturer_code": 43,
-    "trim_name": "Cayenne Coupe",
+    "trim_name": "Base",
     "standard_features": [
       "3.0L Turbo V6 Engine (~335 hp, 332 lb-ft torque)",
       "All-Wheel Drive (AWD)",
@@ -31857,8 +32051,9 @@
   },
   {
     "code": "2026-cayenne-e-hybrid",
+    "model_code": "Cayenne",
     "manufacturer_code": 43,
-    "trim_name": "Cayenne E-Hybrid",
+    "trim_name": "E-Hybrid",
     "standard_features": [
       "3.0L Turbo V6 + Electric Motor (~455 hp, 516 lb-ft torque)",
       "All-Wheel Drive (AWD)",
@@ -31884,8 +32079,9 @@
   },
   {
     "code": "2026-cayenne-e-hybrid-coupe",
+    "model_code": "Cayenne Coupe",
     "manufacturer_code": 43,
-    "trim_name": "Cayenne E-Hybrid Coupe",
+    "trim_name": "E-Hybrid",
     "standard_features": [
       "3.0L Turbo V6 + Electric Motor (~455 hp, 516 lb-ft torque)",
       "All-Wheel Drive (AWD)",
@@ -31912,8 +32108,9 @@
   },
   {
     "code": "2026-cayenne-electric",
+    "model_code": "Cayenne",
     "manufacturer_code": 43,
-    "trim_name": "Cayenne Electric",
+    "trim_name": "Electric",
     "standard_features": [
       "Electric Motor (~469 hp, 512 lb-ft torque)",
       "All-Wheel Drive (AWD)",
@@ -31940,8 +32137,9 @@
   },
   {
     "code": "2026-cayenne-gts",
+    "model_code": "Cayenne",
     "manufacturer_code": 43,
-    "trim_name": "Cayenne GTS",
+    "trim_name": "GTS",
     "standard_features": [
       "4.0L Twin-Turbo V8 Engine (~453 hp, 457 lb-ft torque)",
       "All-Wheel Drive (AWD)",
@@ -31967,8 +32165,9 @@
   },
   {
     "code": "2026-cayenne-gts-coupe",
+    "model_code": "Cayenne Coupe",
     "manufacturer_code": 43,
-    "trim_name": "Cayenne GTS Coupe",
+    "trim_name": "GTS",
     "standard_features": [
       "4.0L Twin-Turbo V8 Engine (~453 hp, 457 lb-ft torque)",
       "All-Wheel Drive (AWD)",
@@ -31995,8 +32194,9 @@
   },
   {
     "code": "2026-cayenne-s",
+    "model_code": "Cayenne",
     "manufacturer_code": 43,
-    "trim_name": "Cayenne S",
+    "trim_name": "S",
     "standard_features": [
       "2.9L Twin-Turbo V6 Engine (~434 hp, 405 lb-ft torque)",
       "All-Wheel Drive (AWD)",
@@ -32020,8 +32220,9 @@
   },
   {
     "code": "2026-cayenne-s-coupe",
+    "model_code": "Cayenne Coupe",
     "manufacturer_code": 43,
-    "trim_name": "Cayenne S Coupe",
+    "trim_name": "S",
     "standard_features": [
       "2.9L Twin-Turbo V6 Engine (~434 hp, 405 lb-ft torque)",
       "All-Wheel Drive (AWD)",
@@ -32046,8 +32247,9 @@
   },
   {
     "code": "2026-cayenne-s-e-hybrid",
+    "model_code": "Cayenne",
     "manufacturer_code": 43,
-    "trim_name": "Cayenne S E-Hybrid",
+    "trim_name": "S E-Hybrid",
     "standard_features": [
       "2.9L Twin-Turbo V6 + Electric Motor (~455 hp, 516 lb-ft torque)",
       "All-Wheel Drive (AWD)",
@@ -32072,8 +32274,9 @@
   },
   {
     "code": "2026-cayenne-s-e-hybrid-coupe",
+    "model_code": "Cayenne Coupe",
     "manufacturer_code": 43,
-    "trim_name": "Cayenne S E-Hybrid Coupe",
+    "trim_name": "S E-Hybrid",
     "standard_features": [
       "2.9L Twin-Turbo V6 + Electric Motor (~455 hp, 516 lb-ft torque)",
       "All-Wheel Drive (AWD)",
@@ -32099,8 +32302,9 @@
   },
   {
     "code": "2026-cayenne-turbo-e-hybrid",
+    "model_code": "Cayenne",
     "manufacturer_code": 43,
-    "trim_name": "Cayenne Turbo E-Hybrid",
+    "trim_name": "Turbo E-Hybrid",
     "standard_features": [
       "4.0L Twin-Turbo V8 + Electric Motor (~670 hp, 663 lb-ft torque)",
       "All-Wheel Drive (AWD)",
@@ -32127,8 +32331,9 @@
   },
   {
     "code": "2026-cayenne-turbo-e-hybrid-coupe",
+    "model_code": "Cayenne Coupe",
     "manufacturer_code": 43,
-    "trim_name": "Cayenne Turbo E-Hybrid Coupe",
+    "trim_name": "Turbo E-Hybrid",
     "standard_features": [
       "4.0L Twin-Turbo V8 + Electric Motor (~670 hp, 663 lb-ft torque)",
       "All-Wheel Drive (AWD)",
@@ -32156,8 +32361,9 @@
   },
   {
     "code": "2026-cayenne-turbo-electric",
+    "model_code": "Cayenne",
     "manufacturer_code": 43,
-    "trim_name": "Cayenne Turbo Electric",
+    "trim_name": "Turbo Electric",
     "standard_features": [
       "Electric Powertrain (~670 hp, 663 lb-ft torque)",
       "All-Wheel Drive (AWD)",
@@ -32184,8 +32390,9 @@
   },
   {
     "code": "2026-cayenne-turbo-gt",
+    "model_code": "Cayenne",
     "manufacturer_code": 43,
-    "trim_name": "Cayenne Turbo GT",
+    "trim_name": "Turbo GT",
     "standard_features": [
       "4.0L Twin-Turbo V8 Engine (~631 hp, 626 lb-ft torque)",
       "All-Wheel Drive (AWD)",
@@ -32211,9 +32418,10 @@
     "active": true
   },
   {
-    "code": "2026-macan",
+    "code": "2026-macan-base",
+    "model_code": "Macan",
     "manufacturer_code": 43,
-    "trim_name": "Macan",
+    "trim_name": "Base",
     "standard_features": [
       "2.0L Turbo Inline-4 (~261 hp, 295 lb-ft torque)",
       "Rear-Wheel Drive",
@@ -32237,8 +32445,9 @@
   },
   {
     "code": "2026-macan-4-electric",
+    "model_code": "Macan",
     "manufacturer_code": 43,
-    "trim_name": "Macan 4 Electric",
+    "trim_name": "4 Electric",
     "standard_features": [
       "Electric Motor (~335 hp, 414 lb-ft torque)",
       "All-Wheel Drive",
@@ -32261,8 +32470,9 @@
   },
   {
     "code": "2026-macan-4s-electric",
+    "model_code": "Macan",
     "manufacturer_code": 43,
-    "trim_name": "Macan 4S Electric",
+    "trim_name": "4S Electric",
     "standard_features": [
       "Dual Electric Motors (~469 hp, 516 lb-ft torque)",
       "All-Wheel Drive",
@@ -32285,8 +32495,9 @@
   },
   {
     "code": "2026-macan-electric",
+    "model_code": "Macan",
     "manufacturer_code": 43,
-    "trim_name": "Macan Electric",
+    "trim_name": "Electric",
     "standard_features": [
       "Electric Motor (~402 hp, 483 lb-ft torque)",
       "All-Wheel Drive",
@@ -32309,8 +32520,9 @@
   },
   {
     "code": "2026-macan-gts",
+    "model_code": "Macan",
     "manufacturer_code": 43,
-    "trim_name": "Macan GTS",
+    "trim_name": "GTS",
     "standard_features": [
       "2.9L Twin-Turbo V6 (~434 hp, 405 lb-ft torque)",
       "All-Wheel Drive",
@@ -32332,8 +32544,9 @@
   },
   {
     "code": "2026-macan-gts-electric",
+    "model_code": "Macan",
     "manufacturer_code": 43,
-    "trim_name": "Macan GTS Electric",
+    "trim_name": "GTS Electric",
     "standard_features": [
       "Dual Electric Motors (~590 hp, 626 lb-ft torque)",
       "All-Wheel Drive",
@@ -32355,8 +32568,9 @@
   },
   {
     "code": "2026-macan-s",
+    "model_code": "Macan",
     "manufacturer_code": 43,
-    "trim_name": "Macan S",
+    "trim_name": "S",
     "standard_features": [
       "2.9L Twin-Turbo V6 (~380 hp, 383 lb-ft torque)",
       "All-Wheel Drive",
@@ -32377,8 +32591,9 @@
   },
   {
     "code": "2026-macan-t",
+    "model_code": "Macan",
     "manufacturer_code": 43,
-    "trim_name": "Macan T",
+    "trim_name": "T",
     "standard_features": [
       "2.0L Turbo Inline-4 (~261 hp, 295 lb-ft torque)",
       "All-Wheel Drive",
@@ -32399,8 +32614,9 @@
   },
   {
     "code": "2026-macan-turbo-electric",
+    "model_code": "Macan",
     "manufacturer_code": 43,
-    "trim_name": "Macan Turbo Electric",
+    "trim_name": "Turbo Electric",
     "standard_features": [
       "Dual Electric Motors (~670 hp, 626 lb-ft torque)",
       "All-Wheel Drive",
@@ -32421,9 +32637,10 @@
     "active": true
   },
   {
-    "code": "2026-panamera",
+    "code": "2026-panamera-base",
+    "model_code": "Panamera",
     "manufacturer_code": 43,
-    "trim_name": "Panamera",
+    "trim_name": "Base",
     "standard_features": [
       "3.0L Turbo V6 (~330 hp, 331 lb-ft torque)",
       "Rear-Wheel Drive",
@@ -32447,8 +32664,9 @@
   },
   {
     "code": "2026-panamera-4",
+    "model_code": "Panamera",
     "manufacturer_code": 43,
-    "trim_name": "Panamera 4",
+    "trim_name": "4",
     "standard_features": [
       "3.0L Turbo V6 (~330 hp, 331 lb-ft torque)",
       "All-Wheel Drive",
@@ -32470,8 +32688,9 @@
   },
   {
     "code": "2026-panamera-4-e-hybrid",
+    "model_code": "Panamera",
     "manufacturer_code": 43,
-    "trim_name": "Panamera 4 E-Hybrid",
+    "trim_name": "4 E-Hybrid",
     "standard_features": [
       "2.9L Turbo V6 + Electric Motor (~455 hp, 516 lb-ft torque)",
       "All-Wheel Drive",
@@ -32494,8 +32713,9 @@
   },
   {
     "code": "2026-panamera-4s-e-hybrid",
+    "model_code": "Panamera",
     "manufacturer_code": 43,
-    "trim_name": "Panamera 4S E-Hybrid",
+    "trim_name": "4S E-Hybrid",
     "standard_features": [
       "2.9L Turbo V6 + Electric Motor (~560 hp, 553 lb-ft torque)",
       "All-Wheel Drive",
@@ -32518,8 +32738,9 @@
   },
   {
     "code": "2026-panamera-gts",
+    "model_code": "Panamera",
     "manufacturer_code": 43,
-    "trim_name": "Panamera GTS",
+    "trim_name": "GTS",
     "standard_features": [
       "4.0L Twin-Turbo V8 (~473 hp, 457 lb-ft torque)",
       "All-Wheel Drive",
@@ -32541,8 +32762,9 @@
   },
   {
     "code": "2026-panamera-turbo-e-hybrid",
+    "model_code": "Panamera",
     "manufacturer_code": 43,
-    "trim_name": "Panamera Turbo E-Hybrid",
+    "trim_name": "Turbo E-Hybrid",
     "standard_features": [
       "4.0L Twin-Turbo V8 + Electric Motor (~680 hp, 626 lb-ft torque)",
       "All-Wheel Drive",
@@ -32565,8 +32787,9 @@
   },
   {
     "code": "2026-panamera-turbo-s-e-hybrid",
+    "model_code": "Panamera",
     "manufacturer_code": 43,
-    "trim_name": "Panamera Turbo S E-Hybrid",
+    "trim_name": "Turbo S E-Hybrid",
     "standard_features": [
       "4.0L Twin-Turbo V8 + Electric Motor (~700 hp, 627 lb-ft torque)",
       "All-Wheel Drive",
@@ -32588,9 +32811,10 @@
     "active": true
   },
   {
-    "code": "2026-taycan",
+    "code": "2026-taycan-base",
+    "model_code": "Taycan",
     "manufacturer_code": 43,
-    "trim_name": "Taycan",
+    "trim_name": "Base",
     "standard_features": [
       "Performance Electric Motors (~402 hp)",
       "Rear-Wheel Drive",
@@ -32614,8 +32838,9 @@
   },
   {
     "code": "2026-taycan-4",
+    "model_code": "Taycan",
     "manufacturer_code": 43,
-    "trim_name": "Taycan 4",
+    "trim_name": "4",
     "standard_features": [
       "Performance Electric Motors (~469 hp)",
       "All-Wheel Drive",
@@ -32637,8 +32862,9 @@
   },
   {
     "code": "2026-taycan-4-cross-turismo",
+    "model_code": "Taycan",
     "manufacturer_code": 43,
-    "trim_name": "Taycan 4 Cross Turismo",
+    "trim_name": "4 Cross Turismo",
     "standard_features": [
       "Performance Electric Motors (~469 hp)",
       "All-Wheel Drive",
@@ -32661,8 +32887,9 @@
   },
   {
     "code": "2026-taycan-4s",
+    "model_code": "Taycan",
     "manufacturer_code": 43,
-    "trim_name": "Taycan 4S",
+    "trim_name": "4S",
     "standard_features": [
       "Dual Electric Motors (~522 hp)",
       "All-Wheel Drive",
@@ -32685,8 +32912,9 @@
   },
   {
     "code": "2026-taycan-4s-cross-turismo",
+    "model_code": "Taycan",
     "manufacturer_code": 43,
-    "trim_name": "Taycan 4S Cross Turismo",
+    "trim_name": "4S Cross Turismo",
     "standard_features": [
       "Dual Electric Motors (~522 hp)",
       "All-Wheel Drive",
@@ -32709,8 +32937,9 @@
   },
   {
     "code": "2026-taycan-gts",
+    "model_code": "Taycan",
     "manufacturer_code": 43,
-    "trim_name": "Taycan GTS",
+    "trim_name": "GTS",
     "standard_features": [
       "Dual Electric Motors (~590 hp)",
       "All-Wheel Drive",
@@ -32731,8 +32960,9 @@
   },
   {
     "code": "2026-taycan-gts-sport-turismo",
+    "model_code": "Taycan",
     "manufacturer_code": 43,
-    "trim_name": "Taycan GTS Sport Turismo",
+    "trim_name": "GTS Sport Turismo",
     "standard_features": [
       "Dual Electric Motors (~590 hp)",
       "All-Wheel Drive",
@@ -32755,8 +32985,9 @@
   },
   {
     "code": "2026-taycan-turbo",
+    "model_code": "Taycan",
     "manufacturer_code": 43,
-    "trim_name": "Taycan Turbo",
+    "trim_name": "Turbo",
     "standard_features": [
       "Dual Electric Motors (~670 hp)",
       "All-Wheel Drive",
@@ -32777,8 +33008,9 @@
   },
   {
     "code": "2026-taycan-turbo-cross-turismo",
+    "model_code": "Taycan",
     "manufacturer_code": 43,
-    "trim_name": "Taycan Turbo Cross Turismo",
+    "trim_name": "Turbo Cross Turismo",
     "standard_features": [
       "Dual Electric Motors (~670 hp)",
       "All-Wheel Drive",
@@ -32801,8 +33033,9 @@
   },
   {
     "code": "2026-taycan-turbo-gt",
+    "model_code": "Taycan",
     "manufacturer_code": 43,
-    "trim_name": "Taycan Turbo GT",
+    "trim_name": "Turbo GT",
     "standard_features": [
       "Dual Electric Motors (~735 hp)",
       "All-Wheel Drive",
@@ -32823,8 +33056,9 @@
   },
   {
     "code": "2026-taycan-turbo-s",
+    "model_code": "Taycan",
     "manufacturer_code": 43,
-    "trim_name": "Taycan Turbo S",
+    "trim_name": "Turbo S",
     "standard_features": [
       "Dual Electric Motors (~750 hp)",
       "All-Wheel Drive",
@@ -32845,8 +33079,9 @@
   },
   {
     "code": "2026-taycan-turbo-s-cross-turismo",
+    "model_code": "Taycan",
     "manufacturer_code": 43,
-    "trim_name": "Taycan Turbo S Cross Turismo",
+    "trim_name": "Turbo S Cross Turismo",
     "standard_features": [
       "Dual Electric Motors (~750 hp)",
       "All-Wheel Drive",
@@ -32869,6 +33104,7 @@
   },
   {
     "code": "2026-ram-1500-tradesman",
+    "model_code": "1500",
     "manufacturer_code": 44,
     "trim_name": "Tradesman",
     "standard_features": [
@@ -32893,6 +33129,7 @@
   },
   {
     "code": "2026-ram-1500-big-horn",
+    "model_code": "1500",
     "manufacturer_code": 44,
     "trim_name": "Big Horn",
     "standard_features": [
@@ -32916,6 +33153,7 @@
   },
   {
     "code": "2026-ram-1500-laramie",
+    "model_code": "1500",
     "manufacturer_code": 44,
     "trim_name": "Laramie",
     "standard_features": [
@@ -32939,6 +33177,7 @@
   },
   {
     "code": "2026-ram-1500-laramie-longhorn",
+    "model_code": "1500",
     "manufacturer_code": 44,
     "trim_name": "Laramie Longhorn",
     "standard_features": [
@@ -32962,6 +33201,7 @@
   },
   {
     "code": "2026-ram-1500-rebel",
+    "model_code": "1500",
     "manufacturer_code": 44,
     "trim_name": "Rebel",
     "standard_features": [
@@ -32986,6 +33226,7 @@
   },
   {
     "code": "2026-ram-1500-limited",
+    "model_code": "1500",
     "manufacturer_code": 44,
     "trim_name": "Limited",
     "standard_features": [
@@ -33009,8 +33250,9 @@
   },
   {
     "code": "2026-ram-1500-1500-rev",
+    "model_code": "1500 REV",
     "manufacturer_code": 44,
-    "trim_name": "1500 REV",
+    "trim_name": "Standard",
     "standard_features": [
       "3.6L V6 or 5.7L HEMI V8 Engine",
       "8-Speed Automatic Transmission",
@@ -33032,8 +33274,9 @@
   },
   {
     "code": "2026-ram-1500-1500-rho",
+    "model_code": "1500 RHO",
     "manufacturer_code": 44,
-    "trim_name": "1500 RHO",
+    "trim_name": "Standard",
     "standard_features": [
       "3.6L V6 or 5.7L HEMI V8 Engine",
       "8-Speed Automatic Transmission",
@@ -33055,6 +33298,7 @@
   },
   {
     "code": "2026-ram-2500-tradesman",
+    "model_code": "2500",
     "manufacturer_code": 44,
     "trim_name": "Tradesman",
     "standard_features": [
@@ -33079,6 +33323,7 @@
   },
   {
     "code": "2026-ram-2500-big-horn",
+    "model_code": "2500",
     "manufacturer_code": 44,
     "trim_name": "Big Horn",
     "standard_features": [
@@ -33102,6 +33347,7 @@
   },
   {
     "code": "2026-ram-2500-laramie",
+    "model_code": "2500",
     "manufacturer_code": 44,
     "trim_name": "Laramie",
     "standard_features": [
@@ -33125,6 +33371,7 @@
   },
   {
     "code": "2026-ram-2500-laramie-longhorn",
+    "model_code": "2500",
     "manufacturer_code": 44,
     "trim_name": "Laramie Longhorn",
     "standard_features": [
@@ -33148,6 +33395,7 @@
   },
   {
     "code": "2026-ram-2500-rebel",
+    "model_code": "2500",
     "manufacturer_code": 44,
     "trim_name": "Rebel",
     "standard_features": [
@@ -33172,6 +33420,7 @@
   },
   {
     "code": "2026-ram-2500-limited",
+    "model_code": "2500",
     "manufacturer_code": 44,
     "trim_name": "Limited",
     "standard_features": [
@@ -33195,6 +33444,7 @@
   },
   {
     "code": "2026-ram-3500-tradesman",
+    "model_code": "3500",
     "manufacturer_code": 44,
     "trim_name": "Tradesman",
     "standard_features": [
@@ -33219,6 +33469,7 @@
   },
   {
     "code": "2026-ram-3500-big-horn",
+    "model_code": "3500",
     "manufacturer_code": 44,
     "trim_name": "Big Horn",
     "standard_features": [
@@ -33242,6 +33493,7 @@
   },
   {
     "code": "2026-ram-3500-laramie",
+    "model_code": "3500",
     "manufacturer_code": 44,
     "trim_name": "Laramie",
     "standard_features": [
@@ -33265,6 +33517,7 @@
   },
   {
     "code": "2026-ram-3500-laramie-longhorn",
+    "model_code": "3500",
     "manufacturer_code": 44,
     "trim_name": "Laramie Longhorn",
     "standard_features": [
@@ -33288,6 +33541,7 @@
   },
   {
     "code": "2026-ram-3500-rebel",
+    "model_code": "3500",
     "manufacturer_code": 44,
     "trim_name": "Rebel",
     "standard_features": [
@@ -33312,6 +33566,7 @@
   },
   {
     "code": "2026-ram-3500-limited",
+    "model_code": "3500",
     "manufacturer_code": 44,
     "trim_name": "Limited",
     "standard_features": [
@@ -33335,6 +33590,7 @@
   },
   {
     "code": "2026-ram-promaster-1500",
+    "model_code": "Promaster",
     "manufacturer_code": 44,
     "trim_name": "1500",
     "standard_features": [
@@ -33359,6 +33615,7 @@
   },
   {
     "code": "2026-ram-promaster-2500",
+    "model_code": "Promaster",
     "manufacturer_code": 44,
     "trim_name": "2500",
     "standard_features": [
@@ -33383,6 +33640,7 @@
   },
   {
     "code": "2026-ram-promaster-3500",
+    "model_code": "Promaster",
     "manufacturer_code": 44,
     "trim_name": "3500",
     "standard_features": [
@@ -33407,8 +33665,9 @@
   },
   {
     "code": "2026-ram-promaster-ev",
+    "model_code": "Promaster EV",
     "manufacturer_code": 44,
-    "trim_name": "ProMaster EV",
+    "trim_name": "Standard",
     "standard_features": [
       "Electric Drive Motor (~175–200 kW / 235–268 hp)",
       "Front-Wheel Drive",
@@ -33434,8 +33693,9 @@
   },
   {
     "code": "2026-rivian-delivery",
+    "model_code": "Delivery",
     "manufacturer_code": 45,
-    "trim_name": "Delivery Van",
+    "trim_name": "Standard",
     "standard_features": [
       "Dual Electric Motors (~300–400 kW / 402–536 hp)",
       "All-Wheel Drive",
@@ -33461,8 +33721,9 @@
   },
   {
     "code": "2026-rivian-r1s",
+    "model_code": "R1S",
     "manufacturer_code": 45,
-    "trim_name": "R1S",
+    "trim_name": "Standard",
     "standard_features": [
       "Quad Electric Motors (~835 hp, 908 lb-ft torque)",
       "All-Wheel Drive",
@@ -33489,6 +33750,7 @@
   },
   {
     "code": "2026-rivian-r1t-dual-motor",
+    "model_code": "R1T",
     "manufacturer_code": 45,
     "trim_name": "Dual Motor",
     "standard_features": [
@@ -33516,6 +33778,7 @@
   },
   {
     "code": "2026-rivian-r1t-performance-dual-motor",
+    "model_code": "R1T",
     "manufacturer_code": 45,
     "trim_name": "Performance Dual Motor",
     "standard_features": [
@@ -33542,6 +33805,7 @@
   },
   {
     "code": "2026-rivian-r1t-quad-motor",
+    "model_code": "R1T",
     "manufacturer_code": 45,
     "trim_name": "Quad Motor",
     "standard_features": [
@@ -33568,6 +33832,7 @@
   },
   {
     "code": "2026-rivian-r2-single-motor",
+    "model_code": "R2",
     "manufacturer_code": 45,
     "trim_name": "Single Motor",
     "standard_features": [
@@ -33593,6 +33858,7 @@
   },
   {
     "code": "2026-rivian-r2-dual-motor",
+    "model_code": "R2",
     "manufacturer_code": 45,
     "trim_name": "Dual Motor",
     "standard_features": [
@@ -33619,6 +33885,7 @@
   },
   {
     "code": "2026-rivian-r2-performance-dual-motor",
+    "model_code": "R2",
     "manufacturer_code": 45,
     "trim_name": "Performance Dual Motor",
     "standard_features": [
@@ -33645,6 +33912,7 @@
   },
   {
     "code": "2026-rivian-r3-single-motor",
+    "model_code": "R3",
     "manufacturer_code": 45,
     "trim_name": "Single Motor",
     "standard_features": [
@@ -33670,6 +33938,7 @@
   },
   {
     "code": "2026-rivian-r3-dual-motor",
+    "model_code": "R3",
     "manufacturer_code": 45,
     "trim_name": "Dual Motor",
     "standard_features": [
@@ -33696,6 +33965,7 @@
   },
   {
     "code": "2026-rivian-r3-performance-dual-motor",
+    "model_code": "R3",
     "manufacturer_code": 45,
     "trim_name": "Performance Dual Motor",
     "standard_features": [
@@ -33721,9 +33991,10 @@
     "active": true
   },
   {
-    "code": "2026-rolls-royce-cullinan-series-ii",
+    "code": "2026-rolls-royce-cullinan-series-ii-base",
+    "model_code": "Cullinan Series II",
     "manufacturer_code": 46,
-    "trim_name": "Cullinan Series II",
+    "trim_name": "Base",
     "standard_features": [
       "6.75L Twin-Turbocharged V12 Engine",
       "8-Speed Automatic Transmission",
@@ -33752,8 +34023,9 @@
   },
   {
     "code": "2026-rolls-royce-cullinan-black-badge-series-ii",
+    "model_code": "Cullinan Series II",
     "manufacturer_code": 46,
-    "trim_name": "Black Badge Cullinan Series II",
+    "trim_name": "Black Badge",
     "standard_features": [
       "6.75L Twin-Turbocharged V12 Engine (Black Badge Tune)",
       "8-Speed Automatic Transmission",
@@ -33781,9 +34053,10 @@
     "active": true
   },
   {
-    "code": "2026-rolls-royce-ghost-series-ii",
+    "code": "2026-rolls-royce-ghost-series-ii-base",
+    "model_code": "Ghost Series II",
     "manufacturer_code": 46,
-    "trim_name": "Ghost Series II",
+    "trim_name": "Base",
     "standard_features": [
       "6.75L Twin-Turbocharged V12 Engine",
       "8-Speed Automatic Transmission",
@@ -33812,8 +34085,9 @@
   },
   {
     "code": "2026-rolls-royce-black-badge-ghost-series-ii",
+    "model_code": "Ghost Series II",
     "manufacturer_code": 46,
-    "trim_name": "Black Badge Ghost Series II",
+    "trim_name": "Black Badge",
     "standard_features": [
       "6.75L Twin-Turbocharged V12 Engine (Black Badge Tune)",
       "8-Speed Automatic Transmission",
@@ -33843,8 +34117,9 @@
   },
   {
     "code": "2026-rolls-royce-phantom-series-ii",
+    "model_code": "Phantom",
     "manufacturer_code": 46,
-    "trim_name": "Phantom Series II",
+    "trim_name": "Series II",
     "standard_features": [
       "6.75L Twin-Turbocharged V12 Engine",
       "8-Speed Automatic Transmission",
@@ -33875,8 +34150,9 @@
   },
   {
     "code": "2026-rolls-royce-phantom-extended-series-ii",
+    "model_code": "Phantom",
     "manufacturer_code": 46,
-    "trim_name": "Phantom Extended Series II",
+    "trim_name": "Extended Series II",
     "standard_features": [
       "6.75L Twin-Turbocharged V12 Engine",
       "8-Speed Automatic Transmission",
@@ -33907,9 +34183,10 @@
     "active": true
   },
   {
-    "code": "2026-rolls-royce-spectre",
+    "code": "2026-rolls-royce-spectre-base",
+    "model_code": "Spectre",
     "manufacturer_code": 46,
-    "trim_name": "Spectre",
+    "trim_name": "Base",
     "standard_features": [
       "Dual Electric Motors (~577 hp)",
       "All-Wheel Drive",
@@ -33942,6 +34219,7 @@
   },
   {
     "code": "2026-rolls-royce-spectre-black-badge",
+    "model_code": "Spectre",
     "manufacturer_code": 46,
     "trim_name": "Black Badge",
     "standard_features": [
@@ -33977,6 +34255,7 @@
   },
   {
     "code": "2026-subaru-ascent-base",
+    "model_code": "Ascent",
     "manufacturer_code": 47,
     "trim_name": "Base",
     "standard_features": [
@@ -34004,6 +34283,7 @@
   },
   {
     "code": "2026-subaru-ascent-premium",
+    "model_code": "Ascent",
     "manufacturer_code": 47,
     "trim_name": "Premium",
     "standard_features": [
@@ -34033,6 +34313,7 @@
   },
   {
     "code": "2026-subaru-ascent-onyx-edition",
+    "model_code": "Ascent",
     "manufacturer_code": 47,
     "trim_name": "Onyx Edition",
     "standard_features": [
@@ -34061,6 +34342,7 @@
   },
   {
     "code": "2026-subaru-ascent-limited",
+    "model_code": "Ascent",
     "manufacturer_code": 47,
     "trim_name": "Limited",
     "standard_features": [
@@ -34090,6 +34372,7 @@
   },
   {
     "code": "2026-subaru-ascent-onyx-edition-limited",
+    "model_code": "Ascent",
     "manufacturer_code": 47,
     "trim_name": "Onyx Edition Limited",
     "standard_features": [
@@ -34119,6 +34402,7 @@
   },
   {
     "code": "2026-subaru-ascent-touring",
+    "model_code": "Ascent",
     "manufacturer_code": 47,
     "trim_name": "Touring",
     "standard_features": [
@@ -34149,6 +34433,7 @@
   },
   {
     "code": "2026-subaru-brz-base",
+    "model_code": "BRZ",
     "manufacturer_code": 47,
     "trim_name": "Base",
     "standard_features": [
@@ -34172,6 +34457,7 @@
   },
   {
     "code": "2026-subaru-brz-premium",
+    "model_code": "BRZ",
     "manufacturer_code": 47,
     "trim_name": "Premium",
     "standard_features": [
@@ -34196,6 +34482,7 @@
   },
   {
     "code": "2026-subaru-brz-limited",
+    "model_code": "BRZ",
     "manufacturer_code": 47,
     "trim_name": "Limited",
     "standard_features": [
@@ -34221,6 +34508,7 @@
   },
   {
     "code": "2026-subaru-brz-ts",
+    "model_code": "BRZ",
     "manufacturer_code": 47,
     "trim_name": "tS",
     "standard_features": [
@@ -34242,6 +34530,7 @@
   },
   {
     "code": "2026-subaru-crosstrek-base",
+    "model_code": "Crosstrek",
     "manufacturer_code": 47,
     "trim_name": "Base",
     "standard_features": [
@@ -34265,6 +34554,7 @@
   },
   {
     "code": "2026-subaru-crosstrek-premium",
+    "model_code": "Crosstrek",
     "manufacturer_code": 47,
     "trim_name": "Premium",
     "standard_features": [
@@ -34289,6 +34579,7 @@
   },
   {
     "code": "2026-subaru-crosstrek-sport",
+    "model_code": "Crosstrek",
     "manufacturer_code": 47,
     "trim_name": "Sport",
     "standard_features": [
@@ -34313,6 +34604,7 @@
   },
   {
     "code": "2026-subaru-crosstrek-limited",
+    "model_code": "Crosstrek",
     "manufacturer_code": 47,
     "trim_name": "Limited",
     "standard_features": [
@@ -34338,6 +34630,7 @@
   },
   {
     "code": "2026-subaru-crosstrek-wilderness",
+    "model_code": "Crosstrek",
     "manufacturer_code": 47,
     "trim_name": "Wilderness",
     "standard_features": [
@@ -34364,6 +34657,7 @@
   },
   {
     "code": "2026-subaru-forester-base",
+    "model_code": "Forester",
     "manufacturer_code": 47,
     "trim_name": "Base",
     "standard_features": [
@@ -34388,6 +34682,7 @@
   },
   {
     "code": "2026-subaru-forester-premium",
+    "model_code": "Forester",
     "manufacturer_code": 47,
     "trim_name": "Premium",
     "standard_features": [
@@ -34412,6 +34707,7 @@
   },
   {
     "code": "2026-subaru-forester-sport",
+    "model_code": "Forester",
     "manufacturer_code": 47,
     "trim_name": "Sport",
     "standard_features": [
@@ -34436,6 +34732,7 @@
   },
   {
     "code": "2026-subaru-forester-limited",
+    "model_code": "Forester",
     "manufacturer_code": 47,
     "trim_name": "Limited",
     "standard_features": [
@@ -34461,6 +34758,7 @@
   },
   {
     "code": "2026-subaru-forester-wilderness",
+    "model_code": "Forester",
     "manufacturer_code": 47,
     "trim_name": "Wilderness",
     "standard_features": [
@@ -34488,6 +34786,7 @@
   },
   {
     "code": "2026-subaru-legacy-base",
+    "model_code": "Legacy",
     "manufacturer_code": 47,
     "trim_name": "Base",
     "standard_features": [
@@ -34512,6 +34811,7 @@
   },
   {
     "code": "2026-subaru-legacy-premium",
+    "model_code": "Legacy",
     "manufacturer_code": 47,
     "trim_name": "Premium",
     "standard_features": [
@@ -34536,6 +34836,7 @@
   },
   {
     "code": "2026-subaru-legacy-sport",
+    "model_code": "Legacy",
     "manufacturer_code": 47,
     "trim_name": "Sport",
     "standard_features": [
@@ -34560,6 +34861,7 @@
   },
   {
     "code": "2026-subaru-legacy-limited",
+    "model_code": "Legacy",
     "manufacturer_code": 47,
     "trim_name": "Limited",
     "standard_features": [
@@ -34584,6 +34886,7 @@
   },
   {
     "code": "2026-subaru-legacy-touring",
+    "model_code": "Legacy",
     "manufacturer_code": 47,
     "trim_name": "Touring",
     "standard_features": [
@@ -34609,6 +34912,7 @@
   },
   {
     "code": "2026-subaru-impreza-base",
+    "model_code": "Impreza",
     "manufacturer_code": 47,
     "trim_name": "Base",
     "standard_features": [
@@ -34633,6 +34937,7 @@
   },
   {
     "code": "2026-subaru-impreza-premium",
+    "model_code": "Impreza",
     "manufacturer_code": 47,
     "trim_name": "Premium",
     "standard_features": [
@@ -34657,6 +34962,7 @@
   },
   {
     "code": "2026-subaru-impreza-sport",
+    "model_code": "Impreza",
     "manufacturer_code": 47,
     "trim_name": "Sport",
     "standard_features": [
@@ -34681,6 +34987,7 @@
   },
   {
     "code": "2026-subaru-impreza-limited",
+    "model_code": "Impreza",
     "manufacturer_code": 47,
     "trim_name": "Limited",
     "standard_features": [
@@ -34706,6 +35013,7 @@
   },
   {
     "code": "2026-subaru-outback-base",
+    "model_code": "Outback",
     "manufacturer_code": 47,
     "trim_name": "Base",
     "standard_features": [
@@ -34730,6 +35038,7 @@
   },
   {
     "code": "2026-subaru-outback-premium",
+    "model_code": "Outback",
     "manufacturer_code": 47,
     "trim_name": "Premium",
     "standard_features": [
@@ -34754,6 +35063,7 @@
   },
   {
     "code": "2026-subaru-outback-sport",
+    "model_code": "Outback",
     "manufacturer_code": 47,
     "trim_name": "Sport",
     "standard_features": [
@@ -34778,6 +35088,7 @@
   },
   {
     "code": "2026-subaru-outback-limited",
+    "model_code": "Outback",
     "manufacturer_code": 47,
     "trim_name": "Limited",
     "standard_features": [
@@ -34803,6 +35114,7 @@
   },
   {
     "code": "2026-subaru-outback-wilderness",
+    "model_code": "Outback",
     "manufacturer_code": 47,
     "trim_name": "Wilderness",
     "standard_features": [
@@ -34831,6 +35143,7 @@
   },
   {
     "code": "2026-subaru-solterra-base",
+    "model_code": "Solterra",
     "manufacturer_code": 47,
     "trim_name": "Base",
     "standard_features": [
@@ -34855,6 +35168,7 @@
   },
   {
     "code": "2026-subaru-solterra-premium",
+    "model_code": "Solterra",
     "manufacturer_code": 47,
     "trim_name": "Premium",
     "standard_features": [
@@ -34879,6 +35193,7 @@
   },
   {
     "code": "2026-subaru-solterra-sport",
+    "model_code": "Solterra",
     "manufacturer_code": 47,
     "trim_name": "Sport",
     "standard_features": [
@@ -34903,6 +35218,7 @@
   },
   {
     "code": "2026-subaru-solterra-limited",
+    "model_code": "Solterra",
     "manufacturer_code": 47,
     "trim_name": "Limited",
     "standard_features": [
@@ -34929,6 +35245,7 @@
   },
   {
     "code": "2026-subaru-wrx-base",
+    "model_code": "WRX",
     "manufacturer_code": 47,
     "trim_name": "Base",
     "standard_features": [
@@ -34953,6 +35270,7 @@
   },
   {
     "code": "2026-subaru-wrx-premium",
+    "model_code": "WRX",
     "manufacturer_code": 47,
     "trim_name": "Premium",
     "standard_features": [
@@ -34977,6 +35295,7 @@
   },
   {
     "code": "2026-subaru-wrx-limited",
+    "model_code": "WRX",
     "manufacturer_code": 47,
     "trim_name": "Limited",
     "standard_features": [
@@ -35002,6 +35321,7 @@
   },
   {
     "code": "2026-subaru-wrx-sport-tech",
+    "model_code": "WRX",
     "manufacturer_code": 47,
     "trim_name": "Sport-Tech",
     "standard_features": [
@@ -35028,6 +35348,7 @@
   },
   {
     "code": "2026-tesla-cybertruck-awd",
+    "model_code": "Cybertruck",
     "manufacturer_code": 48,
     "trim_name": "All‑Wheel Drive",
     "standard_features": [
@@ -35057,6 +35378,7 @@
   },
   {
     "code": "2026-tesla-cybertruck-cyberbeast",
+    "model_code": "Cybertruck",
     "manufacturer_code": 48,
     "trim_name": "Cyberbeast",
     "standard_features": [
@@ -35088,6 +35410,7 @@
   },
   {
     "code": "2026-tesla-model-3-standard",
+    "model_code": "Model 3",
     "manufacturer_code": 48,
     "trim_name": "Standard",
     "standard_features": [
@@ -35113,6 +35436,7 @@
   },
   {
     "code": "2026-tesla-model-3-premium-rwd",
+    "model_code": "Model 3",
     "manufacturer_code": 48,
     "trim_name": "Premium RWD",
     "standard_features": [
@@ -35138,6 +35462,7 @@
   },
   {
     "code": "2026-tesla-model-3-premium-awd",
+    "model_code": "Model 3",
     "manufacturer_code": 48,
     "trim_name": "Premium AWD",
     "standard_features": [
@@ -35163,6 +35488,7 @@
   },
   {
     "code": "2026-tesla-model-3-performance",
+    "model_code": "Model 3",
     "manufacturer_code": 48,
     "trim_name": "Performance",
     "standard_features": [
@@ -35188,6 +35514,7 @@
   },
   {
     "code": "2026-tesla-model-s-awd",
+    "model_code": "Model S",
     "manufacturer_code": 48,
     "trim_name": "All‑Wheel Drive",
     "standard_features": [
@@ -35216,6 +35543,7 @@
   },
   {
     "code": "2026-tesla-model-s-plaid",
+    "model_code": "Model S",
     "manufacturer_code": 48,
     "trim_name": "Plaid",
     "standard_features": [
@@ -35244,6 +35572,7 @@
   },
   {
     "code": "2026-tesla-model-x-awd",
+    "model_code": "Model X",
     "manufacturer_code": 48,
     "trim_name": "All‑Wheel Drive",
     "standard_features": [
@@ -35271,6 +35600,7 @@
   },
   {
     "code": "2026-tesla-model-x-plaid",
+    "model_code": "Model X",
     "manufacturer_code": 48,
     "trim_name": "Plaid",
     "standard_features": [
@@ -35298,6 +35628,7 @@
   },
   {
     "code": "2026-tesla-model-y-rwd",
+    "model_code": "Model Y",
     "manufacturer_code": 48,
     "trim_name": "RWD",
     "standard_features": [
@@ -35322,6 +35653,7 @@
   },
   {
     "code": "2026-tesla-model-y-premium-rwd",
+    "model_code": "Model Y",
     "manufacturer_code": 48,
     "trim_name": "Premium RWD",
     "standard_features": [
@@ -35347,6 +35679,7 @@
   },
   {
     "code": "2026-tesla-model-y-premium-awd",
+    "model_code": "Model Y",
     "manufacturer_code": 48,
     "trim_name": "Premium AWD",
     "standard_features": [
@@ -35371,6 +35704,7 @@
   },
   {
     "code": "2026-tesla-model-y-performance",
+    "model_code": "Model Y",
     "manufacturer_code": 48,
     "trim_name": "Performance",
     "standard_features": [
@@ -35394,6 +35728,7 @@
   },
   {
     "code": "2026-toyota-4runner-sr5",
+    "model_code": "4Runner",
     "manufacturer_code": 49,
     "trim_name": "SR5",
     "standard_features": [
@@ -35419,6 +35754,7 @@
   },
   {
     "code": "2026-toyota-4runner-trd-sport",
+    "model_code": "4Runner",
     "manufacturer_code": 49,
     "trim_name": "TRD Sport",
     "standard_features": [
@@ -35443,6 +35779,7 @@
   },
   {
     "code": "2026-toyota-4runner-trd-off-road",
+    "model_code": "4Runner",
     "manufacturer_code": 49,
     "trim_name": "TRD Off‑Road",
     "standard_features": [
@@ -35467,6 +35804,7 @@
   },
   {
     "code": "2026-toyota-4runner-trd-sport-premium",
+    "model_code": "4Runner",
     "manufacturer_code": 49,
     "trim_name": "TRD Sport Premium",
     "standard_features": [
@@ -35490,6 +35828,7 @@
   },
   {
     "code": "2026-toyota-4runner-trd-off-road-premium",
+    "model_code": "4Runner",
     "manufacturer_code": 49,
     "trim_name": "TRD Off‑Road Premium",
     "standard_features": [
@@ -35514,6 +35853,7 @@
   },
   {
     "code": "2026-toyota-4runner-limited",
+    "model_code": "4Runner",
     "manufacturer_code": 49,
     "trim_name": "Limited",
     "standard_features": [
@@ -35538,6 +35878,7 @@
   },
   {
     "code": "2026-toyota-4runner-platinum",
+    "model_code": "4Runner",
     "manufacturer_code": 49,
     "trim_name": "Platinum",
     "standard_features": [
@@ -35562,6 +35903,7 @@
   },
   {
     "code": "2026-toyota-4runner-trd-pro",
+    "model_code": "4Runner",
     "manufacturer_code": 49,
     "trim_name": "TRD Pro",
     "standard_features": [
@@ -35586,6 +35928,7 @@
   },
   {
     "code": "2026-toyota-4runner-trailhunter",
+    "model_code": "4Runner",
     "manufacturer_code": 49,
     "trim_name": "Trailhunter",
     "standard_features": [
@@ -35610,6 +35953,7 @@
   },
   {
     "code": "2026-toyota-4runner-iforce-max-limited",
+    "model_code": "4Runner i-FORCE MAX",
     "manufacturer_code": 49,
     "trim_name": "Limited",
     "standard_features": [
@@ -35634,6 +35978,7 @@
   },
   {
     "code": "2026-toyota-4runner-iforce-max-platinum",
+    "model_code": "4Runner i-FORCE MAX",
     "manufacturer_code": 49,
     "trim_name": "Platinum",
     "standard_features": [
@@ -35658,6 +36003,7 @@
   },
   {
     "code": "2026-toyota-4runner-iforce-max-trd-pro",
+    "model_code": "4Runner i-FORCE MAX",
     "manufacturer_code": 49,
     "trim_name": "TRD Pro",
     "standard_features": [
@@ -35682,6 +36028,7 @@
   },
   {
     "code": "2026-toyota-4runner-iforce-max-trailhunter",
+    "model_code": "4Runner i-FORCE MAX",
     "manufacturer_code": 49,
     "trim_name": "Trailhunter",
     "standard_features": [
@@ -35706,6 +36053,7 @@
   },
   {
     "code": "2026-toyota-bz-xle-fwd",
+    "model_code": "bZ",
     "manufacturer_code": 49,
     "trim_name": "XLE FWD",
     "standard_features": [
@@ -35731,6 +36079,7 @@
   },
   {
     "code": "2026-toyota-bz-xle-fwd-plus",
+    "model_code": "bZ",
     "manufacturer_code": 49,
     "trim_name": "XLE FWD Plus",
     "standard_features": [
@@ -35756,6 +36105,7 @@
   },
   {
     "code": "2026-toyota-bz-xle-awd",
+    "model_code": "bZ",
     "manufacturer_code": 49,
     "trim_name": "XLE AWD",
     "standard_features": [
@@ -35781,6 +36131,7 @@
   },
   {
     "code": "2026-toyota-bz-limited-fwd",
+    "model_code": "bZ",
     "manufacturer_code": 49,
     "trim_name": "Limited FWD",
     "standard_features": [
@@ -35806,6 +36157,7 @@
   },
   {
     "code": "2026-toyota-bz-limited-awd",
+    "model_code": "bZ",
     "manufacturer_code": 49,
     "trim_name": "Limited AWD",
     "standard_features": [
@@ -35831,6 +36183,7 @@
   },
   {
     "code": "2026-toyota-camry-le",
+    "model_code": "Camry",
     "manufacturer_code": 49,
     "trim_name": "LE",
     "standard_features": [
@@ -35856,6 +36209,7 @@
   },
   {
     "code": "2026-toyota-camry-se",
+    "model_code": "Camry",
     "manufacturer_code": 49,
     "trim_name": "SE",
     "standard_features": [
@@ -35881,6 +36235,7 @@
   },
   {
     "code": "2026-toyota-camry-nightshade",
+    "model_code": "Camry",
     "manufacturer_code": 49,
     "trim_name": "Nightshade",
     "standard_features": [
@@ -35906,6 +36261,7 @@
   },
   {
     "code": "2026-toyota-camry-xle",
+    "model_code": "Camry",
     "manufacturer_code": 49,
     "trim_name": "XLE",
     "standard_features": [
@@ -35932,6 +36288,7 @@
   },
   {
     "code": "2026-toyota-camry-xse",
+    "model_code": "Camry",
     "manufacturer_code": 49,
     "trim_name": "XSE",
     "standard_features": [
@@ -35959,6 +36316,7 @@
   },
   {
     "code": "2026-toyota-corolla-le",
+    "model_code": "Corolla",
     "manufacturer_code": 49,
     "trim_name": "LE",
     "standard_features": [
@@ -35982,6 +36340,7 @@
   },
   {
     "code": "2026-toyota-corolla-se",
+    "model_code": "Corolla",
     "manufacturer_code": 49,
     "trim_name": "SE",
     "standard_features": [
@@ -36006,6 +36365,7 @@
   },
   {
     "code": "2026-toyota-corolla-xle",
+    "model_code": "Corolla",
     "manufacturer_code": 49,
     "trim_name": "XLE",
     "standard_features": [
@@ -36030,6 +36390,7 @@
   },
   {
     "code": "2026-toyota-corolla-hybrid-le",
+    "model_code": "Corolla Hybrid",
     "manufacturer_code": 49,
     "trim_name": "Hybrid LE",
     "standard_features": [
@@ -36053,6 +36414,7 @@
   },
   {
     "code": "2026-toyota-corolla-hybrid-xle",
+    "model_code": "Corolla Hybrid",
     "manufacturer_code": 49,
     "trim_name": "Hybrid XLE",
     "standard_features": [
@@ -36077,6 +36439,7 @@
   },
   {
     "code": "2026-toyota-corolla-hatchback-se",
+    "model_code": "Corolla Hatchback",
     "manufacturer_code": 49,
     "trim_name": "Hatchback SE",
     "standard_features": [
@@ -36101,6 +36464,7 @@
   },
   {
     "code": "2026-toyota-corolla-cross-le",
+    "model_code": "Corolla Cross",
     "manufacturer_code": 49,
     "trim_name": "Cross LE",
     "standard_features": [
@@ -36124,6 +36488,7 @@
   },
   {
     "code": "2026-toyota-corolla-cross-xle",
+    "model_code": "Corolla Cross",
     "manufacturer_code": 49,
     "trim_name": "Cross XLE",
     "standard_features": [
@@ -36148,6 +36513,7 @@
   },
   {
     "code": "2026-toyota-corolla-cross-hybrid-xle",
+    "model_code": "Corolla Cross Hybrid",
     "manufacturer_code": 49,
     "trim_name": "Cross Hybrid XLE",
     "standard_features": [
@@ -36172,6 +36538,7 @@
   },
   {
     "code": "2026-toyota-crown-xle",
+    "model_code": "Crown",
     "manufacturer_code": 49,
     "trim_name": "XLE",
     "standard_features": [
@@ -36197,6 +36564,7 @@
   },
   {
     "code": "2026-toyota-crown-limited",
+    "model_code": "Crown",
     "manufacturer_code": 49,
     "trim_name": "Limited",
     "standard_features": [
@@ -36222,6 +36590,7 @@
   },
   {
     "code": "2026-toyota-crown-nightshade",
+    "model_code": "Crown",
     "manufacturer_code": 49,
     "trim_name": "Nightshade",
     "standard_features": [
@@ -36246,6 +36615,7 @@
   },
   {
     "code": "2026-toyota-crown-platinum",
+    "model_code": "Crown",
     "manufacturer_code": 49,
     "trim_name": "Platinum",
     "standard_features": [
@@ -36272,6 +36642,7 @@
   },
   {
     "code": "2026-toyota-crown-signia-xle",
+    "model_code": "Crown Signia",
     "manufacturer_code": 49,
     "trim_name": "Signia XLE",
     "standard_features": [
@@ -36300,6 +36671,7 @@
   },
   {
     "code": "2026-toyota-crown-signia-limited",
+    "model_code": "Crown Signia",
     "manufacturer_code": 49,
     "trim_name": "Signia Limited",
     "standard_features": [
@@ -36328,8 +36700,9 @@
   },
   {
     "code": "2026-toyota-gr-corolla-base",
+    "model_code": "GR Corolla",
     "manufacturer_code": 49,
-    "trim_name": "GR Corolla",
+    "trim_name": "Base",
     "standard_features": [
       "1.6L Turbocharged G16E‑GTS 3‑Cylinder Engine",
       "300 Horsepower and 295 lb‑ft Torque",
@@ -36354,8 +36727,9 @@
   },
   {
     "code": "2026-toyota-gr-corolla-premium-plus",
+    "model_code": "GR Corolla",
     "manufacturer_code": 49,
-    "trim_name": "GR Corolla Premium Plus",
+    "trim_name": "Premium Plus",
     "standard_features": [
       "1.6L Turbocharged G16E‑GTS 3‑Cylinder Engine",
       "300 Horsepower and 295 lb‑ft Torque",
@@ -36383,6 +36757,7 @@
   },
   {
     "code": "2026-toyota-gr-supra-3-0",
+    "model_code": "GR Supra",
     "manufacturer_code": 49,
     "trim_name": "3.0",
     "standard_features": [
@@ -36409,6 +36784,7 @@
   },
   {
     "code": "2026-toyota-gr-supra-3-0-premium",
+    "model_code": "GR Supra",
     "manufacturer_code": 49,
     "trim_name": "3.0 Premium",
     "standard_features": [
@@ -36435,6 +36811,7 @@
   },
   {
     "code": "2026-toyota-gr-supra-mkv-final-edition",
+    "model_code": "GR Supra",
     "manufacturer_code": 49,
     "trim_name": "MkV Final Edition",
     "standard_features": [
@@ -36465,6 +36842,7 @@
   },
   {
     "code": "2026-toyota-gr86-base",
+    "model_code": "GR86",
     "manufacturer_code": 49,
     "trim_name": "Base",
     "standard_features": [
@@ -36493,6 +36871,7 @@
   },
   {
     "code": "2026-toyota-gr86-premium",
+    "model_code": "GR86",
     "manufacturer_code": 49,
     "trim_name": "Premium",
     "standard_features": [
@@ -36524,6 +36903,7 @@
   },
   {
     "code": "2026-toyota-gr86-yuzu-edition",
+    "model_code": "GR86",
     "manufacturer_code": 49,
     "trim_name": "Yuzu Edition",
     "standard_features": [
@@ -36553,6 +36933,7 @@
   },
   {
     "code": "2026-toyota-grand-highlander-le",
+    "model_code": "Grand Highlander",
     "manufacturer_code": 49,
     "trim_name": "LE",
     "standard_features": [
@@ -36577,6 +36958,7 @@
   },
   {
     "code": "2026-toyota-grand-highlander-xle",
+    "model_code": "Grand Highlander",
     "manufacturer_code": 49,
     "trim_name": "XLE",
     "standard_features": [
@@ -36601,6 +36983,7 @@
   },
   {
     "code": "2026-toyota-grand-highlander-limited",
+    "model_code": "Grand Highlander",
     "manufacturer_code": 49,
     "trim_name": "Limited",
     "standard_features": [
@@ -36624,6 +37007,7 @@
   },
   {
     "code": "2026-toyota-grand-highlander-platinum",
+    "model_code": "Grand Highlander",
     "manufacturer_code": 49,
     "trim_name": "Platinum",
     "standard_features": [
@@ -36646,6 +37030,7 @@
   },
   {
     "code": "2026-toyota-grand-highlander-hybrid-nightshade",
+    "model_code": "Grand Highlander",
     "manufacturer_code": 49,
     "trim_name": "Hybrid Nightshade",
     "standard_features": [
@@ -36669,6 +37054,7 @@
   },
   {
     "code": "2026-toyota-grand-highlander-hybrid-max-limited",
+    "model_code": "Grand Highlander",
     "manufacturer_code": 49,
     "trim_name": "Hybrid MAX Limited",
     "standard_features": [
@@ -36693,6 +37079,7 @@
   },
   {
     "code": "2026-toyota-grand-highlander-hybrid-max-platinum",
+    "model_code": "Grand Highlander",
     "manufacturer_code": 49,
     "trim_name": "Hybrid MAX Platinum",
     "standard_features": [
@@ -36718,6 +37105,7 @@
   },
   {
     "code": "2026-toyota-highlander-xle",
+    "model_code": "Highlander",
     "manufacturer_code": 49,
     "trim_name": "XLE",
     "standard_features": [
@@ -36743,6 +37131,7 @@
   },
   {
     "code": "2026-toyota-highlander-xse",
+    "model_code": "Highlander",
     "manufacturer_code": 49,
     "trim_name": "XSE",
     "standard_features": [
@@ -36768,6 +37157,7 @@
   },
   {
     "code": "2026-toyota-highlander-limited",
+    "model_code": "Highlander",
     "manufacturer_code": 49,
     "trim_name": "Limited",
     "standard_features": [
@@ -36793,6 +37183,7 @@
   },
   {
     "code": "2026-toyota-highlander-platinum",
+    "model_code": "Highlander",
     "manufacturer_code": 49,
     "trim_name": "Platinum",
     "standard_features": [
@@ -36821,6 +37212,7 @@
   },
   {
     "code": "2026-toyota-highlander-hybrid-xle",
+    "model_code": "Highlander",
     "manufacturer_code": 49,
     "trim_name": "Hybrid XLE",
     "standard_features": [
@@ -36846,6 +37238,7 @@
   },
   {
     "code": "2026-toyota-highlander-hybrid-limited",
+    "model_code": "Highlander",
     "manufacturer_code": 49,
     "trim_name": "Hybrid Limited",
     "standard_features": [
@@ -36870,6 +37263,7 @@
   },
   {
     "code": "2026-toyota-highlander-hybrid-platinum",
+    "model_code": "Highlander",
     "manufacturer_code": 49,
     "trim_name": "Hybrid Platinum",
     "standard_features": [
@@ -36898,6 +37292,7 @@
   },
   {
     "code": "2026-toyota-land-cruiser-1958",
+    "model_code": "Land Cruiser",
     "manufacturer_code": 49,
     "trim_name": "1958",
     "standard_features": [
@@ -36928,9 +37323,10 @@
     "active": true
   },
   {
-    "code": "2026-toyota-land-cruiser",
+    "code": "2026-toyota-land-cruiser-base",
+    "model_code": "Land Cruiser",
     "manufacturer_code": 49,
-    "trim_name": "Land Cruiser",
+    "trim_name": "Base",
     "standard_features": [
       "2.4L i‑FORCE MAX Hybrid Powertrain (326 hp, 465 lb‑ft)",
       "8‑Speed Automatic Transmission",
@@ -36961,6 +37357,7 @@
   },
   {
     "code": "2026-toyota-mirai-xle",
+    "model_code": "Mirai",
     "manufacturer_code": 49,
     "trim_name": "XLE",
     "standard_features": [
@@ -36989,6 +37386,7 @@
   },
   {
     "code": "2026-toyota-prius-le",
+    "model_code": "Prius",
     "manufacturer_code": 49,
     "trim_name": "LE",
     "standard_features": [
@@ -37013,6 +37411,7 @@
   },
   {
     "code": "2026-toyota-prius-xle",
+    "model_code": "Prius",
     "manufacturer_code": 49,
     "trim_name": "XLE",
     "standard_features": [
@@ -37039,6 +37438,7 @@
   },
   {
     "code": "2026-toyota-prius-nightshade",
+    "model_code": "Prius",
     "manufacturer_code": 49,
     "trim_name": "Nightshade Edition",
     "standard_features": [
@@ -37064,6 +37464,7 @@
   },
   {
     "code": "2026-toyota-prius-limited",
+    "model_code": "Prius",
     "manufacturer_code": 49,
     "trim_name": "Limited",
     "standard_features": [
@@ -37089,6 +37490,7 @@
   },
   {
     "code": "2026-toyota-prius-plug-in-se",
+    "model_code": "Prius Plug-in Hybrid",
     "manufacturer_code": 49,
     "trim_name": "SE",
     "standard_features": [
@@ -37113,6 +37515,7 @@
   },
   {
     "code": "2026-toyota-prius-plug-in-xse",
+    "model_code": "Prius Plug-in Hybrid",
     "manufacturer_code": 49,
     "trim_name": "XSE",
     "standard_features": [
@@ -37138,6 +37541,7 @@
   },
   {
     "code": "2026-toyota-prius-plug-in-nightshade",
+    "model_code": "Prius Plug-in Hybrid",
     "manufacturer_code": 49,
     "trim_name": "Nightshade Edition",
     "standard_features": [
@@ -37163,6 +37567,7 @@
   },
   {
     "code": "2026-toyota-prius-plug-in-xse-premium",
+    "model_code": "Prius Plug-in Hybrid",
     "manufacturer_code": 49,
     "trim_name": "XSE Premium",
     "standard_features": [
@@ -37188,6 +37593,7 @@
   },
   {
     "code": "2026-toyota-rav4-le",
+    "model_code": "RAV4",
     "manufacturer_code": 49,
     "trim_name": "LE",
     "standard_features": [
@@ -37212,6 +37618,7 @@
   },
   {
     "code": "2026-toyota-rav4-se",
+    "model_code": "RAV4",
     "manufacturer_code": 49,
     "trim_name": "SE",
     "standard_features": [
@@ -37236,6 +37643,7 @@
   },
   {
     "code": "2026-toyota-rav4-xle-premium",
+    "model_code": "RAV4",
     "manufacturer_code": 49,
     "trim_name": "XLE Premium",
     "standard_features": [
@@ -37261,6 +37669,7 @@
   },
   {
     "code": "2026-toyota-rav4-xse",
+    "model_code": "RAV4",
     "manufacturer_code": 49,
     "trim_name": "XSE",
     "standard_features": [
@@ -37285,6 +37694,7 @@
   },
   {
     "code": "2026-toyota-rav4-limited",
+    "model_code": "RAV4",
     "manufacturer_code": 49,
     "trim_name": "Limited",
     "standard_features": [
@@ -37309,6 +37719,7 @@
   },
   {
     "code": "2026-toyota-rav4-woodland",
+    "model_code": "RAV4",
     "manufacturer_code": 49,
     "trim_name": "Woodland",
     "standard_features": [
@@ -37333,6 +37744,7 @@
   },
   {
     "code": "2026-toyota-rav4-gr-sport-phev",
+    "model_code": "RAV4",
     "manufacturer_code": 49,
     "trim_name": "GR Sport PHEV",
     "standard_features": [
@@ -37356,6 +37768,7 @@
   },
   {
     "code": "2026-toyota-rav4-se-phev",
+    "model_code": "RAV4",
     "manufacturer_code": 49,
     "trim_name": "SE PHEV",
     "standard_features": [
@@ -37377,6 +37790,7 @@
   },
   {
     "code": "2026-toyota-rav4-xse-phev",
+    "model_code": "RAV4",
     "manufacturer_code": 49,
     "trim_name": "XSE PHEV",
     "standard_features": [
@@ -37399,6 +37813,7 @@
   },
   {
     "code": "2026-toyota-rav4-woodland-phev",
+    "model_code": "RAV4",
     "manufacturer_code": 49,
     "trim_name": "Woodland PHEV",
     "standard_features": [
@@ -37421,6 +37836,7 @@
   },
   {
     "code": "2026-toyota-sequoia-sr5",
+    "model_code": "Sequoia",
     "manufacturer_code": 49,
     "trim_name": "SR5",
     "standard_features": [
@@ -37446,6 +37862,7 @@
   },
   {
     "code": "2026-toyota-sequoia-limited",
+    "model_code": "Sequoia",
     "manufacturer_code": 49,
     "trim_name": "Limited",
     "standard_features": [
@@ -37473,6 +37890,7 @@
   },
   {
     "code": "2026-toyota-sequoia-platinum",
+    "model_code": "Sequoia",
     "manufacturer_code": 49,
     "trim_name": "Platinum",
     "standard_features": [
@@ -37500,6 +37918,7 @@
   },
   {
     "code": "2026-toyota-sequoia-trd-pro",
+    "model_code": "Sequoia",
     "manufacturer_code": 49,
     "trim_name": "TRD Pro",
     "standard_features": [
@@ -37526,6 +37945,7 @@
   },
   {
     "code": "2026-toyota-sequoia-1794-edition",
+    "model_code": "Sequoia",
     "manufacturer_code": 49,
     "trim_name": "1794 Edition",
     "standard_features": [
@@ -37551,6 +37971,7 @@
   },
   {
     "code": "2026-toyota-sequoia-capstone",
+    "model_code": "Sequoia",
     "manufacturer_code": 49,
     "trim_name": "Capstone",
     "standard_features": [
@@ -37577,6 +37998,7 @@
   },
   {
     "code": "2026-toyota-sienna-le",
+    "model_code": "Sienna",
     "manufacturer_code": 49,
     "trim_name": "LE",
     "standard_features": [
@@ -37606,6 +38028,7 @@
   },
   {
     "code": "2026-toyota-sienna-xle",
+    "model_code": "Sienna",
     "manufacturer_code": 49,
     "trim_name": "XLE",
     "standard_features": [
@@ -37633,6 +38056,7 @@
   },
   {
     "code": "2026-toyota-sienna-xse",
+    "model_code": "Sienna",
     "manufacturer_code": 49,
     "trim_name": "XSE",
     "standard_features": [
@@ -37658,6 +38082,7 @@
   },
   {
     "code": "2026-toyota-sienna-woodland-edition",
+    "model_code": "Sienna",
     "manufacturer_code": 49,
     "trim_name": "Woodland Edition",
     "standard_features": [
@@ -37683,6 +38108,7 @@
   },
   {
     "code": "2026-toyota-sienna-limited",
+    "model_code": "Sienna",
     "manufacturer_code": 49,
     "trim_name": "Limited",
     "standard_features": [
@@ -37710,6 +38136,7 @@
   },
   {
     "code": "2026-toyota-sienna-platinum",
+    "model_code": "Sienna",
     "manufacturer_code": 49,
     "trim_name": "Platinum",
     "standard_features": [
@@ -37738,6 +38165,7 @@
   },
   {
     "code": "2026-toyota-tacoma-sr",
+    "model_code": "Tacoma",
     "manufacturer_code": 49,
     "trim_name": "SR",
     "standard_features": [
@@ -37762,6 +38190,7 @@
   },
   {
     "code": "2026-toyota-tacoma-sr5",
+    "model_code": "Tacoma",
     "manufacturer_code": 49,
     "trim_name": "SR5",
     "standard_features": [
@@ -37786,6 +38215,7 @@
   },
   {
     "code": "2026-toyota-tacoma-trd-prerunner",
+    "model_code": "Tacoma",
     "manufacturer_code": 49,
     "trim_name": "TRD PreRunner",
     "standard_features": [
@@ -37808,6 +38238,7 @@
   },
   {
     "code": "2026-toyota-tacoma-trd-sport",
+    "model_code": "Tacoma",
     "manufacturer_code": 49,
     "trim_name": "TRD Sport",
     "standard_features": [
@@ -37830,6 +38261,7 @@
   },
   {
     "code": "2026-toyota-tacoma-trd-off-road",
+    "model_code": "Tacoma",
     "manufacturer_code": 49,
     "trim_name": "TRD Off‑Road",
     "standard_features": [
@@ -37852,6 +38284,7 @@
   },
   {
     "code": "2026-toyota-tacoma-limited",
+    "model_code": "Tacoma",
     "manufacturer_code": 49,
     "trim_name": "Limited",
     "standard_features": [
@@ -37875,8 +38308,9 @@
 
   {
     "code": "2026-toyota-tacoma-trd-sport-iforce-max",
+    "model_code": "Tacoma i-FORCE MAX",
     "manufacturer_code": 49,
-    "trim_name": "TRD Sport i‑FORCE MAX",
+    "trim_name": "TRD Sport",
     "standard_features": [
       "2.4L i‑FORCE MAX Turbocharged Hybrid Powertrain",
       "8‑Speed Automatic Transmission",
@@ -37897,8 +38331,9 @@
   },
   {
     "code": "2026-toyota-tacoma-trd-off-road-iforce-max",
+    "model_code": "Tacoma i-FORCE MAX",
     "manufacturer_code": 49,
-    "trim_name": "TRD Off‑Road i‑FORCE MAX",
+    "trim_name": "TRD Off‑Road",
     "standard_features": [
       "2.4L i‑FORCE MAX Turbocharged Hybrid Powertrain",
       "8‑Speed Automatic Transmission",
@@ -37920,8 +38355,9 @@
   },
   {
     "code": "2026-toyota-tacoma-limited-iforce-max",
+    "model_code": "Tacoma i-FORCE MAX",
     "manufacturer_code": 49,
-    "trim_name": "Limited i‑FORCE MAX",
+    "trim_name": "Limited",
     "standard_features": [
       "2.4L i‑FORCE MAX Turbocharged Hybrid Powertrain",
       "8‑Speed Automatic Transmission",
@@ -37942,6 +38378,7 @@
   },
   {
     "code": "2026-toyota-tacoma-trailhunter",
+    "model_code": "Tacoma",
     "manufacturer_code": 49,
     "trim_name": "Trailhunter",
     "standard_features": [
@@ -37965,6 +38402,7 @@
   },
   {
     "code": "2026-toyota-tacoma-trd-pro",
+    "model_code": "Tacoma",
     "manufacturer_code": 49,
     "trim_name": "TRD Pro",
     "standard_features": [
@@ -37988,6 +38426,7 @@
   },
   {
     "code": "2026-toyota-tundra-sr",
+    "model_code": "Tundra",
     "manufacturer_code": 49,
     "trim_name": "SR",
     "standard_features": [
@@ -38012,6 +38451,7 @@
   },
   {
     "code": "2026-toyota-tundra-sr5",
+    "model_code": "Tundra",
     "manufacturer_code": 49,
     "trim_name": "SR5",
     "standard_features": [
@@ -38035,6 +38475,7 @@
   },
   {
     "code": "2026-toyota-tundra-limited",
+    "model_code": "Tundra",
     "manufacturer_code": 49,
     "trim_name": "Limited",
     "standard_features": [
@@ -38057,6 +38498,7 @@
   },
   {
     "code": "2026-toyota-tundra-platinum",
+    "model_code": "Tundra",
     "manufacturer_code": 49,
     "trim_name": "Platinum",
     "standard_features": [
@@ -38079,6 +38521,7 @@
   },
   {
     "code": "2026-toyota-tundra-1794-edition",
+    "model_code": "Tundra",
     "manufacturer_code": 49,
     "trim_name": "1794 Edition",
     "standard_features": [
@@ -38101,6 +38544,7 @@
   },
   {
     "code": "2026-toyota-tundra-trd-pro",
+    "model_code": "Tundra",
     "manufacturer_code": 49,
     "trim_name": "TRD Pro",
     "standard_features": [
@@ -38123,6 +38567,7 @@
   },
   {
     "code": "2026-toyota-tundra-capstone",
+    "model_code": "Tundra",
     "manufacturer_code": 49,
     "trim_name": "Capstone",
     "standard_features": [
@@ -38145,8 +38590,9 @@
   },
   {
     "code": "2026-toyota-tundra-limited-i-force-max",
+    "model_code": "Tundra i-FORCE MAX",
     "manufacturer_code": 49,
-    "trim_name": "Limited i‑FORCE MAX",
+    "trim_name": "Limited",
     "standard_features": [
       "3.4L Twin‑Turbo i‑FORCE MAX Hybrid Powertrain (437 hp, 583 lb‑ft)",
       "10‑Speed Automatic Transmission",
@@ -38166,8 +38612,9 @@
   },
   {
     "code": "2026-toyota-tundra-platinum-i-force-max",
+    "model_code": "Tundra i-FORCE MAX",
     "manufacturer_code": 49,
-    "trim_name": "Platinum i‑FORCE MAX",
+    "trim_name": "Platinum",
     "standard_features": [
       "3.4L Twin‑Turbo i‑FORCE MAX Hybrid Powertrain (437 hp, 583 lb‑ft)",
       "10‑Speed Automatic Transmission",
@@ -38188,8 +38635,9 @@
   },
   {
     "code": "2026-toyota-tundra-1794-edition-i-force-max",
+    "model_code": "Tundra i-FORCE MAX",
     "manufacturer_code": 49,
-    "trim_name": "1794 Edition i‑FORCE MAX",
+    "trim_name": "1794 Edition",
     "standard_features": [
       "3.4L Twin‑Turbo i‑FORCE MAX Hybrid Powertrain (437 hp, 583 lb‑ft)",
       "10‑Speed Automatic Transmission",
@@ -38210,6 +38658,7 @@
   },
   {
     "code": "2026-vinfast-vf8-eco",
+    "model_code": "VF8",
     "manufacturer_code": 50,
     "trim_name": "Eco",
     "standard_features": [
@@ -38237,6 +38686,7 @@
   },
   {
     "code": "2026-vinfast-vf8-plus",
+    "model_code": "VF8",
     "manufacturer_code": 50,
     "trim_name": "Plus",
     "standard_features": [
@@ -38264,6 +38714,7 @@
   },
   {
     "code": "2026-vinfast-vf9-eco",
+    "model_code": "VF9",
     "manufacturer_code": 50,
     "trim_name": "Eco",
     "standard_features": [
@@ -38293,6 +38744,7 @@
   },
   {
     "code": "2026-vinfast-vf9-plus",
+    "model_code": "VF9",
     "manufacturer_code": 50,
     "trim_name": "Plus",
     "standard_features": [
@@ -38322,6 +38774,7 @@
   },
   {
     "code": "2026-volkswagen-atlas-se",
+    "model_code": "Atlas",
     "manufacturer_code": 51,
     "trim_name": "SE",
     "standard_features": [
@@ -38347,6 +38800,7 @@
   },
   {
     "code": "2026-volkswagen-atlas-se-technology",
+    "model_code": "Atlas",
     "manufacturer_code": 51,
     "trim_name": "SE with Technology",
     "standard_features": [
@@ -38368,6 +38822,7 @@
   },
   {
     "code": "2026-volkswagen-atlas-peak-edition",
+    "model_code": "Atlas",
     "manufacturer_code": 51,
     "trim_name": "Peak Edition",
     "standard_features": [
@@ -38386,6 +38841,7 @@
   },
   {
     "code": "2026-volkswagen-atlas-sel",
+    "model_code": "Atlas",
     "manufacturer_code": 51,
     "trim_name": "SEL",
     "standard_features": [
@@ -38408,6 +38864,7 @@
   },
   {
     "code": "2026-volkswagen-atlas-sel-premium-r-line",
+    "model_code": "Atlas",
     "manufacturer_code": 51,
     "trim_name": "SEL Premium R‑Line",
     "standard_features": [
@@ -38428,6 +38885,7 @@
 
   {
     "code": "2026-volkswagen-atlas-cross-sport-se",
+    "model_code": "Atlas Cross Sport",
     "manufacturer_code": 51,
     "trim_name": "SE",
     "standard_features": [
@@ -38452,6 +38910,7 @@
   },
   {
     "code": "2026-volkswagen-atlas-cross-sport-se-technology",
+    "model_code": "Atlas Cross Sport",
     "manufacturer_code": 51,
     "trim_name": "SE with Technology",
     "standard_features": [
@@ -38472,6 +38931,7 @@
   },
   {
     "code": "2026-volkswagen-atlas-cross-sport-sel",
+    "model_code": "Atlas Cross Sport",
     "manufacturer_code": 51,
     "trim_name": "SEL",
     "standard_features": [
@@ -38494,6 +38954,7 @@
   },
   {
     "code": "2026-volkswagen-atlas-cross-sport-sel-r-line-black",
+    "model_code": "Atlas Cross Sport",
     "manufacturer_code": 51,
     "trim_name": "SEL R‑Line Black",
     "standard_features": [
@@ -38513,6 +38974,7 @@
   },
   {
     "code": "2026-volkswagen-atlas-cross-sport-sel-premium-r-line",
+    "model_code": "Atlas Cross Sport",
     "manufacturer_code": 51,
     "trim_name": "SEL Premium R‑Line",
     "standard_features": [
@@ -38531,8 +38993,9 @@
   },
   {
     "code": "2026-volkswagen-golf-gti-s",
+    "model_code": "Golf GTI",
     "manufacturer_code": 51,
-    "trim_name": "GTI",
+    "trim_name": "S",
     "standard_features": [
       "2.0L Turbocharged TSI® 4‑Cylinder Engine (~241 hp, 273 lb‑ft)",
       "7‑Speed DSG® Dual‑Clutch Automatic Transmission",
@@ -38555,6 +39018,7 @@
   },
   {
     "code": "2026-volkswagen-golf-gti-autobahn",
+    "model_code": "Golf GTI",
     "manufacturer_code": 51,
     "trim_name": "GTI Autobahn",
     "standard_features": [
@@ -38575,8 +39039,9 @@
   },
   {
     "code": "2026-volkswagen-golf-r-4motion",
+    "model_code": "Golf R",
     "manufacturer_code": 51,
-    "trim_name": "Golf R",
+    "trim_name": "Standard",
     "standard_features": [
       "2.0L Turbocharged TSI® 4‑Cylinder Engine (~328 hp, 295 lb‑ft)",
       "7‑Speed DSG® Dual‑Clutch Automatic Transmission",
@@ -38600,6 +39065,7 @@
   },
   {
     "code": "2026-volkswagen-id4-pro",
+    "model_code": "ID.4",
     "manufacturer_code": 51,
     "trim_name": "Pro",
     "standard_features": [
@@ -38626,6 +39092,7 @@
   },
   {
     "code": "2026-volkswagen-id4-pro-s",
+    "model_code": "ID.4",
     "manufacturer_code": 51,
     "trim_name": "Pro S",
     "standard_features": [
@@ -38648,6 +39115,7 @@
   },
   {
     "code": "2026-volkswagen-id4-pro-s-plus",
+    "model_code": "ID.4",
     "manufacturer_code": 51,
     "trim_name": "Pro S Plus",
     "standard_features": [
@@ -38668,6 +39136,7 @@
   },
   {
     "code": "2026-volkswagen-id-buzz-pro-s",
+    "model_code": "ID.Buzz",
     "manufacturer_code": 51,
     "trim_name": "Pro S",
     "standard_features": [
@@ -38696,6 +39165,7 @@
   },
   {
     "code": "2026-volkswagen-id-buzz-pro-s-plus",
+    "model_code": "ID.Buzz",
     "manufacturer_code": 51,
     "trim_name": "Pro S Plus",
     "standard_features": [
@@ -38715,6 +39185,7 @@
   },
   {
     "code": "2026-volkswagen-id-buzz-1st-edition",
+    "model_code": "ID.Buzz",
     "manufacturer_code": 51,
     "trim_name": "1st Edition",
     "standard_features": [
@@ -38734,6 +39205,7 @@
   },
   {
     "code": "2026-volkswagen-jetta-s",
+    "model_code": "Jetta",
     "manufacturer_code": 51,
     "trim_name": "S",
     "standard_features": [
@@ -38759,6 +39231,7 @@
   },
   {
     "code": "2026-volkswagen-jetta-se",
+    "model_code": "Jetta",
     "manufacturer_code": 51,
     "trim_name": "SE",
     "standard_features": [
@@ -38784,6 +39257,7 @@
   },
   {
     "code": "2026-volkswagen-jetta-r-line",
+    "model_code": "Jetta",
     "manufacturer_code": 51,
     "trim_name": "R‑Line",
     "standard_features": [
@@ -38808,9 +39282,10 @@
     "active": true
   },
   {
-    "code": "2026-volkswagen-jetta-gli",
+    "code": "2026-volkswagen-jetta-gli-base",
+    "model_code": "Jetta GLI",
     "manufacturer_code": 51,
-    "trim_name": "GLI",
+    "trim_name": "Base",
     "standard_features": [
       "2.0L Turbocharged TSI® 4‑Cylinder Engine (~228 hp)",
       "7‑Speed DSG® Dual‑Clutch Automatic Transmission",
@@ -38834,6 +39309,7 @@
   },
   {
     "code": "2026-volkswagen-jetta-gli-autobahn",
+    "model_code": "Jetta GLI",
     "manufacturer_code": 51,
     "trim_name": "GLI Autobahn",
     "standard_features": [
@@ -38856,6 +39332,7 @@
   },
   {
     "code": "2026-volkswagen-taos-s",
+    "model_code": "Taos",
     "manufacturer_code": 51,
     "trim_name": "S",
     "standard_features": [
@@ -38881,6 +39358,7 @@
   },
   {
     "code": "2026-volkswagen-taos-se",
+    "model_code": "Taos",
     "manufacturer_code": 51,
     "trim_name": "SE",
     "standard_features": [
@@ -38903,6 +39381,7 @@
   },
   {
     "code": "2026-volkswagen-taos-se-black",
+    "model_code": "Taos",
     "manufacturer_code": 51,
     "trim_name": "SE Black",
     "standard_features": [
@@ -38921,6 +39400,7 @@
   },
   {
     "code": "2026-volkswagen-taos-sel",
+    "model_code": "Taos",
     "manufacturer_code": 51,
     "trim_name": "SEL",
     "standard_features": [
@@ -38944,6 +39424,7 @@
   },
   {
     "code": "2026-volkswagen-tiguan-s",
+    "model_code": "Tiguan",
     "manufacturer_code": 51,
     "trim_name": "S",
     "standard_features": [
@@ -38969,6 +39450,7 @@
   },
   {
     "code": "2026-volkswagen-tiguan-se",
+    "model_code": "Tiguan",
     "manufacturer_code": 51,
     "trim_name": "SE",
     "standard_features": [
@@ -38991,6 +39473,7 @@
   },
   {
     "code": "2026-volkswagen-tiguan-se-r-line-black",
+    "model_code": "Tiguan",
     "manufacturer_code": 51,
     "trim_name": "SE R‑Line Black",
     "standard_features": [
@@ -39012,6 +39495,7 @@
   },
   {
     "code": "2026-volkswagen-tiguan-sel-r-line-turbo",
+    "model_code": "Tiguan",
     "manufacturer_code": 51,
     "trim_name": "SEL R‑Line Turbo",
     "standard_features": [
@@ -39038,6 +39522,7 @@
   },
   {
     "code": "2026-volvo-ex90-single-motor",
+    "model_code": "EXC90 fully electric",
     "manufacturer_code": 52,
     "trim_name": "Single Motor",
     "standard_features": [
@@ -39064,6 +39549,7 @@
   },
   {
     "code": "2026-volvo-ex90-twin-motor",
+    "model_code": "EXC90 fully electric",
     "manufacturer_code": 52,
     "trim_name": "Twin Motor",
     "standard_features": [
@@ -39089,6 +39575,7 @@
   },
   {
     "code": "2026-volvo-ex90-performance",
+    "model_code": "EXC90 fully electric",
     "manufacturer_code": 52,
     "trim_name": "Twin Motor Performance",
     "standard_features": [
@@ -39115,6 +39602,7 @@
   },
   {
     "code": "2026-volvo-v60-cross-country-plus",
+    "model_code": "V60 Cross Country",
     "manufacturer_code": 52,
     "trim_name": "Plus",
     "standard_features": [
@@ -39142,6 +39630,7 @@
   },
   {
     "code": "2026-volvo-v60-cross-country-ultra",
+    "model_code": "V60 Cross Country",
     "manufacturer_code": 52,
     "trim_name": "Ultra",
     "standard_features": [
@@ -39165,6 +39654,7 @@
   },
   {
     "code": "2026-volvo-xc30-ex30-plus",
+    "model_code": "XC30 fully electric",
     "manufacturer_code": 52,
     "trim_name": "Plus",
     "standard_features": [
@@ -39190,6 +39680,7 @@
   },
   {
     "code": "2026-volvo-xc30-ex30-ultra",
+    "model_code": "XC30 fully electric",
     "manufacturer_code": 52,
     "trim_name": "Ultra",
     "standard_features": [
@@ -39215,6 +39706,7 @@
   },
   {
     "code": "2026-volvo-xc30-ex30-cross-country",
+    "model_code": "XC30 fully electric",
     "manufacturer_code": 52,
     "trim_name": "Cross Country",
     "standard_features": [
@@ -39240,6 +39732,7 @@
   },
   {
     "code": "2026-volvo-xc40-core",
+    "model_code": "XC40",
     "manufacturer_code": 52,
     "trim_name": "Core",
     "standard_features": [
@@ -39265,6 +39758,7 @@
   },
   {
     "code": "2026-volvo-xc40-plus",
+    "model_code": "XC40",
     "manufacturer_code": 52,
     "trim_name": "Plus",
     "standard_features": [
@@ -39284,6 +39778,7 @@
   },
   {
     "code": "2026-volvo-xc40-ultra",
+    "model_code": "XC40",
     "manufacturer_code": 52,
     "trim_name": "Ultra",
     "standard_features": [
@@ -39303,6 +39798,7 @@
   },
   {
     "code": "2026-volvo-ex40-plus",
+    "model_code": "XC40 fully electric",
     "manufacturer_code": 52,
     "trim_name": "Plus",
     "standard_features": [
@@ -39326,6 +39822,7 @@
   },
   {
     "code": "2026-volvo-ex40-ultra-black-edition",
+    "model_code": "XC40",
     "manufacturer_code": 52,
     "trim_name": "Ultra Black Edition",
     "standard_features": [
@@ -39345,6 +39842,7 @@
   },
   {
     "code": "2026-volvo-xc60-core",
+    "model_code": "XC60",
     "manufacturer_code": 52,
     "trim_name": "Core",
     "standard_features": [
@@ -39370,6 +39868,7 @@
   },
   {
     "code": "2026-volvo-xc60-plus",
+    "model_code": "XC60",
     "manufacturer_code": 52,
     "trim_name": "Plus",
     "standard_features": [
@@ -39390,6 +39889,7 @@
   },
   {
     "code": "2026-volvo-xc60-ultra",
+    "model_code": "XC60",
     "manufacturer_code": 52,
     "trim_name": "Ultra",
     "standard_features": [
@@ -39410,6 +39910,7 @@
   },
   {
     "code": "2026-volvo-xc60-ultra-black-edition",
+    "model_code": "XC60",
     "manufacturer_code": 52,
     "trim_name": "Ultra Black Edition",
     "standard_features": [
@@ -39427,6 +39928,7 @@
   },
   {
     "code": "2026-volvo-xc60-plug-in-hybrid-core",
+    "model_code": "XC60 plug-in hybrid",
     "manufacturer_code": 52,
     "trim_name": "Core",
     "standard_features": [
@@ -39451,6 +39953,7 @@
   },
   {
     "code": "2026-volvo-xc60-plug-in-hybrid-plus",
+    "model_code": "XC60 plug-in hybrid",
     "manufacturer_code": 52,
     "trim_name": "Plus",
     "standard_features": [
@@ -39469,6 +39972,7 @@
   },
   {
     "code": "2026-volvo-xc60-plug-in-hybrid-ultra",
+    "model_code": "XC60 plug-in hybrid",
     "manufacturer_code": 52,
     "trim_name": "Ultra",
     "standard_features": [
@@ -39487,6 +39991,7 @@
   },
   {
     "code": "2026-volvo-xc60-plug-in-hybrid-polestar-engineered",
+    "model_code": "XC60 plug-in hybrid",
     "manufacturer_code": 52,
     "trim_name": "Polestar Engineered",
     "standard_features": [
@@ -39505,6 +40010,7 @@
   },
   {
     "code": "2026-volvo-xc90-core",
+    "model_code": "XC90",
     "manufacturer_code": 52,
     "trim_name": "Core",
     "standard_features": [
@@ -39532,6 +40038,7 @@
   },
   {
     "code": "2026-volvo-xc90-plus",
+    "model_code": "XC90",
     "manufacturer_code": 52,
     "trim_name": "Plus",
     "standard_features": [
@@ -39552,6 +40059,7 @@
   },
   {
     "code": "2026-volvo-xc90-ultra",
+    "model_code": "XC90",
     "manufacturer_code": 52,
     "trim_name": "Ultra",
     "standard_features": [
@@ -39572,6 +40080,7 @@
 
   {
     "code": "2026-volvo-xc90-plug-in-hybrid-core",
+    "model_code": "XC90 plug-in hybrid",
     "manufacturer_code": 52,
     "trim_name": "Core",
     "standard_features": [
@@ -39598,6 +40107,7 @@
   },
   {
     "code": "2026-volvo-xc90-plug-in-hybrid-plus",
+    "model_code": "XC90 plug-in hybrid",
     "manufacturer_code": 52,
     "trim_name": "Plus",
     "standard_features": [
@@ -39617,6 +40127,7 @@
   },
   {
     "code": "2026-volvo-xc90-plug-in-hybrid-ultra",
+    "model_code": "XC90 plug-in hybrid",
     "manufacturer_code": 52,
     "trim_name": "Ultra",
     "standard_features": [

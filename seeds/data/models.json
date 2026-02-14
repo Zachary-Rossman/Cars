@@ -3330,101 +3330,17 @@
   ]
   },
   {
-  "model_code": "AMG GT 43 4-door Coupe",
+  "model_code": "AMG GT",
   "manufacturer_code": 37,
   "years": [2026],
   "body_styles": [
+    {
+      "style": "Coupe",
+      "doors": 2
+    },
     {
       "style": "Sedan",
       "doors": 4
-    }
-  ]
-  },
-  {
-  "model_code": "AMG GT 43 Coupe",
-  "manufacturer_code": 37,
-  "years": [2026],
-  "body_styles": [
-    {
-      "style": "Coupe",
-      "doors": 2
-    }
-  ]
-  },
-  {
-  "model_code": "AMG GT 53 4-door Coupe",
-  "manufacturer_code": 37,
-  "years": [2026],
-  "body_styles": [
-    {
-      "style": "Sedan",
-      "doors": 4
-    }
-  ]
-  },
-  {
-  "model_code": "AMG GT 55 Coupe",
-  "manufacturer_code": 37,
-  "years": [2026],
-  "body_styles": [
-    {
-      "style": "Coupe",
-      "doors": 2
-    }
-  ]
-  },
-  {
-  "model_code": "AMG GT 63 Coupe",
-  "manufacturer_code": 37,
-  "years": [2026],
-  "body_styles": [
-    {
-      "style": "Coupe",
-      "doors": 2
-    }
-  ]
-  },
-  {
-  "model_code": "AMG GT 63 4-door Coupe",
-  "manufacturer_code": 37,
-  "years": [2026],
-  "body_styles": [
-    {
-      "style": "Sedan",
-      "doors": 4
-    }
-  ]
-  },
-  {
-  "model_code": "AMG GT 63 S E Performance AMG 4-door Coupe",
-  "manufacturer_code": 37,
-  "years": [2026],
-  "body_styles": [
-    {
-      "style": "Sedan",
-      "doors": 4
-    }
-  ]
-  },
-  {
-  "model_code": "AMG GT 63 S E Performance AMG Coupe",
-  "manufacturer_code": 37,
-  "years": [2026],
-  "body_styles": [
-    {
-      "style": "Coupe",
-      "doors": 2
-    }
-  ]
-  },
-  {
-  "model_code": "AMG GT 63 Pro 4MATIC+",
-  "manufacturer_code": 37,
-  "years": [2026],
-  "body_styles": [
-    {
-      "style": "Coupe",
-      "doors": 2
     }
   ]
   },
@@ -3440,18 +3356,7 @@
   ]
   },
   {
-  "model_code": "C 300",
-  "manufacturer_code": 37,
-  "years": [2026],
-  "body_styles": [
-    {
-      "style": "Sedan",
-      "doors": 4
-    }
-  ]
-  },
-  {
-  "model_code": "C 300 4MATIC",
+  "model_code": "C Class",
   "manufacturer_code": 37,
   "years": [2026],
   "body_styles": [
@@ -3484,29 +3389,7 @@
   ]
   },
   {
-  "model_code": "CLA 250 Coupe",
-  "manufacturer_code": 37,
-  "years": [2026],
-  "body_styles": [
-    {
-      "style": "Sedan",
-      "doors": 4
-    }
-  ]
-  },
-  {
-  "model_code": "CLA 250 4MATIC Coupe",
-  "manufacturer_code": 37,
-  "years": [2026],
-  "body_styles": [
-    {
-      "style": "Sedan",
-      "doors": 4
-    }
-  ]
-  },
-  {
-  "model_code": "CLA 250+ with EQ Technology",
+  "model_code": "CLA Class",
   "manufacturer_code": 37,
   "years": [2026],
   "body_styles": [
@@ -3528,17 +3411,6 @@
   ]
   },
   {
-  "model_code": "CLA 350 4MATIC with EQ Technology",
-  "manufacturer_code": 37,
-  "years": [2026],
-  "body_styles": [
-    {
-      "style": "Sedan",
-      "doors": 4
-    }
-  ]
-  },
-  {
   "model_code": "CLA 45 S AMG Coupe",
   "manufacturer_code": 37,
   "years": [2026],
@@ -3550,45 +3422,16 @@
   ]
   },
   {
-  "model_code": "CLE 300 4MATIC",
-  "manufacturer_code": 37,
-  "years": [2026],
-  "body_styles": [
-    {
-      "style": "Coupe",
-      "doors": 2
-    }
-  ]
-  },
-  {
-  "model_code": "CLE 300 4MATIC Cabriolet",
+  "model_code": "CLE Class",
   "manufacturer_code": 37,
   "years": [2026],
   "body_styles": [
     {
       "style": "Convertible",
       "doors": 2
-    }
-  ]
-  },
-  {
-  "model_code": "CLE 450 4MATIC",
-  "manufacturer_code": 37,
-  "years": [2026],
-  "body_styles": [
+    },
     {
       "style": "Coupe",
-      "doors": 2
-    }
-  ]
-  },
-  {
-  "model_code": "CLE 450 4MATIC Cabriolet",
-  "manufacturer_code": 37,
-  "years": [2026],
-  "body_styles": [
-    {
-      "style": "Convertible",
       "doors": 2
     }
   ]
@@ -3616,43 +3459,14 @@
   ]
   },
   {
-  "model_code": "E 350",
+  "model_code": "E Class",
   "manufacturer_code": 37,
   "years": [2026],
   "body_styles": [
     {
       "style": "Sedan",
       "doors": 4
-    }
-  ]
-  },
-  {
-  "model_code": "E 350 4MATIC",
-  "manufacturer_code": 37,
-  "years": [2026],
-  "body_styles": [
-    {
-      "style": "Sedan",
-      "doors": 4
-    }
-  ]
-  },
-  {
-  "model_code": "E 450 4MATIC",
-  "manufacturer_code": 37,
-  "years": [2026],
-  "body_styles": [
-    {
-      "style": "Sedan",
-      "doors": 4
-    }
-  ]
-  },
-  {
-  "model_code": "E 450 4MATIC All-Terrain",
-  "manufacturer_code": 37,
-  "years": [2026],
-  "body_styles": [
+    },
     {
       "style": "Wagon",
       "doors": 4
@@ -3675,7 +3489,7 @@
   ]
   },
   {
-  "model_code": "EQB 250+",
+  "model_code": "EQB Class",
   "manufacturer_code": 37,
   "years": [2026],
   "body_styles": [
@@ -3686,44 +3500,7 @@
   ]
   },
   {
-  "model_code": "EQB 300 4MATIC",
-  "manufacturer_code": 37,
-  "years": [2026],
-  "body_styles": [
-    {
-      "style": "SUV",
-      "doors": 4
-    }
-  ]
-  },
-  {
-  "model_code": "EQB 350 4MATIC",
-  "manufacturer_code": 37,
-  "years": [2026],
-  "body_styles": [
-    {
-      "style": "SUV",
-      "doors": 4
-    }
-  ]
-  },
-  {
-  "model_code": "EQE 320+",
-  "manufacturer_code": 37,
-  "years": [2026],
-  "body_styles": [
-    {
-      "style": "Sedan",
-      "doors": 4
-    },
-    {
-      "style": "SUV",
-      "doors": 4
-    }
-  ]
-  },
-  {
-  "model_code": "EQE 320 4MATIC",
+  "model_code": "EQE Class",
   "manufacturer_code": 37,
   "years": [2026],
   "body_styles": [
@@ -3753,7 +3530,7 @@
   ]
   },
   {
-  "model_code": "EQS 400 4MATIC",
+  "model_code": "EQS Class",
   "manufacturer_code": 37,
   "years": [2026],
   "body_styles": [
@@ -3764,62 +3541,7 @@
   ]
   },
   {
-  "model_code": "EQS 450+",
-  "manufacturer_code": 37,
-  "years": [2026],
-  "body_styles": [
-    {
-      "style": "Sedan",
-      "doors": 4
-    }
-  ]
-  },
-  {
-  "model_code": "EQS 450 4MATIC",
-  "manufacturer_code": 37,
-  "years": [2026],
-  "body_styles": [
-    {
-      "style": "Sedan",
-      "doors": 4
-    }
-  ]
-  },
-  {
-  "model_code": "EQS 550 4MATIC",
-  "manufacturer_code": 37,
-  "years": [2026],
-  "body_styles": [
-    {
-      "style": "SUV",
-      "doors": 4
-    }
-  ]
-  },
-  {
-  "model_code": "EQS 580 4MATIC",
-  "manufacturer_code": 37,
-  "years": [2026],
-  "body_styles": [
-    {
-      "style": "Sedan",
-      "doors": 4
-    }
-  ]
-  },
-  {
-  "model_code": "G 550",
-  "manufacturer_code": 37,
-  "years": [2026],
-  "body_styles": [
-    {
-      "style": "SUV",
-      "doors": 4
-    }
-  ]
-  },
-  {
-  "model_code": "G 580 with EQ Technology",
+  "model_code": "G Class",
   "manufacturer_code": 37,
   "years": [2026],
   "body_styles": [
@@ -3841,18 +3563,7 @@
   ]
   },
   {
-  "model_code": "GLA 250",
-  "manufacturer_code": 37,
-  "years": [2026],
-  "body_styles": [
-    {
-      "style": "SUV",
-      "doors": 4
-    }
-  ]
-  },
-  {
-  "model_code": "GLA 250 4MATIC",
+  "model_code": "GLA Class",
   "manufacturer_code": 37,
   "years": [2026],
   "body_styles": [
@@ -3874,18 +3585,7 @@
   ]
   },
   {
-  "model_code": "GLB 250",
-  "manufacturer_code": 37,
-  "years": [2026],
-  "body_styles": [
-    {
-      "style": "SUV",
-      "doors": 4
-    }
-  ]
-  },
-  {
-  "model_code": "GLB 250 4MATIC",
+  "model_code": "GLB Class",
   "manufacturer_code": 37,
   "years": [2026],
   "body_styles": [
@@ -3907,45 +3607,12 @@
   ]
   },
   {
-  "model_code": "GLC 300",
+  "model_code": "GLC Class",
   "manufacturer_code": 37,
   "years": [2026],
   "body_styles": [
     {
-      "style": "SUV",
-      "doors": 4
-    }
-  ]
-  },
-  {
-  "model_code": "GLC 300 4MATIC",
-  "manufacturer_code": 37,
-  "years": [2026],
-  "body_styles": [
-    {
-      "style": "SUV",
-      "doors": 4
-    }
-  ]
-  },
-  {
-  "model_code": "GLC 300 4MATIC Coupe",
-  "manufacturer_code": 37,
-  "years": [2026],
-  "body_styles": [
-    {
-      "style": "SUV",
-      "doors": 4
-    }
-  ]
-  },
-  {
-  "model_code": "GLC 350e 4MATIC",
-  "manufacturer_code": 37,
-  "years": [2026],
-  "body_styles": [
-    {
-      "style": "SUV",
+      "style": "Sedan",
       "doors": 4
     }
   ]
@@ -3995,62 +3662,7 @@
   ]
   },
   {
-  "model_code": "GLE 350",
-  "manufacturer_code": 37,
-  "years": [2026],
-  "body_styles": [
-    {
-      "style": "SUV",
-      "doors": 4
-    }
-  ]
-  },
-  {
-  "model_code": "GLE 350 4MATIC",
-  "manufacturer_code": 37,
-  "years": [2026],
-  "body_styles": [
-    {
-      "style": "SUV",
-      "doors": 4
-    }
-  ]
-  },
-  {
-  "model_code": "GLE 450 4MATIC",
-  "manufacturer_code": 37,
-  "years": [2026],
-  "body_styles": [
-    {
-      "style": "SUV",
-      "doors": 4
-    }
-  ]
-  },
-  {
-  "model_code": "GLE 450 4MATIC Coupe",
-  "manufacturer_code": 37,
-  "years": [2026],
-  "body_styles": [
-    {
-      "style": "SUV",
-      "doors": 4
-    }
-  ]
-  },
-  {
-  "model_code": "GLE 450e 4MATIC",
-  "manufacturer_code": 37,
-  "years": [2026],
-  "body_styles": [
-    {
-      "style": "SUV",
-      "doors": 4
-    }
-  ]
-  },
-  {
-  "model_code": "GLE 580 4MATIC",
+  "model_code": "GLE Class",
   "manufacturer_code": 37,
   "years": [2026],
   "body_styles": [
@@ -4105,24 +3717,13 @@
   ]
   },
   {
-  "model_code": "GLS 450 4MATIC",
+  "model_code": "GLS Class",
   "manufacturer_code": 37,
   "years": [2026],
   "body_styles": [
     {
-      "style": "SUV",
-      "doors": 4
-    }
-  ]
-  },
-  {
-  "model_code": "GLS 580 4MATIC",
-  "manufacturer_code": 37,
-  "years": [2026],
-  "body_styles": [
-    {
-      "style": "SUV",
-      "doors": 4
+      "style": "Coupe",
+      "doors": 2
     }
   ]
   },
@@ -4138,7 +3739,7 @@
   ]
   },
   {
-  "model_code": "Maybach EQS 680",
+  "model_code": "Maybach EQS",
   "manufacturer_code": 37,
   "years": [2026],
   "body_styles": [
@@ -4149,7 +3750,7 @@
   ]
   },
   {
-  "model_code": "Maybach GLS 600",
+  "model_code": "Maybach GLS",
   "manufacturer_code": 37,
   "years": [2026],
   "body_styles": [
@@ -4160,7 +3761,7 @@
   ]
   },
   {
-  "model_code": "Maybach S 580 4MATIC",
+  "model_code": "Maybach S",
   "manufacturer_code": 37,
   "years": [2026],
   "body_styles": [
@@ -4171,40 +3772,7 @@
   ]
   },
   {
-  "model_code": "Maybach S 680 4MATIC",
-  "manufacturer_code": 37,
-  "years": [2026],
-  "body_styles": [
-    {
-      "style": "Sedan",
-      "doors": 4
-    }
-  ]
-  },
-  {
-  "model_code": "S 500 4MATIC",
-  "manufacturer_code": 37,
-  "years": [2026],
-  "body_styles": [
-    {
-      "style": "Sedan",
-      "doors": 4
-    }
-  ]
-  },
-  {
-  "model_code": "S 580 4MATIC",
-  "manufacturer_code": 37,
-  "years": [2026],
-  "body_styles": [
-    {
-      "style": "Sedan",
-      "doors": 4
-    }
-  ]
-  },
-  {
-  "model_code": "S 580e 4MATIC",
+  "model_code": "S Class",
   "manufacturer_code": 37,
   "years": [2026],
   "body_styles": [
@@ -4323,28 +3891,6 @@
   },
   {
   "model_code": "Outlander Sport",
-  "manufacturer_code": 39,
-  "years": [2026],
-  "body_styles": [
-    {
-      "style": "SUV",
-      "doors": 4
-    }
-  ]
-  },
-  {
-  "model_code": "Outlander PHEV",
-  "manufacturer_code": 39,
-  "years": [2026],
-  "body_styles": [
-    {
-      "style": "SUV",
-      "doors": 4
-    }
-  ]
-  },
-  {
-  "model_code": "Outlander Trail Edition",
   "manufacturer_code": 39,
   "years": [2026],
   "body_styles": [
@@ -4575,84 +4121,7 @@
   ]
   },
   {
-  "model_code": "718 Boxster GTS 4.0",
-  "manufacturer_code": 43,
-  "years": [2026],
-  "body_styles": [
-    {
-      "style": "Convertible",
-      "doors": 2
-    }
-  ]
-  },
-  {
-  "model_code": "718 Boxster S",
-  "manufacturer_code": 43,
-  "years": [2026],
-  "body_styles": [
-    {
-      "style": "Convertible",
-      "doors": 2
-    }
-  ]
-  },
-  {
-  "model_code": "718 Boxster Style Edition",
-  "manufacturer_code": 43,
-  "years": [2026],
-  "body_styles": [
-    {
-      "style": "Convertible",
-      "doors": 2
-    }
-  ]
-  },
-  {
   "model_code": "718 Cayman",
-  "manufacturer_code": 43,
-  "years": [2026],
-  "body_styles": [
-    {
-      "style": "Coupe",
-      "doors": 2
-    }
-  ]
-  },
-  {
-  "model_code": "718 Cayman GT4 RS",
-  "manufacturer_code": 43,
-  "years": [2026],
-  "body_styles": [
-    {
-      "style": "Coupe",
-      "doors": 2
-    }
-  ]
-  },
-  {
-  "model_code": "718 Cayman GTS 4.0",
-  "manufacturer_code": 43,
-  "years": [2026],
-  "body_styles": [
-    {
-      "style": "Coupe",
-      "doors": 2
-    }
-  ]
-  },
-  {
-  "model_code": "718 Cayman S",
-  "manufacturer_code": 43,
-  "years": [2026],
-  "body_styles": [
-    {
-      "style": "Coupe",
-      "doors": 2
-    }
-  ]
-  },
-  {
-  "model_code": "718 Cayman Style Edition",
   "manufacturer_code": 43,
   "years": [2026],
   "body_styles": [
@@ -4679,156 +4148,17 @@
   "years": [2026],
   "body_styles": [
     {
-      "style": "Coupe",
-      "doors": 2
-    }
-  ]
-  },
-  {
-  "model_code": "911 Carrera 4 GTS",
-  "manufacturer_code": 43,
-  "years": [2026],
-  "body_styles": [
-    {
-      "style": "Coupe",
-      "doors": 2
-    }
-  ]
-  },
-  {
-  "model_code": "911 Carrera 4 GTS Cabriolet",
-  "manufacturer_code": 43,
-  "years": [2026],
-  "body_styles": [
-    {
       "style": "Convertible",
       "doors": 2
-    }
-  ]
-  },
-  {
-  "model_code": "911 Carrera 4S",
-  "manufacturer_code": 43,
-  "years": [2026],
-  "body_styles": [
+    },
     {
       "style": "Coupe",
-      "doors": 2
-    }
-  ]
-  },
-  {
-  "model_code": "911 Carrera 4S Cabriolet",
-  "manufacturer_code": 43,
-  "years": [2026],
-  "body_styles": [
-    {
-      "style": "Convertible",
-      "doors": 2
-    }
-  ]
-  },
-  {
-  "model_code": "911 Carrera Cabriolet",
-  "manufacturer_code": 43,
-  "years": [2026],
-  "body_styles": [
-    {
-      "style": "Convertible",
-      "doors": 2
-    }
-  ]
-  },
-  {
-  "model_code": "911 Carrera GTS",
-  "manufacturer_code": 43,
-  "years": [2026],
-  "body_styles": [
-    {
-      "style": "Coupe",
-      "doors": 2
-    }
-  ]
-  },
-  {
-  "model_code": "911 Carrera GTS Cabriolet",
-  "manufacturer_code": 43,
-  "years": [2026],
-  "body_styles": [
-    {
-      "style": "Convertible",
-      "doors": 2
-    }
-  ]
-  },
-  {
-  "model_code": "911 Carrera S",
-  "manufacturer_code": 43,
-  "years": [2026],
-  "body_styles": [
-    {
-      "style": "Coupe",
-      "doors": 2
-    }
-  ]
-  },
-  {
-  "model_code": "911 Carrera S Cabriolet",
-  "manufacturer_code": 43,
-  "years": [2026],
-  "body_styles": [
-    {
-      "style": "Convertible",
-      "doors": 2
-    }
-  ]
-  },
-  {
-  "model_code": "911 Carrera T",
-  "manufacturer_code": 43,
-  "years": [2026],
-  "body_styles": [
-    {
-      "style": "Coupe",
-      "doors": 2
-    }
-  ]
-  },
-  {
-  "model_code": "911 Carrera T Cabriolet",
-  "manufacturer_code": 43,
-  "years": [2026],
-  "body_styles": [
-    {
-      "style": "Convertible",
       "doors": 2
     }
   ]
   },
   {
   "model_code": "911 GT3",
-  "manufacturer_code": 43,
-  "years": [2026],
-  "body_styles": [
-    {
-      "style": "Coupe",
-      "doors": 2
-    }
-  ]
-  },
-  {
-  "model_code": "911 GT3 90 f.A. Porsche",
-  "manufacturer_code": 43,
-  "years": [2026],
-  "body_styles": [
-    {
-      "style": "Coupe",
-      "doors": 2
-    }
-  ]
-  },
-  {
-  "model_code": "911 GT3 RS",
   "manufacturer_code": 43,
   "years": [2026],
   "body_styles": [
@@ -4854,7 +4184,7 @@
   ]
   },
   {
-  "model_code": "911 Targa 4S",
+  "model_code": "911 Targa",
   "manufacturer_code": 43,
   "years": [2026],
   "body_styles": [
@@ -4865,34 +4195,16 @@
   ]
   },
   {
-  "model_code": "911 Targa 4 GTS",
+  "model_code": "911 Turbo",
   "manufacturer_code": 43,
   "years": [2026],
   "body_styles": [
     {
       "style": "Convertible",
       "doors": 2
-    }
-  ]
-  },
-  {
-  "model_code": "911 Turbo S",
-  "manufacturer_code": 43,
-  "years": [2026],
-  "body_styles": [
+    },
     {
       "style": "Coupe",
-      "doors": 2
-    }
-  ]
-  },
-  {
-  "model_code": "911 Turbo S Cabriolet",
-  "manufacturer_code": 43,
-  "years": [2026],
-  "body_styles": [
-    {
-      "style": "Convertible",
       "doors": 2
     }
   ]
@@ -4920,238 +4232,7 @@
   ]
   },
   {
-  "model_code": "Cayenne E-Hybrid",
-  "manufacturer_code": 43,
-  "years": [2026],
-  "body_styles": [
-    {
-      "style": "SUV",
-      "doors": 4
-    }
-  ]
-  },
-  {
-  "model_code": "Cayenne E-Hybrid Coupe",
-  "manufacturer_code": 43,
-  "years": [2026],
-  "body_styles": [
-    {
-      "style": "SUV",
-      "doors": 4
-    }
-  ]
-  },
-  {
-  "model_code": "Cayenne Electric",
-  "manufacturer_code": 43,
-  "years": [2026],
-  "body_styles": [
-    {
-      "style": "SUV",
-      "doors": 4
-    }
-  ]
-  },
-  {
-  "model_code": "Cayenne GTS",
-  "manufacturer_code": 43,
-  "years": [2026],
-  "body_styles": [
-    {
-      "style": "SUV",
-      "doors": 4
-    }
-  ]
-  },
-  {
-  "model_code": "Cayenne GTS Coupe",
-  "manufacturer_code": 43,
-  "years": [2026],
-  "body_styles": [
-    {
-      "style": "SUV",
-      "doors": 4
-    }
-  ]
-  },
-  {
-  "model_code": "Cayenne S",
-  "manufacturer_code": 43,
-  "years": [2026],
-  "body_styles": [
-    {
-      "style": "SUV",
-      "doors": 4
-    }
-  ]
-  },
-  {
-  "model_code": "Cayenne S Coupe",
-  "manufacturer_code": 43,
-  "years": [2026],
-  "body_styles": [
-    {
-      "style": "SUV",
-      "doors": 4
-    }
-  ]
-  },
-  {
-  "model_code": "Cayenne S E-Hybrid",
-  "manufacturer_code": 43,
-  "years": [2026],
-  "body_styles": [
-    {
-      "style": "SUV",
-      "doors": 4
-    }
-  ]
-  },
-  {
-  "model_code": "Cayenne S E-Hybrid Coupe",
-  "manufacturer_code": 43,
-  "years": [2026],
-  "body_styles": [
-    {
-      "style": "SUV",
-      "doors": 4
-    }
-  ]
-  },
-  {
-  "model_code": "Cayenne Turbo E-Hybrid",
-  "manufacturer_code": 43,
-  "years": [2026],
-  "body_styles": [
-    {
-      "style": "SUV",
-      "doors": 4
-    }
-  ]
-  },
-  {
-  "model_code": "Cayenne Turbo E-Hybrid Coupe",
-  "manufacturer_code": 43,
-  "years": [2026],
-  "body_styles": [
-    {
-      "style": "SUV",
-      "doors": 4
-    }
-  ]
-  },
-  {
-  "model_code": "Cayenne Turbo Electric",
-  "manufacturer_code": 43,
-  "years": [2026],
-  "body_styles": [
-    {
-      "style": "SUV",
-      "doors": 4
-    }
-  ]
-  },
-  {
-  "model_code": "Cayenne Turbo GT",
-  "manufacturer_code": 43,
-  "years": [2026],
-  "body_styles": [
-    {
-      "style": "SUV",
-      "doors": 4
-    }
-  ]
-  },
-  {
   "model_code": "Macan",
-  "manufacturer_code": 43,
-  "years": [2026],
-  "body_styles": [
-    {
-      "style": "SUV",
-      "doors": 4
-    }
-  ]
-  },
-  {
-  "model_code": "Macan 4 Electric",
-  "manufacturer_code": 43,
-  "years": [2026],
-  "body_styles": [
-    {
-      "style": "SUV",
-      "doors": 4
-    }
-  ]
-  },
-  {
-  "model_code": "Macan 4S Electric",
-  "manufacturer_code": 43,
-  "years": [2026],
-  "body_styles": [
-    {
-      "style": "SUV",
-      "doors": 4
-    }
-  ]
-  },
-  {
-  "model_code": "Macan Electric",
-  "manufacturer_code": 43,
-  "years": [2026],
-  "body_styles": [
-    {
-      "style": "SUV",
-      "doors": 4
-    }
-  ]
-  },
-  {
-  "model_code": "Macan GTS",
-  "manufacturer_code": 43,
-  "years": [2026],
-  "body_styles": [
-    {
-      "style": "SUV",
-      "doors": 4
-    }
-  ]
-  },
-  {
-  "model_code": "Macan GTS Electric",
-  "manufacturer_code": 43,
-  "years": [2026],
-  "body_styles": [
-    {
-      "style": "SUV",
-      "doors": 4
-    }
-  ]
-  },
-  {
-  "model_code": "Macan S",
-  "manufacturer_code": 43,
-  "years": [2026],
-  "body_styles": [
-    {
-      "style": "SUV",
-      "doors": 4
-    }
-  ]
-  },
-  {
-  "model_code": "Macan T",
-  "manufacturer_code": 43,
-  "years": [2026],
-  "body_styles": [
-    {
-      "style": "SUV",
-      "doors": 4
-    }
-  ]
-  },
-  {
-  "model_code": "Macan Turbo Electric",
   "manufacturer_code": 43,
   "years": [2026],
   "body_styles": [
@@ -5173,72 +4254,6 @@
   ]
   },
   {
-  "model_code": "Panamera 4",
-  "manufacturer_code": 43,
-  "years": [2026],
-  "body_styles": [
-    {
-      "style": "Sedan",
-      "doors": 4
-    }
-  ]
-  },
-  {
-  "model_code": "Panamera 4 E-Hybrid",
-  "manufacturer_code": 43,
-  "years": [2026],
-  "body_styles": [
-    {
-      "style": "Sedan",
-      "doors": 4
-    }
-  ]
-  },
-  {
-  "model_code": "Panamera 4S E-Hybrid",
-  "manufacturer_code": 43,
-  "years": [2026],
-  "body_styles": [
-    {
-      "style": "Sedan",
-      "doors": 4
-    }
-  ]
-  },
-  {
-  "model_code": "Panamera GTS",
-  "manufacturer_code": 43,
-  "years": [2026],
-  "body_styles": [
-    {
-      "style": "Sedan",
-      "doors": 4
-    }
-  ]
-  },
-  {
-  "model_code": "Panamera Turbo E-Hybrid",
-  "manufacturer_code": 43,
-  "years": [2026],
-  "body_styles": [
-    {
-      "style": "Sedan",
-      "doors": 4
-    }
-  ]
-  },
-  {
-  "model_code": "Panamera Turbo S E-Hybrid",
-  "manufacturer_code": 43,
-  "years": [2026],
-  "body_styles": [
-    {
-      "style": "Sedan",
-      "doors": 4
-    }
-  ]
-  },
-  {
   "model_code": "Taycan",
   "manufacturer_code": 43,
   "years": [2026],
@@ -5246,157 +4261,7 @@
     {
       "style": "Sedan",
       "doors": 4
-    }
-  ]
-  },
-  {
-  "model_code": "Taycan 4",
-  "manufacturer_code": 43,
-  "years": [2026],
-  "body_styles": [
-    {
-      "style": "Sedan",
-      "doors": 4
-    }
-  ]
-  },
-  {
-  "model_code": "Taycan 4 Cross Turismo",
-  "manufacturer_code": 43,
-  "years": [2026],
-  "body_styles": [
-    {
-      "style": "Wagon",
-      "doors": 4
-    }
-  ]
-  },
-  {
-  "model_code": "Taycan 4 Black Edition",
-  "manufacturer_code": 43,
-  "years": [2026],
-  "body_styles": [
-    {
-      "style": "Sedan",
-      "doors": 4
-    }
-  ]
-  },
-  {
-  "model_code": "Taycan 4S",
-  "manufacturer_code": 43,
-  "years": [2026],
-  "body_styles": [
-    {
-      "style": "Sedan",
-      "doors": 4
-    }
-  ]
-  },
-  {
-  "model_code": "Taycan 4S Black Edition",
-  "manufacturer_code": 43,
-  "years": [2026],
-  "body_styles": [
-    {
-      "style": "Sedan",
-      "doors": 4
-    }
-  ]
-  },
-  {
-  "model_code": "Taycan 4S Cross Turismo",
-  "manufacturer_code": 43,
-  "years": [2026],
-  "body_styles": [
-    {
-      "style": "Wagon",
-      "doors": 4
-    }
-  ]
-  },
-  {
-  "model_code": "Taycan Black Edition",
-  "manufacturer_code": 43,
-  "years": [2026],
-  "body_styles": [
-    {
-      "style": "Sedan",
-      "doors": 4
-    }
-  ]
-  },
-  {
-  "model_code": "Taycan GTS",
-  "manufacturer_code": 43,
-  "years": [2026],
-  "body_styles": [
-    {
-      "style": "Sedan",
-      "doors": 4
-    }
-  ]
-  },
-  {
-  "model_code": "Taycan GTS Sport Turismo",
-  "manufacturer_code": 43,
-  "years": [2026],
-  "body_styles": [
-    {
-      "style": "Wagon",
-      "doors": 4
-    }
-  ]
-  },
-  {
-  "model_code": "Taycan Turbo",
-  "manufacturer_code": 43,
-  "years": [2026],
-  "body_styles": [
-    {
-      "style": "Sedan",
-      "doors": 4
-    }
-  ]
-  },
-  {
-  "model_code": "Taycan Turbo Cross Turismo",
-  "manufacturer_code": 43,
-  "years": [2026],
-  "body_styles": [
-    {
-      "style": "Wagon",
-      "doors": 4
-    }
-  ]
-  },
-  {
-  "model_code": "Taycan Turbo GT",
-  "manufacturer_code": 43,
-  "years": [2026],
-  "body_styles": [
-    {
-      "style": "Sedan",
-      "doors": 4
-    }
-  ]
-  },
-  {
-  "model_code": "Taycan Turbo S",
-  "manufacturer_code": 43,
-  "years": [2026],
-  "body_styles": [
-    {
-      "style": "Sedan",
-      "doors": 4
-    }
-  ]
-  },
-  {
-  "model_code": "Taycan Turbo S Cross Turismo",
-  "manufacturer_code": 43,
-  "years": [2026],
-  "body_styles": [
+    },
     {
       "style": "Wagon",
       "doors": 4
@@ -5955,28 +4820,6 @@
   },
   {
   "model_code": "RAV4",
-  "manufacturer_code": 49,
-  "years": [2026],
-  "body_styles": [
-    {
-      "style": "SUV",
-      "doors": 4
-    }
-  ]
-  },
-  {
-  "model_code": "RAV4 Hybrid",
-  "manufacturer_code": 49,
-  "years": [2026],
-  "body_styles": [
-    {
-      "style": "SUV",
-      "doors": 4
-    }
-  ]
-  },
-  {
-  "model_code": "RAV4 Plug-in Hybrid",
   "manufacturer_code": 49,
   "years": [2026],
   "body_styles": [
