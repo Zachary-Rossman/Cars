@@ -1,0 +1,12 @@
+[
+  {
+    "trim_code": "2026-giulia-tributo-italiano",
+    "engine_code": "2.0t-i4",
+    "is_standard": true
+  },
+  {
+    "trim_code": "2026-giulia-tributo-italiano",
+    "engine_code": "2.9tt-v6",
+    "is_standard": false
+  }
+]
