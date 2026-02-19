@@ -1,5 +1,12 @@
-{
-  "trim_code": "2026-stelvio-tributo-italiano",
-  "drivetrain_code": "awd",
-  "is_standard": true
-}
+[
+  {
+    "trim_code": "2026-adx-base",
+    "drivetrain_code": "fwd",
+    "standard": true
+  },
+  {
+    "trim_code": "2026-adx-base",
+    "drivetrain_code": "awd",
+    "standard": false
+  }
+]

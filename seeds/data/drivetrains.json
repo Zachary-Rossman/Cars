@@ -1,18 +1,18 @@
 [
   {
-    "code": 1,
+    "code": "4wd",
     "type": "4WD"
   },
   {
-    "code": 2,
+    "code": "awd",
     "type": "AWD"
   },
   {
-    "code": 3,
+    "code": "fwd",
     "type": "FWD"
   },
   {
-    "code": 4,
+    "code": "rwd",
     "type": "RWD"
   }
 ]

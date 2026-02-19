@@ -1,8 +1,18 @@
 [
   {
+    "code": "a5",
+    "type": "Automatic",
+    "speeds": 5
+  },
+  {
     "code": "a6",
     "type": "Automatic",
     "speeds": 6
+  },
+  {
+    "code": "a7",
+    "type": "Automatic",
+    "speeds": 7
   },
   {
     "code": "a8",
@@ -10,9 +20,24 @@
     "speeds": 8
   },
   {
+    "code": "a9",
+    "type": "Automatic",
+    "speeds": 9
+  },
+  {
+    "code": "a10",
+    "type": "Automatic",
+    "speeds": 10
+  },
+  {
     "code": "m6",
     "type": "Manual",
     "speeds": 6
+  },
+  {
+    "code": "m7",
+    "type": "Manual",
+    "speeds": 7
   },
   {
     "code": "cvt",

@@ -1,5 +1,12 @@
 [
   {
+    "code": "acura-crystal-black-pearl",
+    "manufacturer_code": 1,
+    "color_name": "Crystal Black Pearl",
+    "finish": "Pearl",
+    "active": true
+  },
+  {
     "code": "acura-majestic-black-pearl",
     "manufacturer_code": 1,
     "color_name": "Majestic Black Pearl",
@@ -11,6 +18,13 @@
     "manufacturer_code": 1,
     "color_name": "Platinum White Pearl",
     "finish": "Pearl",
+    "active": true
+  },
+  {
+    "code": "acura-lunar-silver-metallic",
+    "manufacturer_code": 1,
+    "color_name": "Lunar Silver Metallic",
+    "finish": "Metallic",
     "active": true
   },
   {

@@ -1,6 +1,23 @@
-{
-  "trim_code": "2026-giulia-veloce",
-  "transmission_code": "8at",
-  "is_standard": true,
-  "is_optional": false
-}
+[
+  { "trim_code": "2026-adx-base", "transmission_codes": ["cvt"] },
+  { "trim_code": "2026-adx-technology", "transmission_codes": ["cvt"] },
+  { "trim_code": "2026-adx-a-spec", "transmission_codes": ["cvt"] },
+  { "trim_code": "2026-adx-advance", "transmission_codes": ["cvt"] },
+  { "trim_code": "2026-integra-base", "transmission_codes": ["cvt"] },
+  { "trim_code": "2026-integra-technology", "transmission_codes": ["cvt"] },
+  { "trim_code": "2026-integra-a-spec", "transmission_codes": ["cvt"] },
+  { "trim_code": "2026-integra-a-spec-technology", "transmission_codes": ["cvt"] },
+  { "trim_code": "2026-integra-type-s", "transmission_codes": ["a8"] },
+  { "trim_code": "2026-mdx-base", "transmission_codes": ["a10"] },
+  { "trim_code": "2026-mdx-technology", "transmission_codes": ["a10"] },
+  { "trim_code": "2026-mdx-a-spec", "transmission_codes": ["a10"] },
+  { "trim_code": "2026-mdx-advance", "transmission_codes": ["a10"] },
+  { "trim_code": "2026-rdx-base", "transmission_codes": ["a8"] },
+  { "trim_code": "2026-rdx-technology", "transmission_codes": ["a8"] },
+  { "trim_code": "2026-rdx-a-spec", "transmission_codes": ["a8"] },
+  { "trim_code": "2026-rdx-advance", "transmission_codes": ["a8"] },
+  { "trim_code": "2026-tlx-base", "transmission_codes": ["cvt"] },
+  { "trim_code": "2026-tlx-technology", "transmission_codes": ["cvt"] },
+  { "trim_code": "2026-tlx-a-spec", "transmission_codes": ["cvt"] },
+  { "trim_code": "2026-tlx-type-s", "transmission_codes": ["a10"] }
+]

@@ -1,12 +1,122 @@
 [
   {
-    "trim_code": "2026-giulia-tributo-italiano",
-    "engine_code": "2.0t-i4",
-    "is_standard": true
+    "trim_code": "2026-adx-base",
+    "engines": [
+      {"code": "L15CA", "standard": true}
+    ]
+  },
+  {
+    "trim_code": "2026-adx-technology",
+    "engines": [
+      {"code": "L15CA", "standard": true}
+    ]
+  },
+  {
+    "trim_code": "2026-adx-a-spec",
+    "engines": [
+      {"code": "K20C", "standard": true}
+    ]
+  },
+  {
+    "trim_code": "2026-adx-advance",
+    "engines": [
+      {"code": "K20C", "standard": true}
+    ]
+  },
+  {
+    "trim_code": "2026-giulia-base",
+    "engines": [
+      {"code": "G2.0T", "standard": true}
+    ]
+  },
+  {
+    "trim_code": "2026-giulia-veloce-package",
+    "engines": [
+      {"code": "V6-2.9T", "standard": true}
+    ]
   },
   {
     "trim_code": "2026-giulia-tributo-italiano",
-    "engine_code": "2.9tt-v6",
-    "is_standard": false
+    "engines": [
+      {"code": "V6-2.9T", "standard": true}
+    ]
+  },
+  {
+    "trim_code": "2026-stelvio-tributo-italiano",
+    "engines": [
+      {"code": "V6-2.9T", "standard": true}
+    ]
+  },
+  {
+    "trim_code": "2026-tonale-sprint",
+    "engines": [
+      {"code": "Tonale-Hybrid", "standard": true}
+    ]
+  },
+  {
+    "trim_code": "2026-tonale-sport-speciale",
+    "engines": [
+      {"code": "Tonale-Hybrid", "standard": true}
+    ]
+  },
+  {
+    "trim_code": "2026-tonale-veloce",
+    "engines": [
+      {"code": "Tonale-Hybrid", "standard": true}
+    ]
+  },
+  {
+    "trim_code": "2026-db12-coupe", 
+    "engines": [
+      {"code": "M177-4.0T", "standard": true}
+    ]
+  },
+  {
+    "trim_code": "2026-vantage-coupe", 
+    "engines": [
+      {"code": "M177-4.0T-Vantage", "standard": true}
+    ]
+  },
+  {
+    "trim_code": "2026-vanquish-coupe", 
+    "engines": [
+      {"code": "AM29-5.2V12", "standard": true}
+    ]
+  },
+  {
+    "trim_code": "2026-dbx-base", 
+    "engines": [
+      {"code": "AMG-6.0V12", "standard": true}
+    ]
+  },
+  {
+    "trim_code": "2026-dbx-707", 
+    "engines": [
+      {"code": "AMG-6.0V12", "standard": true}
+    ]
+  },
+  {
+    "trim_code": "2026-valhalla", 
+    "engines": [
+      {"code": "AM-RB 001", "standard": true}
+    ]
+  },
+  {
+    "trim_code": "2026-valkyrie", 
+    "engines": [
+      {"code": "Valkyrie-Hybrid", "standard": true}
+    ]
+  },
+  {
+    "trim_code": "2026-valour", 
+    "engines": [
+      {"code": "AM29-5.2V12", "standard": true}
+    ]
+  },
+  {
+    "trim_code": "2026-valiant", 
+    "engines": [
+      {"code": "AM29-5.2V12", "standard": true}
+    ]
   }
 ]
