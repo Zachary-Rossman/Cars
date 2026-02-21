@@ -1,0 +1,4638 @@
+[
+  {
+    "trim_code": "2026-adx-base",
+    "colors": [
+      { "code": "acura-majestic-black-leather", "standard": false },
+      { "code": "acura-parchment-leather", "standard": false },
+      { "code": "acura-gray-leather", "standard": false },
+      { "code": "acura-ebony-cloth", "standard": true },
+      { "code": "acura-shale-leather", "standard": false },
+      { "code": "acura-espresso-leather", "standard": false },
+      { "code": "acura-ivory-leather", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-adx-technology",
+    "colors": [
+      { "code": "acura-majestic-black-leather", "standard": true },
+      { "code": "acura-parchment-leather", "standard": true },
+      { "code": "acura-gray-leather", "standard": true },
+      { "code": "acura-shale-leather", "standard": true },
+      { "code": "acura-espresso-leather", "standard": true },
+      { "code": "acura-ivory-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-adx-a-spec",
+    "colors": [
+      { "code": "acura-majestic-black-leather", "standard": true },
+      { "code": "acura-gray-leather", "standard": true },
+      { "code": "acura-espresso-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-adx-advance",
+    "colors": [
+      { "code": "acura-majestic-black-leather", "standard": true },
+      { "code": "acura-parchment-leather", "standard": true },
+      { "code": "acura-gray-leather", "standard": true },
+      { "code": "acura-shale-leather", "standard": true },
+      { "code": "acura-espresso-leather", "standard": true },
+      { "code": "acura-ivory-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-integra-base",
+    "colors": [
+      { "code": "acura-ebony-cloth", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-integra-technology",
+    "colors": [
+      { "code": "acura-majestic-black-leather", "standard": true },
+      { "code": "acura-parchment-leather", "standard": true },
+      { "code": "acura-gray-leather", "standard": true },
+      { "code": "acura-shale-leather", "standard": true },
+      { "code": "acura-ivory-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-integra-a-spec",
+    "colors": [
+      { "code": "acura-majestic-black-leather", "standard": true },
+      { "code": "acura-red-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-integra-a-spec-technology",
+    "colors": [
+      { "code": "acura-majestic-black-leather", "standard": true },
+      { "code": "acura-red-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-integra-type-s",
+    "colors": [
+      { "code": "acura-majestic-black-leather", "standard": true },
+      { "code": "acura-red-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-mdx-base",
+    "colors": [
+      { "code": "acura-ebony-cloth", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-mdx-technology",
+    "colors": [
+      { "code": "acura-majestic-black-leather", "standard": true },
+      { "code": "acura-parchment-leather", "standard": true },
+      { "code": "acura-gray-leather", "standard": true },
+      { "code": "acura-shale-leather", "standard": true },
+      { "code": "acura-espresso-leather", "standard": true },
+      { "code": "acura-ivory-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-mdx-a-spec",
+    "colors": [
+      { "code": "acura-majestic-black-leather", "standard": true },
+      { "code": "acura-gray-leather", "standard": true },
+      { "code": "acura-espresso-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-mdx-advance",
+    "colors": [
+      { "code": "acura-majestic-black-leather", "standard": true },
+      { "code": "acura-parchment-leather", "standard": true },
+      { "code": "acura-gray-leather", "standard": true },
+      { "code": "acura-shale-leather", "standard": true },
+      { "code": "acura-espresso-leather", "standard": true },
+      { "code": "acura-ivory-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-rdx-base",
+    "colors": [
+      { "code": "acura-ebony-cloth", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-rdx-technology",
+    "colors": [
+      { "code": "acura-majestic-black-leather", "standard": true },
+      { "code": "acura-parchment-leather", "standard": true },
+      { "code": "acura-gray-leather", "standard": true },
+      { "code": "acura-shale-leather", "standard": true },
+      { "code": "acura-espresso-leather", "standard": true },
+      { "code": "acura-ivory-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-rdx-a-spec",
+    "colors": [
+      { "code": "acura-majestic-black-leather", "standard": true },
+      { "code": "acura-gray-leather", "standard": true },
+      { "code": "acura-espresso-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-rdx-advance",
+    "colors": [
+      { "code": "acura-majestic-black-leather", "standard": true },
+      { "code": "acura-parchment-leather", "standard": true },
+      { "code": "acura-gray-leather", "standard": true },
+      { "code": "acura-shale-leather", "standard": true },
+      { "code": "acura-espresso-leather", "standard": true },
+      { "code": "acura-ivory-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-tlx-base",
+    "colors": [
+      { "code": "acura-ebony-cloth", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-tlx-technology",
+    "colors": [
+      { "code": "acura-majestic-black-leather", "standard": true },
+      { "code": "acura-parchment-leather", "standard": true },
+      { "code": "acura-gray-leather", "standard": true },
+      { "code": "acura-shale-leather", "standard": true },
+      { "code": "acura-espresso-leather", "standard": true },
+      { "code": "acura-ivory-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-tlx-a-spec",
+    "colors": [
+      { "code": "acura-majestic-black-leather", "standard": true },
+      { "code": "acura-gray-leather", "standard": true },
+      { "code": "acura-espresso-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-tlx-type-s",
+    "colors": [
+      { "code": "acura-majestic-black-leather", "standard": true },
+      { "code": "acura-gray-leather", "standard": true },
+      { "code": "acura-espresso-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-giulia-base",
+    "colors": [
+      { "code": "alfa-romeo-black-leather", "standard": true },
+      { "code": "alfa-romeo-tan-leather", "standard": true },
+      { "code": "alfa-romeo-grey-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-giulia-veloce-package",
+    "colors": [
+      { "code": "alfa-romeo-black-leather", "standard": true },
+      { "code": "alfa-romeo-red-leather", "standard": true },
+      { "code": "alfa-romeo-brown-leather", "standard": true },
+      { "code": "alfa-romeo-black-alcantara", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-giulia-tributo-italiano",
+    "colors": [
+      { "code": "alfa-romeo-black-leather", "standard": true },
+      { "code": "alfa-romeo-red-leather", "standard": true },
+      { "code": "alfa-romeo-brown-leather", "standard": true },
+      { "code": "alfa-romeo-bianco-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-stelvio-tributo-italiano",
+    "colors": [
+      { "code": "alfa-romeo-black-leather", "standard": true },
+      { "code": "alfa-romeo-red-leather", "standard": true },
+      { "code": "alfa-romeo-brown-leather", "standard": true },
+      { "code": "alfa-romeo-bianco-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-tonale-sprint",
+    "colors": [
+      { "code": "alfa-romeo-black-leather", "standard": true },
+      { "code": "alfa-romeo-grey-leather", "standard": true },
+      { "code": "alfa-romeo-tan-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-tonale-sport-speciale",
+    "colors": [
+      { "code": "alfa-romeo-black-leather", "standard": true },
+      { "code": "alfa-romeo-red-leather", "standard": true },
+      { "code": "alfa-romeo-brown-leather", "standard": true },
+      { "code": "alfa-romeo-black-alcantara", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-tonale-veloce",
+    "colors": [
+      { "code": "alfa-romeo-black-leather", "standard": true },
+      { "code": "alfa-romeo-red-leather", "standard": true },
+      { "code": "alfa-romeo-brown-leather", "standard": true },
+      { "code": "alfa-romeo-black-alcantara", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-db12-coupe",
+    "colors": [
+      { "code": "aston-martin-obsidian-black-leather", "standard": true },
+      { "code": "aston-martin-cognac-leather", "standard": true },
+      { "code": "aston-martin-cream-leather", "standard": true },
+      { "code": "aston-martin-midnight-blue-leather", "standard": true },
+      { "code": "aston-martin-ivy-leather", "standard": true },
+      { "code": "aston-martin-champagne-leather", "standard": true },
+      { "code": "aston-martin-charcoal-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-vantage-coupe",
+    "colors": [
+      { "code": "aston-martin-obsidian-black-leather", "standard": true },
+      { "code": "aston-martin-cognac-leather", "standard": true },
+      { "code": "aston-martin-cream-leather", "standard": true },
+      { "code": "aston-martin-midnight-blue-leather", "standard": true },
+      { "code": "aston-martin-ivy-leather", "standard": true },
+      { "code": "aston-martin-champagne-leather", "standard": true },
+      { "code": "aston-martin-charcoal-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-vanquish-coupe",
+    "colors": [
+      { "code": "aston-martin-obsidian-black-leather", "standard": true },
+      { "code": "aston-martin-cognac-leather", "standard": true },
+      { "code": "aston-martin-cream-leather", "standard": true },
+      { "code": "aston-martin-midnight-blue-leather", "standard": true },
+      { "code": "aston-martin-ivy-leather", "standard": true },
+      { "code": "aston-martin-champagne-leather", "standard": true },
+      { "code": "aston-martin-charcoal-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-dbx-base",
+    "colors": [
+      { "code": "aston-martin-obsidian-black-leather", "standard": true },
+      { "code": "aston-martin-cognac-leather", "standard": true },
+      { "code": "aston-martin-cream-leather", "standard": true },
+      { "code": "aston-martin-midnight-blue-leather", "standard": true },
+      { "code": "aston-martin-ivy-leather", "standard": true },
+      { "code": "aston-martin-champagne-leather", "standard": true },
+      { "code": "aston-martin-charcoal-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-dbx-707",
+    "colors": [
+      { "code": "aston-martin-obsidian-black-leather", "standard": true },
+      { "code": "aston-martin-cognac-leather", "standard": true },
+      { "code": "aston-martin-cream-leather", "standard": true },
+      { "code": "aston-martin-midnight-blue-leather", "standard": true },
+      { "code": "aston-martin-ivy-leather", "standard": true },
+      { "code": "aston-martin-champagne-leather", "standard": true },
+      { "code": "aston-martin-charcoal-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-valhalla",
+    "colors": [
+      { "code": "aston-martin-obsidian-black-leather", "standard": true },
+      { "code": "aston-martin-charcoal-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-valkyrie",
+    "colors": [
+      { "code": "aston-martin-obsidian-black-leather", "standard": true },
+      { "code": "aston-martin-charcoal-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-valour",
+    "colors": [
+      { "code": "aston-martin-obsidian-black-leather", "standard": true },
+      { "code": "aston-martin-cognac-leather", "standard": true },
+      { "code": "aston-martin-charcoal-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-valiant",
+    "colors": [
+      { "code": "aston-martin-obsidian-black-leather", "standard": true },
+      { "code": "aston-martin-charcoal-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-a3-premium",
+    "colors": [
+      { "code": "audi-black-leather", "standard": true },
+      { "code": "audi-rock-grey-leather", "standard": true },
+      { "code": "audi-light-grey-leather", "standard": true },
+      { "code": "audi-ivory-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-a3-premium-plus",
+    "colors": [
+      { "code": "audi-black-leather", "standard": true },
+      { "code": "audi-rock-grey-leather", "standard": true },
+      { "code": "audi-light-grey-leather", "standard": true },
+      { "code": "audi-ivory-leather", "standard": true },
+      { "code": "audi-sport-black-leather-s-edition", "standard": true },
+      { "code": "audi-red-contrast-stitch-leather-s-edition", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-a3-prestige",
+    "colors": [
+      { "code": "audi-black-leather", "standard": true },
+      { "code": "audi-rock-grey-leather", "standard": true },
+      { "code": "audi-light-grey-leather", "standard": true },
+      { "code": "audi-ivory-leather", "standard": true },
+      { "code": "audi-sport-black-leather-s-edition", "standard": true },
+      { "code": "audi-red-contrast-stitch-leather-s-edition", "standard": true },
+      { "code": "audi-carbon-fiber-sport-leather-s-edition", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-a5-premium",
+    "colors": [
+      { "code": "audi-black-leather", "standard": true },
+      { "code": "audi-rock-grey-leather", "standard": true },
+      { "code": "audi-titanium-brown-leather", "standard": true },
+      { "code": "audi-circuit-grey-leather", "standard": true },
+      { "code": "audi-nougat-brown-leather", "standard": true },
+      { "code": "audi-light-grey-leather", "standard": true },
+      { "code": "audi-ivory-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-a5-premium-plus",
+    "colors": [
+      { "code": "audi-black-leather", "standard": true },
+      { "code": "audi-rock-grey-leather", "standard": true },
+      { "code": "audi-titanium-brown-leather", "standard": true },
+      { "code": "audi-circuit-grey-leather", "standard": true },
+      { "code": "audi-nougat-brown-leather", "standard": true },
+      { "code": "audi-light-grey-leather", "standard": true },
+      { "code": "audi-ivory-leather", "standard": true },
+      { "code": "audi-sport-black-leather-s-edition", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-a5-prestige",
+    "colors": [
+      { "code": "audi-black-leather", "standard": true },
+      { "code": "audi-rock-grey-leather", "standard": true },
+      { "code": "audi-titanium-brown-leather", "standard": true },
+      { "code": "audi-circuit-grey-leather", "standard": true },
+      { "code": "audi-nougat-brown-leather", "standard": true },
+      { "code": "audi-light-grey-leather", "standard": true },
+      { "code": "audi-ivory-leather", "standard": true },
+      { "code": "audi-sport-black-leather-s-edition", "standard": true },
+      { "code": "audi-red-contrast-stitch-leather-s-edition", "standard": true },
+      { "code": "audi-carbon-fiber-sport-leather-s-edition", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-a6-premium",
+    "colors": [
+      { "code": "audi-black-leather", "standard": true },
+      { "code": "audi-rock-grey-leather", "standard": true },
+      { "code": "audi-titanium-brown-leather", "standard": true },
+      { "code": "audi-circuit-grey-leather", "standard": true },
+      { "code": "audi-nougat-brown-leather", "standard": true },
+      { "code": "audi-light-grey-leather", "standard": true },
+      { "code": "audi-ivory-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-a6-premium-plus",
+    "colors": [
+      { "code": "audi-black-leather", "standard": true },
+      { "code": "audi-rock-grey-leather", "standard": true },
+      { "code": "audi-titanium-brown-leather", "standard": true },
+      { "code": "audi-circuit-grey-leather", "standard": true },
+      { "code": "audi-nougat-brown-leather", "standard": true },
+      { "code": "audi-light-grey-leather", "standard": true },
+      { "code": "audi-ivory-leather", "standard": true },
+      { "code": "audi-sport-black-leather-s-edition", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-a6-prestige",
+    "colors": [
+      { "code": "audi-black-leather", "standard": true },
+      { "code": "audi-rock-grey-leather", "standard": true },
+      { "code": "audi-titanium-brown-leather", "standard": true },
+      { "code": "audi-circuit-grey-leather", "standard": true },
+      { "code": "audi-nougat-brown-leather", "standard": true },
+      { "code": "audi-light-grey-leather", "standard": true },
+      { "code": "audi-ivory-leather", "standard": true },
+      { "code": "audi-sport-black-leather-s-edition", "standard": true },
+      { "code": "audi-red-contrast-stitch-leather-s-edition", "standard": true },
+      { "code": "audi-carbon-fiber-sport-leather-s-edition", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-a6-allroad-premium",
+    "colors": [
+      { "code": "audi-black-leather", "standard": true },
+      { "code": "audi-rock-grey-leather", "standard": true },
+      { "code": "audi-titanium-brown-leather", "standard": true },
+      { "code": "audi-circuit-grey-leather", "standard": true },
+      { "code": "audi-nougat-brown-leather", "standard": true },
+      { "code": "audi-light-grey-leather", "standard": true },
+      { "code": "audi-ivory-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-a6-allroad-premium-plus",
+    "colors": [
+      { "code": "audi-black-leather", "standard": true },
+      { "code": "audi-rock-grey-leather", "standard": true },
+      { "code": "audi-titanium-brown-leather", "standard": true },
+      { "code": "audi-circuit-grey-leather", "standard": true },
+      { "code": "audi-nougat-brown-leather", "standard": true },
+      { "code": "audi-light-grey-leather", "standard": true },
+      { "code": "audi-ivory-leather", "standard": true },
+      { "code": "audi-sport-black-leather-s-edition", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-a6-allroad-prestige",
+    "colors": [
+      { "code": "audi-black-leather", "standard": true },
+      { "code": "audi-rock-grey-leather", "standard": true },
+      { "code": "audi-titanium-brown-leather", "standard": true },
+      { "code": "audi-circuit-grey-leather", "standard": true },
+      { "code": "audi-nougat-brown-leather", "standard": true },
+      { "code": "audi-light-grey-leather", "standard": true },
+      { "code": "audi-ivory-leather", "standard": true },
+      { "code": "audi-sport-black-leather-s-edition", "standard": true },
+      { "code": "audi-red-contrast-stitch-leather-s-edition", "standard": true },
+      { "code": "audi-carbon-fiber-sport-leather-s-edition", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-a6-sportback-etron-premium",
+    "colors": [
+      { "code": "audi-black-leather", "standard": true },
+      { "code": "audi-rock-grey-leather", "standard": true },
+      { "code": "audi-titanium-brown-leather", "standard": true },
+      { "code": "audi-circuit-grey-leather", "standard": true },
+      { "code": "audi-nougat-brown-leather", "standard": true },
+      { "code": "audi-light-grey-leather", "standard": true },
+      { "code": "audi-ivory-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-a6-sportback-etron-premium-plus",
+    "colors": [
+      { "code": "audi-black-leather", "standard": true },
+      { "code": "audi-rock-grey-leather", "standard": true },
+      { "code": "audi-titanium-brown-leather", "standard": true },
+      { "code": "audi-circuit-grey-leather", "standard": true },
+      { "code": "audi-nougat-brown-leather", "standard": true },
+      { "code": "audi-light-grey-leather", "standard": true },
+      { "code": "audi-ivory-leather", "standard": true },
+      { "code": "audi-sport-black-leather-s-edition", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-a6-sportback-etron-prestige",
+    "colors": [
+      { "code": "audi-black-leather", "standard": true },
+      { "code": "audi-rock-grey-leather", "standard": true },
+      { "code": "audi-titanium-brown-leather", "standard": true },
+      { "code": "audi-circuit-grey-leather", "standard": true },
+      { "code": "audi-nougat-brown-leather", "standard": true },
+      { "code": "audi-light-grey-leather", "standard": true },
+      { "code": "audi-ivory-leather", "standard": true },
+      { "code": "audi-sport-black-leather-s-edition", "standard": true },
+      { "code": "audi-red-contrast-stitch-leather-s-edition", "standard": true },
+      { "code": "audi-carbon-fiber-sport-leather-s-edition", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-a8-premium",
+    "colors": [
+      { "code": "audi-black-leather", "standard": true },
+      { "code": "audi-rock-grey-leather", "standard": true },
+      { "code": "audi-titanium-brown-leather", "standard": true },
+      { "code": "audi-circuit-grey-leather", "standard": true },
+      { "code": "audi-nougat-brown-leather", "standard": true },
+      { "code": "audi-light-grey-leather", "standard": true },
+      { "code": "audi-ivory-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-a8-premium-plus",
+    "colors": [
+      { "code": "audi-black-leather", "standard": true },
+      { "code": "audi-rock-grey-leather", "standard": true },
+      { "code": "audi-titanium-brown-leather", "standard": true },
+      { "code": "audi-circuit-grey-leather", "standard": true },
+      { "code": "audi-nougat-brown-leather", "standard": true },
+      { "code": "audi-light-grey-leather", "standard": true },
+      { "code": "audi-ivory-leather", "standard": true },
+      { "code": "audi-sport-black-leather-s-edition", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-a8-prestige",
+    "colors": [
+      { "code": "audi-black-leather", "standard": true },
+      { "code": "audi-rock-grey-leather", "standard": true },
+      { "code": "audi-titanium-brown-leather", "standard": true },
+      { "code": "audi-circuit-grey-leather", "standard": true },
+      { "code": "audi-nougat-brown-leather", "standard": true },
+      { "code": "audi-light-grey-leather", "standard": true },
+      { "code": "audi-ivory-leather", "standard": true },
+      { "code": "audi-sport-black-leather-s-edition", "standard": true },
+      { "code": "audi-red-contrast-stitch-leather-s-edition", "standard": true },
+      { "code": "audi-carbon-fiber-sport-leather-s-edition", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-q3-premium",
+    "colors": [
+      { "code": "audi-black-leather", "standard": true },
+      { "code": "audi-rock-grey-leather", "standard": true },
+      { "code": "audi-circuit-grey-leather", "standard": true },
+      { "code": "audi-light-grey-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-q3-premium-plus",
+    "colors": [
+      { "code": "audi-black-leather", "standard": true },
+      { "code": "audi-rock-grey-leather", "standard": true },
+      { "code": "audi-circuit-grey-leather", "standard": true },
+      { "code": "audi-light-grey-leather", "standard": true },
+      { "code": "audi-sport-black-leather-s-edition", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-q3-s-line",
+    "colors": [
+      { "code": "audi-black-leather", "standard": true },
+      { "code": "audi-rock-grey-leather", "standard": true },
+      { "code": "audi-circuit-grey-leather", "standard": true },
+      { "code": "audi-light-grey-leather", "standard": true },
+      { "code": "audi-sport-black-leather-s-edition", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-q4-etron-premium",
+    "colors": [
+      { "code": "audi-black-leather", "standard": true },
+      { "code": "audi-rock-grey-leather", "standard": true },
+      { "code": "audi-light-grey-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-q4-etron-prestige",
+    "colors": [
+      { "code": "audi-black-leather", "standard": true },
+      { "code": "audi-rock-grey-leather", "standard": true },
+      { "code": "audi-titanium-brown-leather", "standard": true },
+      { "code": "audi-circuit-grey-leather", "standard": true },
+      { "code": "audi-fjord-blue-leather", "standard": true },
+      { "code": "audi-nougat-brown-leather", "standard": true },
+      { "code": "audi-light-grey-leather", "standard": true },
+      { "code": "audi-ivory-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-q4-sportback-etron-premium",
+    "colors": [
+      { "code": "audi-black-leather", "standard": true },
+      { "code": "audi-rock-grey-leather", "standard": true },
+      { "code": "audi-light-grey-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-q4-sportback-etron-prestige",
+    "colors": [
+      { "code": "audi-black-leather", "standard": true },
+      { "code": "audi-rock-grey-leather", "standard": true },
+      { "code": "audi-titanium-brown-leather", "standard": true },
+      { "code": "audi-circuit-grey-leather", "standard": true },
+      { "code": "audi-fjord-blue-leather", "standard": true },
+      { "code": "audi-nougat-brown-leather", "standard": true },
+      { "code": "audi-light-grey-leather", "standard": true },
+      { "code": "audi-ivory-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-q5-premium",
+    "colors": [
+      { "code": "audi-black-leather", "standard": true },
+      { "code": "audi-rock-grey-leather", "standard": true },
+      { "code": "audi-light-grey-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-q5-premium-plus",
+    "colors": [
+      { "code": "audi-black-leather", "standard": true },
+      { "code": "audi-rock-grey-leather", "standard": true },
+      { "code": "audi-titanium-brown-leather", "standard": true },
+      { "code": "audi-circuit-grey-leather", "standard": true },
+      { "code": "audi-light-grey-leather", "standard": true },
+      { "code": "audi-ivory-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-q5-prestige",
+    "colors": [
+      { "code": "audi-black-leather", "standard": true },
+      { "code": "audi-rock-grey-leather", "standard": true },
+      { "code": "audi-titanium-brown-leather", "standard": true },
+      { "code": "audi-circuit-grey-leather", "standard": true },
+      { "code": "audi-light-grey-leather", "standard": true },
+      { "code": "audi-ivory-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-q5-sportback-premium",
+    "colors": [
+      { "code": "audi-black-leather", "standard": true },
+      { "code": "audi-rock-grey-leather", "standard": true },
+      { "code": "audi-light-grey-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-q5-sportback-premium-plus",
+    "colors": [
+      { "code": "audi-black-leather", "standard": true },
+      { "code": "audi-rock-grey-leather", "standard": true },
+      { "code": "audi-titanium-brown-leather", "standard": true },
+      { "code": "audi-circuit-grey-leather", "standard": true },
+      { "code": "audi-light-grey-leather", "standard": true },
+      { "code": "audi-ivory-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-q5-sportback-prestige",
+    "colors": [
+      { "code": "audi-black-leather", "standard": true },
+      { "code": "audi-rock-grey-leather", "standard": true },
+      { "code": "audi-titanium-brown-leather", "standard": true },
+      { "code": "audi-circuit-grey-leather", "standard": true },
+      { "code": "audi-light-grey-leather", "standard": true },
+      { "code": "audi-ivory-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-q6-e-tron-premium",
+    "colors": [
+      { "code": "audi-black-leather", "standard": true },
+      { "code": "audi-rock-grey-leather", "standard": true },
+      { "code": "audi-light-grey-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-q6-e-tron-premium-plus",
+    "colors": [
+      { "code": "audi-black-leather", "standard": true },
+      { "code": "audi-rock-grey-leather", "standard": true },
+      { "code": "audi-titanium-brown-leather", "standard": true },
+      { "code": "audi-circuit-grey-leather", "standard": true },
+      { "code": "audi-light-grey-leather", "standard": true },
+      { "code": "audi-ivory-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-q6-e-tron-prestige",
+    "colors": [
+      { "code": "audi-black-leather", "standard": true },
+      { "code": "audi-rock-grey-leather", "standard": true },
+      { "code": "audi-titanium-brown-leather", "standard": true },
+      { "code": "audi-circuit-grey-leather", "standard": true },
+      { "code": "audi-light-grey-leather", "standard": true },
+      { "code": "audi-ivory-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-q6-sportback-e-tron-premium",
+    "colors": [
+      { "code": "audi-black-leather", "standard": true },
+      { "code": "audi-rock-grey-leather", "standard": true },
+      { "code": "audi-light-grey-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-q6-sportback-e-tron-premium-plus",
+    "colors": [
+      { "code": "audi-black-leather", "standard": true },
+      { "code": "audi-rock-grey-leather", "standard": true },
+      { "code": "audi-titanium-brown-leather", "standard": true },
+      { "code": "audi-circuit-grey-leather", "standard": true },
+      { "code": "audi-light-grey-leather", "standard": true },
+      { "code": "audi-ivory-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-q6-sportback-e-tron-prestige",
+    "colors": [
+      { "code": "audi-black-leather", "standard": true },
+      { "code": "audi-rock-grey-leather", "standard": true },
+      { "code": "audi-titanium-brown-leather", "standard": true },
+      { "code": "audi-circuit-grey-leather", "standard": true },
+      { "code": "audi-light-grey-leather", "standard": true },
+      { "code": "audi-ivory-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-q7-premium",
+    "colors": [
+      { "code": "audi-black-leather", "standard": true },
+      { "code": "audi-titanium-brown-leather", "standard": true },
+      { "code": "audi-light-grey-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-q7-premium-plus",
+    "colors": [
+      { "code": "audi-black-leather", "standard": true },
+      { "code": "audi-titanium-brown-leather", "standard": true },
+      { "code": "audi-light-grey-leather", "standard": true },
+      { "code": "audi-ivory-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-q7-s-line",
+    "colors": [
+      { "code": "audi-black-leather", "standard": true },
+      { "code": "audi-titanium-brown-leather", "standard": true },
+      { "code": "audi-light-grey-leather", "standard": true },
+      { "code": "audi-ivory-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-q8-premium",
+    "colors": [
+      { "code": "audi-black-leather", "standard": true },
+      { "code": "audi-titanium-brown-leather", "standard": true },
+      { "code": "audi-light-grey-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-q8-premium-plus",
+    "colors": [
+      { "code": "audi-black-leather", "standard": true },
+      { "code": "audi-titanium-brown-leather", "standard": true },
+      { "code": "audi-light-grey-leather", "standard": true },
+      { "code": "audi-ivory-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-q8-s-line",
+    "colors": [
+      { "code": "audi-black-leather", "standard": true },
+      { "code": "audi-titanium-brown-leather", "standard": true },
+      { "code": "audi-light-grey-leather", "standard": true },
+      { "code": "audi-ivory-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-rs3",
+    "colors": [
+      { "code": "audi-black-leather", "standard": true },
+      { "code": "audi-sport-black-leather-s-edition", "standard": true },
+      { "code": "audi-red-contrast-stitch-leather-s-edition", "standard": true },
+      { "code": "audi-carbon-fiber-sport-leather-s-edition", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-rs6-avant",
+    "colors": [
+      { "code": "audi-black-leather", "standard": true },
+      { "code": "audi-sport-black-leather-s-edition", "standard": true },
+      { "code": "audi-red-contrast-stitch-leather-s-edition", "standard": true },
+      { "code": "audi-carbon-fiber-sport-leather-s-edition", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-rs7",
+    "colors": [
+      { "code": "audi-black-leather", "standard": true },
+      { "code": "audi-sport-black-leather-s-edition", "standard": true },
+      { "code": "audi-red-contrast-stitch-leather-s-edition", "standard": true },
+      { "code": "audi-carbon-fiber-sport-leather-s-edition", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-rs-e-tron",
+    "colors": [
+      { "code": "audi-black-leather", "standard": true },
+      { "code": "audi-sport-black-leather-s-edition", "standard": true },
+      { "code": "audi-red-contrast-stitch-leather-s-edition", "standard": true },
+      { "code": "audi-carbon-fiber-sport-leather-s-edition", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-rs-q8",
+    "colors": [
+      { "code": "audi-black-leather", "standard": true },
+      { "code": "audi-sport-black-leather-s-edition", "standard": true },
+      { "code": "audi-red-contrast-stitch-leather-s-edition", "standard": true },
+      { "code": "audi-carbon-fiber-sport-leather-s-edition", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-s3-premium",
+    "colors": [
+      { "code": "audi-black-leather", "standard": true },
+      { "code": "audi-titanium-brown-leather", "standard": true },
+      { "code": "audi-light-grey-leather", "standard": true },
+      { "code": "audi-ivory-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-s3-premium-plus",
+    "colors": [
+      { "code": "audi-black-leather", "standard": true },
+      { "code": "audi-titanium-brown-leather", "standard": true },
+      { "code": "audi-light-grey-leather", "standard": true },
+      { "code": "audi-ivory-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-s3-technik",
+    "colors": [
+      { "code": "audi-black-leather", "standard": true },
+      { "code": "audi-titanium-brown-leather", "standard": true },
+      { "code": "audi-light-grey-leather", "standard": true },
+      { "code": "audi-ivory-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-s5-premium",
+    "colors": [
+      { "code": "audi-black-leather", "standard": true },
+      { "code": "audi-titanium-brown-leather", "standard": true },
+      { "code": "audi-light-grey-leather", "standard": true },
+      { "code": "audi-ivory-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-s5-premium-plus",
+    "colors": [
+      { "code": "audi-black-leather", "standard": true },
+      { "code": "audi-titanium-brown-leather", "standard": true },
+      { "code": "audi-light-grey-leather", "standard": true },
+      { "code": "audi-ivory-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-s5-technik",
+    "colors": [
+      { "code": "audi-black-leather", "standard": true },
+      { "code": "audi-titanium-brown-leather", "standard": true },
+      { "code": "audi-light-grey-leather", "standard": true },
+      { "code": "audi-ivory-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-s6-sportback-e-tron-Prestige",
+    "colors": [
+      { "code": "audi-black-leather", "standard": true },
+      { "code": "audi-titanium-brown-leather", "standard": true },
+      { "code": "audi-light-grey-leather", "standard": true },
+      { "code": "audi-ivory-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-s6-sportback-e-tron-Competition-Plus",
+    "colors": [
+      { "code": "audi-black-leather", "standard": true },
+      { "code": "audi-sport-black-leather-s-edition", "standard": true },
+      { "code": "audi-red-contrast-stitch-leather-s-edition", "standard": true },
+      { "code": "audi-carbon-fiber-sport-leather-s-edition", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-s8-Prestige",
+    "colors": [
+      { "code": "audi-black-leather", "standard": true },
+      { "code": "audi-titanium-brown-leather", "standard": true },
+      { "code": "audi-light-grey-leather", "standard": true },
+      { "code": "audi-ivory-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-s8-Competition",
+    "colors": [
+      { "code": "audi-black-leather", "standard": true },
+      { "code": "audi-sport-black-leather-s-edition", "standard": true },
+      { "code": "audi-red-contrast-stitch-leather-s-edition", "standard": true },
+      { "code": "audi-carbon-fiber-sport-leather-s-edition", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-s-e-tron-Premium",
+    "colors": [
+      { "code": "audi-black-leather", "standard": true },
+      { "code": "audi-titanium-brown-leather", "standard": true },
+      { "code": "audi-light-grey-leather", "standard": true },
+      { "code": "audi-ivory-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-s-e-tron-Premium-Plus",
+    "colors": [
+      { "code": "audi-black-leather", "standard": true },
+      { "code": "audi-titanium-brown-leather", "standard": true },
+      { "code": "audi-light-grey-leather", "standard": true },
+      { "code": "audi-ivory-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-s-e-tron-Prestige",
+    "colors": [
+      { "code": "audi-black-leather", "standard": true },
+      { "code": "audi-titanium-brown-leather", "standard": true },
+      { "code": "audi-light-grey-leather", "standard": true },
+      { "code": "audi-ivory-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-sq5-Premium",
+    "colors": [
+      { "code": "audi-black-leather", "standard": true },
+      { "code": "audi-titanium-brown-leather", "standard": true },
+      { "code": "audi-light-grey-leather", "standard": true },
+      { "code": "audi-ivory-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-sq5-Premium-Plus",
+    "colors": [
+      { "code": "audi-black-leather", "standard": true },
+      { "code": "audi-titanium-brown-leather", "standard": true },
+      { "code": "audi-light-grey-leather", "standard": true },
+      { "code": "audi-ivory-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-sq5-Prestige",
+    "colors": [
+      { "code": "audi-black-leather", "standard": true },
+      { "code": "audi-titanium-brown-leather", "standard": true },
+      { "code": "audi-light-grey-leather", "standard": true },
+      { "code": "audi-ivory-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-sq5-sportback-Premium",
+    "colors": [
+      { "code": "audi-black-leather", "standard": true },
+      { "code": "audi-titanium-brown-leather", "standard": true },
+      { "code": "audi-light-grey-leather", "standard": true },
+      { "code": "audi-ivory-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-sq5-sportback-Premium-Plus",
+    "colors": [
+      { "code": "audi-black-leather", "standard": true },
+      { "code": "audi-titanium-brown-leather", "standard": true },
+      { "code": "audi-light-grey-leather", "standard": true },
+      { "code": "audi-ivory-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-sq5-sportback-Prestige",
+    "colors": [
+      { "code": "audi-black-leather", "standard": true },
+      { "code": "audi-titanium-brown-leather", "standard": true },
+      { "code": "audi-light-grey-leather", "standard": true },
+      { "code": "audi-ivory-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-sq6-e-tron-Premium",
+    "colors": [
+      { "code": "audi-black-leather", "standard": true },
+      { "code": "audi-titanium-brown-leather", "standard": true },
+      { "code": "audi-light-grey-leather", "standard": true },
+      { "code": "audi-ivory-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-sq6-e-tron-Premium-Plus",
+    "colors": [
+      { "code": "audi-black-leather", "standard": true },
+      { "code": "audi-titanium-brown-leather", "standard": true },
+      { "code": "audi-light-grey-leather", "standard": true },
+      { "code": "audi-ivory-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-sq6-e-tron-Prestige",
+    "colors": [
+      { "code": "audi-black-leather", "standard": true },
+      { "code": "audi-titanium-brown-leather", "standard": true },
+      { "code": "audi-light-grey-leather", "standard": true },
+      { "code": "audi-ivory-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-sq6-sportback-e-tron-Premium",
+    "colors": [
+      { "code": "audi-black-leather", "standard": true },
+      { "code": "audi-titanium-brown-leather", "standard": true },
+      { "code": "audi-light-grey-leather", "standard": true },
+      { "code": "audi-ivory-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-sq6-sportback-e-tron-Premium-Plus",
+    "colors": [
+      { "code": "audi-black-leather", "standard": true },
+      { "code": "audi-titanium-brown-leather", "standard": true },
+      { "code": "audi-light-grey-leather", "standard": true },
+      { "code": "audi-ivory-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-sq6-sportback-e-tron-Prestige",
+    "colors": [
+      { "code": "audi-black-leather", "standard": true },
+      { "code": "audi-titanium-brown-leather", "standard": true },
+      { "code": "audi-light-grey-leather", "standard": true },
+      { "code": "audi-ivory-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-sq7-Premium",
+    "colors": [
+      { "code": "audi-black-leather", "standard": true },
+      { "code": "audi-titanium-brown-leather", "standard": true },
+      { "code": "audi-light-grey-leather", "standard": true },
+      { "code": "audi-ivory-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-sq7-Premium-Plus",
+    "colors": [
+      { "code": "audi-black-leather", "standard": true },
+      { "code": "audi-titanium-brown-leather", "standard": true },
+      { "code": "audi-light-grey-leather", "standard": true },
+      { "code": "audi-ivory-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-sq7-Prestige",
+    "colors": [
+      { "code": "audi-black-leather", "standard": true },
+      { "code": "audi-titanium-brown-leather", "standard": true },
+      { "code": "audi-light-grey-leather", "standard": true },
+      { "code": "audi-ivory-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-sq8-Premium",
+    "colors": [
+      { "code": "audi-black-leather", "standard": true },
+      { "code": "audi-titanium-brown-leather", "standard": true },
+      { "code": "audi-light-grey-leather", "standard": true },
+      { "code": "audi-ivory-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-sq8-Premium-Plus",
+    "colors": [
+      { "code": "audi-black-leather", "standard": true },
+      { "code": "audi-titanium-brown-leather", "standard": true },
+      { "code": "audi-light-grey-leather", "standard": true },
+      { "code": "audi-ivory-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-sq8-Prestige",
+    "colors": [
+      { "code": "audi-black-leather", "standard": true },
+      { "code": "audi-titanium-brown-leather", "standard": true },
+      { "code": "audi-light-grey-leather", "standard": true },
+      { "code": "audi-ivory-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-bentayga-Standard",
+    "colors": [
+      { "code": "bentley-beluga-leather", "standard": true },
+      { "code": "bentley-onyx-leather", "standard": true },
+      { "code": "bentley-linen-leather", "standard": true },
+      { "code": "bentley-mulliner-black-leather", "standard": true },
+      { "code": "bentley-mulliner-amber-leather", "standard": true },
+      { "code": "bentley-sequin-grey-leather", "standard": true },
+      { "code": "bentley-biscuit-leather", "standard": true },
+      { "code": "bentley-cognac-leather", "standard": true },
+      { "code": "bentley-cashew-leather", "standard": true },
+      { "code": "bentley-beluga-contrast-stitch-leather", "standard": true },
+      { "code": "bentley-linen-contrast-stitch-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-bentayga-Speed",
+    "colors": [
+      { "code": "bentley-beluga-leather", "standard": true },
+      { "code": "bentley-onyx-leather", "standard": true },
+      { "code": "bentley-linen-leather", "standard": true },
+      { "code": "bentley-mulliner-black-leather", "standard": true },
+      { "code": "bentley-mulliner-amber-leather", "standard": true },
+      { "code": "bentley-sequin-grey-leather", "standard": true },
+      { "code": "bentley-biscuit-leather", "standard": true },
+      { "code": "bentley-cognac-leather", "standard": true },
+      { "code": "bentley-cashew-leather", "standard": true },
+      { "code": "bentley-beluga-contrast-stitch-leather", "standard": true },
+      { "code": "bentley-linen-contrast-stitch-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-continental-gt-Standard",
+    "colors": [
+      { "code": "bentley-beluga-leather", "standard": true },
+      { "code": "bentley-onyx-leather", "standard": true },
+      { "code": "bentley-linen-leather", "standard": true },
+      { "code": "bentley-mulliner-black-leather", "standard": true },
+      { "code": "bentley-mulliner-amber-leather", "standard": true },
+      { "code": "bentley-sequin-grey-leather", "standard": true },
+      { "code": "bentley-biscuit-leather", "standard": true },
+      { "code": "bentley-cognac-leather", "standard": true },
+      { "code": "bentley-cashew-leather", "standard": true },
+      { "code": "bentley-beluga-contrast-stitch-leather", "standard": true },
+      { "code": "bentley-linen-contrast-stitch-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-continental-gt-Speed",
+    "colors": [
+      { "code": "bentley-beluga-leather", "standard": true },
+      { "code": "bentley-onyx-leather", "standard": true },
+      { "code": "bentley-linen-leather", "standard": true },
+      { "code": "bentley-mulliner-black-leather", "standard": true },
+      { "code": "bentley-mulliner-amber-leather", "standard": true },
+      { "code": "bentley-sequin-grey-leather", "standard": true },
+      { "code": "bentley-biscuit-leather", "standard": true },
+      { "code": "bentley-cognac-leather", "standard": true },
+      { "code": "bentley-cashew-leather", "standard": true },
+      { "code": "bentley-beluga-contrast-stitch-leather", "standard": true },
+      { "code": "bentley-linen-contrast-stitch-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-continental-gtc-Standard",
+    "colors": [
+      { "code": "bentley-beluga-leather", "standard": true },
+      { "code": "bentley-onyx-leather", "standard": true },
+      { "code": "bentley-linen-leather", "standard": true },
+      { "code": "bentley-mulliner-black-leather", "standard": true },
+      { "code": "bentley-mulliner-amber-leather", "standard": true },
+      { "code": "bentley-sequin-grey-leather", "standard": true },
+      { "code": "bentley-biscuit-leather", "standard": true },
+      { "code": "bentley-cognac-leather", "standard": true },
+      { "code": "bentley-cashew-leather", "standard": true },
+      { "code": "bentley-beluga-contrast-stitch-leather", "standard": true },
+      { "code": "bentley-linen-contrast-stitch-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-continental-gtc-Speed",
+    "colors": [
+      { "code": "bentley-beluga-leather", "standard": true },
+      { "code": "bentley-onyx-leather", "standard": true },
+      { "code": "bentley-linen-leather", "standard": true },
+      { "code": "bentley-mulliner-black-leather", "standard": true },
+      { "code": "bentley-mulliner-amber-leather", "standard": true },
+      { "code": "bentley-sequin-grey-leather", "standard": true },
+      { "code": "bentley-biscuit-leather", "standard": true },
+      { "code": "bentley-cognac-leather", "standard": true },
+      { "code": "bentley-cashew-leather", "standard": true },
+      { "code": "bentley-beluga-contrast-stitch-leather", "standard": true },
+      { "code": "bentley-linen-contrast-stitch-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-flying-spur-Standard",
+    "colors": [
+      { "code": "bentley-beluga-leather", "standard": true },
+      { "code": "bentley-onyx-leather", "standard": true },
+      { "code": "bentley-linen-leather", "standard": true },
+      { "code": "bentley-mulliner-black-leather", "standard": true },
+      { "code": "bentley-mulliner-amber-leather", "standard": true },
+      { "code": "bentley-sequin-grey-leather", "standard": true },
+      { "code": "bentley-biscuit-leather", "standard": true },
+      { "code": "bentley-cognac-leather", "standard": true },
+      { "code": "bentley-cashew-leather", "standard": true },
+      { "code": "bentley-beluga-contrast-stitch-leather", "standard": true },
+      { "code": "bentley-linen-contrast-stitch-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-flying-spur-Speed",
+    "colors": [
+      { "code": "bentley-beluga-leather", "standard": true },
+      { "code": "bentley-onyx-leather", "standard": true },
+      { "code": "bentley-linen-leather", "standard": true },
+      { "code": "bentley-mulliner-black-leather", "standard": true },
+      { "code": "bentley-mulliner-amber-leather", "standard": true },
+      { "code": "bentley-sequin-grey-leather", "standard": true },
+      { "code": "bentley-biscuit-leather", "standard": true },
+      { "code": "bentley-cognac-leather", "standard": true },
+      { "code": "bentley-cashew-leather", "standard": true },
+      { "code": "bentley-beluga-contrast-stitch-leather", "standard": true },
+      { "code": "bentley-linen-contrast-stitch-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-supersports-Standard",
+    "colors": [
+      { "code": "bentley-beluga-leather", "standard": true },
+      { "code": "bentley-onyx-leather", "standard": true },
+      { "code": "bentley-linen-leather", "standard": true },
+      { "code": "bentley-mulliner-black-leather", "standard": true },
+      { "code": "bentley-mulliner-amber-leather", "standard": true },
+      { "code": "bentley-sequin-grey-leather", "standard": true },
+      { "code": "bentley-biscuit-leather", "standard": true },
+      { "code": "bentley-cognac-leather", "standard": true },
+      { "code": "bentley-cashew-leather", "standard": true },
+      { "code": "bentley-beluga-contrast-stitch-leather", "standard": true },
+      { "code": "bentley-linen-contrast-stitch-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-tourbillon-Standard",
+    "colors": [
+      { "code": "bugatti-ebony-leather", "standard": true },
+      { "code": "bugatti-carbon-grey-leather", "standard": true },
+      { "code": "bugatti-champagne-leather", "standard": true },
+      { "code": "bugatti-royal-blue-leather", "standard": true },
+      { "code": "bugatti-titanium-leather", "standard": true },
+      { "code": "bugatti-red-leather", "standard": true },
+      { "code": "bugatti-cream-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-w16-mistral-Standard",
+    "colors": [
+      { "code": "bugatti-ebony-leather", "standard": true },
+      { "code": "bugatti-carbon-grey-leather", "standard": true },
+      { "code": "bugatti-champagne-leather", "standard": true },
+      { "code": "bugatti-royal-blue-leather", "standard": true },
+      { "code": "bugatti-titanium-leather", "standard": true },
+      { "code": "bugatti-red-leather", "standard": true },
+      { "code": "bugatti-cream-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-bolide-Standard",
+    "colors": [
+      { "code": "bugatti-ebony-leather", "standard": true },
+      { "code": "bugatti-carbon-grey-leather", "standard": true },
+      { "code": "bugatti-champagne-leather", "standard": true },
+      { "code": "bugatti-royal-blue-leather", "standard": true },
+      { "code": "bugatti-titanium-leather", "standard": true },
+      { "code": "bugatti-red-leather", "standard": true },
+      { "code": "bugatti-cream-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-228-228i",
+    "colors": [
+      { "code": "bmw-black-sensatec", "standard": true },
+      { "code": "bmw-black-leather", "standard": true },
+      { "code": "bmw-cognac-leather", "standard": true },
+      { "code": "bmw-ivory-white-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-228-xdrive-gran-coupe-228i",
+    "colors": [
+      { "code": "bmw-black-sensatec", "standard": true },
+      { "code": "bmw-black-leather", "standard": true },
+      { "code": "bmw-cognac-leather", "standard": true },
+      { "code": "bmw-ivory-white-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-230i-coupe-230i",
+    "colors": [
+      { "code": "bmw-black-leather", "standard": true },
+      { "code": "bmw-cognac-leather", "standard": true },
+      { "code": "bmw-ivory-white-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-230i-xdrive-coupe",
+    "colors": [
+      { "code": "bmw-black-leather", "standard": true },
+      { "code": "bmw-cognac-leather", "standard": true },
+      { "code": "bmw-ivory-white-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-m235-xdrive-gran-coupe",
+    "colors": [
+      { "code": "bmw-merino-black-leather", "standard": true },
+      { "code": "bmw-merino-cognac-leather", "standard": true },
+      { "code": "bmw-merino-ivory-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-m240i-coupe-m240i",
+    "colors": [
+      { "code": "bmw-merino-black-leather", "standard": true },
+      { "code": "bmw-merino-cognac-leather", "standard": true },
+      { "code": "bmw-merino-ivory-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-m240i-xdrive-coupe",
+    "colors": [
+      { "code": "bmw-merino-black-leather", "standard": true },
+      { "code": "bmw-merino-cognac-leather", "standard": true },
+      { "code": "bmw-merino-ivory-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-330i-sedan-330i",
+    "colors": [
+      { "code": "bmw-black-leather", "standard": true },
+      { "code": "bmw-cognac-leather", "standard": true },
+      { "code": "bmw-ivory-white-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-330i-xdrive-sedan",
+    "colors": [
+      { "code": "bmw-black-leather", "standard": true },
+      { "code": "bmw-cognac-leather", "standard": true },
+      { "code": "bmw-ivory-white-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-m340i-sedan",
+    "colors": [
+      { "code": "bmw-merino-black-leather", "standard": true },
+      { "code": "bmw-merino-cognac-leather", "standard": true },
+      { "code": "bmw-merino-ivory-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-m340i-xdrive-sedan",
+    "colors": [
+      { "code": "bmw-merino-black-leather", "standard": true },
+      { "code": "bmw-merino-cognac-leather", "standard": true },
+      { "code": "bmw-merino-ivory-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-430i-coupe-430i",
+    "colors": [
+      { "code": "bmw-black-leather", "standard": true },
+      { "code": "bmw-cognac-leather", "standard": true },
+      { "code": "bmw-ivory-white-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-430i-convertible",
+    "colors": [
+      { "code": "bmw-black-leather", "standard": true },
+      { "code": "bmw-cognac-leather", "standard": true },
+      { "code": "bmw-ivory-white-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-430i-gran-coupe",
+    "colors": [
+      { "code": "bmw-black-leather", "standard": true },
+      { "code": "bmw-cognac-leather", "standard": true },
+      { "code": "bmw-ivory-white-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-430i-xdrive-coupe",
+    "colors": [
+      { "code": "bmw-black-leather", "standard": true },
+      { "code": "bmw-cognac-leather", "standard": true },
+      { "code": "bmw-ivory-white-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-430i-xdrive-convertible",
+    "colors": [
+      { "code": "bmw-black-leather", "standard": true },
+      { "code": "bmw-cognac-leather", "standard": true },
+      { "code": "bmw-ivory-white-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-430i-xdrive-gran-coupe",
+    "colors": [
+      { "code": "bmw-black-leather", "standard": true },
+      { "code": "bmw-cognac-leather", "standard": true },
+      { "code": "bmw-ivory-white-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-m440i-coupe",
+    "colors": [
+      { "code": "bmw-merino-black-leather", "standard": true },
+      { "code": "bmw-merino-cognac-leather", "standard": true },
+      { "code": "bmw-merino-ivory-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-m440i-convertible",
+    "colors": [
+      { "code": "bmw-merino-black-leather", "standard": true },
+      { "code": "bmw-merino-cognac-leather", "standard": true },
+      { "code": "bmw-merino-ivory-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-m440i-xdrive-coupe",
+    "colors": [
+      { "code": "bmw-merino-black-leather", "standard": true },
+      { "code": "bmw-merino-cognac-leather", "standard": true },
+      { "code": "bmw-merino-ivory-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-m440i-xdrive-convertible",
+    "colors": [
+      { "code": "bmw-merino-black-leather", "standard": true },
+      { "code": "bmw-merino-cognac-leather", "standard": true },
+      { "code": "bmw-merino-ivory-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-m440i-xdrive-gran-coupe",
+    "colors": [
+      { "code": "bmw-merino-black-leather", "standard": true },
+      { "code": "bmw-merino-cognac-leather", "standard": true },
+      { "code": "bmw-merino-ivory-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-530i-sedan",
+    "colors": [
+      { "code": "bmw-black-leather", "standard": true },
+      { "code": "bmw-cognac-leather", "standard": true },
+      { "code": "bmw-ivory-white-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-530i-xdrive-sedan",
+    "colors": [
+      { "code": "bmw-black-leather", "standard": true },
+      { "code": "bmw-cognac-leather", "standard": true },
+      { "code": "bmw-ivory-white-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-540i-xdrive-sedan",
+    "colors": [
+      { "code": "bmw-black-leather", "standard": true },
+      { "code": "bmw-cognac-leather", "standard": true },
+      { "code": "bmw-ivory-white-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-550e-sedan",
+    "colors": [
+      { "code": "bmw-black-leather", "standard": true },
+      { "code": "bmw-cognac-leather", "standard": true },
+      { "code": "bmw-ivory-white-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-740i-sedan",
+    "colors": [
+      { "code": "bmw-black-leather", "standard": true },
+      { "code": "bmw-espresso-brown-leather", "standard": true },
+      { "code": "bmw-ivory-white-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-740i-xdrive-sedan",
+    "colors": [
+      { "code": "bmw-black-leather", "standard": true },
+      { "code": "bmw-espresso-brown-leather", "standard": true },
+      { "code": "bmw-ivory-white-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-750e-xdrive-sedan",
+    "colors": [
+      { "code": "bmw-black-leather", "standard": true },
+      { "code": "bmw-espresso-brown-leather", "standard": true },
+      { "code": "bmw-ivory-white-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-760i-xdrive-sedan",
+    "colors": [
+      { "code": "bmw-black-leather", "standard": true },
+      { "code": "bmw-espresso-brown-leather", "standard": true },
+      { "code": "bmw-ivory-white-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-840i-coupe",
+    "colors": [
+      { "code": "bmw-black-leather", "standard": true },
+      { "code": "bmw-cognac-leather", "standard": true },
+      { "code": "bmw-ivory-white-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-840i-convertible-840i",
+    "colors": [
+      { "code": "bmw-black-leather", "standard": true },
+      { "code": "bmw-cognac-leather", "standard": true },
+      { "code": "bmw-ivory-white-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-840i-gran-coupe-840i",
+    "colors": [
+      { "code": "bmw-black-leather", "standard": true },
+      { "code": "bmw-cognac-leather", "standard": true },
+      { "code": "bmw-ivory-white-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-840i-xdrive-coupe",
+    "colors": [
+      { "code": "bmw-black-leather", "standard": true },
+      { "code": "bmw-cognac-leather", "standard": true },
+      { "code": "bmw-ivory-white-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-840i-xdrive-convertible",
+    "colors": [
+      { "code": "bmw-black-leather", "standard": true },
+      { "code": "bmw-cognac-leather", "standard": true },
+      { "code": "bmw-ivory-white-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-840i-xdrive-gran-coupe",
+    "colors": [
+      { "code": "bmw-black-leather", "standard": true },
+      { "code": "bmw-cognac-leather", "standard": true },
+      { "code": "bmw-ivory-white-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-m850i-xdrive-coupe",
+    "colors": [
+      { "code": "bmw-black-leather", "standard": true },
+      { "code": "bmw-cognac-leather", "standard": true },
+      { "code": "bmw-ivory-white-leather", "standard": true },
+      { "code": "bmw-espresso-brown-leather", "standard": true },
+      { "code": "bmw-tartufo-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-m850i-xdrive-convertible",
+    "colors": [
+      { "code": "bmw-black-leather", "standard": true },
+      { "code": "bmw-cognac-leather", "standard": true },
+      { "code": "bmw-ivory-white-leather", "standard": true },
+      { "code": "bmw-espresso-brown-leather", "standard": true },
+      { "code": "bmw-tartufo-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-m850i-xdrive-gran-coupe",
+    "colors": [
+      { "code": "bmw-black-leather", "standard": true },
+      { "code": "bmw-cognac-leather", "standard": true },
+      { "code": "bmw-ivory-white-leather", "standard": true },
+      { "code": "bmw-espresso-brown-leather", "standard": true },
+      { "code": "bmw-tartufo-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-i4-edrive40-sedan",
+    "colors": [
+      { "code": "bmw-black-leather", "standard": true },
+      { "code": "bmw-cognac-leather", "standard": true },
+      { "code": "bmw-ivory-white-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-i4-xdrive40-sedan",
+    "colors": [
+      { "code": "bmw-black-leather", "standard": true },
+      { "code": "bmw-cognac-leather", "standard": true },
+      { "code": "bmw-ivory-white-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-i4-m60-sedan",
+    "colors": [
+      { "code": "bmw-black-leather", "standard": true },
+      { "code": "bmw-cognac-leather", "standard": true },
+      { "code": "bmw-ivory-white-leather", "standard": true },
+      { "code": "bmw-espresso-brown-leather", "standard": true },
+      { "code": "bmw-tartufo-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-i5-edrive40-sedan",
+    "colors": [
+      { "code": "bmw-black-leather", "standard": true },
+      { "code": "bmw-cognac-leather", "standard": true },
+      { "code": "bmw-ivory-white-leather", "standard": true },
+      { "code": "bmw-espresso-brown-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-i5-xdrive40-sedan",
+    "colors": [
+      { "code": "bmw-black-leather", "standard": true },
+      { "code": "bmw-cognac-leather", "standard": true },
+      { "code": "bmw-ivory-white-leather", "standard": true },
+      { "code": "bmw-espresso-brown-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-i5-m60-sedan",
+    "colors": [
+      { "code": "bmw-black-leather", "standard": true },
+      { "code": "bmw-cognac-leather", "standard": true },
+      { "code": "bmw-ivory-white-leather", "standard": true },
+      { "code": "bmw-espresso-brown-leather", "standard": true },
+      { "code": "bmw-tartufo-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-i7-edrive50-sedan",
+    "colors": [
+      { "code": "bmw-black-leather", "standard": true },
+      { "code": "bmw-ivory-white-leather", "standard": true },
+      { "code": "bmw-cognac-leather", "standard": true },
+      { "code": "bmw-merino-ivory-leather", "standard": true },
+      { "code": "bmw-merino-cognac-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-i7-xdrive60-sedan",
+    "colors": [
+      { "code": "bmw-black-leather", "standard": true },
+      { "code": "bmw-ivory-white-leather", "standard": true },
+      { "code": "bmw-cognac-leather", "standard": true },
+      { "code": "bmw-merino-ivory-leather", "standard": true },
+      { "code": "bmw-merino-cognac-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-i7-m70-xdrive-sedan",
+    "colors": [
+      { "code": "bmw-black-leather", "standard": true },
+      { "code": "bmw-ivory-white-leather", "standard": true },
+      { "code": "bmw-cognac-leather", "standard": true },
+      { "code": "bmw-merino-ivory-leather", "standard": true },
+      { "code": "bmw-merino-cognac-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-ix-xdrive45-suv",
+    "colors": [
+      { "code": "bmw-black-sensatec", "standard": true },
+      { "code": "bmw-black-leather", "standard": true },
+      { "code": "bmw-cognac-leather", "standard": true },
+      { "code": "bmw-ivory-white-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-ix-xdrive60-suv",
+    "colors": [
+      { "code": "bmw-black-sensatec", "standard": true },
+      { "code": "bmw-black-leather", "standard": true },
+      { "code": "bmw-cognac-leather", "standard": true },
+      { "code": "bmw-ivory-white-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-ix-m70-xdrive-suv",
+    "colors": [
+      { "code": "bmw-black-leather", "standard": true },
+      { "code": "bmw-cognac-leather", "standard": true },
+      { "code": "bmw-espresso-brown-leather", "standard": true },
+      { "code": "bmw-tartufo-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-m2-coupe",
+    "colors": [
+      { "code": "bmw-merino-black-leather", "standard": true },
+      { "code": "bmw-merino-cognac-leather", "standard": true },
+      { "code": "bmw-ivory-white-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-m2-cs-coupe",
+    "colors": [
+      { "code": "bmw-merino-black-leather", "standard": true },
+      { "code": "bmw-merino-cognac-leather", "standard": true },
+      { "code": "bmw-espresso-brown-leather", "standard": true },
+      { "code": "bmw-tartufo-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-m3-sedan",
+    "colors": [
+      { "code": "bmw-merino-black-leather", "standard": true },
+      { "code": "bmw-merino-cognac-leather", "standard": true },
+      { "code": "bmw-ivory-white-leather", "standard": true },
+      { "code": "bmw-espresso-brown-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-m3-sedan-competition",
+    "colors": [
+      { "code": "bmw-merino-black-leather", "standard": true },
+      { "code": "bmw-merino-cognac-leather", "standard": true },
+      { "code": "bmw-ivory-white-leather", "standard": true },
+      { "code": "bmw-espresso-brown-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-m3-sedan-competition-xdrive",
+    "colors": [
+      { "code": "bmw-merino-black-leather", "standard": true },
+      { "code": "bmw-merino-cognac-leather", "standard": true },
+      { "code": "bmw-ivory-white-leather", "standard": true },
+      { "code": "bmw-espresso-brown-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-m4-coupe",
+    "colors": [
+      { "code": "bmw-merino-black-leather", "standard": true },
+      { "code": "bmw-merino-cognac-leather", "standard": true },
+      { "code": "bmw-ivory-white-leather", "standard": true },
+      { "code": "bmw-espresso-brown-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-m4-coupe-competition",
+    "colors": [
+      { "code": "bmw-merino-black-leather", "standard": true },
+      { "code": "bmw-merino-cognac-leather", "standard": true },
+      { "code": "bmw-ivory-white-leather", "standard": true },
+      { "code": "bmw-espresso-brown-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-m4-coupe-competition-xdrive",
+    "colors": [
+      { "code": "bmw-merino-black-leather", "standard": true },
+      { "code": "bmw-merino-cognac-leather", "standard": true },
+      { "code": "bmw-ivory-white-leather", "standard": true },
+      { "code": "bmw-espresso-brown-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-m5-sedan",
+    "colors": [
+      { "code": "bmw-merino-black-leather", "standard": true },
+      { "code": "bmw-merino-cognac-leather", "standard": true },
+      { "code": "bmw-ivory-white-leather", "standard": true },
+      { "code": "bmw-espresso-brown-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-m8-competition-convertible",
+    "colors": [
+      { "code": "bmw-merino-black-leather", "standard": true },
+      { "code": "bmw-merino-cognac-leather", "standard": true },
+      { "code": "bmw-ivory-white-leather", "standard": true },
+      { "code": "bmw-espresso-brown-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-m8-competition-gran-coupe",
+    "colors": [
+      { "code": "bmw-merino-black-leather", "standard": true },
+      { "code": "bmw-merino-cognac-leather", "standard": true },
+      { "code": "bmw-ivory-white-leather", "standard": true },
+      { "code": "bmw-espresso-brown-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-x1-sdrive28i-suv",
+    "colors": [
+      { "code": "bmw-black-leather", "standard": true },
+      { "code": "bmw-cognac-leather", "standard": true },
+      { "code": "bmw-ivory-white-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-x1-xdrive28i-suv",
+    "colors": [
+      { "code": "bmw-black-leather", "standard": true },
+      { "code": "bmw-cognac-leather", "standard": true },
+      { "code": "bmw-ivory-white-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-x2-sdrive28i-suv",
+    "colors": [
+      { "code": "bmw-black-leather", "standard": true },
+      { "code": "bmw-cognac-leather", "standard": true },
+      { "code": "bmw-ivory-white-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-x2-xdrive28i-suv",
+    "colors": [
+      { "code": "bmw-black-leather", "standard": true },
+      { "code": "bmw-cognac-leather", "standard": true },
+      { "code": "bmw-ivory-white-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-x3-sdrive30i-suv",
+    "colors": [
+      { "code": "bmw-black-leather", "standard": true },
+      { "code": "bmw-cognac-leather", "standard": true },
+      { "code": "bmw-ivory-white-leather", "standard": true },
+      { "code": "bmw-espresso-brown-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-x3-xdrive30i-suv",
+    "colors": [
+      { "code": "bmw-black-leather", "standard": true },
+      { "code": "bmw-cognac-leather", "standard": true },
+      { "code": "bmw-ivory-white-leather", "standard": true },
+      { "code": "bmw-espresso-brown-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-x3-m40i-xdrive-suv",
+    "colors": [
+      { "code": "bmw-merino-black-leather", "standard": true },
+      { "code": "bmw-merino-cognac-leather", "standard": true },
+      { "code": "bmw-merino-ivory-leather", "standard": true },
+      { "code": "bmw-espresso-brown-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-x5-sdrive40i-suv",
+    "colors": [
+      { "code": "bmw-black-leather", "standard": true },
+      { "code": "bmw-cognac-leather", "standard": true },
+      { "code": "bmw-ivory-white-leather", "standard": true },
+      { "code": "bmw-espresso-brown-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-x5-xdrive40i-suv",
+    "colors": [
+      { "code": "bmw-black-leather", "standard": true },
+      { "code": "bmw-cognac-leather", "standard": true },
+      { "code": "bmw-ivory-white-leather", "standard": true },
+      { "code": "bmw-espresso-brown-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-x5-xdrive50e-suv",
+    "colors": [
+      { "code": "bmw-black-leather", "standard": true },
+      { "code": "bmw-cognac-leather", "standard": true },
+      { "code": "bmw-ivory-white-leather", "standard": true },
+      { "code": "bmw-espresso-brown-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-x5-m60i-xdrive-suv",
+    "colors": [
+      { "code": "bmw-merino-black-leather", "standard": true },
+      { "code": "bmw-merino-cognac-leather", "standard": true },
+      { "code": "bmw-espresso-brown-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-x5-m-xdrive-suv",
+    "colors": [
+      { "code": "bmw-merino-black-leather", "standard": true },
+      { "code": "bmw-merino-cognac-leather", "standard": true },
+      { "code": "bmw-espresso-brown-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-x5-m-competition-xdrive-suv",
+    "colors": [
+      { "code": "bmw-merino-black-leather", "standard": true },
+      { "code": "bmw-merino-cognac-leather", "standard": true },
+      { "code": "bmw-espresso-brown-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-x6-xdrive40i-suv",
+    "colors": [
+      { "code": "bmw-black-sensatec", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-x6-m60i-xdrive-suv",
+    "colors": [
+      { "code": "bmw-merino-black-leather", "standard": true },
+      { "code": "bmw-merino-cognac-leather", "standard": true },
+      { "code": "bmw-espresso-brown-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-x6-m-xdrive-suv",
+    "colors": [
+      { "code": "bmw-merino-black-leather", "standard": true },
+      { "code": "bmw-merino-cognac-leather", "standard": true },
+      { "code": "bmw-espresso-brown-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-x6-m-competition-xdrive-suv",
+    "colors": [
+      { "code": "bmw-merino-black-leather", "standard": true },
+      { "code": "bmw-merino-cognac-leather", "standard": true },
+      { "code": "bmw-espresso-brown-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-x7-xdrive40i-suv",
+    "colors": [
+      { "code": "bmw-black-sensatec", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-x7-xdrive50i-suv",
+    "colors": [
+      { "code": "bmw-merino-black-leather", "standard": true },
+      { "code": "bmw-merino-cognac-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-x7-m60i-xdrive-suv",
+    "colors": [
+      { "code": "bmw-merino-black-leather", "standard": true },
+      { "code": "bmw-merino-cognac-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-xm-xdrive-suv",
+    "colors": [
+      { "code": "bmw-merino-black-leather", "standard": true },
+      { "code": "bmw-merino-cognac-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-xm-competition-xdrive-suv",
+    "colors": [
+      { "code": "bmw-merino-black-leather", "standard": true },
+      { "code": "bmw-merino-cognac-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-z4-sdrive30i-convertible",
+    "colors": [
+      { "code": "bmw-black-sensatec", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-z4-m40i-convertible",
+    "colors": [
+      { "code": "bmw-merino-black-leather", "standard": true },
+      { "code": "bmw-merino-cognac-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-enclave-gx-preferred-suv",
+    "colors": [
+      { "code": "buick-ebony-leather", "standard": true },
+      { "code": "buick-shale-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-enclave-gx-essence-suv",
+    "colors": [
+      { "code": "buick-ebony-leather", "standard": true },
+      { "code": "buick-shale-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-enclave-gx-premium-suv",
+    "colors": [
+      { "code": "buick-ebony-leather", "standard": true },
+      { "code": "buick-shale-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-encore-gx-preferred-suv",
+    "colors": [
+      { "code": "buick-ebony-leather", "standard": true },
+      { "code": "buick-shale-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-encore-gx-prestige-suv",
+    "colors": [
+      { "code": "buick-ebony-leather", "standard": true },
+      { "code": "buick-shale-leather", "standard": true },
+      { "code": "buick-cashmere-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-envision-preferred-suv",
+    "colors": [
+      { "code": "buick-ebony-leather", "standard": true },
+      { "code": "buick-shale-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-envision-essence-suv",
+    "colors": [
+      { "code": "buick-ebony-leather", "standard": true },
+      { "code": "buick-shale-leather", "standard": true },
+      { "code": "buick-cashmere-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-envision-premium-suv",
+    "colors": [
+      { "code": "buick-ebony-leather", "standard": true },
+      { "code": "buick-shale-leather", "standard": true },
+      { "code": "buick-cashmere-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-envista-preferred-suv",
+    "colors": [
+      { "code": "buick-ebony-leather", "standard": true },
+      { "code": "buick-shale-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-envista-prestige-suv",
+    "colors": [
+      { "code": "buick-ebony-leather", "standard": true },
+      { "code": "buick-shale-leather", "standard": true },
+      { "code": "buick-cashmere-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-celestiq-sedan",
+    "colors": [
+      { "code": "cadillac-ebony-leather", "standard": true },
+      { "code": "cadillac-jet-black-leather", "standard": true },
+      { "code": "cadillac-ceramic-leather", "standard": true },
+      { "code": "cadillac-slate-leather", "standard": true },
+      { "code": "cadillac-cedar-leather", "standard": true },
+      { "code": "cadillac-sahara-beige-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-ct4-luxury-sedan",
+    "colors": [
+      { "code": "cadillac-ebony-leather", "standard": true },
+      { "code": "cadillac-jet-black-leather", "standard": true },
+      { "code": "cadillac-ceramic-leather", "standard": true },
+      { "code": "cadillac-slate-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-ct4-premium-luxury-sedan",
+    "colors": [
+      { "code": "cadillac-ebony-leather", "standard": true },
+      { "code": "cadillac-jet-black-leather", "standard": true },
+      { "code": "cadillac-ceramic-leather", "standard": true },
+      { "code": "cadillac-slate-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-ct4-v-sedan",
+    "colors": [
+      { "code": "cadillac-ebony-leather", "standard": true },
+      { "code": "cadillac-jet-black-leather", "standard": true },
+      { "code": "cadillac-ceramic-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-ct4-v-blackwing-sedan",
+    "colors": [
+      { "code": "cadillac-ebony-leather", "standard": true },
+      { "code": "cadillac-jet-black-leather", "standard": true },
+      { "code": "cadillac-cedar-leather", "standard": true },
+      { "code": "cadillac-jet-black-suede", "standard": true },
+      { "code": "cadillac-cedar-suede", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-ct5-luxury-sedan",
+    "colors": [
+      { "code": "cadillac-ebony-leather", "standard": true },
+      { "code": "cadillac-jet-black-leather", "standard": true },
+      { "code": "cadillac-ceramic-leather", "standard": true },
+      { "code": "cadillac-slate-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-ct5-premium-luxury-sedan",
+    "colors": [
+      { "code": "cadillac-ebony-leather", "standard": true },
+      { "code": "cadillac-jet-black-leather", "standard": true },
+      { "code": "cadillac-ceramic-leather", "standard": true },
+      { "code": "cadillac-slate-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-ct5-v-sedan",
+    "colors": [
+      { "code": "cadillac-ebony-leather", "standard": true },
+      { "code": "cadillac-jet-black-leather", "standard": true },
+      { "code": "cadillac-ceramic-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-ct5-v-blackwing-sedan",
+    "colors": [
+      { "code": "cadillac-ebony-leather", "standard": true },
+      { "code": "cadillac-jet-black-leather", "standard": true },
+      { "code": "cadillac-cedar-leather", "standard": true },
+      { "code": "cadillac-jet-black-suede", "standard": true },
+      { "code": "cadillac-cedar-suede", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-escalade-suv",
+    "colors": [
+      { "code": "cadillac-ebony-leather", "standard": true },
+      { "code": "cadillac-jet-black-leather", "standard": true },
+      { "code": "cadillac-ceramic-leather", "standard": true },
+      { "code": "cadillac-slate-leather", "standard": true },
+      { "code": "cadillac-cedar-leather", "standard": true },
+      { "code": "cadillac-sahara-beige-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-escalade-v-suv",
+    "colors": [
+      { "code": "cadillac-ebony-leather", "standard": true },
+      { "code": "cadillac-jet-black-leather", "standard": true },
+      { "code": "cadillac-cedar-leather", "standard": true },
+      { "code": "cadillac-jet-black-suede", "standard": true },
+      { "code": "cadillac-cedar-suede", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-escalade-esv-suv",
+    "colors": [
+      { "code": "cadillac-ebony-leather", "standard": true },
+      { "code": "cadillac-jet-black-leather", "standard": true },
+      { "code": "cadillac-ceramic-leather", "standard": true },
+      { "code": "cadillac-slate-leather", "standard": true },
+      { "code": "cadillac-cedar-leather", "standard": true },
+      { "code": "cadillac-sahara-beige-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-escalade-v-esv-suv",
+    "colors": [
+      { "code": "cadillac-ebony-leather", "standard": true },
+      { "code": "cadillac-jet-black-leather", "standard": true },
+      { "code": "cadillac-cedar-leather", "standard": true },
+      { "code": "cadillac-jet-black-suede", "standard": true },
+      { "code": "cadillac-cedar-suede", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-escalade-iq-suv",
+    "colors": [
+      { "code": "cadillac-ebony-leather", "standard": true },
+      { "code": "cadillac-jet-black-leather", "standard": true },
+      { "code": "cadillac-cedar-leather", "standard": true },
+      { "code": "cadillac-jet-black-suede", "standard": true },
+      { "code": "cadillac-cedar-suede", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-escalade-iql-suv",
+    "colors": [
+      { "code": "cadillac-ebony-leather", "standard": true },
+      { "code": "cadillac-jet-black-leather", "standard": true },
+      { "code": "cadillac-cedar-leather", "standard": true },
+      { "code": "cadillac-jet-black-suede", "standard": true },
+      { "code": "cadillac-cedar-suede", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-lyriq-suv",
+    "colors": [
+      { "code": "cadillac-ebony-leather", "standard": true },
+      { "code": "cadillac-jet-black-leather", "standard": true },
+      { "code": "cadillac-ceramic-leather", "standard": true },
+      { "code": "cadillac-slate-leather", "standard": true },
+      { "code": "cadillac-cedar-leather", "standard": true },
+      { "code": "cadillac-sahara-beige-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-lyriq-v-suv",
+    "colors": [
+      { "code": "cadillac-ebony-leather", "standard": true },
+      { "code": "cadillac-jet-black-leather", "standard": true },
+      { "code": "cadillac-cedar-leather", "standard": true },
+      { "code": "cadillac-jet-black-suede", "standard": true },
+      { "code": "cadillac-cedar-suede", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-optiq-suv",
+    "colors": [
+      { "code": "cadillac-ebony-leather", "standard": true },
+      { "code": "cadillac-jet-black-leather", "standard": true },
+      { "code": "cadillac-ceramic-leather", "standard": true },
+      { "code": "cadillac-slate-leather", "standard": true },
+      { "code": "cadillac-cedar-leather", "standard": true },
+      { "code": "cadillac-sahara-beige-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-optiq-v-suv",
+    "colors": [
+      { "code": "cadillac-ebony-leather", "standard": true },
+      { "code": "cadillac-jet-black-leather", "standard": true },
+      { "code": "cadillac-cedar-leather", "standard": true },
+      { "code": "cadillac-jet-black-suede", "standard": true },
+      { "code": "cadillac-cedar-suede", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-vistiq-suv",
+    "colors": [
+      { "code": "cadillac-ebony-leather", "standard": true },
+      { "code": "cadillac-jet-black-leather", "standard": true },
+      { "code": "cadillac-ceramic-leather", "standard": true },
+      { "code": "cadillac-slate-leather", "standard": true },
+      { "code": "cadillac-cedar-leather", "standard": true },
+      { "code": "cadillac-sahara-beige-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-xt5-suv",
+    "colors": [
+      { "code": "cadillac-ebony-leather", "standard": true },
+      { "code": "cadillac-jet-black-leather", "standard": true },
+      { "code": "cadillac-cedar-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-blazer-lt-2lt-fwd-suv",
+    "colors": [
+      { "code": "chevrolet-ebony-cloth", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-blazer-lt-3lt-fwd-suv",
+    "colors": [
+      { "code": "chevrolet-ebony-leather", "standard": true },
+      { "code": "chevrolet-jet-black-leather", "standard": true },
+      { "code": "chevrolet-dark-titan-leather", "standard": true },
+      { "code": "chevrolet-cocoa-leather", "standard": true },
+      { "code": "chevrolet-shale-leather", "standard": true },
+      { "code": "chevrolet-light-tan-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-blazer-lt-2lt-awd-suv",
+    "colors": [
+      { "code": "chevrolet-ebony-cloth", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-blazer-lt-3lt-awd-suv",
+    "colors": [
+      { "code": "chevrolet-ebony-leather", "standard": true },
+      { "code": "chevrolet-jet-black-leather", "standard": true },
+      { "code": "chevrolet-dark-titan-leather", "standard": true },
+      { "code": "chevrolet-cocoa-leather", "standard": true },
+      { "code": "chevrolet-shale-leather", "standard": true },
+      { "code": "chevrolet-light-tan-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-blazer-rs-fwd-suv",
+    "colors": [
+      { "code": "chevrolet-ebony-leather", "standard": true },
+      { "code": "chevrolet-jet-black-leather", "standard": true },
+      { "code": "chevrolet-dark-titan-leather", "standard": true },
+      { "code": "chevrolet-cocoa-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-blazer-rs-awd-suv",
+    "colors": [
+      { "code": "chevrolet-ebony-leather", "standard": true },
+      { "code": "chevrolet-jet-black-leather", "standard": true },
+      { "code": "chevrolet-dark-titan-leather", "standard": true },
+      { "code": "chevrolet-cocoa-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-bolt-1lt-hatchback",
+    "colors": [
+      { "code": "chevrolet-ebony-cloth", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-bolt-2lt-hatchback",
+    "colors": [
+      { "code": "chevrolet-ebony-leather", "standard": true },
+      { "code": "chevrolet-jet-black-leather", "standard": true },
+      { "code": "chevrolet-dark-titan-leather", "standard": true },
+      { "code": "chevrolet-cocoa-leather", "standard": true },
+      { "code": "chevrolet-shale-leather", "standard": true },
+      { "code": "chevrolet-light-tan-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-brightdrop-zevo600-base-van",
+    "colors": []
+  },
+  {
+    "trim_code": "2026-brightdrop-zevo600-xl-van",
+    "colors": []
+  },
+  {
+    "trim_code": "2026-corvette-stingray-coupe",
+    "colors": [
+      { "code": "chevrolet-ebony-leather", "standard": true },
+      { "code": "chevrolet-jet-black-leather", "standard": true },
+      { "code": "chevrolet-dark-titan-leather", "standard": true },
+      { "code": "chevrolet-cocoa-leather", "standard": true },
+      { "code": "chevrolet-shale-leather", "standard": true },
+      { "code": "chevrolet-light-tan-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-corvette-stingray-convertible",
+    "colors": [
+      { "code": "chevrolet-ebony-leather", "standard": true },
+      { "code": "chevrolet-jet-black-leather", "standard": true },
+      { "code": "chevrolet-dark-titan-leather", "standard": true },
+      { "code": "chevrolet-cocoa-leather", "standard": true },
+      { "code": "chevrolet-shale-leather", "standard": true },
+      { "code": "chevrolet-light-tan-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-corvette-z06-coupe",
+    "colors": [
+      { "code": "chevrolet-ebony-leather", "standard": true },
+      { "code": "chevrolet-jet-black-leather", "standard": true },
+      { "code": "chevrolet-dark-titan-leather", "standard": true },
+      { "code": "chevrolet-cocoa-leather", "standard": true },
+      { "code": "chevrolet-shale-leather", "standard": true },
+      { "code": "chevrolet-light-tan-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-corvette-z06-convertible",
+    "colors": [
+      { "code": "chevrolet-ebony-leather", "standard": true },
+      { "code": "chevrolet-jet-black-leather", "standard": true },
+      { "code": "chevrolet-dark-titan-leather", "standard": true },
+      { "code": "chevrolet-cocoa-leather", "standard": true },
+      { "code": "chevrolet-shale-leather", "standard": true },
+      { "code": "chevrolet-light-tan-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-corvette-zr1-coupe",
+    "colors": [
+      { "code": "chevrolet-ebony-leather", "standard": true },
+      { "code": "chevrolet-jet-black-leather", "standard": true },
+      { "code": "chevrolet-dark-titan-leather", "standard": true },
+      { "code": "chevrolet-cocoa-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-corvette-zr1-convertible",
+    "colors": [
+      { "code": "chevrolet-ebony-leather", "standard": true },
+      { "code": "chevrolet-jet-black-leather", "standard": true },
+      { "code": "chevrolet-dark-titan-leather", "standard": true },
+      { "code": "chevrolet-cocoa-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-colorado-wt-crew-cab",
+    "colors": [
+      { "code": "chevrolet-ebony-cloth", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-colorado-lt-crew-cab",
+    "colors": [
+      { "code": "chevrolet-ebony-cloth", "standard": true },
+      { "code": "chevrolet-ebony-leather", "standard": true },
+      { "code": "chevrolet-cocoa-leather", "standard": true },
+      { "code": "chevrolet-shale-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-colorado-rt-crew-cab",
+    "colors": [
+      { "code": "chevrolet-cocoa-leather", "standard": true },
+      { "code": "chevrolet-shale-leather", "standard": true },
+      { "code": "chevrolet-ebony-leather", "standard": true },
+      { "code": "chevrolet-jet-black-leather", "standard": true },
+      { "code": "chevrolet-light-tan-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-colorado-z71-crew-cab",
+    "colors": [
+      { "code": "chevrolet-cocoa-leather", "standard": true },
+      { "code": "chevrolet-shale-leather", "standard": true },
+      { "code": "chevrolet-ebony-leather", "standard": true },
+      { "code": "chevrolet-jet-black-leather", "standard": true },
+      { "code": "chevrolet-light-tan-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-colorado-zr2-crew-cab",
+    "colors": [
+      { "code": "chevrolet-cocoa-leather", "standard": true },
+      { "code": "chevrolet-shale-leather", "standard": true },
+      { "code": "chevrolet-ebony-leather", "standard": true },
+      { "code": "chevrolet-jet-black-leather", "standard": true },
+      { "code": "chevrolet-light-tan-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-colorado-zr2-bison-crew-cab",
+    "colors": [
+      { "code": "chevrolet-cocoa-leather", "standard": true },
+      { "code": "chevrolet-shale-leather", "standard": true },
+      { "code": "chevrolet-ebony-leather", "standard": true },
+      { "code": "chevrolet-jet-black-leather", "standard": true },
+      { "code": "chevrolet-light-tan-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-equinox-lt-suv",
+    "colors": [
+      { "code": "chevrolet-ebony-cloth", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-equinox-activation-package-suv",
+    "colors": [
+      { "code": "chevrolet-ebony-cloth", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-equinox-rs-suv",
+    "colors": [
+      { "code": "chevrolet-ebony-leather", "standard": true },
+      { "code": "chevrolet-jet-black-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-equinox-activ-suv",
+    "colors": [
+      { "code": "chevrolet-ebony-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-equinox-ev-lt1-suv",
+    "colors": [
+      { "code": "chevrolet-ebony-cloth", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-equinox-ev-lt2-suv",
+    "colors": [
+      { "code": "chevrolet-ebony-leather", "standard": true },
+      { "code": "chevrolet-jet-black-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-equinox-ev-rs-suv",
+    "colors": [
+      { "code": "chevrolet-ebony-leather", "standard": true },
+      { "code": "chevrolet-jet-black-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-express-2500-cargo",
+    "colors": [
+      { "code": "chevrolet-ebony-cloth", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-express-3500-cargo",
+    "colors": [
+      { "code": "chevrolet-ebony-cloth", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-express-2500-passenger",
+    "colors": [
+      { "code": "chevrolet-ebony-cloth", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-express-3500-passenger",
+    "colors": [
+      { "code": "chevrolet-ebony-cloth", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-silverado-wt-crew-cab",
+    "colors": [
+      { "code": "chevrolet-ebony-cloth", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-silverado-lt-crew-cab",
+    "colors": [
+      { "code": "chevrolet-ebony-leather", "standard": true },
+      { "code": "chevrolet-jet-black-leather", "standard": true },
+      { "code": "chevrolet-shale-leather", "standard": true },
+      { "code": "chevrolet-light-tan-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-silverado-rst-crew-cab",
+    "colors": [
+      { "code": "chevrolet-ebony-leather", "standard": true },
+      { "code": "chevrolet-jet-black-leather", "standard": true },
+      { "code": "chevrolet-shale-leather", "standard": true },
+      { "code": "chevrolet-light-tan-leather", "standard": true },
+      { "code": "chevrolet-cocoa-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-silverado-ltz-crew-cab",
+    "colors": [
+      { "code": "chevrolet-ebony-leather", "standard": true },
+      { "code": "chevrolet-jet-black-leather", "standard": true },
+      { "code": "chevrolet-shale-leather", "standard": true },
+      { "code": "chevrolet-light-tan-leather", "standard": true },
+      { "code": "chevrolet-cocoa-leather", "standard": true },
+      { "code": "chevrolet-dark-titan-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-silverado-high-country-crew-cab",
+    "colors": [
+      { "code": "chevrolet-ebony-leather", "standard": true },
+      { "code": "chevrolet-jet-black-leather", "standard": true },
+      { "code": "chevrolet-shale-leather", "standard": true },
+      { "code": "chevrolet-light-tan-leather", "standard": true },
+      { "code": "chevrolet-cocoa-leather", "standard": true },
+      { "code": "chevrolet-dark-titan-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-silverado-trail-boss-crew-cab",
+    "colors": [
+      { "code": "chevrolet-ebony-leather", "standard": true },
+      { "code": "chevrolet-jet-black-leather", "standard": true },
+      { "code": "chevrolet-shale-leather", "standard": true },
+      { "code": "chevrolet-light-tan-leather", "standard": true },
+      { "code": "chevrolet-cocoa-leather", "standard": true },
+      { "code": "chevrolet-dark-titan-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-silverado-zr2-crew-cab",
+    "colors": [
+      { "code": "chevrolet-ebony-leather", "standard": true },
+      { "code": "chevrolet-jet-black-leather", "standard": true },
+      { "code": "chevrolet-shale-leather", "standard": true },
+      { "code": "chevrolet-light-tan-leather", "standard": true },
+      { "code": "chevrolet-cocoa-leather", "standard": true },
+      { "code": "chevrolet-dark-titan-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-silverado-ev-wt-suv",
+    "colors": [
+      { "code": "chevrolet-ebony-cloth", "standard": true },
+      { "code": "chevrolet-ebony-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-silverado-ev-rst-first-edition-suv",
+    "colors": [
+      { "code": "chevrolet-ebony-leather", "standard": true },
+      { "code": "chevrolet-jet-black-leather", "standard": true },
+      { "code": "chevrolet-cocoa-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-silverado-ev-lt-suv",
+    "colors": [
+      { "code": "chevrolet-ebony-leather", "standard": true },
+      { "code": "chevrolet-jet-black-leather", "standard": true },
+      { "code": "chevrolet-light-tan-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-silverado-ev-ss-suv",
+    "colors": [
+      { "code": "chevrolet-ebony-leather", "standard": true },
+      { "code": "chevrolet-jet-black-suede", "standard": true },
+      { "code": "chevrolet-cocoa-suede", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-silverado-2500hd-wt-crew-cab",
+    "colors": [
+      { "code": "chevrolet-ebony-cloth", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-silverado-2500hd-lt-crew-cab",
+    "colors": [
+      { "code": "chevrolet-ebony-leather", "standard": true },
+      { "code": "chevrolet-jet-black-leather", "standard": true },
+      { "code": "chevrolet-shale-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-silverado-2500hd-ltz-crew-cab",
+    "colors": [
+      { "code": "chevrolet-ebony-leather", "standard": true },
+      { "code": "chevrolet-jet-black-leather", "standard": true },
+      { "code": "chevrolet-shale-leather", "standard": true },
+      { "code": "chevrolet-light-tan-leather", "standard": true },
+      { "code": "chevrolet-cocoa-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-silverado-2500hd-high-country-crew-cab",
+    "colors": [
+      { "code": "chevrolet-ebony-leather", "standard": true },
+      { "code": "chevrolet-jet-black-leather", "standard": true },
+      { "code": "chevrolet-shale-leather", "standard": true },
+      { "code": "chevrolet-light-tan-leather", "standard": true },
+      { "code": "chevrolet-cocoa-leather", "standard": true },
+      { "code": "chevrolet-dark-titan-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-silverado-3500hd-wt-crew-cab",
+    "colors": [
+      { "code": "chevrolet-ebony-cloth", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-silverado-3500hd-lt-crew-cab",
+    "colors": [
+      { "code": "chevrolet-ebony-leather", "standard": true },
+      { "code": "chevrolet-jet-black-leather", "standard": true },
+      { "code": "chevrolet-shale-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-silverado-3500hd-ltz-crew-cab",
+    "colors": [
+      { "code": "chevrolet-ebony-leather", "standard": true },
+      { "code": "chevrolet-jet-black-leather", "standard": true },
+      { "code": "chevrolet-shale-leather", "standard": true },
+      { "code": "chevrolet-light-tan-leather", "standard": true },
+      { "code": "chevrolet-cocoa-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-silverado-3500hd-high-country-crew-cab",
+    "colors": [
+      { "code": "chevrolet-ebony-leather", "standard": true },
+      { "code": "chevrolet-jet-black-leather", "standard": true },
+      { "code": "chevrolet-shale-leather", "standard": true },
+      { "code": "chevrolet-light-tan-leather", "standard": true },
+      { "code": "chevrolet-cocoa-leather", "standard": true },
+      { "code": "chevrolet-dark-titan-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-spark-euv-1lt",
+    "colors": [
+      { "code": "chevrolet-ebony-cloth", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-spark-euv-2lt",
+    "colors": [
+      { "code": "chevrolet-ebony-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-suburban-wt",
+    "colors": [
+      { "code": "chevrolet-ebony-cloth", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-suburban-ls",
+    "colors": [
+      { "code": "chevrolet-ebony-leather", "standard": true },
+      { "code": "chevrolet-jet-black-leather", "standard": true },
+      { "code": "chevrolet-shale-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-suburban-lt",
+    "colors": [
+      { "code": "chevrolet-ebony-leather", "standard": true },
+      { "code": "chevrolet-jet-black-leather", "standard": true },
+      { "code": "chevrolet-light-tan-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-suburban-rst",
+    "colors": [
+      { "code": "chevrolet-ebony-leather", "standard": true },
+      { "code": "chevrolet-jet-black-leather", "standard": true },
+      { "code": "chevrolet-cocoa-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-suburban-z71",
+    "colors": [
+      { "code": "chevrolet-ebony-leather", "standard": true },
+      { "code": "chevrolet-jet-black-leather", "standard": true },
+      { "code": "chevrolet-cocoa-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-suburban-premier",
+    "colors": [
+      { "code": "chevrolet-ebony-leather", "standard": true },
+      { "code": "chevrolet-jet-black-leather", "standard": true },
+      { "code": "chevrolet-cocoa-leather", "standard": true },
+      { "code": "chevrolet-light-tan-leather", "standard": true },
+      { "code": "chevrolet-dark-titan-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-suburban-high-country",
+    "colors": [
+      { "code": "chevrolet-ebony-leather", "standard": true },
+      { "code": "chevrolet-jet-black-leather", "standard": true },
+      { "code": "chevrolet-cocoa-leather", "standard": true },
+      { "code": "chevrolet-light-tan-leather", "standard": true },
+      { "code": "chevrolet-dark-titan-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-tahoe-wt",
+    "colors": [
+      { "code": "chevrolet-ebony-cloth", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-tahoe-ls",
+    "colors": [
+      { "code": "chevrolet-ebony-leather", "standard": true },
+      { "code": "chevrolet-jet-black-leather", "standard": true },
+      { "code": "chevrolet-shale-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-tahoe-lt",
+    "colors": [
+      { "code": "chevrolet-ebony-leather", "standard": true },
+      { "code": "chevrolet-jet-black-leather", "standard": true },
+      { "code": "chevrolet-light-tan-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-tahoe-rst",
+    "colors": [
+      { "code": "chevrolet-ebony-leather", "standard": true },
+      { "code": "chevrolet-jet-black-leather", "standard": true },
+      { "code": "chevrolet-cocoa-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-tahoe-z71",
+    "colors": [
+      { "code": "chevrolet-ebony-leather", "standard": true },
+      { "code": "chevrolet-jet-black-leather", "standard": true },
+      { "code": "chevrolet-cocoa-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-tahoe-premier",
+    "colors": [
+      { "code": "chevrolet-ebony-leather", "standard": true },
+      { "code": "chevrolet-jet-black-leather", "standard": true },
+      { "code": "chevrolet-cocoa-leather", "standard": true },
+      { "code": "chevrolet-light-tan-leather", "standard": true },
+      { "code": "chevrolet-dark-titan-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-tahoe-high-country",
+    "colors": [
+      { "code": "chevrolet-ebony-leather", "standard": true },
+      { "code": "chevrolet-jet-black-leather", "standard": true },
+      { "code": "chevrolet-cocoa-leather", "standard": true },
+      { "code": "chevrolet-light-tan-leather", "standard": true },
+      { "code": "chevrolet-dark-titan-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-trailblazer-ls",
+    "colors": [
+      { "code": "chevrolet-ebony-cloth", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-trailblazer-lt",
+    "colors": [
+      { "code": "chevrolet-ebony-cloth", "standard": true },
+      { "code": "chevrolet-ebony-leather", "standard": true },
+      { "code": "chevrolet-shale-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-trailblazer-activ",
+    "colors": [
+      { "code": "chevrolet-ebony-cloth", "standard": true },
+      { "code": "chevrolet-ebony-leather", "standard": true },
+      { "code": "chevrolet-shale-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-trailblazer-rs",
+    "colors": [
+      { "code": "chevrolet-jet-black-leather", "standard": true },
+      { "code": "chevrolet-cocoa-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-traverse-ls",
+    "colors": [
+      { "code": "chevrolet-ebony-cloth", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-traverse-lt",
+    "colors": [
+      { "code": "chevrolet-ebony-cloth", "standard": true },
+      { "code": "chevrolet-ebony-leather", "standard": true },
+      { "code": "chevrolet-shale-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-traverse-rs",
+    "colors": [
+      { "code": "chevrolet-jet-black-leather", "standard": true },
+      { "code": "chevrolet-cocoa-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-traverse-premier",
+    "colors": [
+      { "code": "chevrolet-jet-black-leather", "standard": true },
+      { "code": "chevrolet-cocoa-leather", "standard": true },
+      { "code": "chevrolet-light-tan-leather", "standard": true },
+      { "code": "chevrolet-dark-titan-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-traverse-high-country",
+    "colors": [
+      { "code": "chevrolet-jet-black-leather", "standard": true },
+      { "code": "chevrolet-cocoa-leather", "standard": true },
+      { "code": "chevrolet-light-tan-leather", "standard": true },
+      { "code": "chevrolet-dark-titan-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-trax-ls",
+    "colors": [
+      { "code": "chevrolet-ebony-cloth", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-trax-lt",
+    "colors": [
+      { "code": "chevrolet-ebony-cloth", "standard": true },
+      { "code": "chevrolet-ebony-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-trax-activ",
+    "colors": [
+      { "code": "chevrolet-ebony-cloth", "standard": true },
+      { "code": "chevrolet-ebony-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-charger-rt-sixpack",
+    "colors": [
+      { "code": "dodge-black-leather", "standard": true },
+      { "code": "dodge-dark-titan-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-charger-scat-pack-sixpack",
+    "colors": [
+      { "code": "dodge-black-leather", "standard": true },
+      { "code": "dodge-dark-titan-leather", "standard": true },
+      { "code": "dodge-redline-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-charger-daytona-scat-pack-ev",
+    "colors": [
+      { "code": "dodge-black-leather", "standard": true },
+      { "code": "dodge-dark-titan-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-charger-daytona-scat-pack-plus-ev",
+    "colors": [
+      { "code": "dodge-black-leather", "standard": true },
+      { "code": "dodge-dark-titan-leather", "standard": true },
+      { "code": "dodge-ivory-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-durango-sxt",
+    "colors": [
+      { "code": "dodge-black-leather", "standard": true },
+      { "code": "dodge-ivory-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-durango-gt",
+    "colors": [
+      { "code": "dodge-black-leather", "standard": true },
+      { "code": "dodge-ivory-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-durango-citadel",
+    "colors": [
+      { "code": "dodge-black-leather", "standard": true },
+      { "code": "dodge-ivory-leather", "standard": true },
+      { "code": "dodge-dark-titan-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-durango-rt",
+    "colors": [
+      { "code": "dodge-black-leather", "standard": true },
+      { "code": "dodge-redline-leather", "standard": true },
+      { "code": "dodge-dark-titan-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-durango-srt",
+    "colors": [
+      { "code": "dodge-black-leather", "standard": true },
+      { "code": "dodge-redline-leather", "standard": true },
+      { "code": "dodge-dark-titan-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-hornet-sxt",
+    "colors": [
+      { "code": "dodge-black-leather", "standard": true },
+      { "code": "dodge-ivory-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-hornet-gt",
+    "colors": [
+      { "code": "dodge-black-leather", "standard": true },
+      { "code": "dodge-dark-titan-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-hornet-rt",
+    "colors": [
+      { "code": "dodge-black-leather", "standard": true },
+      { "code": "dodge-redline-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-hornet-rt-rwd",
+    "colors": [
+      { "code": "dodge-black-leather", "standard": true },
+      { "code": "dodge-redline-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-12cilindri-coupe",
+    "colors": [
+      { "code": "ferrari-black-leather", "standard": true },
+      { "code": "ferrari-cuoio-leather", "standard": true },
+      { "code": "ferrari-rosso-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-12cilindri-spider",
+    "colors": [
+      { "code": "ferrari-black-leather", "standard": true },
+      { "code": "ferrari-cuoio-leather", "standard": true },
+      { "code": "ferrari-rosso-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-296-gtb-coupe",
+    "colors": [
+      { "code": "ferrari-black-leather", "standard": true },
+      { "code": "ferrari-tartufo-leather", "standard": true },
+      { "code": "ferrari-bianco-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-296-gts-convertible",
+    "colors": [
+      { "code": "ferrari-black-leather", "standard": true },
+      { "code": "ferrari-tartufo-leather", "standard": true },
+      { "code": "ferrari-bianco-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-849-testarossa-coupe",
+    "colors": [
+      { "code": "ferrari-black-leather", "standard": true },
+      { "code": "ferrari-nero-scuro-leather", "standard": true },
+      { "code": "ferrari-sabbia-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-849-testarossa-spider",
+    "colors": [
+      { "code": "ferrari-black-leather", "standard": true },
+      { "code": "ferrari-nero-scuro-leather", "standard": true },
+      { "code": "ferrari-sabbia-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-amalfi-coupe",
+    "colors": [
+      { "code": "ferrari-black-leather", "standard": true },
+      { "code": "ferrari-cuio-scuro-leather", "standard": true },
+      { "code": "ferrari-sabbia-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-f80-coupe",
+    "colors": [
+      { "code": "ferrari-black-leather", "standard": true },
+      { "code": "ferrari-cuoio-leather", "standard": true },
+      { "code": "ferrari-tartufo-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-purosangue-suv",
+    "colors": [
+      { "code": "ferrari-black-leather", "standard": true },
+      { "code": "ferrari-cuoio-leather", "standard": true },
+      { "code": "ferrari-tartufo-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-roma-spider-convertible",
+    "colors": [
+      { "code": "ferrari-black-leather", "standard": true },
+      { "code": "ferrari-cuoio-leather", "standard": true },
+      { "code": "ferrari-tartufo-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-500e-base-hatchback",
+    "colors": [
+      { "code": "fiat-black-cloth", "standard": true },
+      { "code": "fiat-titanium-cloth", "standard": true },
+      { "code": "fiat-black-leather", "standard": false },
+      { "code": "fiat-ivory-leather", "standard": false },
+      { "code": "fiat-cognac-leather", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-500e-red-hatchback",
+    "colors": [
+      { "code": "fiat-black-cloth", "standard": true },
+      { "code": "fiat-titanium-cloth", "standard": true },
+      { "code": "fiat-black-leather", "standard": false },
+      { "code": "fiat-ivory-leather", "standard": false },
+      { "code": "fiat-cognac-leather", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-500e-iconica-hatchback",
+    "colors": [
+      { "code": "fiat-black-cloth", "standard": true },
+      { "code": "fiat-titanium-cloth", "standard": true },
+      { "code": "fiat-black-leather", "standard": false },
+      { "code": "fiat-ivory-leather", "standard": false },
+      { "code": "fiat-cognac-leather", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-500e-giorgio-armani-hatchback",
+    "colors": [
+      { "code": "fiat-black-leather", "standard": true },
+      { "code": "fiat-ivory-leather", "standard": true },
+      { "code": "fiat-cognac-leather", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-ocean-sport",
+    "colors": [
+      { "code": "fisker-ocean-black-vegan-leather", "standard": true },
+      { "code": "fisker-ocean-linen-vegan-leather", "standard": true },
+      { "code": "fisker-ocean-titanium-vegan-leather", "standard": false },
+      { "code": "fisker-ocean-caramel-vegan-leather", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-ocean-ultra",
+    "colors": [
+      { "code": "fisker-ocean-black-vegan-leather", "standard": true },
+      { "code": "fisker-ocean-linen-vegan-leather", "standard": true },
+      { "code": "fisker-ocean-titanium-vegan-leather", "standard": false },
+      { "code": "fisker-ocean-caramel-vegan-leather", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-ocean-extreme",
+    "colors": [
+      { "code": "fisker-ocean-black-vegan-leather", "standard": true },
+      { "code": "fisker-ocean-linen-vegan-leather", "standard": true },
+      { "code": "fisker-ocean-titanium-vegan-leather", "standard": false },
+      { "code": "fisker-ocean-caramel-vegan-leather", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-ocean-one",
+    "colors": [
+      { "code": "fisker-ocean-black-vegan-leather", "standard": true },
+      { "code": "fisker-ocean-linen-vegan-leather", "standard": true },
+      { "code": "fisker-ocean-titanium-vegan-leather", "standard": false },
+      { "code": "fisker-ocean-caramel-vegan-leather", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-bronco-big-bend",
+    "colors": [
+      { "code": "ford-ebony-cloth", "standard": true },
+      { "code": "ford-ebony-leather", "standard": false },
+      { "code": "ford-black-leather", "standard": false },
+      { "code": "ford-camel-leather", "standard": false },
+      { "code": "ford-chestnut-leather", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-bronco-outer-banks",
+    "colors": [
+      { "code": "ford-ebony-leather", "standard": true },
+      { "code": "ford-black-leather", "standard": false },
+      { "code": "ford-camel-leather", "standard": false },
+      { "code": "ford-chestnut-leather", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-bronco-badlands",
+    "colors": [
+      { "code": "ford-ebony-leather", "standard": true },
+      { "code": "ford-black-leather", "standard": false },
+      { "code": "ford-camel-leather", "standard": false },
+      { "code": "ford-chestnut-leather", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-bronco-heritage-edition",
+    "colors": [
+      { "code": "ford-ebony-leather", "standard": true },
+      { "code": "ford-black-leather", "standard": false },
+      { "code": "ford-camel-leather", "standard": false },
+      { "code": "ford-chestnut-leather", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-bronco-stroppe-edition",
+    "colors": [
+      { "code": "ford-ebony-leather", "standard": true },
+      { "code": "ford-black-leather", "standard": false },
+      { "code": "ford-camel-leather", "standard": false },
+      { "code": "ford-chestnut-leather", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-bronco-raptor",
+    "colors": [
+      { "code": "ford-ebony-leather", "standard": true },
+      { "code": "ford-black-leather", "standard": false },
+      { "code": "ford-camel-leather", "standard": false },
+      { "code": "ford-chestnut-leather", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-bronco-sport-big-bend",
+    "colors": [
+      { "code": "ford-ebony-cloth", "standard": true },
+      { "code": "ford-ebony-leather", "standard": false },
+      { "code": "ford-black-leather", "standard": false },
+      { "code": "ford-camel-leather", "standard": false },
+      { "code": "ford-chestnut-leather", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-bronco-sport-heritage",
+    "colors": [
+      { "code": "ford-ebony-cloth", "standard": true },
+      { "code": "ford-ebony-leather", "standard": false },
+      { "code": "ford-black-leather", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-bronco-sport-outer-banks",
+    "colors": [
+      { "code": "ford-ebony-leather", "standard": true },
+      { "code": "ford-black-leather", "standard": false },
+      { "code": "ford-camel-leather", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-bronco-sport-badlands",
+    "colors": [
+      { "code": "ford-ebony-leather", "standard": true },
+      { "code": "ford-black-leather", "standard": false },
+      { "code": "ford-camel-leather", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-escape-s",
+    "colors": [
+      { "code": "ford-ebony-cloth", "standard": true },
+      { "code": "ford-ebony-leather", "standard": false },
+      { "code": "ford-black-leather", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-escape-se",
+    "colors": [
+      { "code": "ford-ebony-leather", "standard": true },
+      { "code": "ford-black-leather", "standard": false },
+      { "code": "ford-camel-leather", "standard": false },
+      { "code": "ford-chestnut-leather", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-escape-se-sport",
+    "colors": [
+      { "code": "ford-ebony-leather", "standard": true },
+      { "code": "ford-black-leather", "standard": false },
+      { "code": "ford-camel-leather", "standard": false },
+      { "code": "ford-chestnut-leather", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-escape-sel",
+    "colors": [
+      { "code": "ford-ebony-leather", "standard": true },
+      { "code": "ford-black-leather", "standard": false },
+      { "code": "ford-camel-leather", "standard": false },
+      { "code": "ford-chestnut-leather", "standard": false },
+      { "code": "ford-medium-tan-leather", "standard": false },
+      { "code": "ford-ivory-leather", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-escape-titanium",
+    "colors": [
+      { "code": "ford-ebony-leather", "standard": true },
+      { "code": "ford-black-leather", "standard": false },
+      { "code": "ford-camel-leather", "standard": false },
+      { "code": "ford-chestnut-leather", "standard": false },
+      { "code": "ford-medium-tan-leather", "standard": false },
+      { "code": "ford-ivory-leather", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-escape-phev-se",
+    "colors": [
+      { "code": "ford-ebony-cloth", "standard": true },
+      { "code": "ford-ebony-leather", "standard": false },
+      { "code": "ford-black-leather", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-escape-phev-se-ultimate",
+    "colors": [
+      { "code": "ford-ebony-leather", "standard": true },
+      { "code": "ford-black-leather", "standard": false },
+      { "code": "ford-camel-leather", "standard": false },
+      { "code": "ford-chestnut-leather", "standard": false },
+      { "code": "ford-medium-tan-leather", "standard": false },
+      { "code": "ford-ivory-leather", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-e-transit-van-150",
+    "colors": [
+      { "code": "ford-ebony-cloth", "standard": true },
+      { "code": "ford-ebony-leather", "standard": false },
+      { "code": "ford-black-leather", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-e-transit-van-250",
+    "colors": [
+      { "code": "ford-ebony-cloth", "standard": true },
+      { "code": "ford-ebony-leather", "standard": false },
+      { "code": "ford-black-leather", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-e-transit-van-350",
+    "colors": [
+      { "code": "ford-ebony-cloth", "standard": true },
+      { "code": "ford-ebony-leather", "standard": false },
+      { "code": "ford-black-leather", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-expedition-xl",
+    "colors": [
+      { "code": "ford-ebony-cloth", "standard": true },
+      { "code": "ford-ebony-leather", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-expedition-xlt",
+    "colors": [
+      { "code": "ford-ebony-leather", "standard": true },
+      { "code": "ford-black-leather", "standard": false },
+      { "code": "ford-camel-leather", "standard": false },
+      { "code": "ford-chestnut-leather", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-expedition-limited",
+    "colors": [
+      { "code": "ford-ebony-leather", "standard": true },
+      { "code": "ford-black-leather", "standard": false },
+      { "code": "ford-camel-leather", "standard": false },
+      { "code": "ford-chestnut-leather", "standard": false },
+      { "code": "ford-medium-tan-leather", "standard": false },
+      { "code": "ford-ivory-leather", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-expedition-platinum",
+    "colors": [
+      { "code": "ford-ebony-leather", "standard": true },
+      { "code": "ford-black-leather", "standard": false },
+      { "code": "ford-camel-leather", "standard": false },
+      { "code": "ford-chestnut-leather", "standard": false },
+      { "code": "ford-medium-tan-leather", "standard": false },
+      { "code": "ford-ivory-leather", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-explorer-xl",
+    "colors": [
+      { "code": "ford-ebony-cloth", "standard": true },
+      { "code": "ford-ebony-leather", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-explorer-xlt",
+    "colors": [
+      { "code": "ford-ebony-leather", "standard": true },
+      { "code": "ford-black-leather", "standard": false },
+      { "code": "ford-camel-leather", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-explorer-limited",
+    "colors": [
+      { "code": "ford-ebony-leather", "standard": true },
+      { "code": "ford-black-leather", "standard": false },
+      { "code": "ford-camel-leather", "standard": false },
+      { "code": "ford-chestnut-leather", "standard": false },
+      { "code": "ford-medium-tan-leather", "standard": false },
+      { "code": "ford-ivory-leather", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-explorer-king-ranch",
+    "colors": [
+      { "code": "ford-ebony-leather", "standard": true },
+      { "code": "ford-camel-leather", "standard": false },
+      { "code": "ford-chestnut-leather", "standard": false },
+      { "code": "ford-medium-tan-leather", "standard": false },
+      { "code": "ford-ivory-leather", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-explorer-platinum",
+    "colors": [
+      { "code": "ford-ebony-leather", "standard": true },
+      { "code": "ford-black-leather", "standard": false },
+      { "code": "ford-camel-leather", "standard": false },
+      { "code": "ford-chestnut-leather", "standard": false },
+      { "code": "ford-medium-tan-leather", "standard": false },
+      { "code": "ford-ivory-leather", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-explorer-st",
+    "colors": [
+      { "code": "ford-ebony-leather", "standard": true },
+      { "code": "ford-black-leather", "standard": false },
+      { "code": "ford-camel-leather", "standard": false },
+      { "code": "ford-jet-black-suede", "standard": false },
+      { "code": "ford-cocoa-suede", "standard": false },
+      { "code": "ford-espresso-suede", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-f150-xl",
+    "colors": [
+      { "code": "ford-ebony-cloth", "standard": true },
+      { "code": "ford-ebony-leather", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-f150-xlt",
+    "colors": [
+      { "code": "ford-ebony-cloth", "standard": true },
+      { "code": "ford-ebony-leather", "standard": false },
+      { "code": "ford-black-leather", "standard": false },
+      { "code": "ford-camel-leather", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-f150-lariat",
+    "colors": [
+      { "code": "ford-ebony-leather", "standard": true },
+      { "code": "ford-black-leather", "standard": false },
+      { "code": "ford-camel-leather", "standard": false },
+      { "code": "ford-chestnut-leather", "standard": false },
+      { "code": "ford-medium-tan-leather", "standard": false },
+      { "code": "ford-ivory-leather", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-f150-king-ranch",
+    "colors": [
+      { "code": "ford-ebony-leather", "standard": true },
+      { "code": "ford-camel-leather", "standard": false },
+      { "code": "ford-chestnut-leather", "standard": false },
+      { "code": "ford-medium-tan-leather", "standard": false },
+      { "code": "ford-ivory-leather", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-f150-platinum",
+    "colors": [
+      { "code": "ford-ebony-leather", "standard": true },
+      { "code": "ford-black-leather", "standard": false },
+      { "code": "ford-camel-leather", "standard": false },
+      { "code": "ford-chestnut-leather", "standard": false },
+      { "code": "ford-medium-tan-leather", "standard": false },
+      { "code": "ford-ivory-leather", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-f150-limited",
+    "colors": [
+      { "code": "ford-ebony-leather", "standard": true },
+      { "code": "ford-black-leather", "standard": false },
+      { "code": "ford-camel-leather", "standard": false },
+      { "code": "ford-chestnut-leather", "standard": false },
+      { "code": "ford-medium-tan-leather", "standard": false },
+      { "code": "ford-ivory-leather", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-f150-raptor",
+    "colors": [
+      { "code": "ford-ebony-leather", "standard": true },
+      { "code": "ford-black-leather", "standard": false },
+      { "code": "ford-camel-leather", "standard": false },
+      { "code": "ford-jet-black-suede", "standard": false },
+      { "code": "ford-cocoa-suede", "standard": false },
+      { "code": "ford-espresso-suede", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-f150-lightning-pro",
+    "colors": [
+      { "code": "ford-ebony-cloth", "standard": true },
+      { "code": "ford-ebony-leather", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-f150-lightning-xlt",
+    "colors": [
+      { "code": "ford-ebony-cloth", "standard": true },
+      { "code": "ford-ebony-leather", "standard": false },
+      { "code": "ford-black-leather", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-f150-lightning-lariat",
+    "colors": [
+      { "code": "ford-ebony-leather", "standard": true },
+      { "code": "ford-black-leather", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-f150-lightning-platinum",
+    "colors": [
+      { "code": "ford-ebony-leather", "standard": true },
+      { "code": "ford-black-leather", "standard": false },
+      { "code": "ford-camel-leather", "standard": false },
+      { "code": "ford-chestnut-leather", "standard": false },
+      { "code": "ford-medium-tan-leather", "standard": false },
+      { "code": "ford-ivory-leather", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-maverick-xl",
+    "colors": [
+      { "code": "ford-ebony-cloth", "standard": true },
+      { "code": "ford-ebony-leather", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-maverick-xlt",
+    "colors": [
+      { "code": "ford-ebony-cloth", "standard": true },
+      { "code": "ford-ebony-leather", "standard": false },
+      { "code": "ford-black-leather", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-maverick-lariat",
+    "colors": [
+      { "code": "ford-ebony-leather", "standard": true },
+      { "code": "ford-black-leather", "standard": false },
+      { "code": "ford-camel-leather", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-maverick-lobo",
+    "colors": [
+      { "code": "ford-ebony-leather", "standard": true },
+      { "code": "ford-black-leather", "standard": false },
+      { "code": "ford-camel-leather", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-maverick-tremor",
+    "colors": [
+      { "code": "ford-ebony-leather", "standard": true },
+      { "code": "ford-black-leather", "standard": false },
+      { "code": "ford-camel-leather", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-mustang-ecoboost",
+    "colors": [
+      { "code": "ford-ebony-cloth", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-mustang-ecoboost-premium",
+    "colors": [
+      { "code": "ford-ebony-leather", "standard": true },
+      { "code": "ford-black-leather", "standard": false },
+      { "code": "ford-camel-leather", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-mustang-gt",
+    "colors": [
+      { "code": "ford-ebony-leather", "standard": true },
+      { "code": "ford-black-leather", "standard": false },
+      { "code": "ford-camel-leather", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-mustang-gt-premium",
+    "colors": [
+      { "code": "ford-ebony-leather", "standard": true },
+      { "code": "ford-black-leather", "standard": false },
+      { "code": "ford-camel-leather", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-mustang-dark-horse",
+    "colors": [
+      { "code": "ford-ebony-leather", "standard": true },
+      { "code": "ford-black-leather", "standard": false },
+      { "code": "ford-camel-leather", "standard": false },
+      { "code": "ford-jet-black-suede", "standard": false },
+      { "code": "ford-cocoa-suede", "standard": false },
+      { "code": "ford-espresso-suede", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-mustang-dark-horse-premium",
+    "colors": [
+      { "code": "ford-ebony-leather", "standard": true },
+      { "code": "ford-black-leather", "standard": false },
+      { "code": "ford-camel-leather", "standard": false },
+      { "code": "ford-jet-black-suede", "standard": false },
+      { "code": "ford-cocoa-suede", "standard": false },
+      { "code": "ford-espresso-suede", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-mustang-mach-e-select",
+    "colors": [
+      { "code": "ford-ebony-cloth", "standard": true },
+      { "code": "ford-ebony-leather", "standard": false },
+      { "code": "ford-black-leather", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-mustang-mach-e-premium",
+    "colors": [
+      { "code": "ford-ebony-leather", "standard": true },
+      { "code": "ford-black-leather", "standard": false },
+      { "code": "ford-camel-leather", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-mustang-mach-e-gt",
+    "colors": [
+      { "code": "ford-ebony-leather", "standard": true },
+      { "code": "ford-black-leather", "standard": false },
+      { "code": "ford-camel-leather", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-mustang-mach-e-rally",
+    "colors": [
+      { "code": "ford-ebony-leather", "standard": true },
+      { "code": "ford-black-leather", "standard": false },
+      { "code": "ford-camel-leather", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-ranger-xl",
+    "colors": [
+      { "code": "ford-ebony-cloth", "standard": true },
+      { "code": "ford-ebony-leather", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-ranger-xlt",
+    "colors": [
+      { "code": "ford-ebony-cloth", "standard": true },
+      { "code": "ford-ebony-leather", "standard": false },
+      { "code": "ford-black-leather", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-ranger-lariat",
+    "colors": [
+      { "code": "ford-ebony-leather", "standard": true },
+      { "code": "ford-black-leather", "standard": false },
+      { "code": "ford-camel-leather", "standard": false },
+      { "code": "ford-chestnut-leather", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-ranger-raptor",
+    "colors": [
+      { "code": "ford-ebony-leather", "standard": true },
+      { "code": "ford-black-leather", "standard": false },
+      { "code": "ford-camel-leather", "standard": false },
+      { "code": "ford-jet-black-suede", "standard": false },
+      { "code": "ford-cocoa-suede", "standard": false },
+      { "code": "ford-espresso-suede", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-super-duty-xl",
+    "colors": [
+      { "code": "ford-ebony-cloth", "standard": true },
+      { "code": "ford-ebony-leather", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-super-duty-xlt",
+    "colors": [
+      { "code": "ford-ebony-cloth", "standard": true },
+      { "code": "ford-ebony-leather", "standard": false },
+      { "code": "ford-black-leather", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-super-duty-lariat",
+    "colors": [
+      { "code": "ford-ebony-leather", "standard": true },
+      { "code": "ford-black-leather", "standard": false },
+      { "code": "ford-camel-leather", "standard": false },
+      { "code": "ford-chestnut-leather", "standard": false },
+      { "code": "ford-medium-tan-leather", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-super-duty-king-ranch",
+    "colors": [
+      { "code": "ford-ebony-leather", "standard": true },
+      { "code": "ford-black-leather", "standard": false },
+      { "code": "ford-camel-leather", "standard": false },
+      { "code": "ford-chestnut-leather", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-super-duty-platinum",
+    "colors": [
+      { "code": "ford-ebony-leather", "standard": true },
+      { "code": "ford-black-leather", "standard": false },
+      { "code": "ford-camel-leather", "standard": false },
+      { "code": "ford-medium-tan-leather", "standard": false },
+      { "code": "ford-ivory-leather", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-super-duty-limited",
+    "colors": [
+      { "code": "ford-ebony-leather", "standard": true },
+      { "code": "ford-black-leather", "standard": false },
+      { "code": "ford-camel-leather", "standard": false },
+      { "code": "ford-medium-tan-leather", "standard": false },
+      { "code": "ford-ivory-leather", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-transit-base",
+    "colors": [
+      { "code": "ford-ebony-cloth", "standard": true },
+      { "code": "ford-ebony-leather", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-transit-extended",
+    "colors": [
+      { "code": "ford-ebony-cloth", "standard": true },
+      { "code": "ford-ebony-leather", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-transit-crew",
+    "colors": [
+      { "code": "ford-ebony-cloth", "standard": true },
+      { "code": "ford-ebony-leather", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-transit-passenger",
+    "colors": [
+      { "code": "ford-ebony-cloth", "standard": true },
+      { "code": "ford-ebony-leather", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-g70-2.0t",
+    "colors": [
+      { "code": "genesis-black-leather", "standard": true },
+      { "code": "genesis-sandstone-leather", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-g70-3.3t",
+    "colors": [
+      { "code": "genesis-black-leather", "standard": true },
+      { "code": "genesis-sandstone-leather", "standard": false },
+      { "code": "genesis-caramel-leather", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-g80-2.5t",
+    "colors": [
+      { "code": "genesis-black-leather", "standard": true },
+      { "code": "genesis-caramel-leather", "standard": false },
+      { "code": "genesis-ivory-leather", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-g80-3.5t",
+    "colors": [
+      { "code": "genesis-black-leather", "standard": true },
+      { "code": "genesis-caramel-leather", "standard": false },
+      { "code": "genesis-sandstone-leather", "standard": false },
+      { "code": "genesis-cashmere-leather", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-g80-electrified",
+    "colors": [
+      { "code": "genesis-black-leather", "standard": true },
+      { "code": "genesis-caramel-leather", "standard": false },
+      { "code": "genesis-sandstone-leather", "standard": false },
+      { "code": "genesis-cashmere-leather", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-g90-3.5t",
+    "colors": [
+      { "code": "genesis-black-leather", "standard": true },
+      { "code": "genesis-caramel-leather", "standard": false },
+      { "code": "genesis-espresso-leather", "standard": false },
+      { "code": "genesis-ivory-leather", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-g90-5.0v8",
+    "colors": [
+      { "code": "genesis-black-leather", "standard": true },
+      { "code": "genesis-caramel-leather", "standard": false },
+      { "code": "genesis-espresso-leather", "standard": false },
+      { "code": "genesis-ivory-leather", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-gv60-2wd",
+    "colors": [
+      { "code": "genesis-black-leather", "standard": true },
+      { "code": "genesis-caramel-leather", "standard": false },
+      { "code": "genesis-sandstone-leather", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-gv60-awd",
+    "colors": [
+      { "code": "genesis-black-leather", "standard": true },
+      { "code": "genesis-caramel-leather", "standard": false },
+      { "code": "genesis-sandstone-leather", "standard": false },
+      { "code": "genesis-cashmere-leather", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-gv60-performance",
+    "colors": [
+      { "code": "genesis-black-leather", "standard": true },
+      { "code": "genesis-caramel-leather", "standard": false },
+      { "code": "genesis-sandstone-leather", "standard": false },
+      { "code": "genesis-cashmere-leather", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-gv70-2.5t",
+    "colors": [
+      { "code": "genesis-black-leather", "standard": true },
+      { "code": "genesis-caramel-leather", "standard": false },
+      { "code": "genesis-sandstone-leather", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-gv70-3.5t",
+    "colors": [
+      { "code": "genesis-black-leather", "standard": true },
+      { "code": "genesis-caramel-leather", "standard": false },
+      { "code": "genesis-sandstone-leather", "standard": false },
+      { "code": "genesis-cashmere-leather", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-gv70-electrified",
+    "colors": [
+      { "code": "genesis-black-leather", "standard": true },
+      { "code": "genesis-caramel-leather", "standard": false },
+      { "code": "genesis-sandstone-leather", "standard": false },
+      { "code": "genesis-cashmere-leather", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-gv80-2.5t",
+    "colors": [
+      { "code": "genesis-black-leather", "standard": true },
+      { "code": "genesis-caramel-leather", "standard": false },
+      { "code": "genesis-sandstone-leather", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-gv80-3.5t",
+    "colors": [
+      { "code": "genesis-black-leather", "standard": true },
+      { "code": "genesis-caramel-leather", "standard": false },
+      { "code": "genesis-sandstone-leather", "standard": false },
+      { "code": "genesis-cashmere-leather", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-gv80-5.0v8",
+    "colors": [
+      { "code": "genesis-black-leather", "standard": true },
+      { "code": "genesis-caramel-leather", "standard": false },
+      { "code": "genesis-sandstone-leather", "standard": false },
+      { "code": "genesis-cashmere-leather", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-gv80-coupe-3.5t",
+    "colors": [
+      { "code": "genesis-black-leather", "standard": true },
+      { "code": "genesis-caramel-leather", "standard": false },
+      { "code": "genesis-sandstone-leather", "standard": false },
+      { "code": "genesis-cashmere-leather", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-gv80-coupe-5.0v8",
+    "colors": [
+      { "code": "genesis-black-leather", "standard": true },
+      { "code": "genesis-caramel-leather", "standard": false },
+      { "code": "genesis-sandstone-leather", "standard": false },
+      { "code": "genesis-cashmere-leather", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-acadia-slt",
+    "colors": [
+      { "code": "gmc-ebony-cloth", "standard": true },
+      { "code": "gmc-ebony-leather", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-acadia-at4",
+    "colors": [
+      { "code": "gmc-jet-black-leather", "standard": true },
+      { "code": "gmc-shale-leather", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-acadia-denali",
+    "colors": [
+      { "code": "gmc-dark-tan-leather", "standard": true },
+      { "code": "gmc-light-tan-leather", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-canyon-elevation",
+    "colors": [
+      { "code": "gmc-ebony-cloth", "standard": true },
+      { "code": "gmc-cocoa-leather", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-canyon-at4",
+    "colors": [
+      { "code": "gmc-jet-black-leather", "standard": true },
+      { "code": "gmc-shale-leather", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-canyon-at4x",
+    "colors": [
+      { "code": "gmc-jet-black-leather", "standard": true },
+      { "code": "gmc-cocoa-leather", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-canyon-denali",
+    "colors": [
+      { "code": "gmc-dark-tan-leather", "standard": true },
+      { "code": "gmc-light-tan-leather", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-hummer-ev2x",
+    "colors": [
+      { "code": "gmc-jet-black-leather", "standard": true },
+      { "code": "gmc-cocoa-leather", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-hummer-ev3x",
+    "colors": [
+      { "code": "gmc-jet-black-leather", "standard": true },
+      { "code": "gmc-cocoa-leather", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-hummer-ev3x-edition1",
+    "colors": [
+      { "code": "gmc-jet-black-leather", "standard": true },
+      { "code": "gmc-cocoa-leather", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-savannah-1500",
+    "colors": [
+      { "code": "gmc-ebony-cloth", "standard": true },
+      { "code": "gmc-ebony-leather", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-savannah-2500",
+    "colors": [
+      { "code": "gmc-jet-black-leather", "standard": true },
+      { "code": "gmc-shale-leather", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-savannah-3500",
+    "colors": [
+      { "code": "gmc-jet-black-leather", "standard": true },
+      { "code": "gmc-shale-leather", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-sierra-1500-sierra",
+    "colors": [
+      { "code": "gmc-ebony-cloth", "standard": true },
+      { "code": "gmc-ebony-leather", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-sierra-1500-slt",
+    "colors": [
+      { "code": "gmc-jet-black-leather", "standard": true },
+      { "code": "gmc-shale-leather", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-sierra-1500-at4",
+    "colors": [
+      { "code": "gmc-jet-black-leather", "standard": true },
+      { "code": "gmc-cocoa-leather", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-sierra-1500-denali",
+    "colors": [
+      { "code": "gmc-dark-tan-leather", "standard": true },
+      { "code": "gmc-light-tan-leather", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-sierra-ev-elevation-standard",
+    "colors": [
+      { "code": "gmc-jet-black-leather", "standard": true },
+      { "code": "gmc-cocoa-leather", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-sierra-ev-elevation-extended",
+    "colors": [
+      { "code": "gmc-jet-black-leather", "standard": true },
+      { "code": "gmc-cocoa-leather", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-sierra-ev-at4-standard",
+    "colors": [
+      { "code": "gmc-jet-black-leather", "standard": true },
+      { "code": "gmc-cocoa-leather", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-sierra-ev-at4-extended",
+    "colors": [
+      { "code": "gmc-jet-black-leather", "standard": true },
+      { "code": "gmc-cocoa-leather", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-sierra-ev-denali-standard",
+    "colors": [
+      { "code": "gmc-dark-tan-leather", "standard": true },
+      { "code": "gmc-light-tan-leather", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-sierra-ev-denali-extended",
+    "colors": [
+      { "code": "gmc-dark-tan-leather", "standard": true },
+      { "code": "gmc-light-tan-leather", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-sierra-hd-sle",
+    "colors": [
+      { "code": "gmc-ebony-cloth", "standard": true },
+      { "code": "gmc-ebony-leather", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-sierra-hd-at4",
+    "colors": [
+      { "code": "gmc-jet-black-leather", "standard": true },
+      { "code": "gmc-cocoa-leather", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-sierra-hd-denali",
+    "colors": [
+      { "code": "gmc-dark-tan-leather", "standard": true },
+      { "code": "gmc-light-tan-leather", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-terrain-sle",
+    "colors": [
+      { "code": "gmc-ebony-cloth", "standard": true },
+      { "code": "gmc-ebony-leather", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-terrain-slt",
+    "colors": [
+      { "code": "gmc-jet-black-leather", "standard": true },
+      { "code": "gmc-shale-leather", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-terrain-at4",
+    "colors": [
+      { "code": "gmc-jet-black-leather", "standard": true },
+      { "code": "gmc-cocoa-leather", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-terrain-denali",
+    "colors": [
+      { "code": "gmc-dark-tan-leather", "standard": true },
+      { "code": "gmc-light-tan-leather", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-yukon-sle",
+    "colors": [
+      { "code": "gmc-ebony-cloth", "standard": true },
+      { "code": "gmc-ebony-leather", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-yukon-slt",
+    "colors": [
+      { "code": "gmc-jet-black-leather", "standard": true },
+      { "code": "gmc-shale-leather", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-yukon-at4",
+    "colors": [
+      { "code": "gmc-jet-black-leather", "standard": true },
+      { "code": "gmc-cocoa-leather", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-yukon-denali",
+    "colors": [
+      { "code": "gmc-dark-tan-leather", "standard": true },
+      { "code": "gmc-light-tan-leather", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-yukon-xl-sle",
+    "colors": [
+      { "code": "gmc-ebony-cloth", "standard": true },
+      { "code": "gmc-ebony-leather", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-yukon-xl-slt",
+    "colors": [
+      { "code": "gmc-jet-black-leather", "standard": true },
+      { "code": "gmc-shale-leather", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-yukon-xl-at4",
+    "colors": [
+      { "code": "gmc-jet-black-leather", "standard": true },
+      { "code": "gmc-cocoa-leather", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-yukon-xl-denali",
+    "colors": [
+      { "code": "gmc-dark-tan-leather", "standard": true },
+      { "code": "gmc-light-tan-leather", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-accord-lx",
+    "colors": [
+      {"code": "honda-black-cloth", "standard": true},
+      {"code": "honda-gray-cloth", "standard": false}
+    ]
+  },
+  {
+    "trim_code": "2026-accord-sport",
+    "colors": [
+      {"code": "honda-black-cloth", "standard": true},
+      {"code": "honda-gray-cloth", "standard": false}
+    ]
+  },
+  {
+    "trim_code": "2026-accord-sport-2-0t",
+    "colors": [
+      {"code": "honda-black-cloth", "standard": true},
+      {"code": "honda-gray-cloth", "standard": false}
+    ]
+  },
+  {
+    "trim_code": "2026-accord-ex-l",
+    "colors": [
+      {"code": "honda-black-leather", "standard": true},
+      {"code": "honda-gray-leather", "standard": false},
+      {"code": "honda-tan-leather", "standard": false}
+    ]
+  },
+  {
+    "trim_code": "2026-accord-touring",
+    "colors": [
+      {"code": "honda-black-leather", "standard": true},
+      {"code": "honda-gray-leather", "standard": false},
+      {"code": "honda-tan-leather", "standard": false}
+    ]
+  },
+  {
+    "trim_code": "2026-accord-hybrid-lx",
+    "colors": [
+      {"code": "honda-black-cloth", "standard": true},
+      {"code": "honda-gray-cloth", "standard": false}
+    ]
+  },
+  {
+    "trim_code": "2026-accord-hybrid-ex",
+    "colors": [
+      {"code": "honda-black-leather", "standard": true},
+      {"code": "honda-gray-leather", "standard": false},
+      {"code": "honda-tan-leather", "standard": false}
+    ]
+  },
+  {
+    "trim_code": "2026-accord-hybrid-ex-l",
+    "colors": [
+      {"code": "honda-black-leather", "standard": true},
+      {"code": "honda-gray-leather", "standard": false},
+      {"code": "honda-tan-leather", "standard": false}
+    ]
+  },
+  {
+    "trim_code": "2026-accord-hybrid-touring",
+    "colors": [
+      {"code": "honda-black-leather", "standard": true},
+      {"code": "honda-gray-leather", "standard": false},
+      {"code": "honda-tan-leather", "standard": false}
+    ]
+  },
+  {
+    "trim_code": "2026-civic-hatchback-lx",
+    "colors": [
+      {"code": "honda-black-cloth", "standard": true},
+      {"code": "honda-gray-cloth", "standard": false}
+    ]
+  },
+  {
+    "trim_code": "2026-civic-hatchback-sport",
+    "colors": [
+      {"code": "honda-black-cloth", "standard": true},
+      {"code": "honda-gray-cloth", "standard": false}
+    ]
+  },
+  {
+    "trim_code": "2026-civic-hatchback-ex-l",
+    "colors": [
+      {"code": "honda-black-leather", "standard": true},
+      {"code": "honda-gray-leather", "standard": false},
+      {"code": "honda-tan-leather", "standard": false}
+    ]
+  },
+  {
+    "trim_code": "2026-civic-hatchback-touring",
+    "colors": [
+      {"code": "honda-black-leather", "standard": true},
+      {"code": "honda-gray-leather", "standard": false},
+      {"code": "honda-tan-leather", "standard": false}
+    ]
+  },
+  {
+    "trim_code": "2026-civic-hatchback-hybrid-lx",
+    "colors": [
+      {"code": "honda-black-cloth", "standard": true},
+      {"code": "honda-gray-cloth", "standard": false}
+    ]
+  },
+  {
+    "trim_code": "2026-civic-hatchback-hybrid-ex",
+    "colors": [
+      {"code": "honda-black-leather", "standard": true},
+      {"code": "honda-gray-leather", "standard": false},
+      {"code": "honda-tan-leather", "standard": false}
+    ]
+  },
+  {
+    "trim_code": "2026-civic-hatchback-hybrid-ex-l",
+    "colors": [
+      {"code": "honda-black-leather", "standard": true},
+      {"code": "honda-gray-leather", "standard": false},
+      {"code": "honda-tan-leather", "standard": false}
+    ]
+  },
+  {
+    "trim_code": "2026-civic-hatchback-hybrid-touring",
+    "colors": [
+      {"code": "honda-black-leather", "standard": true},
+      {"code": "honda-gray-leather", "standard": false},
+      {"code": "honda-tan-leather", "standard": false}
+    ]
+  },
+  {
+    "trim_code": "2026-civic-type-r",
+    "colors": [
+      {"code": "honda-jet-black-suede", "standard": true}
+    ]
+  },
+  {
+    "trim_code": "2026-civic-sedan-lx",
+    "colors": [
+      {"code": "honda-black-cloth", "standard": true},
+      {"code": "honda-gray-cloth", "standard": false}
+    ]
+  },
+  {
+    "trim_code": "2026-civic-sedan-sport",
+    "colors": [
+      {"code": "honda-black-cloth", "standard": true},
+      {"code": "honda-gray-cloth", "standard": false}
+    ]
+  },
+  {
+    "trim_code": "2026-civic-sedan-ex-l",
+    "colors": [
+      {"code": "honda-black-leather", "standard": true},
+      {"code": "honda-gray-leather", "standard": false},
+      {"code": "honda-tan-leather", "standard": false}
+    ]
+  },
+  {
+    "trim_code": "2026-civic-sedan-touring",
+    "colors": [
+      {"code": "honda-black-leather", "standard": true},
+      {"code": "honda-gray-leather", "standard": false},
+      {"code": "honda-tan-leather", "standard": false}
+    ]
+  },
+  {
+    "trim_code": "2026-civic-sedan-hybrid-lx",
+    "colors": [
+      {"code": "honda-black-cloth", "standard": true},
+      {"code": "honda-gray-cloth", "standard": false}
+    ]
+  },
+  {
+    "trim_code": "2026-civic-sedan-hybrid-ex",
+    "colors": [
+      {"code": "honda-black-leather", "standard": true},
+      {"code": "honda-gray-leather", "standard": false},
+      {"code": "honda-tan-leather", "standard": false}
+    ]
+  },
+  {
+    "trim_code": "2026-civic-sedan-hybrid-ex-l",
+    "colors": [
+      {"code": "honda-black-leather", "standard": true},
+      {"code": "honda-gray-leather", "standard": false},
+      {"code": "honda-tan-leather", "standard": false}
+    ]
+  },
+  {
+    "trim_code": "2026-civic-sedan-hybrid-touring",
+    "colors": [
+      {"code": "honda-black-leather", "standard": true},
+      {"code": "honda-gray-leather", "standard": false},
+      {"code": "honda-tan-leather", "standard": false}
+    ]
+  },
+  {
+    "trim_code": "2026-civic-si-sedan",
+    "colors": [
+      {"code": "honda-jet-black-suede", "standard": true}
+    ]
+  },
+  {
+    "code": "2026-cr-v-lx",
+    "colors": [
+      {"code": "honda-black-cloth", "standard": true},
+      {"code": "honda-gray-cloth", "standard": false},
+      {"code": "honda-tan-cloth", "standard": false}
+    ]
+  },
+  {
+    "code": "2026-cr-v-ex",
+    "colors": [
+      {"code": "honda-black-cloth", "standard": true},
+      {"code": "honda-gray-cloth", "standard": false},
+      {"code": "honda-tan-cloth", "standard": false}
+    ]
+  },
+  {
+    "code": "2026-cr-v-ex-l",
+    "colors": [
+      {"code": "honda-black-leather", "standard": true},
+      {"code": "honda-gray-leather", "standard": false},
+      {"code": "honda-tan-leather", "standard": false}
+    ]
+  },
+  {
+    "code": "2026-cr-v-touring",
+    "colors": [
+      {"code": "honda-black-leather", "standard": true},
+      {"code": "honda-gray-leather", "standard": false},
+      {"code": "honda-tan-leather", "standard": false}
+    ]
+  },
+  {
+    "code": "2026-cr-v-hybrid-lx",
+    "colors": [
+      {"code": "honda-black-cloth", "standard": true},
+      {"code": "honda-gray-cloth", "standard": false},
+      {"code": "honda-tan-cloth", "standard": false}
+    ]
+  },
+  {
+    "code": "2026-cr-v-hybrid-ex",
+    "colors": [
+      {"code": "honda-black-cloth", "standard": true},
+      {"code": "honda-gray-cloth", "standard": false},
+      {"code": "honda-tan-cloth", "standard": false}
+    ]
+  },
+  {
+    "code": "2026-cr-v-hybrid-ex-l",
+    "colors": [
+      {"code": "honda-black-leather", "standard": true},
+      {"code": "honda-gray-leather", "standard": false},
+      {"code": "honda-tan-leather", "standard": false}
+    ]
+  },
+  {
+    "code": "2026-cr-v-hybrid-touring",
+    "colors": [
+      {"code": "honda-black-leather", "standard": true},
+      {"code": "honda-gray-leather", "standard": false},
+      {"code": "honda-tan-leather", "standard": false}
+    ]
+  },
+  {
+    "code": "2026-hr-v-sport",
+    "colors": [
+      {"code": "honda-black-cloth", "standard": true},
+      {"code": "honda-gray-cloth", "standard": false},
+      {"code": "honda-tan-cloth", "standard": false}
+    ]
+  },
+  {
+    "code": "2026-hr-v-ex",
+    "colors": [
+      {"code": "honda-black-cloth", "standard": true},
+      {"code": "honda-gray-cloth", "standard": false},
+      {"code": "honda-tan-cloth", "standard": false}
+    ]
+  },
+  {
+    "code": "2026-hr-v-ex-l",
+    "colors": [
+      {"code": "honda-black-leather", "standard": true},
+      {"code": "honda-gray-leather", "standard": false},
+      {"code": "honda-tan-leather", "standard": false}
+    ]
+  },
+  {
+    "code": "2026-hr-v-touring",
+    "colors": [
+      {"code": "honda-black-leather", "standard": true},
+      {"code": "honda-gray-leather", "standard": false},
+      {"code": "honda-tan-leather", "standard": false}
+    ]
+  },
+  {
+    "code": "2026-passport-sport",
+    "colors": [
+      {"code": "honda-black-cloth", "standard": true},
+      {"code": "honda-gray-cloth", "standard": false},
+      {"code": "honda-tan-cloth", "standard": false}
+    ]
+  },
+  {
+    "code": "2026-passport-ex-l",
+    "colors": [
+      {"code": "honda-black-leather", "standard": true},
+      {"code": "honda-gray-leather", "standard": false},
+      {"code": "honda-tan-leather", "standard": false}
+    ]
+  },
+  {
+    "code": "2026-passport-touring",
+    "colors": [
+      {"code": "honda-black-leather", "standard": true},
+      {"code": "honda-gray-leather", "standard": false},
+      {"code": "honda-tan-leather", "standard": false}
+    ]
+  },
+  {
+    "code": "2026-pilot-sport",
+    "colors": [
+      {"code": "honda-black-cloth", "standard": true},
+      {"code": "honda-gray-cloth", "standard": false},
+      {"code": "honda-tan-cloth", "standard": false}
+    ]
+  },
+  {
+    "code": "2026-pilot-ex-l",
+    "colors": [
+      {"code": "honda-black-leather", "standard": true},
+      {"code": "honda-gray-leather", "standard": false},
+      {"code": "honda-tan-leather", "standard": false}
+    ]
+  },
+  {
+    "code": "2026-pilot-touring",
+    "colors": [
+      {"code": "honda-black-leather", "standard": true},
+      {"code": "honda-gray-leather", "standard": false},
+      {"code": "honda-tan-leather", "standard": false}
+    ]
+  },
+  {
+    "code": "2026-pilot-elite",
+    "colors": [
+      {"code": "honda-black-leather", "standard": true},
+      {"code": "honda-gray-leather", "standard": false},
+      {"code": "honda-tan-leather", "standard": false}
+    ]
+  },
+  {
+    "code": "2026-prelude-hybrid",
+    "colors": [
+      {"code": "honda-black-cloth", "standard": true},
+      {"code": "honda-gray-cloth", "standard": false},
+      {"code": "honda-tan-cloth", "standard": false},
+      {"code": "honda-black-leather", "standard": false}
+    ]
+  },
+  {
+    "code": "2026-prologue-sport",
+    "colors": [
+      {"code": "honda-black-cloth", "standard": true},
+      {"code": "honda-gray-cloth", "standard": false},
+      {"code": "honda-tan-cloth", "standard": false},
+      {"code": "honda-black-leather", "standard": false}
+    ]
+  },
+  {
+    "code": "2026-prologue-ex",
+    "colors": [
+      {"code": "honda-black-leather", "standard": true},
+      {"code": "honda-gray-leather", "standard": false},
+      {"code": "honda-tan-leather", "standard": false}
+    ]
+  },
+  {
+    "code": "2026-prologue-touring",
+    "colors": [
+      {"code": "honda-black-leather", "standard": true},
+      {"code": "honda-gray-leather", "standard": false},
+      {"code": "honda-tan-leather", "standard": false}
+    ]
+  }
+]
