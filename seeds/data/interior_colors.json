@@ -2373,6 +2373,13 @@
     "active": true
   },
   {
+    "code": "toyota-shale-leather",
+    "manufacturer_code": 49,
+    "interior_name": "Shale",
+    "material": "Leather",
+    "active": true
+  },
+  {
     "code": "vinfast-black-leather",
     "manufacturer_code": 50,
     "interior_name": "Black",
