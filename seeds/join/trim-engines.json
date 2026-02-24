@@ -3091,5 +3091,2807 @@
     "engines": [
       { "code": "Prologue EV Dual Motor", "standard": true }
     ]
+  },
+  {
+    "trim_code": "2026-elantra-se",
+    "engines": [
+      { "code": "2.0L I4", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-elantra-sel",
+    "engines": [
+      { "code": "2.0L I4", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-elantra-n-line",
+    "engines": [
+      { "code": "1.6T I4", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-elantra-limited",
+    "engines": [
+      { "code": "2.0L I4", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-elantra-hybrid-se",
+    "engines": [
+      { "code": "1.6L I4 Hybrid", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-elantra-hybrid-limited",
+    "engines": [
+      { "code": "1.6L I4 Hybrid", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-elantra-n",
+    "engines": [
+      { "code": "2.5T I4 N", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-ioniq5-se",
+    "engines": [
+      { "code": "EV Single Motor", "standard": true },
+      { "code": "EV Dual Motor", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-ioniq5-limited",
+    "engines": [
+      { "code": "EV Single Motor", "standard": true },
+      { "code": "EV Dual Motor", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-ioniq5-n",
+    "engines": [
+      { "code": "EV Dual Motor", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-ioniq6-se",
+    "engines": [
+      { "code": "EV Single Motor", "standard": true },
+      { "code": "EV Dual Motor", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-ioniq6-limited",
+    "engines": [
+      { "code": "EV Single Motor", "standard": true },
+      { "code": "EV Dual Motor", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-ioniq9-s",
+    "engines": [
+      { "code": "EV Single Motor", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-ioniq9-se",
+    "engines": [
+      { "code": "EV Dual Motor", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-ioniq9-sel",
+    "engines": [
+      { "code": "EV Dual Motor", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-ioniq9-performance-limited",
+    "engines": [
+      { "code": "EV Dual Motor", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-ioniq9-performance-calligraphy",
+    "engines": [
+      { "code": "EV Dual Motor", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-ioniq9-performance-calligraphy-design",
+    "engines": [
+      { "code": "EV Dual Motor", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-kona-se",
+    "engines": [
+      { "code": "2.0L I4", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-kona-sel-sport",
+    "engines": [
+      { "code": "2.0L I4", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-kona-sel-premium",
+    "engines": [
+      { "code": "1.6T I4", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-kona-limited",
+    "engines": [
+      { "code": "1.6T I4", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-kona-electric-se",
+    "engines": [
+      { "code": "EV Single Motor", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-palisade-se",
+    "engines": [
+      { "code": "3.8L V6", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-palisade-sel",
+    "engines": [
+      { "code": "3.8L V6", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-palisade-xrt",
+    "engines": [
+      { "code": "3.8L V6", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-palisade-limited",
+    "engines": [
+      { "code": "3.8L V6", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-palisade-calligraphy",
+    "engines": [
+      { "code": "3.8L V6", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-palisade-hybrid-se",
+    "engines": [
+      { "code": "2.5L I4 Hybrid", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-palisade-hybrid-sel",
+    "engines": [
+      { "code": "2.5L I4 Hybrid", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-palisade-hybrid-limited",
+    "engines": [
+      { "code": "2.5L I4 Hybrid", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-palisade-hybrid-calligraphy",
+    "engines": [
+      { "code": "2.5L I4 Hybrid", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-santacruz-se",
+    "engines": [
+      { "code": "2.5L I4", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-santacruz-sel",
+    "engines": [
+      { "code": "2.5L I4", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-santacruz-sel-activity",
+    "engines": [
+      { "code": "2.5L I4", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-santacruz-xrt",
+    "engines": [
+      { "code": "2.5T I4 N", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-santacruz-limited",
+    "engines": [
+      { "code": "2.5T I4 N", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-santafe-se",
+    "engines": [
+      { "code": "2.5L I4", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-santafe-sel",
+    "engines": [
+      { "code": "2.5L I4", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-santafe-xrt",
+    "engines": [
+      { "code": "2.5T I4 N", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-santafe-limited",
+    "engines": [
+      { "code": "2.5T I4 N", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-santafe-calligraphy",
+    "engines": [
+      { "code": "2.5T I4 N", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-santafe-hybrid-se",
+    "engines": [
+      { "code": "1.6L I4 Hybrid", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-santafe-hybrid-sel",
+    "engines": [
+      { "code": "1.6L I4 Hybrid", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-santafe-hybrid-limited",
+    "engines": [
+      { "code": "1.6L I4 Hybrid", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-santafe-hybrid-calligraphy",
+    "engines": [
+      { "code": "1.6L I4 Hybrid", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-sonata-se",
+    "engines": [
+      { "code": "2.5L I4", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-sonata-sel",
+    "engines": [
+      { "code": "2.5L I4", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-sonata-n-line",
+    "engines": [
+      { "code": "2.5T I4 N", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-sonata-limited",
+    "engines": [
+      { "code": "2.5L I4", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-sonata-hybrid-blue",
+    "engines": [
+      { "code": "2.5L I4 Hybrid", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-sonata-hybrid-sel",
+    "engines": [
+      { "code": "2.5L I4 Hybrid", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-sonata-hybrid-limited",
+    "engines": [
+      { "code": "2.5L I4 Hybrid", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-tucson-se",
+    "engines": [
+      { "code": "2.5L I4", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-tucson-sel",
+    "engines": [
+      { "code": "2.5L I4", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-tucson-n-line",
+    "engines": [
+      { "code": "1.6T I4", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-tucson-limited",
+    "engines": [
+      { "code": "2.5L I4", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-tucson-hybrid-se",
+    "engines": [
+      { "code": "1.6L I4 Hybrid", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-tucson-hybrid-sel",
+    "engines": [
+      { "code": "1.6L I4 Hybrid", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-tucson-hybrid-limited",
+    "engines": [
+      { "code": "1.6L I4 Hybrid", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-tucson-phev-limited",
+    "engines": [
+      { "code": "2.0L I4 PHEV Tucson", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-venue-se",
+    "engines": [
+      { "code": "1.6T I4", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-venue-sel",
+    "engines": [
+      { "code": "1.6T I4", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-venue-sel-plus",
+    "engines": [
+      { "code": "1.6T I4", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-grenadier-base",
+    "engines": [
+      { "code": "3.0L I6 Turbo Diesel", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-grenadier-fieldmaster",
+    "engines": [
+      { "code": "3.0L I6 Turbo Diesel", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-grenadier-trialmaster",
+    "engines": [
+      { "code": "3.0L I6 Turbo Diesel", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-grenadier-black-edition",
+    "engines": [
+      { "code": "3.0L I6 Turbo Diesel", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-qx50-pure",
+    "engines": [
+      { "code": "VC-Turbo 2.0L I4", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-qx50-luxe",
+    "engines": [
+      { "code": "VC-Turbo 2.0L I4", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-qx50-sport",
+    "engines": [
+      { "code": "VC-Turbo 2.0L I4", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-qx55-luxe",
+    "engines": [
+      { "code": "VC-Turbo 2.0L I4", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-qx55-essential",
+    "engines": [
+      { "code": "VC-Turbo 2.0L I4", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-qx55-sensory",
+    "engines": [
+      { "code": "VC-Turbo 2.0L I4", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-qx60-pure",
+    "engines": [
+      { "code": "VC-Turbo 2.0L I4", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-qx60-luxe",
+    "engines": [
+      { "code": "VC-Turbo 2.0L I4", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-qx60-sport",
+    "engines": [
+      { "code": "VC-Turbo 2.0L I4", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-qx60-autograph",
+    "engines": [
+      { "code": "VC-Turbo 2.0L I4", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-qx80-pure",
+    "engines": [
+      { "code": "3.5L V6 Twin-Turbo", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-qx80-luxe",
+    "engines": [
+      { "code": "3.5L V6 Twin-Turbo", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-qx80-sport",
+    "engines": [
+      { "code": "3.5L V6 Twin-Turbo", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-qx80-autograph",
+    "engines": [
+      { "code": "3.5L V6 Twin-Turbo", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-e-pace-r-dynamic-s",
+    "engines": [
+      { "code": "2.0L I4 Turbo", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-e-pace-r-dynamic-se",
+    "engines": [
+      { "code": "2.0L I4 Turbo", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-e-pace-r-dynamic-hse",
+    "engines": [
+      { "code": "2.0L I4 Turbo", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-f-pace-p250",
+    "engines": [
+      { "code": "2.0L I4 Turbo", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-f-pace-p340",
+    "engines": [
+      { "code": "3.0L I6 MHEV", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-f-pace-r‑dynamic-se",
+    "engines": [
+      { "code": "3.0L I6 MHEV", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-f-pace-svr",
+    "engines": [
+      { "code": "5.0L V8 Supercharged", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-i-pace-base",
+    "engines": [
+      { "code": "EV Dual Motor", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-i-pace-r-dynamic-se",
+    "engines": [
+      { "code": "EV Dual Motor", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-i-pace-r-dynamic-hse",
+    "engines": [
+      { "code": "EV Dual Motor", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-f-type-p250-r-dynamic",
+    "engines": [
+      { "code": "2.0L I4 Turbo", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-f-type-p400-r-dynamic-awd",
+    "engines": [
+      { "code": "3.0L I6 MHEV", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-f-type-r",
+    "engines": [
+      { "code": "5.0L V8 Supercharged", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-f-type-r75-special-edition",
+    "engines": [
+      { "code": "5.0L V8 Supercharged", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-xf-p250-r-dynamic-se",
+    "engines": [
+      { "code": "2.0L I4 Turbo", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-xf-p300-r-dynamic-se",
+    "engines": [
+      { "code": "2.0L I4 Turbo", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-xf-r-dynamic-hse",
+    "engines": [
+      { "code": "2.0L I4 Turbo", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-compass-latitude",
+    "engines": [
+      { "code": "2.0L I4 Turbo", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-compass-latitude-altitude",
+    "engines": [
+      { "code": "2.0L I4 Turbo", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-compass-limited",
+    "engines": [
+      { "code": "2.0L I4 Turbo", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-compass-limited-altitude",
+    "engines": [
+      { "code": "2.0L I4 Turbo", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-compass-trailhawk",
+    "engines": [
+      { "code": "2.0L I4 Turbo", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-cherokee-base",
+    "engines": [
+      { "code": "2.0L I4 Turbo PHEV", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-cherokee-laredo",
+    "engines": [
+      { "code": "2.0L I4 Turbo PHEV", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-cherokee-limited",
+    "engines": [
+      { "code": "2.0L I4 Turbo PHEV", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-cherokee-overland",
+    "engines": [
+      { "code": "2.0L I4 Turbo PHEV", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-gladiator-sport",
+    "engines": [
+      { "code": "3.6L V6", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-gladiator-sport-s",
+    "engines": [
+      { "code": "3.6L V6", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-gladiator-willys",
+    "engines": [
+      { "code": "3.6L V6", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-gladiator-sahara",
+    "engines": [
+      { "code": "3.6L V6", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-gladiator-mojave",
+    "engines": [
+      { "code": "3.6L V6", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-gladiator-rubicon",
+    "engines": [
+      { "code": "3.6L V6", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-grand-cherokee-laredo",
+    "engines": [
+      { "code": "3.6L V6", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-grand-cherokee-laredo-altitude",
+    "engines": [
+      { "code": "2.0L I4 Turbo", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-grand-cherokee-limited",
+    "engines": [
+      { "code": "2.0L I4 Turbo", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-grand-cherokee-summit",
+    "engines": [
+      { "code": "2.0L I4 Turbo", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-grand-cherokee-trailhawk-4xe",
+    "engines": [
+      { "code": "Wrangler 4xe EV Hybrid", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-grand-wagoneer-base",
+    "engines": [
+      { "code": "3.0L I6 Turbo Diesel", "standard": false },
+      { "code": "3.0L Hurricane Twin-Turbo I6", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-grand-wagoneer-upland",
+    "engines": [
+      { "code": "3.0L Hurricane Twin-Turbo I6", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-grand-wagoneer-limited-altitude",
+    "engines": [
+      { "code": "3.0L Hurricane Twin-Turbo I6", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-grand-wagoneer-summit‑obsidian",
+    "engines": [
+      { "code": "3.0L Hurricane Twin-Turbo I6", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-grand‑wagoneer‑summit‑reserve",
+    "engines": [
+      { "code": "3.0L Hurricane Twin-Turbo I6", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-recon-moab",
+    "engines": [
+      { "code": "Recon EV", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-wagoneer-base",
+    "engines": [
+      { "code": "3.0L Hurricane Twin-Turbo I6", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-wagoneer-series-ii",
+    "engines": [
+      { "code": "3.0L Hurricane Twin-Turbo I6", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-wagoneer-series-ii-carbide",
+    "engines": [
+      { "code": "3.0L Hurricane Twin-Turbo I6", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-wagoneer-series-iii",
+    "engines": [
+      { "code": "3.0L Hurricane Twin-Turbo I6", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-wagoneer-s-limited",
+    "engines": [
+      { "code": "Wrangler 4xe EV Hybrid", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-wagoneer-s-launch-edition",
+    "engines": [
+      { "code": "Wrangler 4xe EV Hybrid", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-wrangler-sport",
+    "engines": [
+      { "code": "3.6L V6", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-wrangler-sport-s",
+    "engines": [
+      { "code": "3.6L V6", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-wrangler-willys",
+    "engines": [
+      { "code": "3.6L V6", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-wrangler-sahara",
+    "engines": [
+      { "code": "2.0L I4 Turbo", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-wrangler-rubicon",
+    "engines": [
+      { "code": "2.0L I4 Turbo", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-wrangler-rubicon-x",
+    "engines": [
+      { "code": "2.0L I4 Turbo", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-wrangler-moab-392",
+    "engines": [
+      { "code": "5.7L V8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-amaris-base",
+    "engines": [
+      { "code": "Amaris EV", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-gyesera-luxury",
+    "engines": [
+      { "code": "Gyesera EV", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-invictus-limited",
+    "engines": [
+      { "code": "Invictus EV", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-kaveya-ev",
+    "engines": [
+      { "code": "Kaveya EV Coupe", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-revero-erev",
+    "engines": [
+      { "code": "Revero GT PHEV", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-carnival-lx",
+    "engines": [
+      { "code": "KIA-3.8L-V6-GDI", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-carnival‑lxs",
+    "engines": [
+      { "code": "KIA-3.8L-V6-GDI", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-carnival‑ex",
+    "engines": [
+      { "code": "KIA-3.8L-V6-GDI", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-carnival‑sx",
+    "engines": [
+      { "code": "KIA-3.8L-V6-GDI", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-carnival‑sx‑prestige",
+    "engines": [
+      { "code": "KIA-3.8L-V6-GDI", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-carnival-hev-lxs",
+    "engines": [
+      { "code": "KIA-1.6T-HYBRID", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-carnival-hev-ex",
+    "engines": [
+      { "code": "KIA-1.6T-HYBRID", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-carnival-hev-sx",
+    "engines": [
+      { "code": "KIA-1.6T-HYBRID", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-carnival-hev-sx-prestige",
+    "engines": [
+      { "code": "KIA-1.6T-HYBRID", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-ev6-light",
+    "engines": [
+      { "code": "KIA-EV6-RWD", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-ev6-light-long-range",
+    "engines": [
+      { "code": "KIA-EV6-RWD", "standard": true },
+      { "code": "KIA-EV6-AWD", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-ev6-wind",
+    "engines": [
+      { "code": "KIA-EV6-AWD", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-ev6-gt-line",
+    "engines": [
+      { "code": "KIA-EV6-AWD", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-ev6-gt",
+    "engines": [
+      { "code": "KIA-EV6-AWD", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-ev9-light-sr",
+    "engines": [
+      { "code": "KIA-EV9-AWD", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-ev9-light-lr",
+    "engines": [
+      { "code": "KIA-EV9-AWD", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-ev9-wind",
+    "engines": [
+      { "code": "KIA-EV9-AWD", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-ev9-land",
+    "engines": [
+      { "code": "KIA-EV9-AWD", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-ev9-gt-line",
+    "engines": [
+      { "code": "KIA-EV9-AWD", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-k4-sedan-lx",
+    "engines": [
+      { "code": "KIA-2.5L-GDI", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-k4-sedan-lxs",
+    "engines": [
+      { "code": "KIA-2.5L-GDI", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-k4-sedan-ex",
+    "engines": [
+      { "code": "KIA-1.6T-GDI", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-k4-sedan-gt-line",
+    "engines": [
+      { "code": "KIA-1.6T-GDI", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-k4-sedan-gt-line-turbo",
+    "engines": [
+      { "code": "KIA-1.6T-GDI", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-k4-hatch-ex",
+    "engines": [
+      { "code": "KIA-1.6T-GDI", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-k4-hatch-gt-line",
+    "engines": [
+      { "code": "KIA-1.6T-GDI", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-k4-hatch-gt-line-turbo",
+    "engines": [
+      { "code": "KIA-1.6T-GDI", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-k5-lx",
+    "engines": [
+      { "code": "KIA-1.6T-GDI", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-k5-lxs",
+    "engines": [
+      { "code": "KIA-1.6T-GDI", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-k5-gt-line",
+    "engines": [
+      { "code": "KIA-1.6T-GDI", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-k5-ex",
+    "engines": [
+      { "code": "KIA-1.6T-GDI", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-k5-gt",
+    "engines": [
+      { "code": "KIA-2.5T-GDI", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-seltos-lx",
+    "engines": [
+      { "code": "KIA-2.5L-GDI", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-seltos-lx-plus",
+    "engines": [
+      { "code": "KIA-2.5L-GDI", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-seltos-s",
+    "engines": [
+      { "code": "KIA-1.6T-GDI", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-seltos-ex",
+    "engines": [
+      { "code": "KIA-1.6T-GDI", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-seltos-sx",
+    "engines": [
+      { "code": "KIA-1.6T-GDI", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-sorento-lx",
+    "engines": [
+      { "code": "KIA-2.5L-GDI", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-sorento-lx-premium",
+    "engines": [
+      { "code": "KIA-2.5L-GDI", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-sorento-ex",
+    "engines": [
+      { "code": "KIA-2.5L-GDI", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-sorento-sx",
+    "engines": [
+      { "code": "KIA-2.5L-GDI", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-sorento-phev-ex",
+    "engines": [
+      { "code": "KIA-1.6T-PHEV", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-sorento-phev-sx",
+    "engines": [
+      { "code": "KIA-1.6T-PHEV", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-sorento-hybrid-ex",
+    "engines": [
+      { "code": "KIA-1.6T-HYBRID", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-sorento-hybrid-sx",
+    "engines": [
+      { "code": "KIA-1.6T-HYBRID", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-soul-lx",
+    "engines": [
+      { "code": "KIA-2.5L-GDI", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-soul-lx-plus",
+    "engines": [
+      { "code": "KIA-2.5L-GDI", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-soul-ex",
+    "engines": [
+      { "code": "KIA-2.5L-GDI", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-soul-gt-line",
+    "engines": [
+      { "code": "KIA-2.5T-GDI", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-soul-ev-lx",
+    "engines": [
+      { "code": "KIA-NIRO-EV", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-soul-ev-ex",
+    "engines": [
+      { "code": "KIA-NIRO-EV", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-sportage-lx",
+    "engines": [
+      { "code": "KIA-2.5L-GDI", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-sportage-ex",
+    "engines": [
+      { "code": "KIA-2.5L-GDI", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-sportage-sx",
+    "engines": [
+      { "code": "KIA-2.5L-GDI", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-sportage-hybrid-ex",
+    "engines": [
+      { "code": "KIA-1.6T-HYBRID", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-sportage-hybrid-sx",
+    "engines": [
+      { "code": "KIA-1.6T-HYBRID", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-sportage-phev-ex",
+    "engines": [
+      { "code": "KIA-1.6T-PHEV", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-sportage-phev-sx",
+    "engines": [
+      { "code": "KIA-1.6T-PHEV", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-telluride-lx",
+    "engines": [
+      { "code": "KIA-3.8L-V6-GDI", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-telluride-ex",
+    "engines": [
+      { "code": "KIA-3.8L-V6-GDI", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-telluride-sx",
+    "engines": [
+      { "code": "KIA-3.8L-V6-GDI", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-telluride-sx-premium",
+    "engines": [
+      { "code": "KIA-3.8L-V6-GDI", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-cc850-base",
+    "engines": [
+      { "code": "KG-5.0L-TT-V8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-cc850-performance",
+    "engines": [
+      { "code": "KG-5.0L-TT-V8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-gemera-base",
+    "engines": [
+      { "code": "KG-2.0L-TFG-HYBRID", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-gemera-performance",
+    "engines": [
+      { "code": "KG-2.0L-TFG-HYBRID", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-jesko-absolut-standard",
+    "engines": [
+      { "code": "KG-5.0L-TT-V8-E85", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-jesko-attack-standard",
+    "engines": [
+      { "code": "KG-5.0L-TT-V8-E85", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-countach-lp800-4-standard",
+    "engines": [
+      { "code": "LMB-6.5L-V12-NA", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-fenomeno-standard",
+    "engines": [
+      { "code": "LMB-6.5L-V12-NA", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-huracan-evo-rwd",
+    "engines": [
+      { "code": "LMB-5.2L-V10-NA", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-huracan-evo-awd",
+    "engines": [
+      { "code": "LMB-5.2L-V10-NA", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-revuelto-standard",
+    "engines": [
+      { "code": "LMB-6.5L-V12-PHEV", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-sian-fkp37-standard",
+    "engines": [
+      { "code": "LMB-6.5L-V12-HYBRID", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-sian-roadster-standard",
+    "engines": [
+      { "code": "LMB-6.5L-V12-HYBRID", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-temerario-base",
+    "engines": [
+      { "code": "LMB-6.5L-V12-NA", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-urus-standard",
+    "engines": [
+      { "code": "LMB-4.0L-TT-V8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-defender-base",
+    "engines": [
+      { "code": "LR-3.0L-TURBO-I6-MHEV", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-defender-x",
+    "engines": [
+      { "code": "LR-3.0L-TURBO-I6-MHEV", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-defender-se",
+    "engines": [
+      { "code": "LR-3.0L-TURBO-I6-MHEV", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-discovery-s",
+    "engines": [
+      { "code": "LR-3.0L-TURBO-I6-MHEV", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-discovery-se",
+    "engines": [
+      { "code": "LR-3.0L-TURBO-I6-MHEV", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-discovery-hse",
+    "engines": [
+      { "code": "LR-3.0L-TURBO-I6-MHEV", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-range-rover-se",
+    "engines": [
+      { "code": "LR-3.0L-TURBO-I6-MHEV", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-range-rover-hse",
+    "engines": [
+      { "code": "LR-3.0L-TURBO-I6-MHEV", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-range-rover-autobiography",
+    "engines": [
+      { "code": "LR-5.0L-SC-V8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-range-rover-sentinel",
+    "engines": [
+      { "code": "LR-3.0L-TURBO-I6-MHEV", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-es-350",
+    "engines": [
+      { "code": "LEX-3.5L-V6", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-es-250",
+    "engines": [
+      { "code": "LEX-2.5L-I4", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-es-300h",
+    "engines": [
+      { "code": "LEX-2.5L-HYBRID-I4", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-gx-460",
+    "engines": [
+      { "code": "LEX-4.6L-V8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-gx-460-premium",
+    "engines": [
+      { "code": "LEX-4.6L-V8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-is-300",
+    "engines": [
+      { "code": "LEX-2.0L-TURBO-I4", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-is-500",
+    "engines": [
+      { "code": "LEX-5.0L-V8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-lc-500",
+    "engines": [
+      { "code": "LEX-5.0L-V8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-lc-500h",
+    "engines": [
+      { "code": "LEX-3.5L-HYBRID-V6", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-ls-f-sport",
+    "engines": [
+      { "code": "LEX-3.5L-TT-HYBRID-V6", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-lx-600",
+    "engines": [
+      { "code": "LEX-3.5L-TT-V6", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-lx-600-f-sport",
+    "engines": [
+      { "code": "LEX-3.5L-TT-V6", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-nx-250",
+    "engines": [
+      { "code": "LEX-2.5L-I4", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-nx-350",
+    "engines": [
+      { "code": "LEX-2.4L-TURBO-I4", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-nx-350h",
+    "engines": [
+      { "code": "LEX-2.5L-HYBRID-I4", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-nx-450h-plus",
+    "engines": [
+      { "code": "LEX-2.4L-TURBO-HYBRID-MAX", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-rx-350",
+    "engines": [
+      { "code": "LEX-2.4L-TURBO-I4", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-rx-350h",
+    "engines": [
+      { "code": "LEX-2.5L-HYBRID-I4", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-rx-500h-f-sport",
+    "engines": [
+      { "code": "LEX-2.4L-TURBO-HYBRID-MAX", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-rz-450e",
+    "engines": [
+      { "code": "LEX-RZ-EV-DUAL", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-rz-450e-f-sport",
+    "engines": [
+      { "code": "LEX-RZ-EV-DUAL", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-tx-350",
+    "engines": [
+      { "code": "LEX-2.4L-TURBO-I4", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-tx-500h-f-sport",
+    "engines": [
+      { "code": "LEX-2.4L-TURBO-HYBRID-MAX", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-ux-250h",
+    "engines": [
+      { "code": "LEX-2.5L-HYBRID-I4", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-ux-250h-f-sport",
+    "engines": [
+      { "code": "LEX-2.5L-HYBRID-I4", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-aviator-standard",
+    "engines": [
+      { "code": "LIN-3.0L-TT-V6", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-aviator-reserve",
+    "engines": [
+      { "code": "LIN-3.0L-TT-V6", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-aviator-black-label",
+    "engines": [
+      { "code": "LIN-3.0L-TT-V6", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-corsair-standard",
+    "engines": [
+      { "code": "LIN-2.0L-TURBO-I4", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-corsair-reserve",
+    "engines": [
+      { "code": "LIN-2.0L-TURBO-I4", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-corsair-black-label",
+    "engines": [
+      { "code": "LIN-2.0L-TURBO-I4", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-navigator-standard",
+    "engines": [
+      { "code": "LIN-3.5L-TT-V6", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-navigator-reserve",
+    "engines": [
+      { "code": "LIN-3.5L-TT-V6", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-navigator-black-label",
+    "engines": [
+      { "code": "LIN-3.5L-TT-V6", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-nautilus-standard",
+    "engines": [
+      { "code": "LIN-2.0L-TURBO-I4", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-nautilus-reserve",
+    "engines": [
+      { "code": "LIN-2.0L-TURBO-I4", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-nautilus-black-label",
+    "engines": [
+      { "code": "LIN-2.0L-TURBO-I4", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-eletre-standard",
+    "engines": [
+      { "code": "LOTUS-DUAL-MOTOR-EV", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-eletre-performance",
+    "engines": [
+      { "code": "LOTUS-TRI-MOTOR-EV", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-emira-base",
+    "engines": [
+      { "code": "LOTUS-3.5L-SC-V6", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-emira-performance",
+    "engines": [
+      { "code": "LOTUS-3.5L-SC-V6", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-air-grande-touring",
+    "engines": [
+      { "code": "LUCID-GRAVITY-DUAL-MOTOR-EV", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-air-ghost",
+    "engines": [
+      { "code": "LUCID-PERFORMANCE-DUAL-MOTOR-EV", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-gravity-pure",
+    "engines": [
+      { "code": "LUCID-DUAL-MOTOR-EV", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-gravity-touring",
+    "engines": [
+      { "code": "LUCID-GRAVITY-DUAL-MOTOR-EV", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-gravity-grand-touring",
+    "engines": [
+      { "code": "LUCID-PERFORMANCE-DUAL-MOTOR-EV", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-granturismo-modena",
+    "engines": [
+      { "code": "MASERATI-4.2L-V8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-granturismo-trofeo",
+    "engines": [
+      { "code": "MASERATI-3.0T-V6-NETTUNO-HIGH-OUTPUT", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-grancabrio-modena",
+    "engines": [
+      { "code": "MASERATI-4.2L-V8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-grancabrio-trofeo",
+    "engines": [
+      { "code": "MASERATI-3.0T-V6-NETTUNO-HIGH-OUTPUT", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-grecale-modena",
+    "engines": [
+      { "code": "MASERATI-2.0T-I4-MHEV", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-grecale-trofeo",
+    "engines": [
+      { "code": "MASERATI-3.0T-V6-NETTUNO", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-gt2-stradale",
+    "engines": [
+      { "code": "MASERATI-3.0T-V6-NETTUNO-GT2", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-mcpura",
+    "engines": [
+      { "code": "MASERATI-3.8L-TWIN-TURBO-V8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-3-hatch-sedan-s",
+    "engines": [
+      { "code": "MAZDA-2.0-I4-MIATA", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-3-hatch-sedan-preferred",
+    "engines": [
+      { "code": "MAZDA-2.5-I4-NA", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-3-hatch-turbo",
+    "engines": [
+      { "code": "MAZDA-2.5T-I4", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-cx30-s",
+    "engines": [
+      { "code": "MAZDA-2.5-I4-NA", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-cx30-preferred",
+    "engines": [
+      { "code": "MAZDA-2.5-I4-NA", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-cx30-turbo",
+    "engines": [
+      { "code": "MAZDA-2.5T-I4", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-cx5-sport",
+    "engines": [
+      { "code": "MAZDA-2.5-I4-NA", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-cx5-preferred",
+    "engines": [
+      { "code": "MAZDA-2.5-I4-NA", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-cx5-carbon-edition",
+    "engines": [
+      { "code": "MAZDA-2.5-I4-NA", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-cx5-turbo",
+    "engines": [
+      { "code": "MAZDA-2.5T-I4", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-cx50-2.5",
+    "engines": [
+      { "code": "MAZDA-2.5-I4-NA", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-cx50-preferred",
+    "engines": [
+      { "code": "MAZDA-2.5-I4-NA", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-cx50-prestige",
+    "engines": [
+      { "code": "MAZDA-2.5-I4-NA", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-cx50-turbo",
+    "engines": [
+      { "code": "MAZDA-2.5T-I4", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-cx50-hybrid",
+    "engines": [
+      { "code": "MAZDA-2.5-I4-PHEV", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-cx70-s",
+    "engines": [
+      { "code": "MAZDA-2.5T-I4", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-cx70-prestige",
+    "engines": [
+      { "code": "MAZDA-2.5T-I4", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-cx70-phev",
+    "engines": [
+      { "code": "MAZDA-2.5-I4-PHEV", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-cx90-30p",
+    "engines": [
+      { "code": "MAZDA-3.3T-I6", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-cx90-30t",
+    "engines": [
+      { "code": "MAZDA-3.3T-I6", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-cx90-phev",
+    "engines": [
+      { "code": "MAZDA-2.5-I4-PHEV", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-mx5-miata-sport",
+    "engines": [
+      { "code": "MAZDA-2.0-I4-MIATA", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-mx5-miata-premium",
+    "engines": [
+      { "code": "MAZDA-2.0-I4-MIATA", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-mx5-miata-rf-sport",
+    "engines": [
+      { "code": "MAZDA-2.0-I4-MIATA", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-mx5-miata-rf-premium",
+    "engines": [
+      { "code": "MAZDA-2.0-I4-MIATA", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-750s-coupe",
+    "engines": [
+      { "code": "MCL-4.0T-V8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-750s-spider",
+    "engines": [
+      { "code": "MCL-4.0T-V8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-artura-coupe",
+    "engines": [
+      { "code": "MCL-3.8T-V6-Hybrid", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-artura-spider",
+    "engines": [
+      { "code": "MCL-3.8T-V6-Hybrid", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-gts-coupe",
+    "engines": [
+      { "code": "MCL-4.0T-V8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-w1-coupe",
+    "engines": [
+      { "code": "MCL-4.0T-V8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-amg-gt43-4door",
+    "engines": [
+      { "code": "E53-MILD-Hybrid", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-amg-gt43-coupe",
+    "engines": [
+      { "code": "M264-2.0T-I4", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-amg-gt53-4door",
+    "engines": [
+      { "code": "E53-MILD-Hybrid", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-amg-gt55-coupe",
+    "engines": [
+      { "code": "M177-4.0T-V8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-amg-gt63-coupe",
+    "engines": [
+      { "code": "M177-4.0T-V8-AMG", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-amg-gt63-4door",
+    "engines": [
+      { "code": "M177-4.0T-V8-AMG", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-amg-gt63s-e-performance-4door",
+    "engines": [
+      { "code": "M177-4.0T-V8-AMG", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-amg-gt63s-e-performance-coupe",
+    "engines": [
+      { "code": "M177-4.0T-V8-AMG", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-amg-gt63-coupe-pro-4matic-plus",
+    "engines": [
+      { "code": "M177-4.0T-V8-AMG", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-amg-one",
+    "engines": [
+      { "code": "AMG-ONE-V6-Hybrid", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-c-300",
+    "engines": [
+      { "code": "M264-2.0T-I4", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-c-300-4matic",
+    "engines": [
+      { "code": "M264-2.0T-I4", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-c-43-amg",
+    "engines": [
+      { "code": "E53-MILD-Hybrid", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-c-63s-e-performance-amg",
+    "engines": [
+      { "code": "M177-4.0T-V8-AMG", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-cla-250-coupe",
+    "engines": [
+      { "code": "M264-2.0T-I4", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-cla-250-4matic-coupe",
+    "engines": [
+      { "code": "M264-2.0T-I4", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-cla-250-eq-technology",
+    "engines": [
+      { "code": "M264-2.0T-I4", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-cla-35-amg-coupe",
+    "engines": [
+      { "code": "E53-MILD-Hybrid", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-cla-350-4matic-eq-technology",
+    "engines": [
+      { "code": "E53-MILD-Hybrid", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-cla-45s-amg-coupe",
+    "engines": [
+      { "code": "M177-4.0T-V8-AMG", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-cle-300-4matic-coupe",
+    "engines": [
+      { "code": "M264-2.0T-I4", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-cle-300-4matic-cabriolet",
+    "engines": [
+      { "code": "M264-2.0T-I4", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-cle-450-4matic-coupe",
+    "engines": [
+      { "code": "E53-MILD-Hybrid", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-cle-450-4matic-cabriolet",
+    "engines": [
+      { "code": "E53-MILD-Hybrid", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-cle-53-amg-coupe",
+    "engines": [
+      { "code": "E53-MILD-Hybrid", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-cle-53-amg-cabriolet",
+    "engines": [
+      { "code": "E53-MILD-Hybrid", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-e-350",
+    "engines": [
+      { "code": "M264-2.0T-I4", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-e-350-4matic",
+    "engines": [
+      { "code": "M264-2.0T-I4", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-e-450-4matic",
+    "engines": [
+      { "code": "E53-MILD-Hybrid", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-e-450-4matic-all-terrain",
+    "engines": [
+      { "code": "E53-MILD-Hybrid", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-e-53-amg-sedan",
+    "engines": [
+      { "code": "E53-MILD-Hybrid", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-e-53-amg-wagon",
+    "engines": [
+      { "code": "E53-MILD-Hybrid", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-eqb-250-plus",
+    "engines": [
+      { "code": "EQE-320-EV", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-eqb-300-4matic",
+    "engines": [
+      { "code": "EQE-320-EV", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-eqb-350-4matic",
+    "engines": [
+      { "code": "EQE-320-EV", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-eqe-320-plus",
+    "engines": [
+      { "code": "EQE-320-EV", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-eqe-320-4matic",
+    "engines": [
+      { "code": "EQE-320-EV", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-eqe-amg",
+    "engines": [
+      { "code": "EQE-320-EV", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-eqs-400-4matic",
+    "engines": [
+      { "code": "EQS-450-EV", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-eqs-450-plus",
+    "engines": [
+      { "code": "EQS-450-EV", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-eqs-450-4matic",
+    "engines": [
+      { "code": "EQS-450-EV", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-eqs-550-4matic",
+    "engines": [
+      { "code": "EQS-450-EV", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-eqs-580-4matic",
+    "engines": [
+      { "code": "EQS-450-EV", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-g-550",
+    "engines": [
+      { "code": "M177-4.0T-V8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-g-580-eq-technology",
+    "engines": [
+      { "code": "E53-MILD-Hybrid", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-g-63-amg",
+    "engines": [
+      { "code": "M177-4.0T-V8-AMG", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-gla-250",
+    "engines": [
+      { "code": "M260-2.0T-I4", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-gla-250-4matic",
+    "engines": [
+      { "code": "M260-2.0T-I4", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-gla-35-amg",
+    "engines": [
+      { "code": "M264-2.0T-I4", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-glb-250",
+    "engines": [
+      { "code": "M260-2.0T-I4", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-glb-250-4matic",
+    "engines": [
+      { "code": "M260-2.0T-I4", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-glb-35-amg",
+    "engines": [
+      { "code": "M264-2.0T-I4", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-glc-300",
+    "engines": [
+      { "code": "M264-2.0T-I4", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-glc-300-4matic",
+    "engines": [
+      { "code": "M264-2.0T-I4", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-glc-300-4matic-coupe",
+    "engines": [
+      { "code": "M264-2.0T-I4", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-glc-350e-4matic",
+    "engines": [
+      { "code": "E53-MILD-Hybrid", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-glc-43-amg",
+    "engines": [
+      { "code": "E53-MILD-Hybrid", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-glc-43-amg-coupe",
+    "engines": [
+      { "code": "E53-MILD-Hybrid", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-glc-63-s-amg",
+    "engines": [
+      { "code": "M177-4.0T-V8-AMG", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-glc-63-s-amg-coupe",
+    "engines": [
+      { "code": "M177-4.0T-V8-AMG", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-gle-350",
+    "engines": [
+      { "code": "M264-2.0T-I4", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-gle-350-4matic",
+    "engines": [
+      { "code": "M264-2.0T-I4", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-gle-450-4matic",
+    "engines": [
+      { "code": "E53-MILD-Hybrid", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-gle-450-4matic-coupe",
+    "engines": [
+      { "code": "E53-MILD-Hybrid", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-gle-450e-4matic",
+    "engines": [
+      { "code": "E53-MILD-Hybrid", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-gle-580-4matic",
+    "engines": [
+      { "code": "M177-4.0T-V8-AMG", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-gle-53-4matic-amg",
+    "engines": [
+      { "code": "E53-MILD-Hybrid", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-gle-53-amg-coupe",
+    "engines": [
+      { "code": "E53-MILD-Hybrid", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-gle-63s-4matic-amg",
+    "engines": [
+      { "code": "M177-4.0T-V8-AMG", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-gle-63s-amg-coupe",
+    "engines": [
+      { "code": "M177-4.0T-V8-AMG", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-gls-450-4matic",
+    "engines": [
+      { "code": "E53-MILD-Hybrid", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-gls-580-4matic",
+    "engines": [
+      { "code": "M177-4.0T-V8-AMG", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-gls-63-amg",
+    "engines": [
+      { "code": "M177-4.0T-V8-AMG", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-maybach-eqs-680",
+    "engines": [
+      { "code": "EQS-450-EV", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-maybach-gls-600",
+    "engines": [
+      { "code": "M177-4.0T-V8-AMG", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-maybach-s-580-4matic",
+    "engines": [
+      { "code": "M177-4.0T-V8-AMG", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-maybach-s-680-4matic",
+    "engines": [
+      { "code": "M177-4.0T-V8-AMG", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-s-500-4matic",
+    "engines": [
+      { "code": "E53-MILD-Hybrid", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-s-580-4matic",
+    "engines": [
+      { "code": "M177-4.0T-V8-AMG", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-s-580e-4matic",
+    "engines": [
+      { "code": "E53-MILD-Hybrid", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-s-63-se-performance-amg",
+    "engines": [
+      { "code": "AMG-ONE-V6-Hybrid", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-sl-43-amg",
+    "engines": [
+      { "code": "E53-MILD-Hybrid", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-sl-55-amg",
+    "engines": [
+      { "code": "M177-4.0T-V8-AMG", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-sl-63-amg",
+    "engines": [
+      { "code": "M177-4.0T-V8-AMG", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-sl-63-se-performance-amg",
+    "engines": [
+      { "code": "AMG-ONE-V6-Hybrid", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-mini-cooper",
+    "engines": [
+      { "code": "MINI-1.5T-I3", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-mini-cooper-s",
+    "engines": [
+      { "code": "MINI-2.0T-I4", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-mini-john-cooper-works",
+    "engines": [
+      { "code": "MINI-2.0T-I4", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-mini-countryman-cooper",
+    "engines": [
+      { "code": "MINI-1.5T-I3", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-mini-countryman-cooper-s",
+    "engines": [
+      { "code": "MINI-2.0T-I4", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-mini-countryman-cooper-se",
+    "engines": [
+      { "code": "MINI-2.0T-I4-PHEV", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-mini-countryman-jcw",
+    "engines": [
+      { "code": "MINI-2.0T-I4", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-mitsubishi-eclipse-cross-es",
+    "engines": [
+      { "code": "MITS-1.5T-I4", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-mitsubishi-eclipse-cross-se",
+    "engines": [
+      { "code": "MITS-1.5T-I4", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-mitsubishi-eclipse-cross-sel",
+    "engines": [
+      { "code": "MITS-1.5T-I4", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-mitsubishi-eclipse-cross-gt",
+    "engines": [
+      { "code": "MITS-1.5T-I4", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-mitsubishi-outlander-es",
+    "engines": [
+      { "code": "MITS-2.4-I4", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-mitsubishi-outlander-se",
+    "engines": [
+      { "code": "MITS-2.4-I4", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-mitsubishi-outlander-sel",
+    "engines": [
+      { "code": "MITS-2.4-I4", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-mitsubishi-outlander-gt",
+    "engines": [
+      { "code": "MITS-2.4-I4", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-mitsubishi-outlander-phev",
+    "engines": [
+      { "code": "MITS-2.4-I4-PHEV", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-mitsubishi-outlander-trail-edition",
+    "engines": [
+      { "code": "MITS-2.4-I4", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-mitsubishi-outlander-sport-es",
+    "engines": [
+      { "code": "MITS-2.0-I4", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-mitsubishi-outlander-sport-se",
+    "engines": [
+      { "code": "MITS-2.0-I4", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-mitsubishi-outlander-sport-sel",
+    "engines": [
+      { "code": "MITS-2.0-I4", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-mitsubishi-outlander-sport-gt",
+    "engines": [
+      { "code": "MITS-2.0-I4", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-nissan-altima-s",
+    "engines": [
+      { "code": "NISS-2.5L-I4", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-nissan-altima-sv",
+    "engines": [
+      { "code": "NISS-2.5L-I4", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-nissan-altima-sl",
+    "engines": [
+      { "code": "NISS-2.5L-I4", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-nissan-altima-sr",
+    "engines": [
+      { "code": "NISS-2.5L-I4", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-nissan-altima-platinum",
+    "engines": [
+      { "code": "NISS-2.5L-I4", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-nissan-altima-platinum-vc-turbo",
+    "engines": [
+      { "code": "NISS-2.0L-I4", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-nissan-armada-sv",
+    "engines": [
+      { "code": "NISS-Z-3.7L-V6", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-nissan-armada-sl",
+    "engines": [
+      { "code": "NISS-Z-3.7L-V6", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-nissan-armada-platinum",
+    "engines": [
+      { "code": "NISS-Z-3.7L-V6", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-nissan-armada-platinum-reserve",
+    "engines": [
+      { "code": "NISS-Z-3.7L-V6", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-nissan-frontier-s",
+    "engines": [
+      { "code": "NISS-Z-3.7L-V6", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-nissan-frontier-sv",
+    "engines": [
+      { "code": "NISS-Z-3.7L-V6", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-nissan-frontier-pro-x",
+    "engines": [
+      { "code": "NISS-Z-3.7L-V6", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-nissan-frontier-pro-4x",
+    "engines": [
+      { "code": "NISS-Z-3.7L-V6", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-nissan-kicks-s",
+    "engines": [
+      { "code": "NISS-2.0L-I4", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-nissan-kicks-sv",
+    "engines": [
+      { "code": "NISS-2.0L-I4", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-nissan-kicks-sr",
+    "engines": [
+      { "code": "NISS-2.0L-I4", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-nissan-kicks-play-s",
+    "engines": [
+      { "code": "NISS-2.0L-I4", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-nissan-kicks-play-sv",
+    "engines": [
+      { "code": "NISS-2.0L-I4", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-nissan-kicks-play-sr",
+    "engines": [
+      { "code": "NISS-2.0L-I4", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-nissan-leaf-s",
+    "engines": [
+      { "code": "NISS-LEAF-EV", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-nissan-leaf-sv",
+    "engines": [
+      { "code": "NISS-LEAF-EV", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-nissan-leaf-sl",
+    "engines": [
+      { "code": "NISS-LEAF-EV", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-nissan-murano-s",
+    "engines": [
+      { "code": "NISS-3.5L-V6", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-nissan-murano-sv",
+    "engines": [
+      { "code": "NISS-3.5L-V6", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-nissan-murano-sl",
+    "engines": [
+      { "code": "NISS-3.5L-V6", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-nissan-murano-platinum",
+    "engines": [
+      { "code": "NISS-3.5L-V6", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-nissan-pathfinder-s",
+    "engines": [
+      { "code": "NISS-3.5L-V6", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-nissan-pathfinder-sv",
+    "engines": [
+      { "code": "NISS-3.5L-V6", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-nissan-pathfinder-sl",
+    "engines": [
+      { "code": "NISS-3.5L-V6", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-nissan-pathfinder-platinum",
+    "engines": [
+      { "code": "NISS-3.5L-V6", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-nissan-pathfinder-rock-creek",
+    "engines": [
+      { "code": "NISS-3.5L-V6", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-nissan-rogue-s",
+    "engines": [
+      { "code": "NISS-2.5L-I4", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-nissan-rogue-sv",
+    "engines": [
+      { "code": "NISS-2.5L-I4", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-nissan-rogue-sl",
+    "engines": [
+      { "code": "NISS-2.5L-I4", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-nissan-sentra-s",
+    "engines": [
+      { "code": "NISS-2.0L-I4", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-nissan-sentra-sv",
+    "engines": [
+      { "code": "NISS-2.0L-I4", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-nissan-sentra-sr",
+    "engines": [
+      { "code": "NISS-2.0L-I4", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-nissan-sentra-sl",
+    "engines": [
+      { "code": "NISS-2.0L-I4", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-nissan-versa-s",
+    "engines": [
+      { "code": "NISS-2.0L-I4", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-nissan-versa-sv",
+    "engines": [
+      { "code": "NISS-2.0L-I4", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-nissan-versa-sr",
+    "engines": [
+      { "code": "NISS-2.0L-I4", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-nissan-z",
+    "engines": [
+      { "code": "NISS-Z-3.7L-V6", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-nissan-z-performance",
+    "engines": [
+      { "code": "NISS-Z-3.7L-V6", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-nissan-z-nismo",
+    "engines": [
+      { "code": "NISS-Z-3.7L-V6", "standard": true }
+    ]
   }
 ]
