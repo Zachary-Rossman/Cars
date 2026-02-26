@@ -5893,5 +5893,2190 @@
     "engines": [
       { "code": "NISS-Z-3.7L-V6", "standard": true }
     ]
+  },
+  {
+    "trim_code": "2026-pagani-huayra-codalunga-speedster",
+    "engines": [
+      { "code": "PAGANI-AMG-V12", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-pagani-huayra-r-evo-roadster",
+    "engines": [
+      { "code": "PAGANI-AMG-V12", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-pagani-utopia-roadster",
+    "engines": [
+      { "code": "PAGANI-AMG-V12", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-pagani-zonda-unico",
+    "engines": [
+      { "code": "PAGANI-AMG-V12", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-polestar-2-base",
+    "engines": [
+      { "code": "POL-2-DUAL-MOTOR-EV", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-polestar-2-long-range",
+    "engines": [
+      { "code": "POL-2-DUAL-MOTOR-EV", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-polestar-2-performance",
+    "engines": [
+      { "code": "POL-2-DUAL-MOTOR-EV", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-polestar-3-standard",
+    "engines": [
+      { "code": "POL-3-DUAL-MOTOR-EV", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-polestar-3-long-range",
+    "engines": [
+      { "code": "POL-3-DUAL-MOTOR-EV", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-polestar-3-performance",
+    "engines": [
+      { "code": "POL-3-DUAL-MOTOR-EV", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-polestar-4-base",
+    "engines": [
+      { "code": "POL-4-DUAL-MOTOR-EV", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-polestar-4-long-range",
+    "engines": [
+      { "code": "POL-4-DUAL-MOTOR-EV", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-polestar-4-performance",
+    "engines": [
+      { "code": "POL-4-DUAL-MOTOR-EV", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-718-boxster-base",
+    "engines": [
+      { "code": "POR-4-CYL-2.0T", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-718-boxster-gts-40",
+    "engines": [
+      { "code": "POR-6-CYL-4.0NA", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-718-boxster-s",
+    "engines": [
+      { "code": "POR-6-CYL-2.5T", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-718-boxster-style-edition",
+    "engines": [
+      { "code": "POR-6-CYL-2.5T", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-718-cayman-base",
+    "engines": [
+      { "code": "POR-4-CYL-2.0T", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-718-cayman-s",
+    "engines": [
+      { "code": "POR-6-CYL-2.5T", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-718-cayman-gts-40",
+    "engines": [
+      { "code": "POR-6-CYL-4.0NA", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-718-cayman-gt4-rs",
+    "engines": [
+      { "code": "POR-6-CYL-4.0NA", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-718-cayman-style-edition",
+    "engines": [
+      { "code": "POR-6-CYL-2.5T", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-718-spyder-rs",
+    "engines": [
+      { "code": "POR-6-CYL-4.0NA", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-911-carrera-base",
+    "engines": [
+      { "code": "POR-6-CYL-3.0TT", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-911-carrera-cabriolet",
+    "engines": [
+      { "code": "POR-6-CYL-3.0TT", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-911-carrera-s-coupe",
+    "engines": [
+      { "code": "POR-6-CYL-3.0TT", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-911-carrera-s-cabriolet",
+    "engines": [
+      { "code": "POR-6-CYL-3.0TT", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-911-carrera-gts-coupe",
+    "engines": [
+      { "code": "POR-6-CYL-3.0TT", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-911-carrera-gts-cabriolet",
+    "engines": [
+      { "code": "POR-6-CYL-3.0TT", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-911-carrera-4s-coupe",
+    "engines": [
+      { "code": "POR-6-CYL-3.0TT", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-911-carrera-4s-cabriolet",
+    "engines": [
+      { "code": "POR-6-CYL-3.0TT", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-911-carrera-t-coupe",
+    "engines": [
+      { "code": "POR-6-CYL-3.0TT", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-911-carrera-t-cabriolet",
+    "engines": [
+      { "code": "POR-6-CYL-3.0TT", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-911-gt3-base",
+    "engines": [
+      { "code": "POR-6-CYL-4.0NA", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-911-gt3-90-fa-porsche",
+    "engines": [
+      { "code": "POR-6-CYL-4.0NA", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-911-gt3-rs",
+    "engines": [
+      { "code": "POR-6-CYL-4.0NA", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-911-spirit-70",
+    "engines": [
+      { "code": "POR-6-CYL-4.0NA", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-911-targa-4s",
+    "engines": [
+      { "code": "POR-6-CYL-3.0TT", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-911-targa-4-gts",
+    "engines": [
+      { "code": "POR-6-CYL-3.0TT", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-911-turbo-s",
+    "engines": [
+      { "code": "POR-6-CYL-3.8TT", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-911-turbo-s-cabriolet",
+    "engines": [
+      { "code": "POR-6-CYL-3.8TT", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-cayenne-base",
+    "engines": [
+      { "code": "POR-6-CYL-3.0TT", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-cayenne-coupe",
+    "engines": [
+      { "code": "POR-6-CYL-3.0TT", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-cayenne-e-hybrid",
+    "engines": [
+      { "code": "POR-HYBRID-3.0T", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-cayenne-e-hybrid-coupe",
+    "engines": [
+      { "code": "POR-HYBRID-3.0T", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-cayenne-electric",
+    "engines": [
+      { "code": "POR-EV-93KWH-DUAL", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-cayenne-gts",
+    "engines": [
+      { "code": "POR-6-CYL-4.0NA", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-cayenne-gts-coupe",
+    "engines": [
+      { "code": "POR-6-CYL-4.0NA", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-cayenne-s",
+    "engines": [
+      { "code": "POR-6-CYL-3.0TT", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-cayenne-s-coupe",
+    "engines": [
+      { "code": "POR-6-CYL-3.0TT", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-cayenne-s-e-hybrid",
+    "engines": [
+      { "code": "POR-HYBRID-3.0T", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-cayenne-s-e-hybrid-coupe",
+    "engines": [
+      { "code": "POR-HYBRID-3.0T", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-cayenne-turbo-e-hybrid",
+    "engines": [
+      { "code": "POR-HYBRID-3.0T", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-cayenne-turbo-e-hybrid-coupe",
+    "engines": [
+      { "code": "POR-HYBRID-3.0T", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-cayenne-turbo-electric",
+    "engines": [
+      { "code": "POR-EV-93KWH-DUAL-ULTRA", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-cayenne-turbo-gt",
+    "engines": [
+      { "code": "POR-6-CYL-4.0NA", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-macan-base",
+    "engines": [
+      { "code": "POR-4-CYL-2.0T", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-macan-4-electric",
+    "engines": [
+      { "code": "POR-EV-93KWH-DUAL", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-macan-4s-electric",
+    "engines": [
+      { "code": "POR-EV-93KWH-DUAL", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-macan-electric",
+    "engines": [
+      { "code": "POR-EV-93KWH-DUAL", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-macan-gts",
+    "engines": [
+      { "code": "POR-6-CYL-3.0TT", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-macan-gts-electric",
+    "engines": [
+      { "code": "POR-EV-93KWH-DUAL-ULTRA", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-macan-s",
+    "engines": [
+      { "code": "POR-6-CYL-3.0TT", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-macan-t",
+    "engines": [
+      { "code": "POR-4-CYL-2.0T", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-macan-turbo-electric",
+    "engines": [
+      { "code": "POR-EV-93KWH-DUAL-ULTRA", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-panamera-base",
+    "engines": [
+      { "code": "POR-6-CYL-3.0TT", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-panamera-4",
+    "engines": [
+      { "code": "POR-6-CYL-3.0TT", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-panamera-4-e-hybrid",
+    "engines": [
+      { "code": "POR-HYBRID-3.0T", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-panamera-4s-e-hybrid",
+    "engines": [
+      { "code": "POR-HYBRID-3.0T", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-panamera-gts",
+    "engines": [
+      { "code": "POR-6-CYL-4.0NA", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-panamera-turbo-e-hybrid",
+    "engines": [
+      { "code": "POR-HYBRID-3.0T", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-panamera-turbo-s-e-hybrid",
+    "engines": [
+      { "code": "POR-HYBRID-3.0T", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-taycan-base",
+    "engines": [
+      { "code": "POR-EV-93KWH-DUAL", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-taycan-4",
+    "engines": [
+      { "code": "POR-EV-93KWH-DUAL", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-taycan-4-cross-turismo",
+    "engines": [
+      { "code": "POR-EV-93KWH-DUAL", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-taycan-4s",
+    "engines": [
+      { "code": "POR-EV-93KWH-DUAL", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-taycan-4s-cross-turismo",
+    "engines": [
+      { "code": "POR-EV-93KWH-DUAL", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-taycan-gts",
+    "engines": [
+      { "code": "POR-EV-93KWH-DUAL-ULTRA", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-taycan-gts-sport-turismo",
+    "engines": [
+      { "code": "POR-EV-93KWH-DUAL-ULTRA", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-taycan-turbo",
+    "engines": [
+      { "code": "POR-EV-93KWH-DUAL-ULTRA", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-taycan-turbo-cross-turismo",
+    "engines": [
+      { "code": "POR-EV-93KWH-DUAL-ULTRA", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-taycan-turbo-gt",
+    "engines": [
+      { "code": "POR-EV-93KWH-DUAL-ULTRA", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-taycan-turbo-s",
+    "engines": [
+      { "code": "POR-EV-93KWH-DUAL-ULTRA", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-taycan-turbo-s-cross-turismo",
+    "engines": [
+      { "code": "POR-EV-93KWH-DUAL-ULTRA", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-ram-1500-tradesman",
+    "engines": [
+      { "code": "RAM-3.6L-V6-eTorque", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-ram-1500-big-horn",
+    "engines": [
+      { "code": "RAM-3.6L-V6-eTorque", "standard": false },
+      { "code": "RAM-5.7L-V8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-ram-1500-laramie",
+    "engines": [
+      { "code": "RAM-5.7L-V8", "standard": false },
+      { "code": "RAM-6.7L-I6-Diesel", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-ram-1500-laramie-longhorn",
+    "engines": [
+      { "code": "RAM-5.7L-V8", "standard": false },
+      { "code": "RAM-6.7L-I6-Diesel", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-ram-1500-rebel",
+    "engines": [
+      { "code": "RAM-5.7L-V8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-ram-1500-limited",
+    "engines": [
+      { "code": "RAM-5.7L-V8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-ram-1500-1500-rev",
+    "engines": [
+      { "code": "RAM-3.6L-V6-eTorque", "standard": false },
+      { "code": "RAM-5.7L-V8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-ram-1500-1500-rho",
+    "engines": [
+      { "code": "RAM-3.6L-V6-eTorque", "standard": false },
+      { "code": "RAM-5.7L-V8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-ram-2500-tradesman",
+    "engines": [
+      { "code": "RAM-6.7L-I6-Diesel", "standard": false },
+      { "code": "RAM-5.7L-V8", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-ram-2500-big-horn",
+    "engines": [
+      { "code": "RAM-6.7L-I6-Diesel", "standard": false },
+      { "code": "RAM-5.7L-V8", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-ram-2500-laramie",
+    "engines": [
+      { "code": "RAM-6.7L-I6-Diesel", "standard": false },
+      { "code": "RAM-5.7L-V8", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-ram-2500-laramie-longhorn",
+    "engines": [
+      { "code": "RAM-6.7L-I6-Diesel", "standard": false },
+      { "code": "RAM-5.7L-V8", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-ram-2500-rebel",
+    "engines": [
+      { "code": "RAM-6.7L-I6-Diesel", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-ram-2500-limited",
+    "engines": [
+      { "code": "RAM-6.7L-I6-Diesel", "standard": false },
+      { "code": "RAM-5.7L-V8", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-ram-3500-tradesman",
+    "engines": [
+      { "code": "RAM-6.7L-I6-Diesel", "standard": false },
+      { "code": "RAM-5.7L-V8", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-ram-3500-big-horn",
+    "engines": [
+      { "code": "RAM-6.7L-I6-Diesel", "standard": false },
+      { "code": "RAM-5.7L-V8", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-ram-3500-laramie",
+    "engines": [
+      { "code": "RAM-6.7L-I6-Diesel", "standard": false },
+      { "code": "RAM-5.7L-V8", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-ram-3500-laramie-longhorn",
+    "engines": [
+      { "code": "RAM-6.7L-I6-Diesel", "standard": false },
+      { "code": "RAM-5.7L-V8", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-ram-3500-rebel",
+    "engines": [
+      { "code": "RAM-6.7L-I6-Diesel", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-ram-3500-limited",
+    "engines": [
+      { "code": "RAM-6.7L-I6-Diesel", "standard": false },
+      { "code": "RAM-5.7L-V8", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-ram-promaster-1500",
+    "engines": [
+      { "code": "RAM-PROMASTER-3.6L-V6", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-ram-promaster-2500",
+    "engines": [
+      { "code": "RAM-PROMASTER-3.6L-V6", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-ram-promaster-3500",
+    "engines": [
+      { "code": "RAM-PROMASTER-3.6L-V6", "standard": false },
+      { "code": "RAM-PROMASTER-3.0L-I4-Diesel", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-ram-promaster-ev",
+    "engines": [
+      { "code": "RAM-PROMASTER-EV", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-rivian-delivery",
+    "engines": [
+      { "code": "RIVIAN-DELIVERY-EV", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-rivian-r1s",
+    "engines": [
+      { "code": "RIVIAN-R1S-R1T-EV", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-rivian-r1t-dual-motor",
+    "engines": [
+      { "code": "RIVIAN-R1S-R1T-EV", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-rivian-r1t-performance-dual-motor",
+    "engines": [
+      { "code": "RIVIAN-R1S-R1T-EV", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-rivian-r1t-quad-motor",
+    "engines": [
+      { "code": "RIVIAN-R1S-R1T-EV", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-rivian-r2-single-motor",
+    "engines": [
+      { "code": "RIVIAN-R2-R3-EV", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-rivian-r2-dual-motor",
+    "engines": [
+      { "code": "RIVIAN-R2-R3-EV", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-rivian-r2-performance-dual-motor",
+    "engines": [
+      { "code": "RIVIAN-R2-R3-EV", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-rivian-r3-single-motor",
+    "engines": [
+      { "code": "RIVIAN-R2-R3-EV", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-rivian-r3-dual-motor",
+    "engines": [
+      { "code": "RIVIAN-R2-R3-EV", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-rivian-r3-performance-dual-motor",
+    "engines": [
+      { "code": "RIVIAN-R2-R3-EV", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-rolls-royce-cullinan-series-ii-base",
+    "engines": [
+      { "code": "RR-CULLINAN-GHOST-PHANTOM-6.75L-V12-TWIN-TURBO", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-rolls-royce-cullinan-black-badge-series-ii",
+    "engines": [
+      { "code": "RR-CULLINAN-GHOST-PHANTOM-6.75L-V12-BLACK-BADGE", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-rolls-royce-ghost-series-ii-base",
+    "engines": [
+      { "code": "RR-CULLINAN-GHOST-PHANTOM-6.75L-V12-TWIN-TURBO", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-rolls-royce-black-badge-ghost-series-ii",
+    "engines": [
+      { "code": "RR-CULLINAN-GHOST-PHANTOM-6.75L-V12-BLACK-BADGE", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-rolls-royce-phantom-series-ii",
+    "engines": [
+      { "code": "RR-CULLINAN-GHOST-PHANTOM-6.75L-V12-TWIN-TURBO", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-rolls-royce-phantom-extended-series-ii",
+    "engines": [
+      { "code": "RR-CULLINAN-GHOST-PHANTOM-6.75L-V12-TWIN-TURBO", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-rolls-royce-spectre-base",
+    "engines": [
+      { "code": "RR-SPECTRE-DUAL-MOTOR-EV", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-rolls-royce-spectre-black-badge",
+    "engines": [
+      { "code": "RR-SPECTRE-DUAL-MOTOR-BLACK-BADGE-EV", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-subaru-ascent-base",
+    "engines": [
+      { "code": "SUB-ASCENT-CROSSTREK-FORESTER-OUTBACK-2.4L-TURBO", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-subaru-ascent-premium",
+    "engines": [
+      { "code": "SUB-ASCENT-CROSSTREK-FORESTER-OUTBACK-2.4L-TURBO", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-subaru-ascent-onyx-edition",
+    "engines": [
+      { "code": "SUB-ASCENT-CROSSTREK-FORESTER-OUTBACK-2.4L-TURBO", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-subaru-ascent-limited",
+    "engines": [
+      { "code": "SUB-ASCENT-CROSSTREK-FORESTER-OUTBACK-2.4L-TURBO", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-subaru-ascent-onyx-edition-limited",
+    "engines": [
+      { "code": "SUB-ASCENT-CROSSTREK-FORESTER-OUTBACK-2.4L-TURBO", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-subaru-ascent-touring",
+    "engines": [
+      { "code": "SUB-ASCENT-CROSSTREK-FORESTER-OUTBACK-2.4L-TURBO", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-subaru-brz-base",
+    "engines": [
+      { "code": "SUB-BRZ-2.4L-NATURALLY-ASPR", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-subaru-brz-premium",
+    "engines": [
+      { "code": "SUB-BRZ-2.4L-NATURALLY-ASPR", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-subaru-brz-limited",
+    "engines": [
+      { "code": "SUB-BRZ-2.4L-NATURALLY-ASPR", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-subaru-brz-ts",
+    "engines": [
+      { "code": "SUB-BRZ-2.4L-NATURALLY-ASPR", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-subaru-crosstrek-base",
+    "engines": [
+      { "code": "SUB-LEGACY-IMPREZA-WRX-2.0L-TURBO", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-subaru-crosstrek-premium",
+    "engines": [
+      { "code": "SUB-LEGACY-IMPREZA-WRX-2.0L-TURBO", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-subaru-crosstrek-sport",
+    "engines": [
+      { "code": "SUB-ASCENT-CROSSTREK-FORESTER-OUTBACK-2.4L-TURBO", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-subaru-crosstrek-limited",
+    "engines": [
+      { "code": "SUB-ASCENT-CROSSTREK-FORESTER-OUTBACK-2.4L-TURBO", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-subaru-crosstrek-wilderness",
+    "engines": [
+      { "code": "SUB-ASCENT-CROSSTREK-FORESTER-OUTBACK-2.4L-TURBO", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-subaru-forester-base",
+    "engines": [
+      { "code": "SUB-ASCENT-CROSSTREK-FORESTER-OUTBACK-2.4L-TURBO", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-subaru-forester-premium",
+    "engines": [
+      { "code": "SUB-ASCENT-CROSSTREK-FORESTER-OUTBACK-2.4L-TURBO", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-subaru-forester-sport",
+    "engines": [
+      { "code": "SUB-ASCENT-CROSSTREK-FORESTER-OUTBACK-2.4L-TURBO", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-subaru-forester-limited",
+    "engines": [
+      { "code": "SUB-ASCENT-CROSSTREK-FORESTER-OUTBACK-2.4L-TURBO", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-subaru-forester-wilderness",
+    "engines": [
+      { "code": "SUB-ASCENT-CROSSTREK-FORESTER-OUTBACK-2.4L-TURBO", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-subaru-legacy-base",
+    "engines": [
+      { "code": "SUB-LEGACY-IMPREZA-WRX-2.0L-TURBO", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-subaru-legacy-premium",
+    "engines": [
+      { "code": "SUB-ASCENT-CROSSTREK-FORESTER-OUTBACK-2.4L-TURBO", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-subaru-legacy-sport",
+    "engines": [
+      { "code": "SUB-ASCENT-CROSSTREK-FORESTER-OUTBACK-2.4L-TURBO", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-subaru-legacy-limited",
+    "engines": [
+      { "code": "SUB-ASCENT-CROSSTREK-FORESTER-OUTBACK-2.4L-TURBO", "standard": false },
+      { "code": "SUB-LEGACY-IMPREZA-WRX-2.0L-TURBO", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-subaru-legacy-touring",
+    "engines": [
+      { "code": "SUB-ASCENT-CROSSTREK-FORESTER-OUTBACK-2.4L-TURBO", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-subaru-impreza-base",
+    "engines": [
+      { "code": "SUB-LEGACY-IMPREZA-WRX-2.0L-TURBO", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-subaru-impreza-premium",
+    "engines": [
+      { "code": "SUB-LEGACY-IMPREZA-WRX-2.0L-TURBO", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-subaru-impreza-sport",
+    "engines": [
+      { "code": "SUB-LEGACY-IMPREZA-WRX-2.0L-TURBO", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-subaru-impreza-limited",
+    "engines": [
+      { "code": "SUB-LEGACY-IMPREZA-WRX-2.0L-TURBO", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-subaru-outback-base",
+    "engines": [
+      { "code": "SUB-ASCENT-CROSSTREK-FORESTER-OUTBACK-2.4L-TURBO", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-subaru-outback-premium",
+    "engines": [
+      { "code": "SUB-ASCENT-CROSSTREK-FORESTER-OUTBACK-2.4L-TURBO", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-subaru-outback-sport",
+    "engines": [
+      { "code": "SUB-ASCENT-CROSSTREK-FORESTER-OUTBACK-2.4L-TURBO", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-subaru-outback-limited",
+    "engines": [
+      { "code": "SUB-ASCENT-CROSSTREK-FORESTER-OUTBACK-2.4L-TURBO", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-subaru-outback-wilderness",
+    "engines": [
+      { "code": "SUB-ASCENT-CROSSTREK-FORESTER-OUTBACK-2.4L-TURBO", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-subaru-solterra-base",
+    "engines": [
+      { "code": "SUB-SOLTERRA-EV", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-subaru-solterra-premium",
+    "engines": [
+      { "code": "SUB-SOLTERRA-EV", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-subaru-solterra-sport",
+    "engines": [
+      { "code": "SUB-SOLTERRA-EV", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-subaru-solterra-limited",
+    "engines": [
+      { "code": "SUB-SOLTERRA-EV", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-subaru-wrx-base",
+    "engines": [
+      { "code": "SUB-ASCENT-CROSSTREK-FORESTER-OUTBACK-2.4L-TURBO", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-subaru-wrx-premium",
+    "engines": [
+      { "code": "SUB-ASCENT-CROSSTREK-FORESTER-OUTBACK-2.4L-TURBO", "standard": true },
+      { "code": "SUB-LEGACY-IMPREZA-WRX-2.0L-TURBO", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-subaru-wrx-limited",
+    "engines": [
+      { "code": "SUB-ASCENT-CROSSTREK-FORESTER-OUTBACK-2.4L-TURBO", "standard": true },
+      { "code": "SUB-LEGACY-IMPREZA-WRX-2.0L-TURBO", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-subaru-wrx-sport-tech",
+    "engines": [
+      { "code": "SUB-ASCENT-CROSSTREK-FORESTER-OUTBACK-2.4L-TURBO", "standard": true },
+      { "code": "SUB-LEGACY-IMPREZA-WRX-2.0L-TURBO", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-tesla-cybertruck-awd",
+    "engines": [
+      { "code": "TES-CYBERTRUCK-DUAL-MOTOR-AWD", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-tesla-cybertruck-cyberbeast",
+    "engines": [
+      { "code": "TES-CYBERTRUCK-TRIPLE-MOTOR-AWD", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-tesla-model-3-standard",
+    "engines": [
+      { "code": "TES-MODEL-3-REAR-WHEEL-DRIVE", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-tesla-model-3-premium-rwd",
+    "engines": [
+      { "code": "TES-MODEL-3-REAR-WHEEL-DRIVE", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-tesla-model-3-premium-awd",
+    "engines": [
+      { "code": "TES-MODEL-3-DUAL-MOTOR-AWD", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-tesla-model-3-performance",
+    "engines": [
+      { "code": "TES-MODEL-3-DUAL-MOTOR-AWD", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-tesla-model-s-awd",
+    "engines": [
+      { "code": "TES-MODEL-S-DUAL-MOTOR-AWD", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-tesla-model-s-plaid",
+    "engines": [
+      { "code": "TES-MODEL-S-PLAID-TRIPLE-MOTOR-AWD", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-tesla-model-x-awd",
+    "engines": [
+      { "code": "TES-MODEL-X-DUAL-MOTOR-AWD", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-tesla-model-x-plaid",
+    "engines": [
+      { "code": "TES-MODEL-X-PLAID-TRIPLE-MOTOR-AWD", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-tesla-model-y-rwd",
+    "engines": [
+      { "code": "TES-MODEL-3-REAR-WHEEL-DRIVE", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-tesla-model-y-premium-rwd",
+    "engines": [
+      { "code": "TES-MODEL-3-REAR-WHEEL-DRIVE", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-tesla-model-y-premium-awd",
+    "engines": [
+      { "code": "TES-MODEL-Y-DUAL-MOTOR-AWD", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-tesla-model-y-performance",
+    "engines": [
+      { "code": "TES-MODEL-Y-DUAL-MOTOR-AWD", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-4runner-sr5",
+    "engines": [
+      { "code": "TOY-4RUNNER-2.4L-TURBO", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-4runner-trd-sport",
+    "engines": [
+      { "code": "TOY-4RUNNER-2.4L-TURBO", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-4runner-trd-off-road",
+    "engines": [
+      { "code": "TOY-4RUNNER-2.4L-TURBO", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-4runner-trd-sport-premium",
+    "engines": [
+      { "code": "TOY-4RUNNER-2.4L-TURBO", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-4runner-trd-off-road-premium",
+    "engines": [
+      { "code": "TOY-4RUNNER-2.4L-TURBO", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-4runner-limited",
+    "engines": [
+      { "code": "TOY-4RUNNER-i-FORCE-MAX-HYBRID", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-4runner-platinum",
+    "engines": [
+      { "code": "TOY-4RUNNER-i-FORCE-MAX-HYBRID", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-4runner-trd-pro",
+    "engines": [
+      { "code": "TOY-4RUNNER-i-FORCE-MAX-HYBRID", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-4runner-trailhunter",
+    "engines": [
+      { "code": "TOY-4RUNNER-i-FORCE-MAX-HYBRID", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-4runner-iforce-max-limited",
+    "engines": [
+      { "code": "TOY-4RUNNER-i-FORCE-MAX-HYBRID", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-4runner-iforce-max-platinum",
+    "engines": [
+      { "code": "TOY-4RUNNER-i-FORCE-MAX-HYBRID", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-4runner-iforce-max-trd-pro",
+    "engines": [
+      { "code": "TOY-4RUNNER-i-FORCE-MAX-HYBRID", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-4runner-iforce-max-trailhunter",
+    "engines": [
+      { "code": "TOY-4RUNNER-i-FORCE-MAX-HYBRID", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-bz-xle-fwd",
+    "engines": [
+      { "code": "TOY-BZ-ELECTRIC-57.7KWH", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-bz-xle-fwd-plus",
+    "engines": [
+      { "code": "TOY-BZ-ELECTRIC-74.7KWH", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-bz-xle-awd",
+    "engines": [
+      { "code": "TOY-BZ-ELECTRIC-74.7KWH-AWD", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-bz-limited-fwd",
+    "engines": [
+      { "code": "TOY-BZ-ELECTRIC-74.7KWH", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-bz-limited-awd",
+    "engines": [
+      { "code": "TOY-BZ-ELECTRIC-74.7KWH-AWD", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-camry-le",
+    "engines": [
+      { "code": "TOY-CAMRY-HYBRID-2.5L", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-camry-se",
+    "engines": [
+      { "code": "TOY-CAMRY-HYBRID-2.5L", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-camry-nightshade",
+    "engines": [
+      { "code": "TOY-CAMRY-HYBRID-2.5L", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-camry-xle",
+    "engines": [
+      { "code": "TOY-CAMRY-HYBRID-2.5L", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-camry-xse",
+    "engines": [
+      { "code": "TOY-CAMRY-HYBRID-2.5L", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-corolla-le",
+    "engines": [
+      { "code": "TOY-PRIUS-HYBRID-2.0L", "standard": false },
+      { "code": "TOY-COROLLA-1.8L-I4", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-corolla-se",
+    "engines": [
+      { "code": "TOY-COROLLA-2.0L-I4", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-corolla-xle",
+    "engines": [
+      { "code": "TOY-COROLLA-2.0L-I4", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-corolla-hybrid-le",
+    "engines": [
+      { "code": "TOY-PRIUS-HYBRID-2.0L", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-corolla-hybrid-xle",
+    "engines": [
+      { "code": "TOY-PRIUS-HYBRID-2.0L", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-corolla-hatchback-se",
+    "engines": [
+      { "code": "TOY-COROLLA-2.0L-I4", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-corolla-cross-le",
+    "engines": [
+      { "code": "TOY-COROLLA-2.0L-I4", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-corolla-cross-xle",
+    "engines": [
+      { "code": "TOY-COROLLA-2.0L-I4", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-corolla-cross-hybrid-xle",
+    "engines": [
+      { "code": "TOY-PRIUS-HYBRID-2.0L", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-crown-xle",
+    "engines": [
+      { "code": "TOY-RAV4-HYBRID-2.5L", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-crown-limited",
+    "engines": [
+      { "code": "TOY-RAV4-HYBRID-2.5L", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-crown-nightshade",
+    "engines": [
+      { "code": "TOY-RAV4-HYBRID-2.5L", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-crown-platinum",
+    "engines": [
+      { "code": "TOY-TUNDRA-i-FORCE-MAX-HYBRID", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-crown-signia-xle",
+    "engines": [
+      { "code": "TOY-RAV4-HYBRID-2.5L", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-crown-signia-limited",
+    "engines": [
+      { "code": "TOY-RAV4-HYBRID-2.5L", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-gr-corolla-base",
+    "engines": [
+      { "code": "TOY-GR86-2.4L-I4-NATURALLY-ASPR", "standard": false },
+      { "code": "TOY-4RUNNER-2.4L-TURBO", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-gr-corolla-premium-plus",
+    "engines": [
+      { "code": "TOY-GR86-2.4L-I4-NATURALLY-ASPR", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-gr-supra-3-0",
+    "engines": [
+      { "code": "TOY-GR-SUPRA-3.0L-I6-TURBO", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-gr-supra-3-0-premium",
+    "engines": [
+      { "code": "TOY-GR-SUPRA-3.0L-I6-TURBO", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-gr-supra-mkv-final-edition",
+    "engines": [
+      { "code": "TOY-GR-SUPRA-3.0L-I6-TURBO", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-gr86-base",
+    "engines": [
+      { "code": "TOY-GR86-2.4L-I4-NATURALLY-ASPR", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-gr86-premium",
+    "engines": [
+      { "code": "TOY-GR86-2.4L-I4-NATURALLY-ASPR", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-gr86-yuzu-edition",
+    "engines": [
+      { "code": "TOY-GR86-2.4L-I4-NATURALLY-ASPR", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-grand-highlander-le",
+    "engines": [
+      { "code": "TOY-4RUNNER-2.4L-TURBO", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-grand-highlander-xle",
+    "engines": [
+      { "code": "TOY-4RUNNER-2.4L-TURBO", "standard": true },
+      { "code": "TOY-RAV4-HYBRID-2.5L", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-grand-highlander-limited",
+    "engines": [
+      { "code": "TOY-4RUNNER-2.4L-TURBO", "standard": false },
+      { "code": "TOY-RAV4-HYBRID-2.5L", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-grand-highlander-platinum",
+    "engines": [
+      { "code": "TOY-4RUNNER-2.4L-TURBO", "standard": false },
+      { "code": "TOY-RAV4-HYBRID-2.5L", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-grand-highlander-hybrid-nightshade",
+    "engines": [
+      { "code": "TOY-RAV4-HYBRID-2.5L", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-grand-highlander-hybrid-max-limited",
+    "engines": [
+      { "code": "TOY-TUNDRA-i-FORCE-MAX-HYBRID", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-grand-highlander-hybrid-max-platinum",
+    "engines": [
+      { "code": "TOY-TUNDRA-i-FORCE-MAX-HYBRID", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-highlander-le",
+    "engines": [
+      { "code": "TOY-RAV4-HYBRID-2.5L", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-highlander-xle",
+    "engines": [
+      { "code": "TOY-RAV4-HYBRID-2.5L", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-highlander-limited",
+    "engines": [
+      { "code": "TOY-RAV4-HYBRID-2.5L", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-highlander-platinum",
+    "engines": [
+      { "code": "TOY-TUNDRA-i-FORCE-MAX-HYBRID", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-highlander-hybrid-xle",
+    "engines": [
+      { "code": "TOY-RAV4-HYBRID-2.5L", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-highlander-hybrid-limited",
+    "engines": [
+      { "code": "TOY-RAV4-HYBRID-2.5L", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-highlander-hybrid-platinum",
+    "engines": [
+      { "code": "TOY-TUNDRA-i-FORCE-MAX-HYBRID", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-land-cruiser-1958",
+    "engines": [
+      { "code": "TOY-4RUNNER-i-FORCE-MAX-HYBRID", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-land-cruiser-base",
+    "engines": [
+      { "code": "TOY-4RUNNER-i-FORCE-MAX-HYBRID", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-mirai-xle",
+    "engines": [
+      { "code": "TOY-MIRAI-FUEL-CELL", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-prius-le",
+    "engines": [
+      { "code": "TOY-PRIUS-HYBRID-2.0L", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-prius-xle",
+    "engines": [
+      { "code": "TOY-PRIUS-HYBRID-2.0L", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-prius-nightshade",
+    "engines": [
+      { "code": "TOY-PRIUS-HYBRID-2.0L", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-prius-limited",
+    "engines": [
+      { "code": "TOY-PRIUS-HYBRID-2.0L", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-prius-plug-in-se",
+    "engines": [
+      { "code": "TOY-PRIUS-PHEV-2.0L", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-prius-plug-in-xse",
+    "engines": [
+      { "code": "TOY-PRIUS-PHEV-2.0L", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-prius-plug-in-nightshade",
+    "engines": [
+      { "code": "TOY-PRIUS-PHEV-2.0L", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-prius-plug-in-xse-premium",
+    "engines": [
+      { "code": "TOY-PRIUS-PHEV-2.0L", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-rav4-le",
+    "engines": [
+      { "code": "TOY-RAV4-HYBRID-2.5L", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-rav4-se",
+    "engines": [
+      { "code": "TOY-RAV4-HYBRID-2.5L", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-rav4-xle-premium",
+    "engines": [
+      { "code": "TOY-RAV4-HYBRID-2.5L", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-rav4-xse",
+    "engines": [
+      { "code": "TOY-RAV4-HYBRID-2.5L", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-rav4-limited",
+    "engines": [
+      { "code": "TOY-RAV4-HYBRID-2.5L", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-rav4-woodland",
+    "engines": [
+      { "code": "TOY-RAV4-HYBRID-2.5L", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-rav4-gr-sport-phev",
+    "engines": [
+      { "code": "TOY-RAV4-PHEV-2.5L", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-rav4-se-phev",
+    "engines": [
+      { "code": "TOY-RAV4-PHEV-2.5L", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-rav4-xse-phev",
+    "engines": [
+      { "code": "TOY-RAV4-PHEV-2.5L", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-rav4-woodland-phev",
+    "engines": [
+      { "code": "TOY-RAV4-PHEV-2.5L", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-sequoia-sr5",
+    "engines": [
+      { "code": "TOY-TUNDRA-i-FORCE-MAX-HYBRID", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-sequoia-limited",
+    "engines": [
+      { "code": "TOY-TUNDRA-i-FORCE-MAX-HYBRID", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-sequoia-platinum",
+    "engines": [
+      { "code": "TOY-TUNDRA-i-FORCE-MAX-HYBRID", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-sequoia-trd-pro",
+    "engines": [
+      { "code": "TOY-TUNDRA-i-FORCE-MAX-HYBRID", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-sequoia-1794-edition",
+    "engines": [
+      { "code": "TOY-TUNDRA-i-FORCE-MAX-HYBRID", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-sequoia-capstone",
+    "engines": [
+      { "code": "TOY-TUNDRA-i-FORCE-MAX-HYBRID", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-sienna-le",
+    "engines": [
+      { "code": "TOY-SIENNA-HYBRID-2.5L", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-sienna-xle",
+    "engines": [
+      { "code": "TOY-SIENNA-HYBRID-2.5L", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-sienna-xse",
+    "engines": [
+      { "code": "TOY-SIENNA-HYBRID-2.5L", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-sienna-woodland-edition",
+    "engines": [
+      { "code": "TOY-SIENNA-HYBRID-2.5L", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-sienna-limited",
+    "engines": [
+      { "code": "TOY-SIENNA-HYBRID-2.5L", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-sienna-platinum",
+    "engines": [
+      { "code": "TOY-SIENNA-HYBRID-2.5L", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-tacoma-sr",
+    "engines": [
+      { "code": "TOY-4RUNNER-2.4L-TURBO", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-tacoma-sr5",
+    "engines": [
+      { "code": "TOY-4RUNNER-2.4L-TURBO", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-tacoma-trd-prerunner",
+    "engines": [
+      { "code": "TOY-4RUNNER-2.4L-TURBO", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-tacoma-trd-sport",
+    "engines": [
+      { "code": "TOY-4RUNNER-2.4L-TURBO", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-tacoma-trd-off-road",
+    "engines": [
+      { "code": "TOY-4RUNNER-2.4L-TURBO", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-tacoma-limited",
+    "engines": [
+      { "code": "TOY-4RUNNER-2.4L-TURBO", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-tacoma-trd-sport-iforce-max",
+    "engines": [
+      { "code": "TOY-4RUNNER-i-FORCE-MAX-HYBRID", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-tacoma-trd-off-road-iforce-max",
+    "engines": [
+      { "code": "TOY-4RUNNER-i-FORCE-MAX-HYBRID", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-tacoma-limited-iforce-max",
+    "engines": [
+      { "code": "TOY-4RUNNER-i-FORCE-MAX-HYBRID", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-tacoma-trailhunter",
+    "engines": [
+      { "code": "TOY-4RUNNER-i-FORCE-MAX-HYBRID", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-tacoma-trd-pro",
+    "engines": [
+      { "code": "TOY-4RUNNER-i-FORCE-MAX-HYBRID", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-tundra-sr",
+    "engines": [
+      { "code": "TOY-TUNDRA-3.4L-V6", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-tundra-sr5",
+    "engines": [
+      { "code": "TOY-TUNDRA-3.4L-V6", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-tundra-limited",
+    "engines": [
+      { "code": "TOY-TUNDRA-3.4L-V6", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-tundra-platinum",
+    "engines": [
+      { "code": "TOY-TUNDRA-3.4L-V6", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-tundra-1794-edition",
+    "engines": [
+      { "code": "TOY-TUNDRA-3.4L-V6", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-tundra-trd-pro",
+    "engines": [
+      { "code": "TOY-TUNDRA-3.4L-V6", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-tundra-capstone",
+    "engines": [
+      { "code": "TOY-TUNDRA-3.4L-V6", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-tundra-limited-i-force-max",
+    "engines": [
+      { "code": "TOY-TUNDRA-i-FORCE-MAX-HYBRID", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-tundra-platinum-i-force-max",
+    "engines": [
+      { "code": "TOY-TUNDRA-i-FORCE-MAX-HYBRID", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-tundra-1794-edition-i-force-max",
+    "engines": [
+      { "code": "TOY-TUNDRA-i-FORCE-MAX-HYBRID", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-vinfast-vf8-eco",
+    "engines": [
+      { "code": "VF8-DUAL-MOTOR-EV", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-vinfast-vf8-plus",
+    "engines": [
+      { "code": "VF8-DUAL-MOTOR-EV", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-vinfast-vf9-eco",
+    "engines": [
+      { "code": "VF9-DUAL-MOTOR-EV", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-vinfast-vf9-plus",
+    "engines": [
+      { "code": "VF9-DUAL-MOTOR-EV", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-volkswagen-atlas-se",
+    "engines": [
+      { "code": "ATLAS-2.0-TURBO", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-volkswagen-atlas-se-technology",
+    "engines": [
+      { "code": "ATLAS-2.0-TURBO", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-volkswagen-atlas-peak-edition",
+    "engines": [
+      { "code": "ATLAS-2.0-TURBO", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-volkswagen-atlas-sel",
+    "engines": [
+      { "code": "ATLAS-2.0-TURBO", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-volkswagen-atlas-sel-premium-r-line",
+    "engines": [
+      { "code": "ATLAS-2.0-TURBO", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-volkswagen-atlas-cross-sport-se",
+    "engines": [
+      { "code": "ATLAS-2.0-TURBO", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-volkswagen-atlas-cross-sport-se-technology",
+    "engines": [
+      { "code": "ATLAS-2.0-TURBO", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-volkswagen-atlas-cross-sport-sel",
+    "engines": [
+      { "code": "ATLAS-2.0-TURBO", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-volkswagen-atlas-cross-sport-sel-r-line-black",
+    "engines": [
+      { "code": "ATLAS-2.0-TURBO", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-volkswagen-atlas-cross-sport-sel-premium-r-line",
+    "engines": [
+      { "code": "ATLAS-2.0-TURBO", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-volkswagen-golf-gti-s",
+    "engines": [
+      { "code": "GOLF-GTI-2.0-TURBO", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-volkswagen-golf-gti-autobahn",
+    "engines": [
+      { "code": "GOLF-GTI-2.0-TURBO", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-volkswagen-golf-r-4motion",
+    "engines": [
+      { "code": "GOLF-R-2.0-TURBO", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-volkswagen-id4-pro",
+    "engines": [
+      { "code": "ID.4-DUAL-MOTOR-EV", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-volkswagen-id4-pro-s",
+    "engines": [
+      { "code": "ID.4-DUAL-MOTOR-EV", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-volkswagen-id4-pro-s-plus",
+    "engines": [
+      { "code": "ID.4-DUAL-MOTOR-EV", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-volkswagen-id-buzz-pro-s",
+    "engines": [
+      { "code": "ID.BUZZ-DUAL-MOTOR-EV", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-volkswagen-id-buzz-pro-s-plus",
+    "engines": [
+      { "code": "ID.BUZZ-DUAL-MOTOR-EV", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-volkswagen-id-buzz-1st-edition",
+    "engines": [
+      { "code": "ID.BUZZ-DUAL-MOTOR-EV", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-volkswagen-jetta-s",
+    "engines": [
+      { "code": "JETTA-1.5-TURBO", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-volkswagen-jetta-se",
+    "engines": [
+      { "code": "JETTA-1.5-TURBO", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-volkswagen-jetta-r-line",
+    "engines": [
+      { "code": "JETTA-1.5-TURBO", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-volkswagen-jetta-gli-base",
+    "engines": [
+      { "code": "JETTA-GLI-2.0-TURBO", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-volkswagen-jetta-gli-autobahn",
+    "engines": [
+      { "code": "JETTA-GLI-2.0-TURBO", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-volkswagen-taos-s",
+    "engines": [
+      { "code": "TAOS-1.5-TURBO", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-volkswagen-taos-se",
+    "engines": [
+      { "code": "TAOS-1.5-TURBO", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-volkswagen-taos-se-black",
+    "engines": [
+      { "code": "TAOS-1.5-TURBO", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-volkswagen-taos-sel",
+    "engines": [
+      { "code": "TAOS-1.5-TURBO", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-volkswagen-tiguan-s",
+    "engines": [
+      { "code": "TIGUAN-2.0-TURBO", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-volkswagen-tiguan-se",
+    "engines": [
+      { "code": "TIGUAN-2.0-TURBO", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-volkswagen-tiguan-se-r-line-black",
+    "engines": [
+      { "code": "TIGUAN-2.0-TURBO", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-volkswagen-tiguan-sel-r-line-turbo",
+    "engines": [
+      { "code": "ATLAS-2.0-TURBO", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-volvo-ex90-single-motor",
+    "engines": [
+      { "code": "EXC90-EV", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-volvo-ex90-twin-motor",
+    "engines": [
+      { "code": "EXC90-EV", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-volvo-ex90-performance",
+    "engines": [
+      { "code": "EXC90-EV", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-volvo-v60-cross-country-plus",
+    "engines": [
+      { "code": "XC60-2.0-T5", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-volvo-v60-cross-country-ultra",
+    "engines": [
+      { "code": "XC60-2.0-T5", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-volvo-xc30-ex30-plus",
+    "engines": [
+      { "code": "XC30-EV", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-volvo-xc30-ex30-ultra",
+    "engines": [
+      { "code": "XC30-EV", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-volvo-xc30-ex30-cross-country",
+    "engines": [
+      { "code": "XC30-EV", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-volvo-xc40-core",
+    "engines": [
+      { "code": "XC40-2.0-T4", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-volvo-xc40-plus",
+    "engines": [
+      { "code": "XC40-2.0-T4", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-volvo-xc40-ultra",
+    "engines": [
+      { "code": "XC40-2.0-T4", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-volvo-ex40-plus",
+    "engines": [
+      { "code": "XC40-EV", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-volvo-ex40-ultra-black-edition",
+    "engines": [
+      { "code": "XC40-2.0-T4", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-volvo-xc60-core",
+    "engines": [
+      { "code": "XC60-2.0-T5", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-volvo-xc60-plus",
+    "engines": [
+      { "code": "XC60-2.0-T5", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-volvo-xc60-ultra",
+    "engines": [
+      { "code": "XC60-2.0-T5", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-volvo-xc60-ultra-black-edition",
+    "engines": [
+      { "code": "XC60-2.0-T5", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-volvo-xc60-plug-in-hybrid-core",
+    "engines": [
+      { "code": "XC60-T8-PLUG-IN", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-volvo-xc60-plug-in-hybrid-plus",
+    "engines": [
+      { "code": "XC60-T8-PLUG-IN", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-volvo-xc60-plug-in-hybrid-ultra",
+    "engines": [
+      { "code": "XC60-T8-PLUG-IN", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-volvo-xc60-plug-in-hybrid-polestar-engineered",
+    "engines": [
+      { "code": "XC60-T8-PLUG-IN", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-volvo-xc90-core",
+    "engines": [
+      { "code": "XC90-T8-PLUG-IN", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-volvo-xc90-plus",
+    "engines": [
+      { "code": "XC90-T8-PLUG-IN", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-volvo-xc90-ultra",
+    "engines": [
+      { "code": "XC90-T8-PLUG-IN", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-volvo-xc90-plug-in-hybrid-core",
+    "engines": [
+      { "code": "XC90-T8-PLUG-IN", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-volvo-xc90-plug-in-hybrid-plus",
+    "engines": [
+      { "code": "XC90-T8-PLUG-IN", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-volvo-xc90-plug-in-hybrid-ultra",
+    "engines": [
+      { "code": "XC90-T8-PLUG-IN", "standard": true }
+    ]
   }
 ]
