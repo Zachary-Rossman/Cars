@@ -1,23 +1,5089 @@
 [
-  { "trim_code": "2026-adx-base", "transmission_codes": ["cvt"] },
-  { "trim_code": "2026-adx-technology", "transmission_codes": ["cvt"] },
-  { "trim_code": "2026-adx-a-spec", "transmission_codes": ["cvt"] },
-  { "trim_code": "2026-adx-advance", "transmission_codes": ["cvt"] },
-  { "trim_code": "2026-integra-base", "transmission_codes": ["cvt"] },
-  { "trim_code": "2026-integra-technology", "transmission_codes": ["cvt"] },
-  { "trim_code": "2026-integra-a-spec", "transmission_codes": ["cvt"] },
-  { "trim_code": "2026-integra-a-spec-technology", "transmission_codes": ["cvt"] },
-  { "trim_code": "2026-integra-type-s", "transmission_codes": ["a8"] },
-  { "trim_code": "2026-mdx-base", "transmission_codes": ["a10"] },
-  { "trim_code": "2026-mdx-technology", "transmission_codes": ["a10"] },
-  { "trim_code": "2026-mdx-a-spec", "transmission_codes": ["a10"] },
-  { "trim_code": "2026-mdx-advance", "transmission_codes": ["a10"] },
-  { "trim_code": "2026-rdx-base", "transmission_codes": ["a8"] },
-  { "trim_code": "2026-rdx-technology", "transmission_codes": ["a8"] },
-  { "trim_code": "2026-rdx-a-spec", "transmission_codes": ["a8"] },
-  { "trim_code": "2026-rdx-advance", "transmission_codes": ["a8"] },
-  { "trim_code": "2026-tlx-base", "transmission_codes": ["cvt"] },
-  { "trim_code": "2026-tlx-technology", "transmission_codes": ["cvt"] },
-  { "trim_code": "2026-tlx-a-spec", "transmission_codes": ["cvt"] },
-  { "trim_code": "2026-tlx-type-s", "transmission_codes": ["a10"] }
+  {
+    "trim_code": "2026-adx-base",
+    "transmissions": [
+      { "code": "cvt", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-adx-technology",
+    "transmissions": [
+      { "code": "cvt", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-adx-a-spec",
+    "transmissions": [
+      { "code": "cvt", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-adx-advance",
+    "transmissions": [
+      { "code": "cvt", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-integra-base",
+    "transmissions": [
+      { "code": "cvt", "standard": true },
+      { "code": "m6", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-integra-technology",
+    "transmissions": [
+      { "code": "cvt", "standard": true },
+      { "code": "m6", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-integra-a-spec",
+    "transmissions": [
+      { "code": "cvt", "standard": true },
+      { "code": "m6", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-integra-a-spec-technology",
+    "transmissions": [
+      { "code": "cvt", "standard": true },
+      { "code": "m6", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-integra-type-s",
+    "transmissions": [
+      { "code": "m6", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-mdx-base",
+    "transmissions": [
+      { "code": "a10", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-mdx-technology",
+    "transmissions": [
+      { "code": "a10", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-mdx-a-spec",
+    "transmissions": [
+      { "code": "a10", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-mdx-advance",
+    "transmissions": [
+      { "code": "a10", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-rdx-base",
+    "transmissions": [
+      { "code": "a10", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-rdx-technology",
+    "transmissions": [
+      { "code": "a10", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-rdx-a-spec",
+    "transmissions": [
+      { "code": "a10", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-rdx-advance",
+    "transmissions": [
+      { "code": "a10", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-tlx-base",
+    "transmissions": [
+      { "code": "a10", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-tlx-technology",
+    "transmissions": [
+      { "code": "a10", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-tlx-a-spec",
+    "transmissions": [
+      { "code": "a10", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-tlx-type-s",
+    "transmissions": [
+      { "code": "a10", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-giulia-base",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-giulia-veloce-package",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-giulia-tributo-italiano",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-stelvio-tributo-italiano",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-tonale-sprint",
+    "transmissions": [
+      { "code": "a6", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-tonale-sport-speciale",
+    "transmissions": [
+      { "code": "a6", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-tonale-veloce",
+    "transmissions": [
+      { "code": "a6", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-db12-coupe",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-vantage-coupe",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-vanquish-coupe",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-dbx-base",
+    "transmissions": [
+      { "code": "a9", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-dbx-707",
+    "transmissions": [
+      { "code": "a9", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-valhalla",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-valkyrie",
+    "transmissions": [
+      { "code": "a7", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-valour",
+    "transmissions": [
+      { "code": "m6", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-valiant",
+    "transmissions": [
+      { "code": "m6", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-a3-premium",
+    "transmissions": [
+      { "code": "a7", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-a3-premium-plus",
+    "transmissions": [
+      { "code": "a7", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-a3-prestige",
+    "transmissions": [
+      { "code": "a7", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-a5-premium",
+    "transmissions": [
+      { "code": "a7", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-a5-premium-plus",
+    "transmissions": [
+      { "code": "a7", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-a5-prestige",
+    "transmissions": [
+      { "code": "a7", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-a6-premium",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-a6-premium-plus",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-a6-prestige",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-a6-allroad-premium",
+    "transmissions": [
+      { "code": "a7", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-a6-allroad-premium-plus",
+    "transmissions": [
+      { "code": "a7", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-a6-allroad-prestige",
+    "transmissions": [
+      { "code": "a7", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-a6-sportback-etron-premium",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-a6-sportback-etron-premium-plus",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-a6-sportback-etron-prestige",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-a8-premium",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-a8-premium-plus",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-a8-prestige",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-q3-premium",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-q3-premium-plus",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-q3-s-line",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-q4-etron-premium",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-q4-etron-prestige",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-q4-sportback-etron-premium",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-q4-sportback-etron-prestige",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-q5-premium",
+    "transmissions": [
+      { "code": "a7", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-q5-premium-plus",
+    "transmissions": [
+      { "code": "a7", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-q5-prestige",
+    "transmissions": [
+      { "code": "a7", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-q5-sportback-premium",
+    "transmissions": [
+      { "code": "a7", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-q5-sportback-premium-plus",
+    "transmissions": [
+      { "code": "a7", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-q5-sportback-prestige",
+    "transmissions": [
+      { "code": "a7", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-q6-e-tron-premium",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-q6-e-tron-premium-plus",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-q6-e-tron-prestige",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-q6-sportback-e-tron-premium",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-q6-sportback-e-tron-premium-plus",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-q6-sportback-e-tron-prestige",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-rs3",
+    "transmissions": [
+      { "code": "a7", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-rs6-avant",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-rs7",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-rs-e-tron",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-rs-q8",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-s3-premium",
+    "transmissions": [
+      { "code": "a7", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-s3-premium-plus",
+    "transmissions": [
+      { "code": "a7", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-s3-technik",
+    "transmissions": [
+      { "code": "a7", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-s5-premium",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-s5-premium-plus",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-s5-technik",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-s6-sportback-e-tron-Prestige",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-s6-sportback-e-tron-Competition-Plus",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-s8-Prestige",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-s8-Competition",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-s-e-tron-Premium",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-s-e-tron-Premium-Plus",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-s-e-tron-Prestige",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-sq5-Premium",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-sq5-Premium-Plus",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-sq5-Prestige",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-sq5-sportback-Premium",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-sq5-sportback-Premium-Plus",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-sq5-sportback-Prestige",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-sq6-e-tron-Premium",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-sq6-e-tron-Premium-Plus",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-sq6-e-tron-Prestige",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-sq6-sportback-e-tron-Premium",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-sq6-sportback-e-tron-Premium-Plus",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-sq6-sportback-e-tron-Prestige",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-sq7-Premium",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-sq7-Premium-Plus",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-sq7-Prestige",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-sq8-Premium",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-sq8-Premium-Plus",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-sq8-Prestige",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-bentayga-Standard",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-bentayga-Speed",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-continental-gt-Standard",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-continental-gt-Speed",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-continental-gtc-Standard",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-continental-gtc-Speed",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-flying-spur-Standard",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-flying-spur-Speed",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-supersports-Standard",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-tourbillon-Standard",
+    "transmissions": [
+      { "code": "a7", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-w16-mistral-Standard",
+    "transmissions": [
+      { "code": "a7", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-bolide-Standard",
+    "transmissions": [
+      { "code": "a7", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-228-228i",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-228-xdrive-gran-coupe-228i",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-230i-coupe-230i",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-230i-xdrive-coupe",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-m235-xdrive-gran-coupe",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-m240i-coupe-m240i",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-m240i-xdrive-coupe",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-330i-sedan-330i",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-330i-xdrive-sedan",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-m340i-sedan",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-m340i-xdrive-sedan",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-430i-coupe-430i",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-430i-convertible",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-430i-gran-coupe",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-430i-xdrive-coupe",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-430i-xdrive-convertible",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-430i-xdrive-gran-coupe",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-m440i-coupe",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-m440i-convertible",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-m440i-xdrive-coupe",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-m440i-xdrive-convertible",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-m440i-xdrive-gran-coupe",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-530i-sedan",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-530i-xdrive-sedan",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-540i-xdrive-sedan",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-550e-sedan",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-740i-sedan",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-740i-xdrive-sedan",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-750e-xdrive-sedan",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-760i-xdrive-sedan",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-840i-coupe",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-840i-convertible-840i",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-840i-gran-coupe-840i",
+    "transmissions": [
+      { "code": "a8", "standard": true },
+      { "code": "a8", "standard": false, "optional": "xDrive AWD" }
+    ]
+  },
+  {
+    "trim_code": "2026-840i-xdrive-coupe",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-840i-xdrive-convertible",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-840i-xdrive-gran-coupe",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-m850i-xdrive-coupe",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-m850i-xdrive-convertible",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-m850i-xdrive-gran-coupe",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-i4-edrive40-sedan",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-i4-xdrive40-sedan",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-i4-m60-sedan",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-i5-edrive40-sedan",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-i5-xdrive40-sedan",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-i5-m60-sedan",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-i7-edrive50-sedan",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-i7-xdrive60-sedan",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-i7-m70-xdrive-sedan",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-ix-xdrive45-suv",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-ix-xdrive60-suv",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-ix-m70-xdrive-suv",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-m2-coupe",
+    "transmissions": [
+      { "code": "m6", "standard": true },
+      { "code": "a8", "standard": false, "optional": "Automatic Transmission" }
+    ]
+  },
+  {
+    "trim_code": "2026-m2-cs-coupe",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-m3-sedan",
+    "transmissions": [
+      { "code": "m6", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-m3-sedan-competition",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-m3-sedan-competition-xdrive",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-m4-coupe",
+    "transmissions": [
+      { "code": "m6", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-m4-coupe-competition",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-m4-coupe-competition-xdrive",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-m5-sedan",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-m8-competition-convertible",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-m8-competition-gran-coupe",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-x1-sdrive28i-suv",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-x1-xdrive28i-suv",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-x2-sdrive28i-suv",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-x2-xdrive28i-suv",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-x3-sdrive30i-suv",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-x3-xdrive30i-suv",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-x3-m40i-xdrive-suv",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-x5-sdrive40i-suv",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-x5-xdrive40i-suv",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-x5-xdrive50e-suv",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-x5-m60i-xdrive-suv",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-x5-m-xdrive-suv",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-x5-m-competition-xdrive-suv",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-x6-xdrive40i-suv",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-x6-m60i-xdrive-suv",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-x6-m-xdrive-suv",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-x6-m-competition-xdrive-suv",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-x7-xdrive40i-suv",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-x7-xdrive50i-suv",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-x7-m60i-xdrive-suv",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-xm-xdrive-suv",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-xm-competition-xdrive-suv",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-z4-sdrive30i-convertible",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-z4-m40i-convertible",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-enclave-gx-preferred-suv",
+    "transmissions": [
+      { "code": "a9", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-enclave-gx-essence-suv",
+    "transmissions": [
+      { "code": "a9", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-enclave-gx-premium-suv",
+    "transmissions": [
+      { "code": "a9", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-encore-gx-preferred-suv",
+    "transmissions": [
+      { "code": "a9", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-encore-gx-prestige-suv",
+    "transmissions": [
+      { "code": "a9", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-envision-preferred-suv",
+    "transmissions": [
+      { "code": "a9", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-envision-essence-suv",
+    "transmissions": [
+      { "code": "a9", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-envision-premium-suv",
+    "transmissions": [
+      { "code": "a9", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-envista-preferred-suv",
+    "transmissions": [
+      { "code": "a9", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-envista-prestige-suv",
+    "transmissions": [
+      { "code": "a9", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-celestiq-sedan",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-ct4-luxury-sedan",
+    "transmissions": [
+      { "code": "a10", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-ct4-premium-luxury-sedan",
+    "transmissions": [
+      { "code": "a10", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-ct4-v-sedan",
+    "transmissions": [
+      { "code": "a10", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-ct4-v-blackwing-sedan",
+    "transmissions": [
+      { "code": "m6", "standard": true },
+      { "code": "a10", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-ct5-luxury-sedan",
+    "transmissions": [
+      { "code": "a10", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-ct5-premium-luxury-sedan",
+    "transmissions": [
+      { "code": "a10", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-ct5-v-sedan",
+    "transmissions": [
+      { "code": "a10", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-ct5-v-blackwing-sedan",
+    "transmissions": [
+      { "code": "m6", "standard": true },
+      { "code": "a10", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-escalade-suv",
+    "transmissions": [
+      { "code": "a10", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-escalade-v-suv",
+    "transmissions": [
+      { "code": "a10", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-escalade-esv-suv",
+    "transmissions": [
+      { "code": "a10", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-escalade-v-esv-suv",
+    "transmissions": [
+      { "code": "a10", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-escalade-iq-suv",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-escalade-iql-suv",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-lyriq-suv",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-lyriq-v-suv",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-optiq-suv",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-optiq-v-suv",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-vistiq-suv",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-xt5-suv",
+    "transmissions": [
+      { "code": "a9", "standard": true }
+    ]
+  },
+  {
+  "trim_code": "2026-blazer-lt-2lt-fwd-suv",
+  "transmissions": [
+      { "code": "a9", "standard": true }
+    ]
+  },
+  {
+  "trim_code": "2026-blazer-lt-3lt-fwd-suv",
+  "transmissions": [
+      { "code": "a9", "standard": true }
+    ]
+  },
+  {
+  "trim_code": "2026-blazer-lt-2lt-awd-suv",
+  "transmissions": [
+      { "code": "a9", "standard": true }
+    ]
+  },
+  {
+  "trim_code": "2026-blazer-lt-3lt-awd-suv",
+  "transmissions": [
+      { "code": "a9", "standard": true }
+    ]
+  },
+  {
+  "trim_code": "2026-blazer-rs-fwd-suv",
+  "transmissions": [
+      { "code": "a9", "standard": true }
+    ]
+  },
+  {
+  "trim_code": "2026-blazer-rs-awd-suv",
+  "transmissions": [
+      { "code": "a9", "standard": true }
+    ]
+  },
+  {
+  "trim_code": "2026-bolt-1lt-hatchback",
+  "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+  "trim_code": "2026-bolt-2lt-hatchback",
+  "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+  "trim_code": "2026-brightdrop-zevo600-base-van",
+  "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+  "trim_code": "2026-brightdrop-zevo600-xl-van",
+  "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+  "trim_code": "2026-corvette-stingray-coupe",
+  "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+  "trim_code": "2026-corvette-stingray-convertible",
+  "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+  "trim_code": "2026-corvette-z06-coupe",
+  "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+  "trim_code": "2026-corvette-z06-convertible",
+  "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+  "trim_code": "2026-corvette-zr1-coupe",
+  "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+  "trim_code": "2026-corvette-zr1-convertible",
+  "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-colorado-wt-crew-cab",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-colorado-lt-crew-cab",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-colorado-rt-crew-cab",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-colorado-z71-crew-cab",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-colorado-zr2-crew-cab",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-colorado-zr2-bison-crew-cab",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-equinox-lt-suv",
+    "transmissions": [
+      { "code": "a6", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-equinox-activation-package-suv",
+    "transmissions": [
+      { "code": "a6", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-equinox-rs-suv",
+    "transmissions": [
+      { "code": "a6", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-equinox-activ-suv",
+    "transmissions": [
+      { "code": "a6", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-equinox-ev-lt1-suv",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-equinox-ev-lt2-suv",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-equinox-ev-rs-suv",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-express-2500-cargo",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-express-3500-cargo",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-express-2500-passenger",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-express-3500-passenger",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-silverado-wt-crew-cab",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-silverado-lt-crew-cab",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-silverado-rst-crew-cab",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-silverado-ltz-crew-cab",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-silverado-high-country-crew-cab",
+    "transmissions": [
+      { "code": "a10", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-silverado-trail-boss-crew-cab",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-silverado-zr2-crew-cab",
+    "transmissions": [
+      { "code": "a10", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-silverado-ev-wt-suv",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-silverado-ev-rst-first-edition-suv",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-silverado-ev-lt-suv",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-silverado-ev-ss-suv",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-silverado-2500hd-wt-crew-cab",
+    "transmissions": [
+      { "code": "a6", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-silverado-2500hd-lt-crew-cab",
+    "transmissions": [
+      { "code": "a6", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-silverado-2500hd-ltz-crew-cab",
+    "transmissions": [
+      { "code": "a6", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-silverado-2500hd-high-country-crew-cab",
+    "transmissions": [
+      { "code": "a6", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-silverado-3500hd-wt-crew-cab",
+    "transmissions": [
+      { "code": "a6", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-silverado-3500hd-lt-crew-cab",
+    "transmissions": [
+      { "code": "a6", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-silverado-3500hd-ltz-crew-cab",
+    "transmissions": [
+      { "code": "a6", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-silverado-3500hd-high-country-crew-cab",
+    "transmissions": [
+      { "code": "a6", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-trax-ls",
+    "transmissions": [
+      { "code": "cvt", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-trax-lt",
+    "transmissions": [
+      { "code": "cvt", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-trax-activ",
+    "transmissions": [
+      { "code": "cvt", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-pacifica-lx",
+    "transmissions": [
+      { "code": "a9", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-pacifica-touring",
+    "transmissions": [
+      { "code": "a9", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-pacifica-touring-l",
+    "transmissions": [
+      { "code": "a9", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-pacifica-limited",
+    "transmissions": [
+      { "code": "a9", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-pacifica-pinnacle",
+    "transmissions": [
+      { "code": "a9", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-pacifica-hybrid-lx",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-pacifica-hybrid-touring",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-pacifica-hybrid-touring-l",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-pacifica-hybrid-limited",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-pacifica-hybrid-pinnacle",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-voyager-lx",
+    "transmissions": [
+      { "code": "a9", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-charger-rt-sixpack",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-charger-scat-pack-sixpack",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-charger-daytona-scat-pack-ev",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-charger-daytona-scat-pack-plus-ev",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-durango-sxt",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-durango-gt",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-durango-citadel",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-durango-rt",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-durango-srt",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-hornet-sxt",
+    "transmissions": [
+      { "code": "a9", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-hornet-gt",
+    "transmissions": [
+      { "code": "a9", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-hornet-rt",
+    "transmissions": [
+      { "code": "a9", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-hornet-rt-rwd",
+    "transmissions": [
+      { "code": "a9", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-12cilindri-coupe",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-12cilindri-spider",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-296-gtb-coupe",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-296-gts-convertible",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-849-testarossa-coupe",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-849-testarossa-spider",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-amalfi-coupe",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-f80-coupe",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-purosangue-suv",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-roma-spider-convertible",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-500e-base-hatchback",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-500e-red-hatchback",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-500e-iconica-hatchback",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-500e-giorgio-armani-hatchback",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-ocean-sport",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-ocean-ultra",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-ocean-extreme",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-ocean-one",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-bronco-big-bend",
+    "transmissions": [
+      { "code": "m7", "standard": true },
+      { "code": "a10", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-bronco-outer-banks",
+    "transmissions": [
+      { "code": "a10", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-bronco-badlands",
+    "transmissions": [
+      { "code": "a10", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-bronco-heritage-edition",
+    "transmissions": [
+      { "code": "a10", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-bronco-stroppe-edition",
+    "transmissions": [
+      { "code": "a10", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-bronco-raptor",
+    "transmissions": [
+      { "code": "a10", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-bronco-sport-big-bend",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-bronco-sport-heritage",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-bronco-sport-outer-banks",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-bronco-sport-badlands",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-escape-s",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-escape-se",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-escape-se-sport",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-escape-sel",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-escape-titanium",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-escape-phev-se",
+    "transmissions": [
+      { "code": "cvt", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-escape-phev-se-ultimate",
+    "transmissions": [
+      { "code": "cvt", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-e-transit-van-150",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-e-transit-van-250",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-e-transit-van-350",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-expedition-xl",
+    "transmissions": [
+      { "code": "a10", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-expedition-xlt",
+    "transmissions": [
+      { "code": "a10", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-expedition-limited",
+    "transmissions": [
+      { "code": "a10", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-expedition-platinum",
+    "transmissions": [
+      { "code": "a10", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-explorer-xl",
+    "transmissions": [
+      { "code": "a10", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-explorer-xlt",
+    "transmissions": [
+      { "code": "a10", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-explorer-limited",
+    "transmissions": [
+      { "code": "a10", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-explorer-king-ranch",
+    "transmissions": [
+      { "code": "a10", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-explorer-platinum",
+    "transmissions": [
+      { "code": "a10", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-explorer-st",
+    "transmissions": [
+      { "code": "a10", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-f150-xl",
+    "transmissions": [
+      { "code": "a10", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-f150-xlt",
+    "transmissions": [
+      { "code": "a10", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-f150-lariat",
+    "transmissions": [
+      { "code": "a10", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-f150-king-ranch",
+    "transmissions": [
+      { "code": "a10", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-f150-platinum",
+    "transmissions": [
+      { "code": "a10", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-f150-limited",
+    "transmissions": [
+      { "code": "a10", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-f150-raptor",
+    "transmissions": [
+      { "code": "a10", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-f150-lightning-pro",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-f150-lightning-xlt",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-f150-lightning-lariat",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-f150-lightning-platinum",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-maverick-xl",
+    "transmissions": [
+      { "code": "a6", "standard": true },
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-maverick-xlt",
+    "transmissions": [
+      { "code": "a6", "standard": true },
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-maverick-lariat",
+    "transmissions": [
+      { "code": "a6", "standard": true },
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-maverick-lobo",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-maverick-tremor",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-mustang-ecoboost",
+    "transmissions": [
+      { "code": "a10", "standard": true },
+      { "code": "m6", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-mustang-ecoboost-premium",
+    "transmissions": [
+      { "code": "a10", "standard": true },
+      { "code": "m6", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-mustang-gt",
+    "transmissions": [
+      { "code": "m6", "standard": true },
+      { "code": "a10", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-mustang-gt-premium",
+    "transmissions": [
+      { "code": "m6", "standard": true },
+      { "code": "a10", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-mustang-dark-horse",
+    "transmissions": [
+      { "code": "m6", "standard": true },
+      { "code": "a10", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-mustang-dark-horse-premium",
+    "transmissions": [
+      { "code": "m6", "standard": true },
+      { "code": "a10", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-mustang-mach-e-select",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-mustang-mach-e-premium",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-mustang-mach-e-gt",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-mustang-mach-e-rally",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-ranger-xl",
+    "transmissions": [
+      { "code": "a10", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-ranger-xlt",
+    "transmissions": [
+      { "code": "a10", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-ranger-lariat",
+    "transmissions": [
+      { "code": "a10", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-ranger-raptor",
+    "transmissions": [
+      { "code": "a10", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-super-duty-xl",
+    "transmissions": [
+      { "code": "a10", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-super-duty-xlt",
+    "transmissions": [
+      { "code": "a10", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-super-duty-lariat",
+    "transmissions": [
+      { "code": "a10", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-super-duty-king-ranch",
+    "transmissions": [
+      { "code": "a10", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-super-duty-platinum",
+    "transmissions": [
+      { "code": "a10", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-super-duty-limited",
+    "transmissions": [
+      { "code": "a10", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-transit-base",
+    "transmissions": [
+      { "code": "a10", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-transit-extended",
+    "transmissions": [
+      { "code": "a10", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-transit-crew",
+    "transmissions": [
+      { "code": "a10", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-transit-passenger",
+    "transmissions": [
+      { "code": "a10", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-g70-2.0t",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-g70-3.3t",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-g80-2.5t",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-g80-3.5t",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-g80-electrified",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-g90-3.5t",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-g90-5.0v8",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-gv60-2wd",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-gv60-awd",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-gv60-performance",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-gv70-2.5t",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-gv70-3.5t",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-gv70-electrified",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-gv80-2.5t",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-gv80-3.5t",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-gv80-5.0v8",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-gv80-coupe-3.5t",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-gv80-coupe-5.0v8",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-acadia-slt",
+    "transmissions": [
+      { "code": "a9", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-acadia-at4",
+    "transmissions": [
+      { "code": "a9", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-acadia-denali",
+    "transmissions": [
+      { "code": "a9", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-canyon-elevation",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-canyon-at4",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-canyon-at4x",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-canyon-denali",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-hummer-ev2x",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-hummer-ev3x",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-hummer-ev3x-edition1",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-savannah-1500",
+    "transmissions": [
+      { "code": "a10", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-savannah-2500",
+    "transmissions": [
+      { "code": "a10", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-savannah-3500",
+    "transmissions": [
+      { "code": "a10", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-sierra-1500-sierra",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-sierra-1500-slt",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-sierra-1500-at4",
+    "transmissions": [
+      { "code": "a10", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-sierra-1500-denali",
+    "transmissions": [
+      { "code": "a10", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-sierra-ev-elevation-standard",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-sierra-ev-elevation-extended",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-sierra-ev-at4-standard",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-sierra-ev-at4-extended",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-sierra-ev-denali-standard",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-sierra-ev-denali-extended",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-sierra-hd-sle",
+    "transmissions": [
+      { "code": "a10", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-sierra-hd-at4",
+    "transmissions": [
+      { "code": "a10", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-sierra-hd-denali",
+    "transmissions": [
+      { "code": "a10", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-terrain-sle",
+    "transmissions": [
+      { "code": "a9", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-terrain-slt",
+    "transmissions": [
+      { "code": "a9", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-terrain-at4",
+    "transmissions": [
+      { "code": "a9", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-terrain-denali",
+    "transmissions": [
+      { "code": "a9", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-yukon-sle",
+    "transmissions": [
+      { "code": "a10", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-yukon-slt",
+    "transmissions": [
+      { "code": "a10", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-yukon-at4",
+    "transmissions": [
+      { "code": "a10", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-yukon-denali",
+    "transmissions": [
+      { "code": "a10", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-yukon-xl-sle",
+    "transmissions": [
+      { "code": "a10", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-yukon-xl-slt",
+    "transmissions": [
+      { "code": "a10", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-yukon-xl-at4",
+    "transmissions": [
+      { "code": "a10", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-yukon-xl-denali",
+    "transmissions": [
+      { "code": "a10", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-accord-lx",
+    "transmissions": [
+      { "code": "cvt", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-accord-sport",
+    "transmissions": [
+      { "code": "cvt", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-accord-sport-2-0t",
+    "transmissions": [
+      { "code": "a10", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-accord-ex-l",
+    "transmissions": [
+      { "code": "cvt", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-accord-touring",
+    "transmissions": [
+      { "code": "a10", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-accord-hybrid-lx",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-accord-hybrid-ex",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-accord-hybrid-ex-l",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-accord-hybrid-touring",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-civic-hatchback-lx",
+    "transmissions": [
+      { "code": "cvt", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-civic-hatchback-sport",
+    "transmissions": [
+      { "code": "cvt", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-civic-hatchback-ex-l",
+    "transmissions": [
+      { "code": "cvt", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-civic-hatchback-touring",
+    "transmissions": [
+      { "code": "cvt", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-civic-hatchback-hybrid-lx",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-civic-hatchback-hybrid-ex",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-civic-hatchback-hybrid-ex-l",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-civic-hatchback-hybrid-touring",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-civic-type-r",
+    "transmissions": [
+      { "code": "m6", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-civic-sedan-lx",
+    "transmissions": [
+      { "code": "cvt", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-civic-sedan-sport",
+    "transmissions": [
+      { "code": "cvt", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-civic-sedan-ex-l",
+    "transmissions": [
+      { "code": "cvt", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-civic-sedan-touring",
+    "transmissions": [
+      { "code": "cvt", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-civic-sedan-hybrid-lx",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-civic-sedan-hybrid-ex",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-civic-sedan-hybrid-ex-l",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-civic-sedan-hybrid-touring",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-civic-si-sedan",
+    "transmissions": [
+      { "code": "m6", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-cr-v-lx",
+    "transmissions": [
+      { "code": "cvt", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-cr-v-ex",
+    "transmissions": [
+      { "code": "cvt", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-cr-v-ex-l",
+    "transmissions": [
+      { "code": "cvt", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-cr-v-touring",
+    "transmissions": [
+      { "code": "cvt", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-cr-v-hybrid-lx",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-cr-v-hybrid-ex",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-cr-v-hybrid-ex-l",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-cr-v-hybrid-touring",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-hr-v-sport",
+    "transmissions": [
+      { "code": "cvt", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-hr-v-ex",
+    "transmissions": [
+      { "code": "cvt", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-hr-v-ex-l",
+    "transmissions": [
+      { "code": "cvt", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-hr-v-touring",
+    "transmissions": [
+      { "code": "cvt", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-passport-sport",
+    "transmissions": [
+      { "code": "a9", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-passport-ex-l",
+    "transmissions": [
+      { "code": "a9", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-passport-touring",
+    "transmissions": [
+      { "code": "a9", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-pilot-sport",
+    "transmissions": [
+      { "code": "a9", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-pilot-ex-l",
+    "transmissions": [
+      { "code": "a9", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-pilot-touring",
+    "transmissions": [
+      { "code": "a9", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-pilot-elite",
+    "transmissions": [
+      { "code": "a9", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-prelude-hybrid",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-prologue-sport",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-prologue-ex",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-prologue-touring",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-elantra-se",
+    "transmissions": [
+      { "code": "a6", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-elantra-sel",
+    "transmissions": [
+      { "code": "a6", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-elantra-n-line",
+    "transmissions": [
+      { "code": "a7", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-elantra-limited",
+    "transmissions": [
+      { "code": "a6", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-elantra-hybrid-se",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-elantra-hybrid-limited",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-elantra-n",
+    "transmissions": [
+      { "code": "m6", "standard": true },
+      { "code": "a8", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-ioniq5-se",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-ioniq5-limited",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-ioniq5-n",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-ioniq6-se",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-ioniq6-limited",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-ioniq9-s",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-ioniq9-se",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-ioniq9-sel",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-ioniq9-performance-limited",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-ioniq9-performance-calligraphy",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-ioniq9-performance-calligraphy-design",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-kona-se",
+    "transmissions": [
+      { "code": "a6", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-kona-sel-sport",
+    "transmissions": [
+      { "code": "a6", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-kona-sel-premium",
+    "transmissions": [
+      { "code": "a7", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-kona-limited",
+    "transmissions": [
+      { "code": "a7", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-kona-electric-se",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-palisade-se",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-palisade-sel",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-palisade-xrt",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-palisade-limited",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-palisade-calligraphy",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-palisade-hybrid-se",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-palisade-hybrid-sel",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-palisade-hybrid-limited",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-palisade-hybrid-calligraphy",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-palisade-xrt",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-palisade-limited",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-palisade-calligraphy",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-palisade-hybrid-se",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-palisade-hybrid-sel",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-palisade-hybrid-limited",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-palisade-hybrid-calligraphy",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-santacruz-se",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-santacruz-sel",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-santacruz-sel-activity",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-santacruz-xrt",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-santacruz-limited",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-santafe-se",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-santafe-sel",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-santafe-xrt",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-santafe-limited",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-santafe-calligraphy",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-santafe-hybrid-se",
+    "transmissions": [
+      { "code": "a6", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-santafe-hybrid-sel",
+    "transmissions": [
+      { "code": "a6", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-santafe-hybrid-limited",
+    "transmissions": [
+      { "code": "a6", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-santafe-hybrid-calligraphy",
+    "transmissions": [
+      { "code": "a6", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-sonata-se",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-sonata-sel",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-sonata-n-line",
+    "transmissions": [
+      { "code": "a7", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-sonata-limited",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-sonata-hybrid-blue",
+    "transmissions": [
+      { "code": "a6", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-sonata-hybrid-sel",
+    "transmissions": [
+      { "code": "a6", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-sonata-hybrid-limited",
+    "transmissions": [
+      { "code": "a6", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-tucson-se",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-tucson-sel",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-tucson-n-line",
+    "transmissions": [
+      { "code": "a7", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-tucson-limited",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-tucson-hybrid-se",
+    "transmissions": [
+      { "code": "a6", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-tucson-hybrid-sel",
+    "transmissions": [
+      { "code": "a6", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-tucson-hybrid-limited",
+    "transmissions": [
+      { "code": "a6", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-tucson-phev-limited",
+    "transmissions": [
+      { "code": "a6", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-venue-se",
+    "transmissions": [
+      { "code": "a6", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-venue-sel",
+    "transmissions": [
+      { "code": "a6", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-venue-sel-plus",
+    "transmissions": [
+      { "code": "a6", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-grenadier-base",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-grenadier-fieldmaster",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-grenadier-trialmaster",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-grenadier-black-edition",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-qx50-pure",
+    "transmissions": [
+      { "code": "cvt", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-qx50-luxe",
+    "transmissions": [
+      { "code": "cvt", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-qx50-sport",
+    "transmissions": [
+      { "code": "cvt", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-qx55-luxe",
+    "transmissions": [
+      { "code": "cvt", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-qx55-essential",
+    "transmissions": [
+      { "code": "cvt", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-qx55-sensory",
+    "transmissions": [
+      { "code": "cvt", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-qx60-pure",
+    "transmissions": [
+      { "code": "a9", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-qx60-luxe",
+    "transmissions": [
+      { "code": "a9", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-qx60-sport",
+    "transmissions": [
+      { "code": "a9", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-qx60-autograph",
+    "transmissions": [
+      { "code": "a9", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-qx80-pure",
+    "transmissions": [
+      { "code": "a9", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-qx80-luxe",
+    "transmissions": [
+      { "code": "a9", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-qx80-sport",
+    "transmissions": [
+      { "code": "a9", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-qx80-autograph",
+    "transmissions": [
+      { "code": "a9", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-e-pace-r-dynamic-s",
+    "transmissions": [
+      { "code": "a9", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-e-pace-r-dynamic-se",
+    "transmissions": [
+      { "code": "a9", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-e-pace-r-dynamic-hse",
+    "transmissions": [
+      { "code": "a9", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-f-pace-p250",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-f-pace-p340",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-f-pace-r‑dynamic-se",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-f-pace-svr",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-i-pace-base",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-i-pace-r-dynamic-se",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-i-pace-r-dynamic-hse",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-f-type-p250-r-dynamic",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-f-type-p400-r-dynamic-awd",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-f-type-r",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-f-type-r75-special-edition",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-xf-p250-r-dynamic-se",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-xf-p300-r-dynamic-se",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-xf-r-dynamic-hse",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-compass-latitude",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-compass-latitude-altitude",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-compass-limited",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-compass-limited-altitude",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-compass-trailhawk",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-cherokee-base",
+    "transmissions": [
+      { "code": "cvt", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-cherokee-laredo",
+    "transmissions": [
+      { "code": "cvt", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-cherokee-limited",
+    "transmissions": [
+      { "code": "cvt", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-cherokee-overland",
+    "transmissions": [
+      { "code": "cvt", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026‑gladiator‑sport",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026‑gladiator‑sport‑s",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026‑gladiator‑willys",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026‑gladiator‑sahara",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026‑gladiator‑mojave",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026‑gladiator‑rubicon",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-grand‑cherokee‑laredo",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-grand‑cherokee‑laredo‑altitude",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-grand‑cherokee‑limited",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-grand‑cherokee‑summit",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-grand‑cherokee‑trailhawk‑4xe",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-grand-wagoneer-base",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-grand-wagoneer-upland",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-grand-wagoneer-limited-altitude",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-grand-wagoneer-summit‑obsidian",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-grand‑wagoneer‑summit‑reserve",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-recon-moab",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-wagoneer-base",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-wagoneer-series-ii",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-wagoneer-series-ii-carbide",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-wagoneer-series-iii",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-wagoneer-s-limited",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-wagoneer-s-launch-edition",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-wrangler-sport",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-wrangler-sport-s",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-wrangler-willys",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-wrangler-sahara",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-wrangler-rubicon",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-wrangler-rubicon-x",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-wrangler-moab-392",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-amaris-base",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-gyesera-luxury",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-invictus-limited",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-kaveya-ev",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-revero-erev",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-carnival-lx",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-carnival‑lxs",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-carnival‑ex",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-carnival‑sx",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-carnival‑sx‑prestige",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-carnival-hev-lxs",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-carnival-hev-ex",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-carnival-hev-sx",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-carnival-hev-sx-prestige",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-ev6-light",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-ev6-light-long-range",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-ev6-wind",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-ev6-gt-line",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-ev6-gt",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-ev9-light-sr",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-ev9-light-lr",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-ev9-wind",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-ev9-land",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-ev9-gt-line",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-k4-sedan-lx",
+    "transmissions": [
+      { "code": "a6", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-k4-sedan-lxs",
+    "transmissions": [
+      { "code": "a6", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-k4-sedan-ex",
+    "transmissions": [
+      { "code": "a7", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-k4-sedan-gt-line",
+    "transmissions": [
+      { "code": "a7", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-k4-sedan-gt-line-turbo",
+    "transmissions": [
+      { "code": "a7", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-k4-hatch-ex",
+    "transmissions": [
+      { "code": "a7", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-k4-hatch-gt-line",
+    "transmissions": [
+      { "code": "a7", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-k4-hatch-gt-line-turbo",
+    "transmissions": [
+      { "code": "a7", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-k5-lx",
+    "transmissions": [
+      { "code": "a6", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-k5-lxs",
+    "transmissions": [
+      { "code": "a7", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-k5-gt-line",
+    "transmissions": [
+      { "code": "a7", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-k5-ex",
+    "transmissions": [
+      { "code": "a7", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-k5-gt",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-niro-lx",
+    "transmissions": [
+      { "code": "cvt", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-niro-lxs",
+    "transmissions": [
+      { "code": "cvt", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-niro-ex",
+    "transmissions": [
+      { "code": "cvt", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-niro-fe",
+    "transmissions": [
+      { "code": "cvt", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-niro-plug-in",
+    "transmissions": [
+      { "code": "cvt", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-niro-ev-lx",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-niro-ev-ex",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-niro-ev-gt-line",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-seltos-lx",
+    "transmissions": [
+      { "code": "a6", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-seltos-lx-plus",
+    "transmissions": [
+      { "code": "a7", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-seltos-s",
+    "transmissions": [
+      { "code": "a7", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-seltos-ex",
+    "transmissions": [
+      { "code": "a7", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-seltos-sx",
+    "transmissions": [
+      { "code": "a7", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-sorento-lx",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-sorento-lx-premium",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-sorento-ex",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-sorento-sx",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-sorento-phev-ex",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-sorento-phev-sx",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-sorento-hybrid-ex",
+    "transmissions": [
+      { "code": "cvt", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-sorento-hybrid-sx",
+    "transmissions": [
+      { "code": "cvt", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-soul-lx",
+    "transmissions": [
+      { "code": "a6", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-soul-lx-plus",
+    "transmissions": [
+      { "code": "a6", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-soul-ex",
+    "transmissions": [
+      { "code": "a6", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-soul-gt-line",
+    "transmissions": [
+      { "code": "a7", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-soul-ev-lx",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-soul-ev-ex",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-sportage-lx",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-sportage-ex",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-sportage-sx",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-sportage-hybrid-ex",
+    "transmissions": [
+      { "code": "cvt", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-sportage-hybrid-sx",
+    "transmissions": [
+      { "code": "cvt", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-sportage-phev-ex",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-sportage-phev-sx",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-telluride-lx",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-telluride-ex",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-telluride-sx",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-telluride-sx-premium",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-cc850-base",
+    "transmissions": [
+      { "code": "a9", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-cc850-performance",
+    "transmissions": [
+      { "code": "a9", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-gemera-base",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-gemera-performance",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-jesko-absolut-standard",
+    "transmissions": [
+      { "code": "a9", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-jesko-attack-standard",
+    "transmissions": [
+      { "code": "a9", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-countach-lp800-4-standard",
+    "transmissions": [
+      { "code": "a7", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-fenomeno-standard",
+    "transmissions": [
+      { "code": "a7", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-huracan-evo-rwd",
+    "transmissions": [
+      { "code": "a7", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-huracan-evo-awd",
+    "transmissions": [
+      { "code": "a7", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-revuelto-standard",
+    "transmissions": [
+      { "code": "a7", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-sian-fkp37-standard",
+    "transmissions": [
+      { "code": "a7", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-sian-roadster-standard",
+    "transmissions": [
+      { "code": "a7", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-temerario-base",
+    "transmissions": [
+      { "code": "a7", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-urus-standard",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-defender-base",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-defender-x",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-defender-se",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-discovery-s",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-discovery-se",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-discovery-hse",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-range-rover-se",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-range-rover-hse",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-range-rover-autobiography",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-range-rover-sentinel",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-es-350",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-es-250",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-es-300h",
+    "transmissions": [
+      { "code": "cvt", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-gx-460",
+    "transmissions": [
+      { "code": "a6", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-gx-460-premium",
+    "transmissions": [
+      { "code": "a6", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-is-300",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-is-500",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-lc-500",
+    "transmissions": [
+      { "code": "a10", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-lc-500h",
+    "transmissions": [
+      { "code": "eV1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-ls-f-sport",
+    "transmissions": [
+      { "code": "a10", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-lx-600",
+    "transmissions": [
+      { "code": "a10", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-lx-600-f-sport",
+    "transmissions": [
+      { "code": "a10", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-nx-250",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-nx-350",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-nx-350h",
+    "transmissions": [
+      { "code": "cvt", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-nx-450h-plus",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-rx-350",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-rx-350h",
+    "transmissions": [
+      { "code": "cvt", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-rx-500h-f-sport",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-rz-450e",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-rz-450e-f-sport",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-tx-350",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-tx-500h-f-sport",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-ux-250h",
+    "transmissions": [
+      { "code": "cvt", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-ux-250h-f-sport",
+    "transmissions": [
+      { "code": "cvt", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-aviator-standard",
+    "transmissions": [
+      { "code": "a10", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-aviator-reserve",
+    "transmissions": [
+      { "code": "a10", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-aviator-black-label",
+    "transmissions": [
+      { "code": "a10", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-corsair-standard",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-corsair-reserve",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-corsair-black-label",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-navigator-standard",
+    "transmissions": [
+      { "code": "a10", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-navigator-reserve",
+    "transmissions": [
+      { "code": "a10", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-navigator-black-label",
+    "transmissions": [
+      { "code": "a10", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-nautilus-standard",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-nautilus-reserve",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-nautilus-black-label",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-eletre-standard",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-eletre-performance",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-emira-base",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-emira-performance",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-air-pure",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-air-touring",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-air-grande-touring",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-air-ghost",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-gravity-pure",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-gravity-touring",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-gravity-grand-touring",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-granturismo-modena",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-granturismo-trofeo",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-grancabrio-modena",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-grancabrio-trofeo",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-grecale-modena",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-grecale-trofeo",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-gt2-stradale",
+    "transmissions": [
+      { "code": "a7", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-mcpura",
+    "transmissions": [
+      { "code": "a7", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-3-hatch-sedan-s",
+    "transmissions": [
+      { "code": "a6", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-3-hatch-sedan-preferred",
+    "transmissions": [
+      { "code": "a6", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-3-hatch-turbo",
+    "transmissions": [
+      { "code": "a6", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-cx30-s",
+    "transmissions": [
+      { "code": "a6", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-cx30-preferred",
+    "transmissions": [
+      { "code": "a6", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-cx30-turbo",
+    "transmissions": [
+      { "code": "a6", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-cx5-sport",
+    "transmissions": [
+      { "code": "a6", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-cx5-preferred",
+    "transmissions": [
+      { "code": "a6", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-cx5-carbon-edition",
+    "transmissions": [
+      { "code": "a6", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-cx5-turbo",
+    "transmissions": [
+      { "code": "a6", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-cx50-2.5",
+    "transmissions": [
+      { "code": "a6", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-cx50-preferred",
+    "transmissions": [
+      { "code": "a6", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-cx50-prestige",
+    "transmissions": [
+      { "code": "a6", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-cx50-turbo",
+    "transmissions": [
+      { "code": "a6", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-cx50-hybrid",
+    "transmissions": [
+      { "code": "a6", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-cx70-s",
+    "transmissions": [
+      { "code": "a6", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-cx70-prestige",
+    "transmissions": [
+      { "code": "a6", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-cx70-phev",
+    "transmissions": [
+      { "code": "a6", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-cx90-30p",
+    "transmissions": [
+      { "code": "a6", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-cx90-30t",
+    "transmissions": [
+      { "code": "a6", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-cx90-phev",
+    "transmissions": [
+      { "code": "a6", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-mx5-miata-sport",
+    "transmissions": [
+      { "code": "m6", "standard": true },
+      { "code": "a6", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-mx5-miata-premium",
+    "transmissions": [
+      { "code": "m6", "standard": true },
+      { "code": "a6", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-mx5-miata-rf-sport",
+    "transmissions": [
+      { "code": "m6", "standard": true },
+      { "code": "a6", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-mx5-miata-rf-premium",
+    "transmissions": [
+      { "code": "m6", "standard": true },
+      { "code": "a6", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-750s-coupe",
+    "transmissions": [
+      { "code": "a7", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-750s-spider",
+    "transmissions": [
+      { "code": "a7", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-artura-coupe",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-artura-spider",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-gts-coupe",
+    "transmissions": [
+      { "code": "a7", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-w1-coupe",
+    "transmissions": [
+      { "code": "a7", "standard": true }
+    ]
+  }
 ]
