@@ -1,12 +1,138 @@
 [
   {
     "trim_code": "2026-adx-base",
-    "drivetrain_code": "fwd",
-    "standard": true
+    "drivetrains": [
+      { "code": "fwd", "standard": true },
+      { "code": "awd", "standard": false }
+    ]
   },
   {
-    "trim_code": "2026-adx-base",
-    "drivetrain_code": "awd",
-    "standard": false
+    "trim_code": "2026-adx-technology",
+    "drivetrains": [
+      { "code": "fwd", "standard": true },
+      { "code": "awd", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-adx-a-spec",
+    "drivetrains": [
+      { "code": "awd", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-adx-advance",
+    "drivetrains": [
+      { "code": "awd", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-integra-base",
+    "drivetrains": [
+      { "code": "fwd", "standard": true },
+      { "code": "awd", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-integra-technology",
+    "drivetrains": [
+      { "code": "fwd", "standard": true },
+      { "code": "awd", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-integra-a-spec",
+    "drivetrains": [
+      { "code": "awd", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-integra-a-spec-technology",
+    "drivetrains": [
+      { "code": "awd", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-integra-type-s",
+    "drivetrains": [
+      { "code": "awd", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-mdx-base",
+    "drivetrains": [
+      { "code": "fwd", "standard": true },
+      { "code": "awd", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-mdx-technology",
+    "drivetrains": [
+      { "code": "fwd", "standard": true },
+      { "code": "awd", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-mdx-a-spec",
+    "drivetrains": [
+      { "code": "awd", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-mdx-advance",
+    "drivetrains": [
+      { "code": "awd", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-rdx-base",
+    "drivetrains": [
+      { "code": "fwd", "standard": true },
+      { "code": "awd", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-rdx-technology",
+    "drivetrains": [
+      { "code": "fwd", "standard": true },
+      { "code": "awd", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-rdx-a-spec",
+    "drivetrains": [
+      { "code": "awd", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-rdx-advance",
+    "drivetrains": [
+      { "code": "awd", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-tlx-base",
+    "drivetrains": [
+      { "code": "fwd", "standard": true },
+      { "code": "awd", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-tlx-technology",
+    "drivetrains": [
+      { "code": "fwd", "standard": true },
+      { "code": "awd", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-tlx-a-spec",
+    "drivetrains": [
+      { "code": "awd", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-tlx-type-s",
+    "drivetrains": [
+      { "code": "awd", "standard": true }
+    ]
   }
 ]

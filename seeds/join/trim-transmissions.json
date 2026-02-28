@@ -5085,5 +5085,2917 @@
     "transmissions": [
       { "code": "a7", "standard": true }
     ]
+  },
+  {
+    "trim_code": "2026-amg-gt43-4door",
+    "transmissions": [
+      { "code": "a9", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-amg-gt43-coupe",
+    "transmissions": [
+      { "code": "a9", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-amg-gt53-4door",
+    "transmissions": [
+      { "code": "a9", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-amg-gt55-coupe",
+    "transmissions": [
+      { "code": "a9", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-amg-gt63-coupe",
+    "transmissions": [
+      { "code": "a9", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-amg-gt63-4door",
+    "transmissions": [
+      { "code": "a9", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-amg-gt63s-e-performance-4door",
+    "transmissions": [
+      { "code": "a9", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-amg-gt63s-e-performance-coupe",
+    "transmissions": [
+      { "code": "a9", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-amg-gt63-coupe-pro-4matic-plus",
+    "transmissions": [
+      { "code": "a9", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-amg-one",
+    "transmissions": [
+      { "code": "a7", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-e-350",
+    "transmissions": [
+      { "code": "a9", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-e-350-4matic",
+    "transmissions": [
+      { "code": "a9", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-e-450-4matic",
+    "transmissions": [
+      { "code": "a9", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-e-450-4matic-all-terrain",
+    "transmissions": [
+      { "code": "a9", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-e-53-amg-sedan",
+    "transmissions": [
+      { "code": "a9", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-e-53-amg-wagon",
+    "transmissions": [
+      { "code": "a9", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-eqb-250-plus",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-eqb-300-4matic",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-eqb-350-4matic",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-eqe-320-plus",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-eqe-320-4matic",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-eqe-amg",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-eqs-400-4matic",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-eqs-450-plus",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-eqs-450-4matic",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-eqs-550-4matic",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-eqs-580-4matic",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-g-550",
+    "transmissions": [
+      { "code": "a9", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-g-580-eq-technology",
+    "transmissions": [
+      { "code": "a9", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-g-63-amg",
+    "transmissions": [
+      { "code": "a9", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-gla-250",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-gla-250-4matic",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-gla-35-amg",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-glb-250",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-glb-250-4matic",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-glb-35-amg",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-glc-300",
+    "transmissions": [
+      { "code": "a9", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-glc-300-4matic",
+    "transmissions": [
+      { "code": "a9", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-glc-300-4matic-coupe",
+    "transmissions": [
+      { "code": "a9", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-glc-350e-4matic",
+    "transmissions": [
+      { "code": "a9", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-glc-43-amg",
+    "transmissions": [
+      { "code": "a9", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-glc-43-amg-coupe",
+    "transmissions": [
+      { "code": "a9", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-glc-63-s-amg",
+    "transmissions": [
+      { "code": "a9", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-glc-63-s-amg-coupe",
+    "transmissions": [
+      { "code": "a9", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-gle-350",
+    "transmissions": [
+      { "code": "a9", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-gle-350-4matic",
+    "transmissions": [
+      { "code": "a9", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-gle-450-4matic",
+    "transmissions": [
+      { "code": "a9", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-gle-450-4matic-coupe",
+    "transmissions": [
+      { "code": "a9", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-gle-450e-4matic",
+    "transmissions": [
+      { "code": "a9", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-gle-580-4matic",
+    "transmissions": [
+      { "code": "a9", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-gle-53-4matic-amg",
+    "transmissions": [
+      { "code": "a9", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-gle-53-amg-coupe",
+    "transmissions": [
+      { "code": "a9", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-gle-63s-4matic-amg",
+    "transmissions": [
+      { "code": "a9", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-gle-63s-amg-coupe",
+    "transmissions": [
+      { "code": "a9", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-gls-450-4matic",
+    "transmissions": [
+      { "code": "a9", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-gls-580-4matic",
+    "transmissions": [
+      { "code": "a9", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-gls-63-amg",
+    "transmissions": [
+      { "code": "a9", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-maybach-eqs-680",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-maybach-gls-600",
+    "transmissions": [
+      { "code": "a9", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-maybach-s-580-4matic",
+    "transmissions": [
+      { "code": "a9", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-maybach-s-680-4matic",
+    "transmissions": [
+      { "code": "a9", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-s-500-4matic",
+    "transmissions": [
+      { "code": "a9", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-s-580-4matic",
+    "transmissions": [
+      { "code": "a9", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-s-580e-4matic",
+    "transmissions": [
+      { "code": "a9", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-s-63-se-performance-amg",
+    "transmissions": [
+      { "code": "a9", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-sl-43-amg",
+    "transmissions": [
+      { "code": "a9", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-sl-55-amg",
+    "transmissions": [
+      { "code": "a9", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-sl-63-amg",
+    "transmissions": [
+      { "code": "a9", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-sl-63-se-performance-amg",
+    "transmissions": [
+      { "code": "a9", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-mini-cooper",
+    "transmissions": [
+      { "code": "a7", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-mini-cooper-s",
+    "transmissions": [
+      { "code": "a7", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-mini-john-cooper-works",
+    "transmissions": [
+      { "code": "a7", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-mini-countryman-cooper",
+    "transmissions": [
+      { "code": "a7", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-mini-countryman-cooper-s",
+    "transmissions": [
+      { "code": "a7", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-mini-countryman-cooper-se",
+    "transmissions": [
+      { "code": "a6", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-mini-countryman-jcw",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-mitsubishi-eclipse-cross-es",
+    "transmissions": [
+      { "code": "cvt", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-mitsubishi-eclipse-cross-se",
+    "transmissions": [
+      { "code": "cvt", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-mitsubishi-eclipse-cross-sel",
+    "transmissions": [
+      { "code": "cvt", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-mitsubishi-eclipse-cross-gt",
+    "transmissions": [
+      { "code": "cvt", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-mitsubishi-outlander-es",
+    "transmissions": [
+      { "code": "cvt", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-mitsubishi-outlander-se",
+    "transmissions": [
+      { "code": "cvt", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-mitsubishi-outlander-sel",
+    "transmissions": [
+      { "code": "cvt", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-mitsubishi-outlander-gt",
+    "transmissions": [
+      { "code": "cvt", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-mitsubishi-outlander-phev",
+    "transmissions": [
+      { "code": "a6", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-mitsubishi-outlander-trail-edition",
+    "transmissions": [
+      { "code": "cvt", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-mitsubishi-outlander-sport-es",
+    "transmissions": [
+      { "code": "cvt", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-mitsubishi-outlander-sport-se",
+    "transmissions": [
+      { "code": "cvt", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-mitsubishi-outlander-sport-sel",
+    "transmissions": [
+      { "code": "cvt", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-mitsubishi-outlander-sport-gt",
+    "transmissions": [
+      { "code": "cvt", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-nissan-altima-s",
+    "transmissions": [
+      { "code": "cvt", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-nissan-altima-sv",
+    "transmissions": [
+      { "code": "cvt", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-nissan-altima-sl",
+    "transmissions": [
+      { "code": "cvt", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-nissan-altima-sr",
+    "transmissions": [
+      { "code": "cvt", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-nissan-altima-platinum",
+    "transmissions": [
+      { "code": "cvt", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-nissan-altima-platinum-vc-turbo",
+    "transmissions": [
+      { "code": "cvt", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-nissan-armada-sv",
+    "transmissions": [
+      { "code": "a9", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-nissan-armada-sl",
+    "transmissions": [
+      { "code": "a9", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-nissan-armada-platinum",
+    "transmissions": [
+      { "code": "a9", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-nissan-armada-platinum-reserve",
+    "transmissions": [
+      { "code": "a9", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-nissan-frontier-s",
+    "transmissions": [
+      { "code": "a9", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-nissan-frontier-sv",
+    "transmissions": [
+      { "code": "a9", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-nissan-frontier-pro-x",
+    "transmissions": [
+      { "code": "a9", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-nissan-frontier-pro-4x",
+    "transmissions": [
+      { "code": "a9", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-nissan-kicks-s",
+    "transmissions": [
+      { "code": "cvt", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-nissan-kicks-sv",
+    "transmissions": [
+      { "code": "cvt", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-nissan-kicks-sr",
+    "transmissions": [
+      { "code": "cvt", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-nissan-kicks-play-s",
+    "transmissions": [
+      { "code": "cvt", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-nissan-kicks-play-sv",
+    "transmissions": [
+      { "code": "cvt", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-nissan-kicks-play-sr",
+    "transmissions": [
+      { "code": "cvt", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-nissan-leaf-s",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-nissan-leaf-sv",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-nissan-leaf-sl",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-nissan-murano-s",
+    "transmissions": [
+      { "code": "cvt", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-nissan-murano-sv",
+    "transmissions": [
+      { "code": "cvt", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-nissan-murano-sl",
+    "transmissions": [
+      { "code": "cvt", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-nissan-murano-platinum",
+    "transmissions": [
+      { "code": "cvt", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-nissan-pathfinder-s",
+    "transmissions": [
+      { "code": "cvt", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-nissan-pathfinder-sv",
+    "transmissions": [
+      { "code": "cvt", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-nissan-pathfinder-sl",
+    "transmissions": [
+      { "code": "cvt", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-nissan-pathfinder-platinum",
+    "transmissions": [
+      { "code": "cvt", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-nissan-pathfinder-rock-creek",
+    "transmissions": [
+      { "code": "cvt", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-nissan-rogue-s",
+    "transmissions": [
+      { "code": "cvt", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-nissan-rogue-sv",
+    "transmissions": [
+      { "code": "cvt", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-nissan-rogue-sl",
+    "transmissions": [
+      { "code": "cvt", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-nissan-sentra-s",
+    "transmissions": [
+      { "code": "cvt", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-nissan-sentra-sv",
+    "transmissions": [
+      { "code": "cvt", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-nissan-sentra-sr",
+    "transmissions": [
+      { "code": "cvt", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-nissan-sentra-sl",
+    "transmissions": [
+      { "code": "cvt", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-nissan-versa-s",
+    "transmissions": [
+      { "code": "cvt", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-nissan-versa-sv",
+    "transmissions": [
+      { "code": "cvt", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-nissan-versa-sr",
+    "transmissions": [
+      { "code": "cvt", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-nissan-z",
+    "transmissions": [
+      { "code": "m6", "standard": true },
+      { "code": "a9", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-nissan-z-performance",
+    "transmissions": [
+      { "code": "a9", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-nissan-z-nismo",
+    "transmissions": [
+      { "code": "a9", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-pagani-huayra-codalunga-speedster",
+    "transmissions": [
+      { "code": "m7", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-pagani-huayra-r-evo-roadster",
+    "transmissions": [
+      { "code": "m7", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-pagani-utopia-roadster",
+    "transmissions": [
+      { "code": "m7", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-pagani-zonda-unico",
+    "transmissions": [
+      { "code": "m6", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-polestar-2-base",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-polestar-2-long-range",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-polestar-2-performance",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-polestar-3-standard",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-polestar-3-long-range",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-polestar-3-performance",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-polestar-4-base",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-polestar-4-long-range",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-polestar-4-performance",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-718-boxster-base",
+    "transmissions": [
+      { "code": "m6", "standard": true },
+      { "code": "a7", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-718-boxster-gts-40",
+    "transmissions": [
+      { "code": "m6", "standard": true },
+      { "code": "a7", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-718-boxster-s",
+    "transmissions": [
+      { "code": "a7", "standard": true },
+      { "code": "m6", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-718-boxster-style-edition",
+    "transmissions": [
+      { "code": "a7", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-718-cayman-base",
+    "transmissions": [
+      { "code": "m6", "standard": true },
+      { "code": "a7", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-718-cayman-s",
+    "transmissions": [
+      { "code": "a7", "standard": true },
+      { "code": "m6", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-718-cayman-gts-40",
+    "transmissions": [
+      { "code": "m6", "standard": true },
+      { "code": "a7", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-718-cayman-gt4-rs",
+    "transmissions": [
+      { "code": "a7", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-718-cayman-style-edition",
+    "transmissions": [
+      { "code": "a7", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-718-spyder-rs",
+    "transmissions": [
+      { "code": "m6", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-911-carrera-base",
+    "transmissions": [
+      { "code": "a8", "standard": true },
+      { "code": "m7", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-911-carrera-cabriolet",
+    "transmissions": [
+      { "code": "a8", "standard": true },
+      { "code": "m7", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-911-carrera-s-coupe",
+    "transmissions": [
+      { "code": "a8", "standard": true },
+      { "code": "m7", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-911-carrera-s-cabriolet",
+    "transmissions": [
+      { "code": "a8", "standard": true },
+      { "code": "m7", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-911-carrera-gts-coupe",
+    "transmissions": [
+      { "code": "a8", "standard": true },
+      { "code": "m7", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-911-carrera-gts-cabriolet",
+    "transmissions": [
+      { "code": "a8", "standard": true },
+      { "code": "m7", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-911-carrera-4s-coupe",
+    "transmissions": [
+      { "code": "a8", "standard": true },
+      { "code": "m7", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-911-carrera-4s-cabriolet",
+    "transmissions": [
+      { "code": "a8", "standard": true },
+      { "code": "m7", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-911-carrera-t-coupe",
+    "transmissions": [
+      { "code": "m7", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-911-carrera-t-cabriolet",
+    "transmissions": [
+      { "code": "m7", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-911-gt3-base",
+    "transmissions": [
+      { "code": "m6", "standard": true },
+      { "code": "a7", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-911-gt3-90-fa-porsche",
+    "transmissions": [
+      { "code": "a7", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-911-gt3-rs",
+    "transmissions": [
+      { "code": "a7", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-911-spirit-70",
+    "transmissions": [
+      { "code": "a7", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-911-targa-4s",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-911-targa-4-gts",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-911-turbo-s",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-911-turbo-s-cabriolet",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-macan-base",
+    "transmissions": [
+      { "code": "a7", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-macan-4-electric",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-macan-4s-electric",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-macan-electric",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-macan-gts",
+    "transmissions": [
+      { "code": "a7", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-macan-gts-electric",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-macan-s",
+    "transmissions": [
+      { "code": "a7", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-macan-t",
+    "transmissions": [
+      { "code": "a7", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-macan-turbo-electric",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-panamera-base",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-panamera-4",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-panamera-4-e-hybrid",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-panamera-4s-e-hybrid",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-panamera-gts",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-panamera-turbo-e-hybrid",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-panamera-turbo-s-e-hybrid",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-taycan-base",
+    "transmissions": [
+      { "code": "a7", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-taycan-4",
+    "transmissions": [
+      { "code": "a7", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-taycan-4-cross-turismo",
+    "transmissions": [
+      { "code": "a7", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-taycan-4s",
+    "transmissions": [
+      { "code": "a7", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-taycan-4s-cross-turismo",
+    "transmissions": [
+      { "code": "a7", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-taycan-gts",
+    "transmissions": [
+      { "code": "a7", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-taycan-gts-sport-turismo",
+    "transmissions": [
+      { "code": "a7", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-taycan-turbo",
+    "transmissions": [
+      { "code": "a7", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-taycan-turbo-cross-turismo",
+    "transmissions": [
+      { "code": "a7", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-taycan-turbo-gt",
+    "transmissions": [
+      { "code": "a7", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-taycan-turbo-s",
+    "transmissions": [
+      { "code": "a7", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-taycan-turbo-s-cross-turismo",
+    "transmissions": [
+      { "code": "a7", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-ram-1500-tradesman",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-ram-1500-big-horn",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-ram-1500-laramie",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-ram-1500-laramie-longhorn",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-ram-1500-rebel",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-ram-1500-limited",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-ram-1500-1500-rev",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-ram-1500-1500-rho",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-ram-2500-tradesman",
+    "transmissions": [
+      { "code": "a6", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-ram-2500-big-horn",
+    "transmissions": [
+      { "code": "a6", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-ram-2500-laramie",
+    "transmissions": [
+      { "code": "a6", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-ram-2500-laramie-longhorn",
+    "transmissions": [
+      { "code": "a6", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-ram-2500-rebel",
+    "transmissions": [
+      { "code": "a6", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-ram-2500-limited",
+    "transmissions": [
+      { "code": "a6", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-ram-3500-tradesman",
+    "transmissions": [
+      { "code": "a6", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-ram-3500-big-horn",
+    "transmissions": [
+      { "code": "a6", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-ram-3500-laramie",
+    "transmissions": [
+      { "code": "a6", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-ram-3500-laramie-longhorn",
+    "transmissions": [
+      { "code": "a6", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-ram-3500-rebel",
+    "transmissions": [
+      { "code": "a6", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-ram-3500-limited",
+    "transmissions": [
+      { "code": "a6", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-ram-promaster-1500",
+    "transmissions": [
+      { "code": "a9", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-ram-promaster-2500",
+    "transmissions": [
+      { "code": "a9", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-ram-promaster-3500",
+    "transmissions": [
+      { "code": "a9", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-ram-promaster-ev",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-rivian-delivery",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-rivian-r1s",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-rivian-r1t-dual-motor",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-rivian-r1t-performance-dual-motor",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-rivian-r1t-quad-motor",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-rivian-r2-single-motor",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-rivian-r2-dual-motor",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-rivian-r2-performance-dual-motor",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-rivian-r3-single-motor",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-rivian-r3-dual-motor",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-rivian-r3-performance-dual-motor",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-rolls-royce-cullinan-series-ii-base",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-rolls-royce-cullinan-black-badge-series-ii",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-rolls-royce-ghost-series-ii-base",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-rolls-royce-black-badge-ghost-series-ii",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-rolls-royce-phantom-series-ii",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-rolls-royce-phantom-extended-series-ii",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-rolls-royce-spectre-base",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-rolls-royce-spectre-black-badge",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-subaru-ascent-base",
+    "transmissions": [
+      { "code": "cvt", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-subaru-ascent-premium",
+    "transmissions": [
+      { "code": "cvt", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-subaru-ascent-onyx-edition",
+    "transmissions": [
+      { "code": "cvt", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-subaru-ascent-limited",
+    "transmissions": [
+      { "code": "cvt", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-subaru-ascent-onyx-edition-limited",
+    "transmissions": [
+      { "code": "cvt", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-subaru-ascent-touring",
+    "transmissions": [
+      { "code": "cvt", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-subaru-brz-base",
+    "transmissions": [
+      { "code": "m6", "standard": true },
+      { "code": "a6", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-subaru-brz-premium",
+    "transmissions": [
+      { "code": "m6", "standard": true },
+      { "code": "a6", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-subaru-brz-limited",
+    "transmissions": [
+      { "code": "m6", "standard": true },
+      { "code": "a6", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-subaru-brz-ts",
+    "transmissions": [
+      { "code": "m6", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-subaru-crosstrek-base",
+    "transmissions": [
+      { "code": "cvt", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-subaru-crosstrek-premium",
+    "transmissions": [
+      { "code": "cvt", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-subaru-crosstrek-sport",
+    "transmissions": [
+      { "code": "cvt", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-subaru-crosstrek-limited",
+    "transmissions": [
+      { "code": "cvt", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-subaru-crosstrek-wilderness",
+    "transmissions": [
+      { "code": "cvt", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-subaru-forester-base",
+    "transmissions": [
+      { "code": "cvt", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-subaru-forester-premium",
+    "transmissions": [
+      { "code": "cvt", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-subaru-forester-sport",
+    "transmissions": [
+      { "code": "cvt", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-subaru-forester-limited",
+    "transmissions": [
+      { "code": "cvt", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-subaru-forester-wilderness",
+    "transmissions": [
+      { "code": "cvt", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-subaru-legacy-base",
+    "transmissions": [
+      { "code": "cvt", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-subaru-legacy-premium",
+    "transmissions": [
+      { "code": "cvt", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-subaru-legacy-sport",
+    "transmissions": [
+      { "code": "cvt", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-subaru-legacy-limited",
+    "transmissions": [
+      { "code": "cvt", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-subaru-legacy-touring",
+    "transmissions": [
+      { "code": "cvt", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-subaru-impreza-base",
+    "transmissions": [
+      { "code": "cvt", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-subaru-impreza-premium",
+    "transmissions": [
+      { "code": "cvt", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-subaru-impreza-sport",
+    "transmissions": [
+      { "code": "cvt", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-subaru-impreza-limited",
+    "transmissions": [
+      { "code": "cvt", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-subaru-outback-base",
+    "transmissions": [
+      { "code": "cvt", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-subaru-outback-premium",
+    "transmissions": [
+      { "code": "cvt", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-subaru-outback-sport",
+    "transmissions": [
+      { "code": "cvt", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-subaru-outback-limited",
+    "transmissions": [
+      { "code": "cvt", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-subaru-outback-wilderness",
+    "transmissions": [
+      { "code": "cvt", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-subaru-solterra-base",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-subaru-solterra-premium",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-subaru-solterra-sport",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-subaru-solterra-limited",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-subaru-wrx-base",
+    "transmissions": [
+      { "code": "m6", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-subaru-wrx-premium",
+    "transmissions": [
+      { "code": "m6", "standard": true },
+      { "code": "cvt", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-subaru-wrx-limited",
+    "transmissions": [
+      { "code": "m6", "standard": true },
+      { "code": "cvt", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-subaru-wrx-sport-tech",
+    "transmissions": [
+      { "code": "m6", "standard": true },
+      { "code": "cvt", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-tesla-cybertruck-awd",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-tesla-cybertruck-cyberbeast",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-tesla-model-3-standard",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-tesla-model-3-premium-rwd",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-tesla-model-3-premium-awd",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-tesla-model-3-performance",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-tesla-model-s-awd",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-tesla-model-s-plaid",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-tesla-model-x-awd",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-tesla-model-x-plaid",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-tesla-model-y-rwd",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-tesla-model-y-premium-rwd",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-tesla-model-y-premium-awd",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-tesla-model-y-performance",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-4runner-sr5",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-4runner-trd-sport",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-4runner-trd-off-road",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-4runner-trd-sport-premium",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-4runner-trd-off-road-premium",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-4runner-limited",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-4runner-platinum",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-4runner-trd-pro",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-4runner-trailhunter",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-4runner-iforce-max-limited",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-4runner-iforce-max-platinum",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-4runner-iforce-max-trd-pro",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-4runner-iforce-max-trailhunter",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-bz-xle-fwd",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-bz-xle-fwd-plus",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-bz-xle-awd",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-bz-limited-fwd",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-bz-limited-awd",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-camry-le",
+    "transmissions": [
+      { "code": "cvt", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-camry-se",
+    "transmissions": [
+      { "code": "cvt", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-camry-nightshade",
+    "transmissions": [
+      { "code": "cvt", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-camry-xle",
+    "transmissions": [
+      { "code": "cvt", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-camry-xse",
+    "transmissions": [
+      { "code": "cvt", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-corolla-le",
+    "transmissions": [
+      { "code": "cvt", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-corolla-se",
+    "transmissions": [
+      { "code": "cvt", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-corolla-xle",
+    "transmissions": [
+      { "code": "cvt", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-corolla-hybrid-le",
+    "transmissions": [
+      { "code": "cvt", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-corolla-hybrid-xle",
+    "transmissions": [
+      { "code": "cvt", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-corolla-hatchback-se",
+    "transmissions": [
+      { "code": "cvt", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-corolla-cross-le",
+    "transmissions": [
+      { "code": "cvt", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-corolla-cross-xle",
+    "transmissions": [
+      { "code": "cvt", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-corolla-cross-hybrid-xle",
+    "transmissions": [
+      { "code": "cvt", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-crown-xle",
+    "transmissions": [
+      { "code": "cvt", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-crown-limited",
+    "transmissions": [
+      { "code": "cvt", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-crown-nightshade",
+    "transmissions": [
+      { "code": "cvt", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-crown-platinum",
+    "transmissions": [
+      { "code": "a6", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-crown-signia-xle",
+    "transmissions": [
+      { "code": "cvt", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-crown-signia-limited",
+    "transmissions": [
+      { "code": "cvt", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-gr-corolla-base",
+    "transmissions": [
+      { "code": "m6", "standard": true },
+      { "code": "a8", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-gr-corolla-premium-plus",
+    "transmissions": [
+      { "code": "m6", "standard": true },
+      { "code": "a8", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-gr-supra-3-0",
+    "transmissions": [
+      { "code": "m6", "standard": true },
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-gr-supra-3-0-premium",
+    "transmissions": [
+      { "code": "m6", "standard": true },
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-gr-supra-mkv-final-edition",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-gr86-base",
+    "transmissions": [
+      { "code": "m6", "standard": true },
+      { "code": "a6", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-gr86-premium",
+    "transmissions": [
+      { "code": "m6", "standard": true },
+      { "code": "a6", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-gr86-yuzu-edition",
+    "transmissions": [
+      { "code": "m6", "standard": true },
+      { "code": "a6", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-grand-highlander-le",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-grand-highlander-xle",
+    "transmissions": [
+      { "code": "a8", "standard": true },
+      { "code": "cvt", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-grand-highlander-limited",
+    "transmissions": [
+      { "code": "a8", "standard": true },
+      { "code": "cvt", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-grand-highlander-platinum",
+    "transmissions": [
+      { "code": "a8", "standard": true },
+      { "code": "cvt", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-grand-highlander-hybrid-nightshade",
+    "transmissions": [
+      { "code": "cvt", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-grand-highlander-hybrid-max-limited",
+    "transmissions": [
+      { "code": "a6", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-grand-highlander-hybrid-max-platinum",
+    "transmissions": [
+      { "code": "a6", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-highlander-xle",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-highlander-xse",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-highlander-limited",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-highlander-platinum",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-highlander-hybrid-xle",
+    "transmissions": [
+      { "code": "cvt", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-highlander-hybrid-limited",
+    "transmissions": [
+      { "code": "cvt", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-highlander-hybrid-platinum",
+    "transmissions": [
+      { "code": "cvt", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-land-cruiser-1958",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-land-cruiser-base",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-mirai-xle",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-prius-le",
+    "transmissions": [
+      { "code": "cvt", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-prius-xle",
+    "transmissions": [
+      { "code": "cvt", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-prius-nightshade",
+    "transmissions": [
+      { "code": "cvt", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-prius-limited",
+    "transmissions": [
+      { "code": "cvt", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-prius-plug-in-se",
+    "transmissions": [
+      { "code": "cvt", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-prius-plug-in-xse",
+    "transmissions": [
+      { "code": "cvt", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-prius-plug-in-nightshade",
+    "transmissions": [
+      { "code": "cvt", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-prius-plug-in-xse-premium",
+    "transmissions": [
+      { "code": "cvt", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-rav4-le",
+    "transmissions": [
+      { "code": "cvt", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-rav4-se",
+    "transmissions": [
+      { "code": "cvt", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-rav4-xle-premium",
+    "transmissions": [
+      { "code": "cvt", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-rav4-xse",
+    "transmissions": [
+      { "code": "cvt", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-rav4-limited",
+    "transmissions": [
+      { "code": "cvt", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-rav4-woodland",
+    "transmissions": [
+      { "code": "cvt", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-rav4-gr-sport-phev",
+    "transmissions": [
+      { "code": "cvt", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-rav4-se-phev",
+    "transmissions": [
+      { "code": "cvt", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-rav4-xse-phev",
+    "transmissions": [
+      { "code": "cvt", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-rav4-woodland-phev",
+    "transmissions": [
+      { "code": "cvt", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-sequoia-sr5",
+    "transmissions": [
+      { "code": "a10", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-sequoia-limited",
+    "transmissions": [
+      { "code": "a10", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-sequoia-platinum",
+    "transmissions": [
+      { "code": "a10", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-sequoia-trd-pro",
+    "transmissions": [
+      { "code": "a10", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-sequoia-1794-edition",
+    "transmissions": [
+      { "code": "a10", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-sequoia-capstone",
+    "transmissions": [
+      { "code": "a10", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-sienna-le",
+    "transmissions": [
+      { "code": "cvt", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-sienna-xle",
+    "transmissions": [
+      { "code": "cvt", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-sienna-xse",
+    "transmissions": [
+      { "code": "cvt", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-sienna-woodland-edition",
+    "transmissions": [
+      { "code": "cvt", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-sienna-limited",
+    "transmissions": [
+      { "code": "cvt", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-sienna-platinum",
+    "transmissions": [
+      { "code": "cvt", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-tacoma-sr",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-tacoma-sr5",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-tacoma-trd-prerunner",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-tacoma-trd-sport",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-tacoma-trd-off-road",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-tacoma-limited",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-tacoma-trd-sport-iforce-max",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-tacoma-trd-off-road-iforce-max",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-tacoma-limited-iforce-max",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-tacoma-trailhunter",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-tacoma-trd-pro",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-tundra-sr",
+    "transmissions": [
+      { "code": "a10", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-tundra-sr5",
+    "transmissions": [
+      { "code": "a10", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-tundra-limited",
+    "transmissions": [
+      { "code": "a10", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-tundra-platinum",
+    "transmissions": [
+      { "code": "a10", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-tundra-1794-edition",
+    "transmissions": [
+      { "code": "a10", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-tundra-trd-pro",
+    "transmissions": [
+      { "code": "a10", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-tundra-capstone",
+    "transmissions": [
+      { "code": "a10", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-tundra-limited-i-force-max",
+    "transmissions": [
+      { "code": "a10", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-tundra-platinum-i-force-max",
+    "transmissions": [
+      { "code": "a10", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-toyota-tundra-1794-edition-i-force-max",
+    "transmissions": [
+      { "code": "a10", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-vinfast-vf8-eco",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-vinfast-vf8-plus",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-vinfast-vf9-eco",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-vinfast-vf9-plus",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-volkswagen-atlas-se",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-volkswagen-atlas-se-technology",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-volkswagen-atlas-peak-edition",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-volkswagen-atlas-sel",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-volkswagen-atlas-sel-premium-r-line",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-volkswagen-atlas-cross-sport-se",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-volkswagen-atlas-cross-sport-se-technology",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-volkswagen-atlas-cross-sport-sel",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-volkswagen-atlas-cross-sport-sel-r-line-black",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-volkswagen-atlas-cross-sport-sel-premium-r-line",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-volkswagen-golf-gti-s",
+    "transmissions": [
+      { "code": "a7", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-volkswagen-golf-gti-autobahn",
+    "transmissions": [
+      { "code": "a7", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-volkswagen-golf-r-4motion",
+    "transmissions": [
+      { "code": "a7", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-volkswagen-id4-pro",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-volkswagen-id4-pro-s",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-volkswagen-id4-pro-s-plus",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-volkswagen-id-buzz-pro-s",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-volkswagen-id-buzz-pro-s-plus",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-volkswagen-id-buzz-1st-edition",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-volkswagen-jetta-s",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-volkswagen-jetta-se",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-volkswagen-jetta-r-line",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-volkswagen-jetta-gli-base",
+    "transmissions": [
+      { "code": "a7", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-volkswagen-jetta-gli-autobahn",
+    "transmissions": [
+      { "code": "a7", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-volkswagen-taos-s",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-volkswagen-taos-se",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-volkswagen-taos-se-black",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-volkswagen-taos-sel",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-volkswagen-tiguan-s",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-volkswagen-tiguan-se",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-volkswagen-tiguan-se-r-line-black",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-volkswagen-tiguan-sel-r-line-turbo",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-volvo-ex90-single-motor",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-volvo-ex90-twin-motor",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-volvo-ex90-performance",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-volvo-v60-cross-country-plus",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-volvo-v60-cross-country-ultra",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-volvo-xc30-ex30-plus",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-volvo-xc30-ex30-ultra",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-volvo-xc30-ex30-cross-country",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-volvo-xc40-core",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-volvo-xc40-plus",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-volvo-xc40-ultra",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-volvo-ex40-plus",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-volvo-ex40-ultra-black-edition",
+    "transmissions": [
+      { "code": "ev1", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-volvo-xc60-core",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-volvo-xc60-plus",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-volvo-xc60-ultra",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-volvo-xc60-ultra-black-edition",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-volvo-xc60-plug-in-hybrid-core",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-volvo-xc60-plug-in-hybrid-plus",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-volvo-xc60-plug-in-hybrid-ultra",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-volvo-xc60-plug-in-hybrid-polestar-engineered",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-volvo-xc90-core",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-volvo-xc90-plus",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-volvo-xc90-ultra",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-volvo-xc90-plug-in-hybrid-core",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-volvo-xc90-plug-in-hybrid-plus",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-volvo-xc90-plug-in-hybrid-ultra",
+    "transmissions": [
+      { "code": "a8", "standard": true }
+    ]
   }
 ]
