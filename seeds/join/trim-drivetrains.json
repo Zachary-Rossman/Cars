@@ -134,5 +134,664 @@
     "drivetrains": [
       { "code": "awd", "standard": true }
     ]
+  },
+  {
+    "trim_code": "2026-giulia-base",
+    "drivetrains": [
+      { "code": "rwd", "standard": true },
+      { "code": "awd", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-giulia-veloce-package",
+    "drivetrains": [
+      { "code": "rwd", "standard": true },
+      { "code": "awd", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-giulia-tributo-italiano",
+    "drivetrains": [
+      { "code": "awd", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-stelvio-tributo-italiano",
+    "drivetrains": [
+      { "code": "awd", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-tonale-sprint",
+    "drivetrains": [
+      { "code": "fwd", "standard": true },
+      { "code": "awd", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-tonale-sport-speciale",
+    "drivetrains": [
+      { "code": "fwd", "standard": true },
+      { "code": "awd", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-tonale-veloce",
+    "drivetrains": [
+      { "code": "awd", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-db12-coupe",
+    "drivetrains": [
+      { "code": "rwd", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-vantage-coupe",
+    "drivetrains": [
+      { "code": "rwd", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-vanquish-coupe",
+    "drivetrains": [
+      { "code": "rwd", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-dbx-base",
+    "drivetrains": [
+      { "code": "awd", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-dbx-707",
+    "drivetrains": [
+      { "code": "awd", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-valhalla",
+    "drivetrains": [
+      { "code": "awd", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-valkyrie",
+    "drivetrains": [
+      { "code": "rwd", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-valour",
+    "drivetrains": [
+      { "code": "rwd", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-valiant",
+    "drivetrains": [
+      { "code": "rwd", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-a3-premium",
+    "drivetrains": [
+      { "code": "fwd", "standard": true },
+      { "code": "awd", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-a3-premium-plus",
+    "drivetrains": [
+      { "code": "fwd", "standard": true },
+      { "code": "awd", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-a3-prestige",
+    "drivetrains": [
+      { "code": "fwd", "standard": true },
+      { "code": "awd", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-a5-premium",
+    "drivetrains": [
+      { "code": "awd", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-a5-premium-plus",
+    "drivetrains": [
+      { "code": "awd", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-a5-prestige",
+    "drivetrains": [
+      { "code": "awd", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-a6-premium",
+    "drivetrains": [
+      { "code": "awd", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-a6-premium-plus",
+    "drivetrains": [
+      { "code": "awd", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-a6-prestige",
+    "drivetrains": [
+      { "code": "awd", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-a6-allroad-premium",
+    "drivetrains": [
+      { "code": "awd", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-a6-allroad-premium-plus",
+    "drivetrains": [
+      { "code": "awd", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-a6-allroad-prestige",
+    "drivetrains": [
+      { "code": "awd", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-a6-sportback-etron-premium",
+    "drivetrains": [
+      { "code": "awd", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-a6-sportback-etron-premium-plus",
+    "drivetrains": [
+      { "code": "awd", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-a6-sportback-etron-prestige",
+    "drivetrains": [
+      { "code": "awd", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-a8-premium",
+    "drivetrains": [
+      { "code": "awd", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-a8-premium-plus",
+    "drivetrains": [
+      { "code": "awd", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-a8-prestige",
+    "drivetrains": [
+      { "code": "awd", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-q3-premium",
+    "drivetrains": [
+      { "code": "awd", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-q3-premium-plus",
+    "drivetrains": [
+      { "code": "awd", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-q3-s-line",
+    "drivetrains": [
+      { "code": "awd", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-q4-etron-premium",
+    "drivetrains": [
+      { "code": "rwd", "standard": true },
+      { "code": "awd", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-q4-etron-prestige",
+    "drivetrains": [
+      { "code": "rwd", "standard": true },
+      { "code": "awd", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-q4-sportback-etron-premium",
+    "drivetrains": [
+      { "code": "rwd", "standard": true },
+      { "code": "awd", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-q4-sportback-etron-prestige",
+    "drivetrains": [
+      { "code": "rwd", "standard": true },
+      { "code": "awd", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-q5-premium",
+    "drivetrains": [
+      { "code": "awd", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-q5-premium-plus",
+    "drivetrains": [
+      { "code": "awd", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-q5-prestige",
+    "drivetrains": [
+      { "code": "awd", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-q5-sportback-premium",
+    "drivetrains": [
+      { "code": "awd", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-q5-sportback-premium-plus",
+    "drivetrains": [
+      { "code": "awd", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-q5-sportback-prestige",
+    "drivetrains": [
+      { "code": "awd", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-q6-e-tron-premium",
+    "drivetrains": [
+      { "code": "rwd", "standard": true },
+      { "code": "awd", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-q6-e-tron-premium-plus",
+    "drivetrains": [
+      { "code": "rwd", "standard": true },
+      { "code": "awd", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-q6-e-tron-prestige",
+    "drivetrains": [
+      { "code": "rwd", "standard": true },
+      { "code": "awd", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-q6-sportback-e-tron-premium",
+    "drivetrains": [
+      { "code": "rwd", "standard": true },
+      { "code": "awd", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-q6-sportback-e-tron-premium-plus",
+    "drivetrains": [
+      { "code": "rwd", "standard": true },
+      { "code": "awd", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-q6-sportback-e-tron-prestige",
+    "drivetrains": [
+      { "code": "rwd", "standard": true },
+      { "code": "awd", "standard": false }
+    ]
+  },
+  {
+    "trim_code": "2026-q7-premium",
+    "drivetrains": [
+      { "code": "awd", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-q7-premium-plus",
+    "drivetrains": [
+      { "code": "awd", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-q7-s-line",
+    "drivetretrains": [
+      { "code": "awd", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-q8-premium",
+    "drivetrains": [
+      { "code": "awd", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-q8-premium-plus",
+    "drivetrains": [
+      { "code": "awd", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-q8-s-line",
+    "drivetrains": [
+      { "code": "awd", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-rs3",
+    "drivetrains": [
+      { "code": "awd", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-rs6-avant",
+    "drivetrains": [
+      { "code": "awd", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-rs7",
+    "drivetrains": [
+      { "code": "awd", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-rs-e-tron",
+    "drivetrains": [
+      { "code": "awd", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-rs-q8",
+    "drivetrains": [
+      { "code": "awd", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-s3-premium",
+    "drivetrains": [
+      { "code": "awd", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-s3-premium-plus",
+    "drivetrains": [
+      { "code": "awd", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-s3-technik",
+    "drivetrains": [
+      { "code": "awd", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-s5-premium",
+    "drivetrains": [
+      { "code": "awd", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-s5-premium-plus",
+    "drivetrains": [
+      { "code": "awd", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-s5-technik",
+    "drivetrains": [
+      { "code": "awd", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-s6-sportback-e-tron-Prestige",
+    "drivetrains": [
+      { "code": "awd", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-s6-sportback-e-tron-Competition-Plus",
+    "drivetrains": [
+      { "code": "awd", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-s8-Prestige",
+    "drivetrains": [
+      { "code": "awd", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-s8-Competition",
+    "drivetrains": [
+      { "code": "awd", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-s-e-tron-Premium",
+    "drivetrains": [
+      { "code": "awd", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-s-e-tron-Premium-Plus",
+    "drivetrains": [
+      { "code": "awd", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-s-e-tron-Prestige",
+    "drivetrains": [
+      { "code": "awd", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-sq5-Premium",
+    "drivetrains": [
+      { "code": "awd", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-sq5-Premium-Plus",
+    "drivetrains": [
+      { "code": "awd", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-sq5-Prestige",
+    "drivetrains": [
+      { "code": "awd", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-sq5-sportback-Premium",
+    "drivetrains": [
+      { "code": "awd", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-sq5-sportback-Premium-Plus",
+    "drivetrains": [
+      { "code": "awd", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-sq5-sportback-Prestige",
+    "drivetrains": [
+      { "code": "awd", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-sq6-e-tron-Premium",
+    "drivetrains": [
+      { "code": "awd", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-sq6-e-tron-Premium-Plus",
+    "drivetrains": [
+      { "code": "awd", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-sq6-e-tron-Prestige",
+    "drivetrains": [
+      { "code": "awd", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-sq6-sportback-e-tron-Premium",
+    "drivetrains": [
+      { "code": "awd", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-sq6-sportback-e-tron-Premium-Plus",
+    "drivetrains": [
+      { "code": "awd", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-sq6-sportback-e-tron-Prestige",
+    "drivetrains": [
+      { "code": "awd", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-sq7-Premium",
+    "drivetrains": [
+      { "code": "awd", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-sq7-Premium-Plus",
+    "drivetrains": [
+      { "code": "awd", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-sq7-Prestige",
+    "drivetrains": [
+      { "code": "awd", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-sq8-Premium",
+    "drivetrains": [
+      { "code": "awd", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-sq8-Premium-Plus",
+    "drivetrains": [
+      { "code": "awd", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-sq8-Prestige",
+    "drivetrains": [
+      { "code": "awd", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-bentayga-Standard",
+    "drivetrains": [
+      { "code": "awd", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-bentayga-Speed",
+    "drivetrains": [
+      { "code": "awd", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-continental-gt-Standard",
+    "drivetrains": [
+      { "code": "awd", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-continental-gt-Speed",
+    "drivetrains": [
+      { "code": "awd", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-continental-gtc-Standard",
+    "drivetrains": [
+      { "code": "awd", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-continental-gtc-Speed",
+    "drivetrains": [
+      { "code": "awd", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-flying-spur-Standard",
+    "drivetrains": [
+      { "code": "awd", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-flying-spur-Speed",
+    "drivetrains": [
+      { "code": "awd", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-supersports-Standard",
+    "drivetrains": [
+      { "code": "awd", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-tourbillon-Standard",
+    "drivetrains": [
+      { "code": "awd", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-w16-mistral-Standard",
+    "drivetrains": [
+      { "code": "awd", "standard": true }
+    ]
+  },
+  {
+    "trim_code": "2026-bolide-Standard",
+    "drivetrains": [
+      { "code": "awd", "standard": true }
+    ]
   }
 ]
