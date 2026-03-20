@@ -1,25 +1,24 @@
 const { DataTypes } = require('sequelize');
 const sequelize = require('../config/connections');
 
-const Transmission = sequelize.define('Transmission', {
-  code: {
-    type: DataTypes.STRING,
-    primaryKey: true,
-    allowNull: false,
-  },
-
-  type: {
+const TrimEngine = sequelize.define('TrimEngine', {
+  trim_code: {
     type: DataTypes.STRING,
     allowNull: false,
   },
 
-  speeds: {
-    type: DataTypes.INTEGER,
+  engine_code: {
+    type: DataTypes.STRING,
+    allowNull: false,
+  },
+
+  standard: {
+    type: DataTypes.BOOLEAN,
     allowNull: false,
   },
 }, {
-  tableName: 'transmissions',
+  tableName: 'trim_engines',
   timestamps: false,
 });
 
-module.exports = Transmission;
+module.exports = TrimEngine;

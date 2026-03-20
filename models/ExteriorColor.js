@@ -1,23 +1,28 @@
 const { Model, DataTypes } = require('sequelize');
 const sequelize = require('../config/connections');
 
-class Manufacturer extends Model {}
+class ExteriorColor extends Model {}
 
-Manufacturer.init(
+ExteriorColor.init(
   {
     code: {
-      type: DataTypes.INTEGER,
+      type: DataTypes.STRING,
       allowNull: false,
       primaryKey: true,
     },
 
-    name: {
+    manufacturer_code: {
+      type: DataTypes.INTEGER,
+      allowNull: false,
+    },
+
+    color_name: {
       type: DataTypes.STRING,
       allowNull: false,
     },
 
-    country_code: {
-      type: DataTypes.STRING(2),
+    finish: {
+      type: DataTypes.STRING,
       allowNull: false,
     },
 
@@ -29,11 +34,11 @@ Manufacturer.init(
   },
   {
     sequelize,
-    modelName: 'manufacturer',
-    tableName: 'manufacturers',
+    modelName: 'exterior_color',
+    tableName: 'exterior_colors',
     timestamps: false,
     underscored: true,
   }
 );
 
-module.exports = Manufacturer;
+module.exports = ExteriorColor;
